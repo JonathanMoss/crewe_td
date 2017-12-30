@@ -1,2802 +1,2802 @@
 {
-  "00": [
-    {
-      "bit": "0",
-      "detail": "R101(1M)",
-      "context": "CE 101 (Down Slow) to CE 105 (Down Slow)",
-      "value": 0
-    },
-    {
-      "bit": "1",
-      "detail": "R105(10M/W)",
-      "context": "CE 105 (Down Slow) to CE 155 (Up Fast)",
-      "value": 0
-    },
-    {
-      "bit": "2",
-      "detail": "R105(11M/W)",
-      "context": "CE 105 (Down Slow) to CE 155 (Up Fast)",
-      "value": 0
-    },
-    {
-      "bit": "3",
-      "detail": "R105(12M/C)",
-      "context": "CE 105 (Down Slow) to Platform 5 (CE 157)",
-      "value": 0
-    },
-    {
-      "bit": "4",
-      "detail": "R105(13M/C)",
-      "context": "CE 105 (Down Slow) to Platform 5 (CE 157)",
-      "value": 0
-    },
-    {
-      "bit": "5",
-      "detail": "R105(14M/C)",
-      "context": "CE 105 (Down Slow) to Platform 4",
-      "value": 0
-    },
-    {
-      "bit": "6",
-      "detail": "R105(15M/C)",
-      "context": "CE 105 (Down Slow) to Platform 3",
-      "value": 0
-    },
-    {
-      "bit": "7",
-      "detail": "R105(16M/C)",
-      "context": "CE 105 (Down Slow) to Platform 2",
-      "value": 0
-    }
-  ],
-  "2C": [
-    {
-      "bit": "5",
-      "detail": "CE101",
-      "context": "Signal State",
-      "value": 0
-    },
-    {
-      "bit": "6",
-      "detail": "CE105",
-      "context": "Signal State",
-      "value": 0
-    },
-    {
-      "bit": "7",
-      "detail": "CE107",
-      "context": "Signal State",
-      "value": 0
-    },
-    {
-      "bit": "0",
-      "detail": "R566(1S)",
-      "context": "CE 566 (EMU Sidings) to Platform 1 (CE 136)",
-      "value": 0
-    },
-    {
-      "bit": "1",
-      "detail": "R570(1S)",
-      "context": "CE 570 (Engine Siding) to Platform 6 (CE 564)",
-      "value": 0
-    },
-    {
-      "bit": "2",
-      "detail": "R570(2S)",
-      "context": "CE 570 (Engine Siding) to Platform 9",
-      "value": 0
-    },
-    {
-      "bit": "3",
-      "detail": "R570(3S)",
-      "context": "CE 570 (Engine Siding) to Down Chester (CE 562)",
-      "value": 0
-    },
-    {
-      "bit": "4",
-      "detail": "R573(1S)",
-      "context": "CE 573 (Up Chester) to Crewe Works Arrival / Departure Line",
-      "value": 0
-    }
-  ],
-  "01": [
-    {
-      "bit": "1",
-      "detail": "R105(1S)",
-      "context": "CE 105 (Down Slow) to DED Access / Departure Line",
-      "value": 0
-    },
-    {
-      "bit": "2",
-      "detail": "R105(2M/C)",
-      "context": "CE 105 (Down Slow) to Platform 12 (CE 135)",
-      "value": 0
-    },
-    {
-      "bit": "3",
-      "detail": "R105(3M/C)",
-      "context": "CE 105 (Down Slow) to Up & Down Loop (CE 137)",
-      "value": 0
-    },
-    {
-      "bit": "4",
-      "detail": "R105(4M/C)",
-      "context": "CE 105 (Down Slow) to Platform 11 (CE 139)",
-      "value": 0
-    },
-    {
-      "bit": "5",
-      "detail": "R105(5M/C)",
-      "context": "CE 105 (Down Slow) to Platform 8",
-      "value": 0
-    },
-    {
-      "bit": "6",
-      "detail": "R105(6M/C)",
-      "context": "CE 105 (Down Slow) to Platform 7",
-      "value": 0
-    },
-    {
-      "bit": "7",
-      "detail": "R105(7M/C/W)",
-      "context": "CE 105 (Down Slow) to Platform 6 (CE 149)",
-      "value": 0
-    },
-    {
-      "bit": "0",
-      "detail": "R105(17M/C)",
-      "context": "CE 105 (Down Slow) to Platform 1 (CE 159)",
-      "value": 0
-    }
-  ],
   "02": [
     {
+      "value": 0,
       "bit": "0",
-      "detail": "R105(8M)",
       "context": "CE 105 (Down Slow) to CE 153 (Down Fast)",
-      "value": 0
+      "detail": "R105(8M)"
     },
     {
+      "value": 0,
       "bit": "1",
-      "detail": "R105(9M)",
       "context": "CE 105 (Down Slow) to CE 153 (Down Fast)",
-      "value": 0
+      "detail": "R105(9M)"
     },
     {
+      "value": 0,
       "bit": "2",
-      "detail": "R107(10M/W)",
       "context": "CE 107 (Down Fast) to CE 155 (Up Fast)",
-      "value": 0
+      "detail": "R107(10M/W)"
     },
     {
+      "value": 0,
       "bit": "3",
-      "detail": "R107(11M/C)",
       "context": "CE 107 (Down Fast) to Platform 5 (CE 157)",
-      "value": 0
+      "detail": "R107(11M/C)"
     },
     {
+      "value": 0,
       "bit": "4",
-      "detail": "R107(12M/C)",
       "context": "CE 107 (Down Fast) to Platform 5 (CE 157)",
-      "value": 0
+      "detail": "R107(12M/C)"
     },
     {
+      "value": 0,
       "bit": "5",
-      "detail": "R107(13M/C)",
       "context": "CE 107 (Down Fast) to Platform 4",
-      "value": 0
+      "detail": "R107(13M/C)"
     },
     {
+      "value": 0,
       "bit": "6",
-      "detail": "R107(14M/C)",
       "context": "CE 107 (Down Fast) to Platform 3",
-      "value": 0
+      "detail": "R107(14M/C)"
     },
     {
+      "value": 0,
       "bit": "7",
-      "detail": "R107(15M/C)",
       "context": "CE 107 (Down Fast) to Platform 2",
-      "value": 0
+      "detail": "R107(15M/C)"
     }
   ],
   "03": [
     {
+      "value": 0,
       "bit": "1",
-      "detail": "R107(1S)",
       "context": "CE 107 (Down Fast) to DED Access / Departure Line",
-      "value": 0
+      "detail": "R107(1S)"
     },
     {
+      "value": 0,
       "bit": "2",
-      "detail": "R107(2M/C)",
       "context": "CE 107 (Down Fast) to Platform 12 (CE 135)",
-      "value": 0
+      "detail": "R107(2M/C)"
     },
     {
+      "value": 0,
       "bit": "3",
-      "detail": "R107(3M/C)",
       "context": "CE 107 (Down Fast) to Up & Down Loop (CE 137)",
-      "value": 0
+      "detail": "R107(3M/C)"
     },
     {
+      "value": 0,
       "bit": "4",
-      "detail": "R107(4M/C)",
       "context": "CE 107 (Down Fast) to Platform 11 (CE 139)",
-      "value": 0
+      "detail": "R107(4M/C)"
     },
     {
+      "value": 0,
       "bit": "5",
-      "detail": "R107(5M/C)",
       "context": "CE 107 (Down Fast) to Platform 8",
-      "value": 0
+      "detail": "R107(5M/C)"
     },
     {
+      "value": 0,
       "bit": "6",
-      "detail": "R107(6M/C)",
       "context": "CE 107 (Down Fast) to Platform 7",
-      "value": 0
+      "detail": "R107(6M/C)"
     },
     {
+      "value": 0,
       "bit": "7",
-      "detail": "R107(7M/C/W)",
       "context": "CE 107 (Down Fast) to Platform 6 (CE 149)",
-      "value": 0
+      "detail": "R107(7M/C/W)"
     },
     {
+      "value": 0,
       "bit": "0",
-      "detail": "R107(16M/C)",
       "context": "CE 107 (Down Fast) to Platform 1 (CE 159)",
-      "value": 0
-    }
-  ],
-  "04": [
-    {
-      "bit": "0",
-      "detail": "R107(8M)",
-      "context": "CE 107 (Down Fast) to CE 153 (Down Fast)",
-      "value": 0
-    },
-    {
-      "bit": "1",
-      "detail": "R107(9M/W)",
-      "context": "CE 107 (Down Fast) to CE 155 (Up Fast)",
-      "value": 0
-    },
-    {
-      "bit": "2",
-      "detail": "R110(1M)",
-      "context": "CE 110 (DED Access / Departure Line) to Up & Down Potteries (CE 198)",
-      "value": 0
-    },
-    {
-      "bit": "3",
-      "detail": "R110(2M)",
-      "context": "CE 110 (DED Access / Departure Line) to Up & Down Potteries Loop (CE 196)",
-      "value": 0
-    },
-    {
-      "bit": "4",
-      "detail": "R110(5M/S)",
-      "context": "CE 110 (DED Access / Departure Line) to Up Fast (CE 104)",
-      "value": 0
-    },
-    {
-      "bit": "5",
-      "detail": "R110(6M/S)",
-      "context": "CE 110 (DED Access / Departure Line) to Up Slow (CE 102)",
-      "value": 0
-    },
-    {
-      "bit": "6",
-      "detail": "R110(9M)",
-      "context": "CE 110 (DED Access / Departure Line) to Up Main (Salop)",
-      "value": 0
-    }
-  ],
-  "2D": [
-    {
-      "bit": "0",
-      "detail": "CE110",
-      "context": "Signal State",
-      "value": 0
-    },
-    {
-      "bit": "2",
-      "detail": "CE112",
-      "context": "Signal State",
-      "value": 0
-    },
-    {
-      "bit": "3",
-      "detail": "CE113",
-      "context": "Signal State",
-      "value": 0
-    },
-    {
-      "bit": "4",
-      "detail": "CE114",
-      "context": "Signal State",
-      "value": 0
-    },
-    {
-      "bit": "5",
-      "detail": "CE115",
-      "context": "Signal State",
-      "value": 0
-    },
-    {
-      "bit": "6",
-      "detail": "CE116",
-      "context": "Signal State",
-      "value": 0
-    },
-    {
-      "bit": "7",
-      "detail": "CE117",
-      "context": "Signal State",
-      "value": 0
-    }
-  ],
-  "05": [
-    {
-      "bit": "2",
-      "detail": "R112(1M)",
-      "context": "CE 112 (Platform 12) to Up & Down Potteries (CE 198)",
-      "value": 0
-    },
-    {
-      "bit": "3",
-      "detail": "R112(2M)",
-      "context": "CE 112 (Platform 12) to Up & Down Potteries Loop (CE 196)",
-      "value": 0
-    },
-    {
-      "bit": "4",
-      "detail": "R112(5M/S)",
-      "context": "CE 112 (Platform 12) to Up Fast (CE 104)",
-      "value": 0
-    },
-    {
-      "bit": "5",
-      "detail": "R112(6M/S)",
-      "context": "CE 112 (Platform 12) to Up Slow (CE 102)",
-      "value": 0
-    },
-    {
-      "bit": "6",
-      "detail": "R112(9M)",
-      "context": "CE 112 (Platform 12) to Up Main (Salop)",
-      "value": 0
-    },
-    {
-      "bit": "0",
-      "detail": "R112(10S)",
-      "context": "CE 112 (Platform 12) to Down Salop Goods Loop",
-      "value": 0
-    },
-    {
-      "bit": "1",
-      "detail": "R112(11S)",
-      "context": "CE 112 (Platform 12) to Siding (DED)",
-      "value": 0
-    },
-    {
-      "bit": "7",
-      "detail": "R113(1M/C)",
-      "context": "CE 113 (Down Salop Goods Loop) to Platform 12 (CE 135)",
-      "value": 0
-    }
-  ],
-  "06": [
-    {
-      "bit": "0",
-      "detail": "R113(2M/C)",
-      "context": "CE 113 (Down Salop Goods Loop) to Up & Down Loop (CE 137)",
-      "value": 0
-    },
-    {
-      "bit": "1",
-      "detail": "R113(3M/C)",
-      "context": "CE 113 (Down Salop Goods Loop) to Platform 11 (CE 135)",
-      "value": 0
-    },
-    {
-      "bit": "2",
-      "detail": "R113(4M/C)",
-      "context": "CE 113 (Down Salop Goods Loop) to Platform 8",
-      "value": 0
-    },
-    {
-      "bit": "3",
-      "detail": "R113(5M/C)",
-      "context": "CE 113 (Down Salop Goods Loop) to Platform 7",
-      "value": 0
-    },
-    {
-      "bit": "6",
-      "detail": "R114(1M)",
-      "context": "CE 114 (Up & Down Loop) to Up & Down Potteries (CE 198)",
-      "value": 0
-    },
-    {
-      "bit": "7",
-      "detail": "R114(2M)",
-      "context": "CE 114 (Up & Down Loop) to Up & Down Potteries Loop (CE 196)",
-      "value": 0
-    },
-    {
-      "bit": "4",
-      "detail": "R114(10S)",
-      "context": "CE 114 (Up & Down Loop) to Down Salop Goods Loop",
-      "value": 0
-    },
-    {
-      "bit": "5",
-      "detail": "R114(11S)",
-      "context": "CE 114 (Up & Down Loop) to Siding (DED)",
-      "value": 0
-    }
-  ],
-  "07": [
-    {
-      "bit": "0",
-      "detail": "R114(5M/S)",
-      "context": "CE 114 (Up & Down Loop) to Up Fast (CE 104)",
-      "value": 0
-    },
-    {
-      "bit": "2",
-      "detail": "R114(6M/S)",
-      "context": "CE 114 (Up & Down Loop) to Up Slow (CE 102)",
-      "value": 0
-    },
-    {
-      "bit": "3",
-      "detail": "R114(9M)",
-      "context": "CE 114 (Up & Down Loop) to Up Main (Salop)",
-      "value": 0
-    },
-    {
-      "bit": "4",
-      "detail": "R115(1M/C)",
-      "context": "CE 115 (Down Main [Salop]) to Platform 12 (CE 135)",
-      "value": 0
-    },
-    {
-      "bit": "5",
-      "detail": "R115(2M/C)",
-      "context": "CE 115 (Down Main [Salop]) to Up & Down Loop (CE 137)",
-      "value": 0
-    },
-    {
-      "bit": "6",
-      "detail": "R115(3M/C)",
-      "context": "CE 115 (Down Main [Salop]) to Platform 11 (CE 135)",
-      "value": 0
-    },
-    {
-      "bit": "7",
-      "detail": "R115(4M/C)",
-      "context": "CE 115 (Down Main [Salop]) to Platform 8",
-      "value": 0
-    }
-  ],
-  "08": [
-    {
-      "bit": "0",
-      "detail": "R115(5M/C)",
-      "context": "CE 115 (Down Main [Salop]) to Platform 7",
-      "value": 0
-    },
-    {
-      "bit": "3",
-      "detail": "R116(1M)",
-      "context": "CE 116 (Platform 11) to Up & Down Potteries (CE 198)",
-      "value": 0
-    },
-    {
-      "bit": "4",
-      "detail": "R116(2M)",
-      "context": "CE 116 (Platform 11) to Up & Down Potteries Loop (CE 196)",
-      "value": 0
-    },
-    {
-      "bit": "5",
-      "detail": "R116(5M/S)",
-      "context": "CE 116 (Platform 11) to Up Fast (CE 104)",
-      "value": 0
-    },
-    {
-      "bit": "6",
-      "detail": "R116(6M/S)",
-      "context": "CE 116 (Platform 11) to Up Slow (CE 102)",
-      "value": 0
-    },
-    {
-      "bit": "7",
-      "detail": "R116(9M)",
-      "context": "CE 116 (Platform 11) to Up Main (Salop)",
-      "value": 0
-    },
-    {
-      "bit": "1",
-      "detail": "R116(10S)",
-      "context": "CE 116 (Platform 11) to Down Salop Goods Loop",
-      "value": 0
-    },
-    {
-      "bit": "2",
-      "detail": "R116(11S)",
-      "context": "CE 116 (Platform 11) to Siding (DED)",
-      "value": 0
-    }
-  ],
-  "09": [
-    {
-      "bit": "1",
-      "detail": "R117(1S)",
-      "context": "CE 117 (Up Main [Salop]) to DED Access / Departure Line",
-      "value": 0
-    },
-    {
-      "bit": "2",
-      "detail": "R117(2M/C)",
-      "context": "CE 117 (Up Main [Salop]) to Platform 12 (CE 135)",
-      "value": 0
-    },
-    {
-      "bit": "3",
-      "detail": "R117(3M/C)",
-      "context": "CE 117 (Up Main [Salop]) to Up & Down Loop (CE 137)",
-      "value": 0
-    },
-    {
-      "bit": "4",
-      "detail": "R117(4M/C)",
-      "context": "CE 117 (Up Main [Salop]) to Platform 11 (CE 139)",
-      "value": 0
-    },
-    {
-      "bit": "5",
-      "detail": "R117(5M/C)",
-      "context": "CE 117 (Up Main [Salop]) to Platform 8",
-      "value": 0
-    },
-    {
-      "bit": "6",
-      "detail": "R117(6M/C)",
-      "context": "CE 117 (Up Main [Salop]) to Platform 7",
-      "value": 0
-    },
-    {
-      "bit": "7",
-      "detail": "R117(7M/C/W)",
-      "context": "CE 117 (Up Main [Salop]) to Platform 6 (CE 149)",
-      "value": 0
-    },
-    {
-      "bit": "0",
-      "detail": "R117(10M/C)",
-      "context": "CE 117 (Up Main [Salop]) to Platform 5 (CE 157)",
-      "value": 0
-    }
-  ],
-  "0A": [
-    {
-      "bit": "0",
-      "detail": "R117(8M)",
-      "context": "CE 117 (Up Main [Salop]) to Down Fast (CE 153)",
-      "value": 0
-    },
-    {
-      "bit": "1",
-      "detail": "R117(9M/W)",
-      "context": "CE 117 (Up Main [Salop]) to Up Fast (CE 155)",
-      "value": 0
-    },
-    {
-      "bit": "4",
-      "detail": "R118(1M)",
-      "context": "CE 118 (Platform 8) to Up & Down Potteries (CE 198)",
-      "value": 0
-    },
-    {
-      "bit": "5",
-      "detail": "R118(2M)",
-      "context": "CE 118 (Platform 8) to Up & Down Potteries Loop (CE 196)",
-      "value": 0
-    },
-    {
-      "bit": "6",
-      "detail": "R118(5M/S)",
-      "context": "CE 118 (Platform 8) to Up Fast (CE 104)",
-      "value": 0
-    },
-    {
-      "bit": "7",
-      "detail": "R118(6M/S)",
-      "context": "CE 118 (Platform 8) to Up Slow (CE 102)",
-      "value": 0
-    },
-    {
-      "bit": "2",
-      "detail": "R118(10S)",
-      "context": "CE 118 (Platform 8) to Down Salop Goods",
-      "value": 0
-    },
-    {
-      "bit": "3",
-      "detail": "R118(11S)",
-      "context": "CE 118 (Platform 8) to DED Siding",
-      "value": 0
-    }
-  ],
-  "0B": [
-    {
-      "bit": "0",
-      "detail": "R118(9M)",
-      "context": "CE 118 (Platform 8) to Up Main [Salop] (GL 9030)",
-      "value": 0
-    },
-    {
-      "bit": "6",
-      "detail": "R119(1S)",
-      "context": "CE 119 (Up & Down Potteries Loop) to DED Access / Departure Line",
-      "value": 0
-    },
-    {
-      "bit": "7",
-      "detail": "R119(2M/C)",
-      "context": "CE 119 (Up & Down Potteries Loop) to Platform 12 (CE 135)",
-      "value": 0
-    },
-    {
-      "bit": "1",
-      "detail": "R119(10M/C)",
-      "context": "CE 119 (Up & Down Potteries Loop) to Platform 5 (CE 157)",
-      "value": 0
-    },
-    {
-      "bit": "2",
-      "detail": "R119(11M/C)",
-      "context": "CE 119 (Up & Down Potteries Loop) to Platform 4",
-      "value": 0
-    },
-    {
-      "bit": "3",
-      "detail": "R119(12M/C)",
-      "context": "CE 119 (Up & Down Potteries Loop) to Platform 3",
-      "value": 0
-    },
-    {
-      "bit": "4",
-      "detail": "R119(13M/C)",
-      "context": "CE 119 (Up & Down Potteries Loop) to Platform 2",
-      "value": 0
-    },
-    {
-      "bit": "5",
-      "detail": "R119(14M/C)",
-      "context": "CE 119 (Up & Down Potteries Loop) to Platform 1 (CE 147)",
-      "value": 0
-    }
-  ],
-  "2E": [
-    {
-      "bit": "0",
-      "detail": "CE118",
-      "context": "Signal State",
-      "value": 0
-    },
-    {
-      "bit": "1",
-      "detail": "CE119",
-      "context": "Signal State",
-      "value": 0
-    },
-    {
-      "bit": "2",
-      "detail": "CE120",
-      "context": "Signal State",
-      "value": 0
-    },
-    {
-      "bit": "3",
-      "detail": "CE121",
-      "context": "Signal State",
-      "value": 0
-    },
-    {
-      "bit": "4",
-      "detail": "CE122",
-      "context": "Signal State",
-      "value": 0
-    },
-    {
-      "bit": "5",
-      "detail": "CE124",
-      "context": "Signal State",
-      "value": 0
-    },
-    {
-      "bit": "7",
-      "detail": "CE126",
-      "context": "Signal State",
-      "value": 0
-    }
-  ],
-  "0C": [
-    {
-      "bit": "0",
-      "detail": "R119(3M/C)",
-      "context": "CE 119 (Up & Down Potteries Loop) to Up & Down Loop (CE 137)",
-      "value": 0
-    },
-    {
-      "bit": "1",
-      "detail": "R119(4M/C)",
-      "context": "CE 119 (Up & Down Potteries Loop) to Platform 11 (CE 139)",
-      "value": 0
-    },
-    {
-      "bit": "2",
-      "detail": "R119(5M/C)",
-      "context": "CE 119 (Up & Down Potteries Loop) to Platform 8",
-      "value": 0
-    },
-    {
-      "bit": "3",
-      "detail": "R119(6M/C)",
-      "context": "CE 119 (Up & Down Potteries Loop) to Platform 7",
-      "value": 0
-    },
-    {
-      "bit": "4",
-      "detail": "R119(7M/C/W)",
-      "context": "CE 119 (Up & Down Potteries Loop) to Platform 6 (CE 149)",
-      "value": 0
-    },
-    {
-      "bit": "5",
-      "detail": "R119(8M)",
-      "context": "CE 119 (Up & Down Potteries Loop) to Down Fast (CE 153)",
-      "value": 0
-    },
-    {
-      "bit": "6",
-      "detail": "R119(9M/W)",
-      "context": "CE 119 (Up & Down Potteries Loop) to Up Fast (CE 155)",
-      "value": 0
-    },
-    {
-      "bit": "7",
-      "detail": "R120(10S)",
-      "context": "CE 120 (Platform 7) to Down Salop Goods",
-      "value": 0
-    }
-  ],
-  "0D": [
-    {
-      "bit": "1",
-      "detail": "R120(1M)",
-      "context": "CE 120 (Platform 7) to Up & Down Potteries (CE 198)",
-      "value": 0
-    },
-    {
-      "bit": "2",
-      "detail": "R120(2M)",
-      "context": "CE 120 (Platform 7) to Up & Down Potteries Loop (CE 196)",
-      "value": 0
-    },
-    {
-      "bit": "3",
-      "detail": "R120(5M/S)",
-      "context": "CE 120 (Platform 7) to Up Fast (CE 104)",
-      "value": 0
-    },
-    {
-      "bit": "4",
-      "detail": "R120(6M/S)",
-      "context": "CE 120 (Platform 7) to Up Slow (CE 102)",
-      "value": 0
-    },
-    {
-      "bit": "5",
-      "detail": "R120(9M)",
-      "context": "CE 120 (Platform 7) to Up Main [Salop] (GL 9030)",
-      "value": 0
-    },
-    {
-      "bit": "0",
-      "detail": "R120(11S)",
-      "context": "CE 120 (Platform 7) to DED Siding",
-      "value": 0
-    },
-    {
-      "bit": "6",
-      "detail": "R121(10M/C)",
-      "context": "CE 121 (Up & Down Potteries) to Platform 5 (CE 157)",
-      "value": 0
-    },
-    {
-      "bit": "7",
-      "detail": "R121(11M/C)",
-      "context": "CE 121 (Up & Down Potteries) to Platform 4",
-      "value": 0
-    }
-  ],
-  "0E": [
-    {
-      "bit": "3",
-      "detail": "R121(1S)",
-      "context": "CE 121 (Up & Down Potteries) to DED Access / Departure Line",
-      "value": 0
-    },
-    {
-      "bit": "4",
-      "detail": "R121(2M/C)",
-      "context": "CE 121 (Up & Down Potteries) to Platform 12 (CE 135)",
-      "value": 0
-    },
-    {
-      "bit": "5",
-      "detail": "R121(3M/C)",
-      "context": "CE 121 (Up & Down Potteries) to Up & Down Loop (CE 137)",
-      "value": 0
-    },
-    {
-      "bit": "6",
-      "detail": "R121(4M/C)",
-      "context": "CE 121 (Up & Down Potteries) to Platform 11 (CE 139)",
-      "value": 0
-    },
-    {
-      "bit": "7",
-      "detail": "R121(5M/C)",
-      "context": "CE 121 (Up & Down Potteries) to Platform 8",
-      "value": 0
-    },
-    {
-      "bit": "0",
-      "detail": "R121(12M/C)",
-      "context": "CE 121 (Up & Down Potteries) to Platform 3",
-      "value": 0
-    },
-    {
-      "bit": "1",
-      "detail": "R121(13M/C)",
-      "context": "CE 121 (Up & Down Potteries) to Platform 2",
-      "value": 0
-    },
-    {
-      "bit": "2",
-      "detail": "R121(14M/C)",
-      "context": "CE 121 (Up & Down Potteries) to Platform 1 (CE 147)",
-      "value": 0
-    }
-  ],
-  "0F": [
-    {
-      "bit": "0",
-      "detail": "R121(6M/C)",
-      "context": "CE 121 (Up & Down Potteries) to Platform 7",
-      "value": 0
-    },
-    {
-      "bit": "1",
-      "detail": "R121(7M/C/W)",
-      "context": "CE 121 (Up & Down Potteries) to Platform 6 (CE 149)",
-      "value": 0
-    },
-    {
-      "bit": "2",
-      "detail": "R121(8M)",
-      "context": "CE 121 (Up & Down Potteries) to Down Fast (CE 153)",
-      "value": 0
-    },
-    {
-      "bit": "3",
-      "detail": "R121(9M/W)",
-      "context": "CE 121 (Up & Down Potteries) to Up Fast (CE 155)",
-      "value": 0
-    },
-    {
-      "bit": "4",
-      "detail": "R122(1M)",
-      "context": "CE 122 (Platform 6) to Up & Down Potteries (CE 198)",
-      "value": 0
-    },
-    {
-      "bit": "5",
-      "detail": "R122(2M)",
-      "context": "CE 122 (Platform 6) to Up & Down Potteries Loop (CE 196)",
-      "value": 0
-    },
-    {
-      "bit": "6",
-      "detail": "R122(5M/S)",
-      "context": "CE 122 (Platform 6) to Up Fast (CE 104)",
-      "value": 0
-    },
-    {
-      "bit": "7",
-      "detail": "R122(6M/S)",
-      "context": "CE 122 (Platform 6) to Up Slow (CE 102)",
-      "value": 0
-    }
-  ],
-  "10": [
-    {
-      "bit": "0",
-      "detail": "R122(9M)",
-      "context": "CE 122 (Platform 6) to Up Main [Salop] (GL 9030)",
-      "value": 0
-    },
-    {
-      "bit": "2",
-      "detail": "R124(1M)",
-      "context": "CE 124 (Down Fast) to Up & Down Potteries (CE 198)",
-      "value": 0
-    },
-    {
-      "bit": "3",
-      "detail": "R124(2M)",
-      "context": "CE 124 (Down Fast) to Up & Down Potteries Loop (CE 196)",
-      "value": 0
-    },
-    {
-      "bit": "4",
-      "detail": "R124(5M/S)",
-      "context": "CE 124 (Down Fast) to Up Fast (CE 104)",
-      "value": 0
-    },
-    {
-      "bit": "5",
-      "detail": "R124(6M)",
-      "context": "CE 124 (Down Fast) to Up Slow (CE 102)",
-      "value": 0
-    },
-    {
-      "bit": "6",
-      "detail": "R124(7M/S)",
-      "context": "CE 124 (Down Fast) to Up Slow (CE 102)",
-      "value": 0
-    },
-    {
-      "bit": "1",
-      "detail": "R124(10M)",
-      "context": "CE 124 (Down Fast) to Up Main [Salop] (GL 9030)",
-      "value": 0
-    }
-  ],
-  "11": [
-    {
-      "bit": "1",
-      "detail": "R126(1M)",
-      "context": "CE 126 (Up Fast) to Up & Down Potteries (CE 198)",
-      "value": 0
-    },
-    {
-      "bit": "2",
-      "detail": "R126(2M)",
-      "context": "CE 126 (Up Fast) to Up & Down Potteries Loop (CE 196)",
-      "value": 0
-    },
-    {
-      "bit": "3",
-      "detail": "R126(5M/S)",
-      "context": "CE 126 (Up Fast) to Up Fast (CE 104)",
-      "value": 0
-    },
-    {
-      "bit": "4",
-      "detail": "R126(6M)",
-      "context": "CE 126 (Up Fast) to Up Slow (CE 102)",
-      "value": 0
-    },
-    {
-      "bit": "5",
-      "detail": "R126(7M/S)",
-      "context": "CE 126 (Up Fast) to Up Slow (CE 102)",
-      "value": 0
-    },
-    {
-      "bit": "0",
-      "detail": "R126(10M)",
-      "context": "CE 126 (Up Fast) to Up Main [Salop] (GL 9030)",
-      "value": 0
-    },
-    {
-      "bit": "7",
-      "detail": "R128(1M)",
-      "context": "CE 128 (Platform 5) to Up & Down Potteries (CE 198)",
-      "value": 0
-    },
-    {
-      "bit": "6",
-      "detail": "R128(10M)",
-      "context": "CE 128 (Platform 5) to Up Main [Salop] (GL 9030)",
-      "value": 0
-    }
-  ],
-  "12": [
-    {
-      "bit": "0",
-      "detail": "R128(2M)",
-      "context": "CE 128 (Platform 5) to Up & Down Potteries Loop (CE 196)",
-      "value": 0
-    },
-    {
-      "bit": "1",
-      "detail": "R128(5M/S)",
-      "context": "CE 128 (Platform 5) to Up Fast (CE 104)",
-      "value": 0
-    },
-    {
-      "bit": "2",
-      "detail": "R128(6M)",
-      "context": "CE 128 (Platform 5) to Up Slow (CE 102)",
-      "value": 0
-    },
-    {
-      "bit": "3",
-      "detail": "R128(7M/S)",
-      "context": "CE 128 (Platform 5) to Up Slow (CE 102)",
-      "value": 0
-    },
-    {
-      "bit": "4",
-      "detail": "R130(2M/S)",
-      "context": "CE 130 (Platform 4) to Up & Down Potteries (CE 198)",
-      "value": 0
-    },
-    {
-      "bit": "5",
-      "detail": "R130(3M/S)",
-      "context": "CE 130 (Platform 4) to Up & Down Potteries Loop (CE 196)",
-      "value": 0
-    },
-    {
-      "bit": "6",
-      "detail": "R130(6M/S)",
-      "context": "CE 130 (Platform 4) to Up Fast (CE 104)",
-      "value": 0
-    },
-    {
-      "bit": "7",
-      "detail": "R130(7M)",
-      "context": "CE 130 (Platform 4) to Up Slow (CE 102)",
-      "value": 0
-    }
-  ],
-  "2F": [
-    {
-      "bit": "0",
-      "detail": "CE128",
-      "context": "Signal State",
-      "value": 0
-    },
-    {
-      "bit": "1",
-      "detail": "CE130",
-      "context": "Signal State",
-      "value": 0
-    },
-    {
-      "bit": "2",
-      "detail": "CE131",
-      "context": "Signal State",
-      "value": 0
-    },
-    {
-      "bit": "3",
-      "detail": "CE132",
-      "context": "Signal State",
-      "value": 0
-    },
-    {
-      "bit": "4",
-      "detail": "CE133",
-      "context": "Signal State",
-      "value": 0
-    },
-    {
-      "bit": "5",
-      "detail": "CE134",
-      "context": "Signal State",
-      "value": 0
-    },
-    {
-      "bit": "6",
-      "detail": "CE135",
-      "context": "Signal State",
-      "value": 0
-    },
-    {
-      "bit": "7",
-      "detail": "CE136",
-      "context": "Signal State",
-      "value": 0
-    }
-  ],
-  "13": [
-    {
-      "bit": "0",
-      "detail": "R131(3M)",
-      "context": "CE 131 (Down Chester Ind.) to Down Chester (CE 161)",
-      "value": 0
-    },
-    {
-      "bit": "1",
-      "detail": "R131(4S)",
-      "context": "CE 131 (Down Chester Ind.) to Up Chester LOS",
-      "value": 0
-    },
-    {
-      "bit": "2",
-      "detail": "R132(2M/S)",
-      "context": "CE 132 (Platform 3) to Up & Down Potteries (CE 198)",
-      "value": 0
-    },
-    {
-      "bit": "3",
-      "detail": "R132(3M/S)",
-      "context": "CE 132 (Platform 3) to Up & Down Potteries Loop (CE 196)",
-      "value": 0
-    },
-    {
-      "bit": "4",
-      "detail": "R132(6M/S)",
-      "context": "CE 132 (Platform 3) to Up Fast (CE 104)",
-      "value": 0
-    },
-    {
-      "bit": "5",
-      "detail": "R132(7M)",
-      "context": "CE 132 (Platform 3) to Up Slow (CE 102)",
-      "value": 0
-    },
-    {
-      "bit": "6",
-      "detail": "R133(2M)",
-      "context": "CE 133 (DED Access / Departure Line) to Down Chester (CE 161)",
-      "value": 0
-    },
-    {
-      "bit": "7",
-      "detail": "R133(3S)",
-      "context": "CE 133 (DED Access / Departure Line) to Up Chester LOS",
-      "value": 0
-    }
-  ],
-  "14": [
-    {
-      "bit": "0",
-      "detail": "R134(2M/S)",
-      "context": "CE 134 (Platform 2) to Up & Down Potteries (CE 198)",
-      "value": 0
-    },
-    {
-      "bit": "1",
-      "detail": "R134(3M/S)",
-      "context": "CE 134 (Platform 2) to Up & Down Potteries Loop (CE 196)",
-      "value": 0
-    },
-    {
-      "bit": "2",
-      "detail": "R134(6M/S)",
-      "context": "CE 134 (Platform 2) to Up Fast (CE 104)",
-      "value": 0
-    },
-    {
-      "bit": "3",
-      "detail": "R134(7M)",
-      "context": "CE 134 (Platform 2) to Up Slow (CE 102)",
-      "value": 0
-    },
-    {
-      "bit": "4",
-      "detail": "R135(2M/S)",
-      "context": "CE 135 (Platform 12) to Down Chester (CE 161)",
-      "value": 0
-    },
-    {
-      "bit": "5",
-      "detail": "R135(3S)",
-      "context": "CE 135 (Platform 12) to Up Chester LOS",
-      "value": 0
-    },
-    {
-      "bit": "6",
-      "detail": "R135(4M/S)",
-      "context": "CE 135 (Platform 12) to Down Slow (CY 52)",
-      "value": 0
-    },
-    {
-      "bit": "7",
-      "detail": "R135(5M/S)",
-      "context": "CE 135 (Platform 12) to Down Fast (CY 48)",
-      "value": 0
-    }
-  ],
-  "15": [
-    {
-      "bit": "0",
-      "detail": "R135(6S)",
-      "context": "CE 135 (Platform 12) to Up Fast LOS",
-      "value": 0
-    },
-    {
-      "bit": "1",
-      "detail": "R135(7S)",
-      "context": "CE 135 (Platform 12) to Up Slow LOS",
-      "value": 0
-    },
-    {
-      "bit": "2",
-      "detail": "R136(2M/S)",
-      "context": "CE 136 (Platform 1) to Up & Down Potteries (CE 198)",
-      "value": 0
-    },
-    {
-      "bit": "3",
-      "detail": "R136(3M/S)",
-      "context": "CE 136 (Platform 1) to Up & Down Potteries Loop (CE 196)",
-      "value": 0
-    },
-    {
-      "bit": "4",
-      "detail": "R136(6M/S)",
-      "context": "CE 136 (Platform 1) to Up Fast (CE 104)",
-      "value": 0
-    },
-    {
-      "bit": "5",
-      "detail": "R136(7M)",
-      "context": "CE 136 (Platform 1) to Up Slow (CE 102)",
-      "value": 0
-    },
-    {
-      "bit": "6",
-      "detail": "R137(2M/S)",
-      "context": "CE 137 (Up & Down Loop) to Down Chester (CE 161)",
-      "value": 0
-    },
-    {
-      "bit": "7",
-      "detail": "R137(3S)",
-      "context": "CE 137 (Up & Down Loop) to Up Chester LOS",
-      "value": 0
-    }
-  ],
-  "16": [
-    {
-      "bit": "0",
-      "detail": "R137(4M/S)",
-      "context": "CE 137 (Up & Down Loop) to Down Slow (CY 52)",
-      "value": 0
-    },
-    {
-      "bit": "1",
-      "detail": "R137(5M/S)",
-      "context": "CE 137 (Up & Down Loop) to Down Fast (CY 48)",
-      "value": 0
-    },
-    {
-      "bit": "2",
-      "detail": "R137(6S)",
-      "context": "CE 137 (Up & Down Loop) to Up Fast LOS",
-      "value": 0
-    },
-    {
-      "bit": "3",
-      "detail": "R137(7S)",
-      "context": "CE 137 (Up & Down Loop) to Up Slow LOS",
-      "value": 0
-    },
-    {
-      "bit": "4",
-      "detail": "R139(2M/S)",
-      "context": "CE 139 (Platform 11) to Down Chester (CE 161)",
-      "value": 0
-    },
-    {
-      "bit": "5",
-      "detail": "R139(3S)",
-      "context": "CE 139 (Platform 11) to Up Chester LOS",
-      "value": 0
-    },
-    {
-      "bit": "6",
-      "detail": "R139(4M/S)",
-      "context": "CE 139 (Platform 11) to Down Slow (CY 52)",
-      "value": 0
-    },
-    {
-      "bit": "7",
-      "detail": "R139(5M/S)",
-      "context": "CE 139 (Platform 11) to Down Fast (CY 48)",
-      "value": 0
-    }
-  ],
-  "30": [
-    {
-      "bit": "0",
-      "detail": "CE137",
-      "context": "Signal State",
-      "value": 0
-    },
-    {
-      "bit": "1",
-      "detail": "CE139",
-      "context": "Signal State",
-      "value": 0
-    },
-    {
-      "bit": "2",
-      "detail": "CE141",
-      "context": "Signal State",
-      "value": 0
-    },
-    {
-      "bit": "3",
-      "detail": "CE142",
-      "context": "Signal State",
-      "value": 0
-    },
-    {
-      "bit": "4",
-      "detail": "CE143",
-      "context": "Signal State",
-      "value": 0
-    },
-    {
-      "bit": "5",
-      "detail": "CE144",
-      "context": "Signal State",
-      "value": 0
-    },
-    {
-      "bit": "6",
-      "detail": "CE146",
-      "context": "Signal State",
-      "value": 0
-    },
-    {
-      "bit": "7",
-      "detail": "CE147",
-      "context": "Signal State",
-      "value": 0
-    }
-  ],
-  "17": [
-    {
-      "bit": "0",
-      "detail": "R139(6S)",
-      "context": "CE 139 (Platform 11) to Up Fast LOS",
-      "value": 0
-    },
-    {
-      "bit": "1",
-      "detail": "R139(7S)",
-      "context": "CE 139 (Platform 11) to Up Slow LOS",
-      "value": 0
-    },
-    {
-      "bit": "2",
-      "detail": "R141(2M/S)",
-      "context": "CE 141 (Platform 10) to Down Chester (CE 161)",
-      "value": 0
-    },
-    {
-      "bit": "3",
-      "detail": "R141(3S)",
-      "context": "CE 141 (Platform 10) to Up Chester LOS",
-      "value": 0
-    },
-    {
-      "bit": "4",
-      "detail": "R141(4M/S)",
-      "context": "CE 141 (Platform 10) to Down Slow (CY 52)",
-      "value": 0
-    },
-    {
-      "bit": "5",
-      "detail": "R141(5M/S)",
-      "context": "CE 141 (Platform 10) to Down Fast (CY 48)",
-      "value": 0
-    },
-    {
-      "bit": "6",
-      "detail": "R141(6S)",
-      "context": "CE 141 (Platform 10) to Up Fast LOS",
-      "value": 0
-    },
-    {
-      "bit": "7",
-      "detail": "R141(7S)",
-      "context": "CE 141 (Platform 10) to Up Slow LOS",
-      "value": 0
-    }
-  ],
-  "18": [
-    {
-      "bit": "1",
-      "detail": "R142(1M/C)",
-      "context": "CE 142 (Up Chester) to Platform 6 (CE 122)",
-      "value": 0
-    },
-    {
-      "bit": "2",
-      "detail": "R142(2M/C)",
-      "context": "CE 142 (Up Chester) to Platform 9",
-      "value": 0
-    },
-    {
-      "bit": "3",
-      "detail": "R142(3M/C)",
-      "context": "CE 142 (Up Chester) to Platform 10",
-      "value": 0
-    },
-    {
-      "bit": "4",
-      "detail": "R142(4M/C)",
-      "context": "CE 142 (Up Chester) to Platform 11",
-      "value": 0
-    },
-    {
-      "bit": "5",
-      "detail": "R142(5M/C)",
-      "context": "CE 142 (Up Chester) to Up & Down Loop (CE 114)",
-      "value": 0
-    },
-    {
-      "bit": "6",
-      "detail": "R142(6S)",
-      "context": "CE 142 (Up Chester) to Holding Siding",
-      "value": 0
-    },
-    {
-      "bit": "7",
-      "detail": "R142(7M/C)",
-      "context": "CE 142 (Up Chester) to Platform 12 (CE 112)",
-      "value": 0
-    },
-    {
-      "bit": "0",
-      "detail": "R142(10S)",
-      "context": "CE 142 (Up Chester) to Down Chester Ind.",
-      "value": 0
-    }
-  ],
-  "19": [
-    {
-      "bit": "0",
-      "detail": "R142(8S)",
-      "context": "CE 142 (Up Chester) to DED Access / Departure Line",
-      "value": 0
-    },
-    {
-      "bit": "1",
-      "detail": "R142(9M)",
-      "context": "CE 142 (Up Chester) to Up Chester Ind.",
-      "value": 0
-    },
-    {
-      "bit": "2",
-      "detail": "R143(2M)",
-      "context": "CE 143 (Platform 9) to Down Chester (CE 161)",
-      "value": 0
-    },
-    {
-      "bit": "3",
-      "detail": "R143(3S)",
-      "context": "CE 143 (Platform 9) to Up Chester LOS",
-      "value": 0
-    },
-    {
-      "bit": "4",
-      "detail": "R144(10M/C)",
-      "context": "CE 144 (Up Fast) to Platform 11 (CE 116)",
-      "value": 0
-    },
-    {
-      "bit": "5",
-      "detail": "R144(11M/C)",
-      "context": "CE 144 (Up Fast) to Up & Down Loop (CE 114)",
-      "value": 0
-    },
-    {
-      "bit": "6",
-      "detail": "R144(12S)",
-      "context": "CE 144 (Up Fast) to Holding Siding",
-      "value": 0
-    },
-    {
-      "bit": "7",
-      "detail": "R144(13M/C)",
-      "context": "CE 144 (Up Fast) to Platform 12 (CE 112)",
-      "value": 0
-    }
-  ],
-  "1A": [
-    {
-      "bit": "0",
-      "detail": "R144(1M/C)",
-      "context": "CE 144 (Up Fast) to Platform 1 (CE 136)",
-      "value": 0
-    },
-    {
-      "bit": "1",
-      "detail": "R144(2M/C/W)",
-      "context": "CE 144 (Up Fast) to Platform 5 (CE 128)",
-      "value": 0
-    },
-    {
-      "bit": "2",
-      "detail": "R144(3M)",
-      "context": "CE 144 (Up Fast) to Up Fast (CE 126)",
-      "value": 0
-    },
-    {
-      "bit": "3",
-      "detail": "R144(4M)",
-      "context": "CE 144 (Up Fast) to Down Fast (CE 124)",
-      "value": 0
-    },
-    {
-      "bit": "4",
-      "detail": "R144(5M)",
-      "context": "CE 144 (Up Fast) to Down Fast (CE 124)",
-      "value": 0
-    },
-    {
-      "bit": "5",
-      "detail": "R144(6M/C)",
-      "context": "CE 144 (Up Fast) to Platform 6 (CE 122)",
-      "value": 0
-    },
-    {
-      "bit": "6",
-      "detail": "R144(7M/C)",
-      "context": "CE 144 (Up Fast) to Platform 6 (CE 122)",
-      "value": 0
-    },
-    {
-      "bit": "7",
-      "detail": "R144(8M/C)",
-      "context": "CE 144 (Up Fast) to Platform 6 (CE 122)",
-      "value": 0
-    }
-  ],
-  "1B": [
-    {
-      "bit": "0",
-      "detail": "R144(9M/C)",
-      "context": "CE 144 (Up Fast) to Platform 10",
-      "value": 0
-    },
-    {
-      "bit": "5",
-      "detail": "R146(1M/C)",
-      "context": "CE 146 (Up Slow) to Platform 1 (CE 136)",
-      "value": 0
-    },
-    {
-      "bit": "6",
-      "detail": "R146(2M/C/W)",
-      "context": "CE 146 (Up Slow) to Platform 5 (CE 128)",
-      "value": 0
-    },
-    {
-      "bit": "7",
-      "detail": "R146(3M)",
-      "context": "CE 146 (Up Slow) to Up Fast (CE 126)",
-      "value": 0
-    },
-    {
-      "bit": "1",
-      "detail": "R146(10M/C)",
-      "context": "CE 146 (Up Slow) to Platform 11 (CE 116)",
-      "value": 0
-    },
-    {
-      "bit": "2",
-      "detail": "R146(11M/C)",
-      "context": "CE 146 (Up Slow) to Up & Down Loop (CE 114)",
-      "value": 0
-    },
-    {
-      "bit": "3",
-      "detail": "R146(12S)",
-      "context": "CE 146 (Up Slow) to Holding Siding",
-      "value": 0
-    },
-    {
-      "bit": "4",
-      "detail": "R146(13M/C)",
-      "context": "CE 146 (Up Slow) to Platform 12 (CE 112)",
-      "value": 0
-    }
-  ],
-  "1C": [
-    {
-      "bit": "0",
-      "detail": "R146(4M)",
-      "context": "CE 146 (Up Slow) to Down Fast (CE 124)",
-      "value": 0
-    },
-    {
-      "bit": "1",
-      "detail": "R146(5M)",
-      "context": "CE 146 (Up Slow) to Down Fast (CE 124)",
-      "value": 0
-    },
-    {
-      "bit": "2",
-      "detail": "R146(6M/C)",
-      "context": "CE 146 (Up Slow) to Platform 6 (CE 122)",
-      "value": 0
-    },
-    {
-      "bit": "3",
-      "detail": "R146(7M/C)",
-      "context": "CE 146 (Up Slow) to Platform 6 (CE 122)",
-      "value": 0
-    },
-    {
-      "bit": "4",
-      "detail": "R146(8M/C)",
-      "context": "CE 146 (Up Slow) to Platform 6 (CE 122)",
-      "value": 0
-    },
-    {
-      "bit": "5",
-      "detail": "R146(9M/C)",
-      "context": "CE 146 (Up Slow) to Platform 10",
-      "value": 0
-    },
-    {
-      "bit": "6",
-      "detail": "R147(1M/S)",
-      "context": "CE 147 (Platform 1) to Platform 1 (CE 159)",
-      "value": 0
-    },
-    {
-      "bit": "7",
-      "detail": "R148(1M)",
-      "context": "CE 148 (Down Manchester) to Up Fast (CE 126)",
-      "value": 0
-    }
-  ],
-  "1D": [
-    {
-      "bit": "0",
-      "detail": "R148(2M)",
-      "context": "CE 148 (Down Manchester) to Down Fast (CE 124)",
-      "value": 0
-    },
-    {
-      "bit": "1",
-      "detail": "R148(3M/C)",
-      "context": "CE 148 (Down Manchester) to Platform 6 (CE 122)",
-      "value": 0
-    },
-    {
-      "bit": "2",
-      "detail": "R149(1M/W/S)",
-      "context": "CE 149 (Platform 6) to Platform 6 (CE 151)",
-      "value": 0
-    },
-    {
-      "bit": "3",
-      "detail": "R149(2M/S)",
-      "context": "CE 149 (Platform 6) to Down Fast (CY 48)",
-      "value": 0
-    },
-    {
-      "bit": "4",
-      "detail": "R149(3S)",
-      "context": "CE 149 (Platform 6) to Up Fast LOS",
-      "value": 0
-    },
-    {
-      "bit": "5",
-      "detail": "R149(4S)",
-      "context": "CE 149 (Platform 6) to Up Slow LOS",
-      "value": 0
-    },
-    {
-      "bit": "6",
-      "detail": "R149(5M)",
-      "context": "CE 149 (Platform 6) to Down Manchester (MS 4029)",
-      "value": 0
-    },
-    {
-      "bit": "7",
-      "detail": "R150(1M/C)",
-      "context": "CE 150 (Up Manchester) to Platform 1 (CE 136)",
-      "value": 0
-    }
-  ],
-  "31": [
-    {
-      "bit": "0",
-      "detail": "CE148",
-      "context": "Signal State",
-      "value": 0
-    },
-    {
-      "bit": "1",
-      "detail": "CE149",
-      "context": "Signal State",
-      "value": 0
-    },
-    {
-      "bit": "2",
-      "detail": "CE150",
-      "context": "Signal State",
-      "value": 0
-    },
-    {
-      "bit": "3",
-      "detail": "CE151",
-      "context": "Signal State",
-      "value": 0
-    },
-    {
-      "bit": "4",
-      "detail": "CE152",
-      "context": "Signal State",
-      "value": 0
-    },
-    {
-      "bit": "5",
-      "detail": "CE153",
-      "context": "Signal State",
-      "value": 0
-    },
-    {
-      "bit": "6",
-      "detail": "CE154",
-      "context": "Signal State",
-      "value": 0
-    },
-    {
-      "bit": "7",
-      "detail": "CE155",
-      "context": "Signal State",
-      "value": 0
-    }
-  ],
-  "1E": [
-    {
-      "bit": "0",
-      "detail": "R150(2M/C/W)",
-      "context": "CE 150 (Up Manchester) to Platform 5 (CE 128)",
-      "value": 0
-    },
-    {
-      "bit": "1",
-      "detail": "R151(2M)",
-      "context": "CE 151 (Platform 6) to Down Chester (CE 161)",
-      "value": 0
-    },
-    {
-      "bit": "2",
-      "detail": "R151(3S)",
-      "context": "CE 151 (Platform 6) to Up Chester LOS",
-      "value": 0
-    },
-    {
-      "bit": "3",
-      "detail": "R151(4M/S)",
-      "context": "CE 151 (Platform 6) to Down Slow (CY 52)",
-      "value": 0
-    },
-    {
-      "bit": "4",
-      "detail": "R151(5M/S)",
-      "context": "CE 151 (Platform 6) to Down Fast (CY 48)",
-      "value": 0
-    },
-    {
-      "bit": "5",
-      "detail": "R151(6S)",
-      "context": "CE 151 (Platform 6) to Up Fast LOS",
-      "value": 0
-    },
-    {
-      "bit": "6",
-      "detail": "R151(7S)",
-      "context": "CE 151 (Platform 6) to Up Slow LOS",
-      "value": 0
-    },
-    {
-      "bit": "7",
-      "detail": "R152(1M/C)",
-      "context": "CE 152 (Up Manchester Loop) to Platform 1 (CE 136)",
-      "value": 0
-    }
-  ],
-  "1F": [
-    {
-      "bit": "0",
-      "detail": "R152(2M/C/W)",
-      "context": "CE 152 (Up Manchester Loop) to Platform 5 (CE 128)",
-      "value": 0
-    },
-    {
-      "bit": "1",
-      "detail": "R153(1M)",
-      "context": "CE 153 (Down Fast) to Down Slow (CY 52)",
-      "value": 0
-    },
-    {
-      "bit": "2",
-      "detail": "R153(2M)",
-      "context": "CE 153 (Down Fast) to Down Fast (CY 48)",
-      "value": 0
-    },
-    {
-      "bit": "3",
-      "detail": "R153(3S)",
-      "context": "CE 153 (Down Fast) to Up Fast LOS",
-      "value": 0
-    },
-    {
-      "bit": "4",
-      "detail": "R153(4S)",
-      "context": "CE 153 (Down Fast) to Up Slow LOS",
-      "value": 0
-    },
-    {
-      "bit": "5",
-      "detail": "R153(5M)",
-      "context": "CE 153 (Down Fast) to Down Manchester (MS 4029)",
-      "value": 0
-    },
-    {
-      "bit": "6",
-      "detail": "R154(1M/W)",
-      "context": "CE 154 (Up Manchester) to Up Manchester Loop (CE 152)",
-      "value": 0
-    },
-    {
-      "bit": "7",
-      "detail": "R154(2M/W)",
-      "context": "CE 154 (Up Manchester) to Up Manchester (CE 150)",
-      "value": 0
-    }
-  ],
-  "20": [
-    {
-      "bit": "0",
-      "detail": "R154(3M/W)",
-      "context": "CE 154 (Up Manchester) to Down Manchester (CE 148)",
-      "value": 0
-    },
-    {
-      "bit": "1",
-      "detail": "R155(1M)",
-      "context": "CE 155 (Up Fast) to Down Slow (CY 52)",
-      "value": 0
-    },
-    {
-      "bit": "2",
-      "detail": "R155(2M)",
-      "context": "CE 155 (Up Fast) to Down Fast (CY 48)",
-      "value": 0
-    },
-    {
-      "bit": "3",
-      "detail": "R155(3S)",
-      "context": "CE 155 (Up Fast) to Up Fast LOS",
-      "value": 0
-    },
-    {
-      "bit": "4",
-      "detail": "R155(4S)",
-      "context": "CE 155 (Up Fast) to Up Slow LOS",
-      "value": 0
-    },
-    {
-      "bit": "5",
-      "detail": "R155(5M)",
-      "context": "CE 155 (Up Fast) to Down Manchester (MS 4029)",
-      "value": 0
-    },
-    {
-      "bit": "6",
-      "detail": "R157(1M)",
-      "context": "CE 157 (Platform 5) to Down Slow (CY 52)",
-      "value": 0
-    },
-    {
-      "bit": "7",
-      "detail": "R157(2M)",
-      "context": "CE 157 (Platform 5) to Down Fast (CY 48)",
-      "value": 0
-    }
-  ],
-  "21": [
-    {
-      "bit": "0",
-      "detail": "R157(3S)",
-      "context": "CE 157 (Platform 5) to Up Fast LOS",
-      "value": 0
-    },
-    {
-      "bit": "1",
-      "detail": "R157(4S)",
-      "context": "CE 157 (Platform 5) to Up Slow LOS",
-      "value": 0
-    },
-    {
-      "bit": "2",
-      "detail": "R157(5M)",
-      "context": "CE 157 (Platform 5) to Down Manchester (MS 4029)",
-      "value": 0
-    },
-    {
-      "bit": "3",
-      "detail": "R157(6S)",
-      "context": "CE 157 (Platform 5) to Up Manchester Loop LOS",
-      "value": 0
-    },
-    {
-      "bit": "4",
-      "detail": "R159(1M)",
-      "context": "CE 159 (Platform 1) to Down Slow (CY 52)",
-      "value": 0
-    },
-    {
-      "bit": "5",
-      "detail": "R159(2M)",
-      "context": "CE 159 (Platform 1) to Down Fast (CY 48)",
-      "value": 0
-    },
-    {
-      "bit": "6",
-      "detail": "R159(3S)",
-      "context": "CE 159 (Platform 1) to Up Fast LOS",
-      "value": 0
-    },
-    {
-      "bit": "7",
-      "detail": "R159(4S)",
-      "context": "CE 159 (Platform 1) to Up Slow LOS",
-      "value": 0
+      "detail": "R107(16M/C)"
     }
   ],
   "32": [
     {
+      "value": 0,
       "bit": "0",
-      "detail": "CE157",
       "context": "Signal State",
-      "value": 0
+      "detail": "CE157"
     },
     {
+      "value": 0,
       "bit": "1",
-      "detail": "CE159",
       "context": "Signal State",
-      "value": 0
+      "detail": "CE159"
     },
     {
+      "value": 0,
       "bit": "2",
-      "detail": "CE161",
       "context": "Signal State",
-      "value": 0
+      "detail": "CE161"
     },
     {
+      "value": 0,
       "bit": "3",
-      "detail": "CE162",
       "context": "Signal State",
-      "value": 0
+      "detail": "CE162"
     },
     {
+      "value": 0,
       "bit": "4",
-      "detail": "CE164",
       "context": "Signal State",
-      "value": 0
+      "detail": "CE164"
     },
     {
+      "value": 0,
       "bit": "6",
-      "detail": "CE175",
       "context": "Signal State",
-      "value": 0
+      "detail": "CE175"
     },
     {
+      "value": 0,
       "bit": "7",
-      "detail": "CE176",
       "context": "Signal State",
-      "value": 0
+      "detail": "CE176"
     }
   ],
-  "22": [
+  "0E": [
     {
-      "bit": "0",
-      "detail": "R159(5M)",
-      "context": "CE 159 (Platform 1) to Down Manchester (MS 4029)",
-      "value": 0
-    },
-    {
-      "bit": "1",
-      "detail": "R159(6S)",
-      "context": "CE 159 (Platform 1) to Up Manchester Loop LOS",
-      "value": 0
-    },
-    {
-      "bit": "2",
-      "detail": "R161(2M)",
-      "context": "CE 161 (Down Chester) to Down Chester (SW 2)",
-      "value": 0
-    },
-    {
+      "value": 0,
       "bit": "3",
-      "detail": "R162(1M)",
-      "context": "CE 162 (Up Chester) to Up Chester (CE 142)",
-      "value": 0
+      "context": "CE 121 (Up & Down Potteries) to DED Access / Departure Line",
+      "detail": "R121(1S)"
     },
     {
+      "value": 0,
       "bit": "4",
-      "detail": "R164(1M)",
-      "context": "CE 164 (ETD Departure) to Up Chester (CE 162)",
-      "value": 0
+      "context": "CE 121 (Up & Down Potteries) to Platform 12 (CE 135)",
+      "detail": "R121(2M/C)"
     },
     {
-      "bit": "6",
-      "detail": "R175(1M)",
-      "context": "CE 175 (Down Main [Potteries]) to Down Main [Potteries] (CE 183)",
-      "value": 0
-    },
-    {
-      "bit": "7",
-      "detail": "R175(2M/C)",
-      "context": "CE 175 (Down Main [Potteries]) to Up & Down Goods Loop (CE 179)",
-      "value": 0
-    }
-  ],
-  "23": [
-    {
-      "bit": "0",
-      "detail": "R175(3S)",
-      "context": "CE 175 (Down Main [Potteries]) to Siding",
-      "value": 0
-    },
-    {
-      "bit": "1",
-      "detail": "R176(1M)",
-      "context": "CE 176 (Siding) to Up Main [Potteries]",
-      "value": 0
-    },
-    {
-      "bit": "2",
-      "detail": "R178(1M)",
-      "context": "CE 178 (Up & Down Goods Loop) to Up Main [Potteries]",
-      "value": 0
-    },
-    {
-      "bit": "3",
-      "detail": "R179(1M)",
-      "context": "CE 179 (Up & Down Goods Loop) to Up Main [Potteries] (CE 181)",
-      "value": 0
-    },
-    {
-      "bit": "4",
-      "detail": "R181(1M)",
-      "context": "CE 181 (Up Main [Potteries] to Down Main [Potteries] (CE 185)",
-      "value": 0
-    },
-    {
+      "value": 0,
       "bit": "5",
-      "detail": "R183(1M)",
-      "context": "CE 183 (Down Main [Potteries] to Down Main [Potteries] (CE 185)",
-      "value": 0
+      "context": "CE 121 (Up & Down Potteries) to Up & Down Loop (CE 137)",
+      "detail": "R121(3M/C)"
     },
     {
+      "value": 0,
       "bit": "6",
-      "detail": "R184(1M/C)",
-      "context": "CE 184 (Up Main [Potteries]) to Up & Down Goods Loop (CE 178)",
-      "value": 0
+      "context": "CE 121 (Up & Down Potteries) to Platform 11 (CE 139)",
+      "detail": "R121(4M/C)"
     },
     {
+      "value": 0,
       "bit": "7",
-      "detail": "R185(1M)",
-      "context": "CE 185 (Down Main [Potteries]) to Down Main [Potteries] (CE 189)",
-      "value": 0
-    }
-  ],
-  "33": [
+      "context": "CE 121 (Up & Down Potteries) to Platform 8",
+      "detail": "R121(5M/C)"
+    },
     {
+      "value": 0,
       "bit": "0",
-      "detail": "CE178",
-      "context": "Signal State",
-      "value": 0
+      "context": "CE 121 (Up & Down Potteries) to Platform 3",
+      "detail": "R121(12M/C)"
     },
     {
+      "value": 0,
       "bit": "1",
-      "detail": "CE179",
-      "context": "Signal State",
-      "value": 0
+      "context": "CE 121 (Up & Down Potteries) to Platform 2",
+      "detail": "R121(13M/C)"
     },
     {
+      "value": 0,
       "bit": "2",
-      "detail": "CE181",
-      "context": "Signal State",
-      "value": 0
-    },
-    {
-      "bit": "3",
-      "detail": "CE183",
-      "context": "Signal State",
-      "value": 0
-    },
-    {
-      "bit": "4",
-      "detail": "CE184",
-      "context": "Signal State",
-      "value": 0
-    },
-    {
-      "bit": "5",
-      "detail": "CE185",
-      "context": "Signal State",
-      "value": 0
-    },
-    {
-      "bit": "6",
-      "detail": "CE186",
-      "context": "Signal State",
-      "value": 0
-    }
-  ],
-  "24": [
-    {
-      "bit": "0",
-      "detail": "R186(1M)",
-      "context": "CE 186 (Up Main [Potteries]) to Up Main [Potteries] (CE 184)",
-      "value": 0
-    },
-    {
-      "bit": "3",
-      "detail": "R189(1M)",
-      "context": "CE 189 (Down Main [Potteries]) to Up & Down Potteries (CE 191)",
-      "value": 0
-    },
-    {
-      "bit": "4",
-      "detail": "R190(1M)",
-      "context": "CE 190 (Up & Down Potteries) to Up Main [Potteries] (CE 186)",
-      "value": 0
-    },
-    {
-      "bit": "6",
-      "detail": "R193(1M)",
-      "context": "CE 193 (Up & Down Potteries) to Up & Down Potteries Loop (CE 119)",
-      "value": 0
-    },
-    {
-      "bit": "7",
-      "detail": "R193(2M)",
-      "context": "CE 193 (Up & Down Potteries) to Up & Down Potteries (CE 121)",
-      "value": 0
-    }
-  ],
-  "34": [
-    {
-      "bit": "1",
-      "detail": "CE189",
-      "context": "Signal State",
-      "value": 0
-    },
-    {
-      "bit": "2",
-      "detail": "CE190",
-      "context": "Signal State",
-      "value": 0
-    },
-    {
-      "bit": "3",
-      "detail": "CE191",
-      "context": "Signal State",
-      "value": 0
-    },
-    {
-      "bit": "4",
-      "detail": "CE192",
-      "context": "Signal State",
-      "value": 0
-    },
-    {
-      "bit": "5",
-      "detail": "CE193",
-      "context": "Signal State",
-      "value": 0
-    },
-    {
-      "bit": "6",
-      "detail": "CE196",
-      "context": "Signal State",
-      "value": 0
-    },
-    {
-      "bit": "7",
-      "detail": "CE198",
-      "context": "Signal State",
-      "value": 0
-    }
-  ],
-  "25": [
-    {
-      "bit": "0",
-      "detail": "R196(1M)",
-      "context": "CE 196 (Up & Down Potteries Loop) to Up & Down Potteries (CE 192)",
-      "value": 0
-    },
-    {
-      "bit": "1",
-      "detail": "R198(1M)",
-      "context": "CE 198 (Up & Down Potteries) to Up & Down Potteries (CE 192)",
-      "value": 0
-    },
-    {
-      "bit": "2",
-      "detail": "R202(1M)",
-      "context": "CE 202 (Crewe Works) to Up Chester Line (CE 162)",
-      "value": 0
-    },
-    {
-      "bit": "3",
-      "detail": "R524(1S)",
-      "context": "CE 524 (Up Main [Potteries]) to Up & Down Goods Loop (CE 178)",
-      "value": 0
-    },
-    {
-      "bit": "4",
-      "detail": "R524(2S)",
-      "context": "CE 524 (Up Main [Potteries]) to Up Main [Potteries]",
-      "value": 0
-    },
-    {
-      "bit": "5",
-      "detail": "R531(1S)",
-      "context": "CE 531 (Down Refuge Siding) to DED Access / Departure Line",
-      "value": 0
-    },
-    {
-      "bit": "6",
-      "detail": "R531(2S)",
-      "context": "CE 531 (Down Refuge Siding) to Up Main [Salop] (CE 553)",
-      "value": 0
-    },
-    {
-      "bit": "7",
-      "detail": "R531(3S)",
-      "context": "CE 531 (Down Refuge Siding) to Platform 6 (CE 149)",
-      "value": 0
-    }
-  ],
-  "35": [
-    {
-      "bit": "0",
-      "detail": "CE202",
-      "context": "Signal State",
-      "value": 0
-    },
-    {
-      "bit": "1",
-      "detail": "CE524",
-      "context": "Signal State",
-      "value": 0
-    },
-    {
-      "bit": "2",
-      "detail": "CE531",
-      "context": "Signal State",
-      "value": 0
-    },
-    {
-      "bit": "3",
-      "detail": "CE535",
-      "context": "Signal State",
-      "value": 0
-    },
-    {
-      "bit": "4",
-      "detail": "CE537",
-      "context": "Signal State",
-      "value": 0
-    },
-    {
-      "bit": "5",
-      "detail": "CE539",
-      "context": "Signal State",
-      "value": 0
-    },
-    {
-      "bit": "6",
-      "detail": "CE543",
-      "context": "Signal State",
-      "value": 0
-    },
-    {
-      "bit": "7",
-      "detail": "CE544",
-      "context": "Signal State",
-      "value": 0
-    }
-  ],
-  "26": [
-    {
-      "bit": "0",
-      "detail": "R531(4S)",
-      "context": "CE 531 (Down Refuge Siding) to Down Fast (CE 153)",
-      "value": 0
-    },
-    {
-      "bit": "1",
-      "detail": "R531(5S)",
-      "context": "CE 531 (Down Refuge Siding) to Up Fast (CE 155)",
-      "value": 0
-    },
-    {
-      "bit": "2",
-      "detail": "R531(6S)",
-      "context": "CE 531 (Down Refuge Siding) to Platform 5 (CE 157)",
-      "value": 0
-    },
-    {
-      "bit": "3",
-      "detail": "R535(1S)",
-      "context": "CE 535 (Carriage Shed 1) to Up Fast (CE 545)",
-      "value": 0
-    },
-    {
-      "bit": "4",
-      "detail": "R537(1S)",
-      "context": "CE 537 (Carriage Shed 2) to Up Fast (CE 545)",
-      "value": 0
-    },
-    {
-      "bit": "5",
-      "detail": "R539(1S)",
-      "context": "CE 539 (Head Shunt) to Up & Down Potteries (CE 555)",
-      "value": 0
-    },
-    {
-      "bit": "6",
-      "detail": "R543(1S)",
-      "context": "CE 543 (South Yard) to DED Access / Departure Line",
-      "value": 0
-    },
-    {
-      "bit": "7",
-      "detail": "R543(2S)",
-      "context": "CE 542 (South Yard) to Up Main [Salop] (CE 553)",
-      "value": 0
-    }
-  ],
-  "27": [
-    {
-      "bit": "0",
-      "detail": "R543(3S)",
-      "context": "CE 542 (South Yard) to Platform 6 (CE 149)",
-      "value": 0
-    },
-    {
-      "bit": "1",
-      "detail": "R543(4S)",
-      "context": "CE 542 (South Yard) to Down Fast (CE 153)",
-      "value": 0
-    },
-    {
-      "bit": "2",
-      "detail": "R543(5S)",
-      "context": "CE 542 (South Yard) to Up Fast (CE 155)",
-      "value": 0
-    },
-    {
-      "bit": "3",
-      "detail": "R543(6S)",
-      "context": "CE 542 (South Yard) to Platform 5 (CE 157)",
-      "value": 0
-    },
-    {
-      "bit": "4",
-      "detail": "R544(1S)",
-      "context": "CE 544 (DED Access / Departure Line) to DED Siding",
-      "value": 0
-    },
-    {
-      "bit": "6",
-      "detail": "R545(1S)",
-      "context": "CE 545 (Up Fast) to DED Access / Departure Line Line",
-      "value": 0
-    },
-    {
-      "bit": "7",
-      "detail": "R545(2S)",
-      "context": "CE 545 (Up Fast) to Up Main [Salop] (CE 553)",
-      "value": 0
-    },
-    {
-      "bit": "5",
-      "detail": "R545(10S)",
-      "context": "CE 545 (Up Fast) to Platform 1 (CE 147)",
-      "value": 0
-    }
-  ],
-  "28": [
-    {
-      "bit": "0",
-      "detail": "R545(3S)",
-      "context": "CE 545 (Up Fast) to Platform 6 (CE 149)",
-      "value": 0
-    },
-    {
-      "bit": "1",
-      "detail": "R545(4S)",
-      "context": "CE 545 (Up Fast) to Down Fast (CE 153)",
-      "value": 0
-    },
-    {
-      "bit": "2",
-      "detail": "R545(5S)",
-      "context": "CE 545 (Up Fast) to Up Fast (CE 155)",
-      "value": 0
-    },
-    {
-      "bit": "3",
-      "detail": "R545(6S)",
-      "context": "CE 545 (Up Fast) to Platform 5 (CE 157)",
-      "value": 0
-    },
-    {
-      "bit": "4",
-      "detail": "R545(7S)",
-      "context": "CE 545 (Up Fast) to Platform 4",
-      "value": 0
-    },
-    {
-      "bit": "5",
-      "detail": "R545(8S)",
-      "context": "CE 545 (Up Fast) to Platform 3",
-      "value": 0
-    },
-    {
-      "bit": "6",
-      "detail": "R545(9S)",
-      "context": "CE 545 (Up Fast) to Platform 2",
-      "value": 0
-    },
-    {
-      "bit": "7",
-      "detail": "R551(1S)",
-      "context": "CE 551 (DED Siding) to DED Access / Departure Line",
-      "value": 0
-    }
-  ],
-  "36": [
-    {
-      "bit": "0",
-      "detail": "CE545",
-      "context": "Signal State",
-      "value": 0
-    },
-    {
-      "bit": "1",
-      "detail": "CE551",
-      "context": "Signal State",
-      "value": 0
-    },
-    {
-      "bit": "2",
-      "detail": "CE553",
-      "context": "Signal State",
-      "value": 0
-    },
-    {
-      "bit": "3",
-      "detail": "CE555",
-      "context": "Signal State",
-      "value": 0
-    },
-    {
-      "bit": "4",
-      "detail": "CE561",
-      "context": "Signal State",
-      "value": 0
-    },
-    {
-      "bit": "5",
-      "detail": "CE562",
-      "context": "Signal State",
-      "value": 0
-    },
-    {
-      "bit": "6",
-      "detail": "CE566",
-      "context": "Signal State",
-      "value": 0
-    },
-    {
-      "bit": "7",
-      "detail": "CE570",
-      "context": "Signal State",
-      "value": 0
-    }
-  ],
-  "29": [
-    {
-      "bit": "0",
-      "detail": "R551(2S)",
-      "context": "CE 551 (DED Siding) to Up Main [Salop] (CE 553)",
-      "value": 0
-    },
-    {
-      "bit": "1",
-      "detail": "R553(1S)",
-      "context": "CE 553 (Up Main [Salop]) to Platform 12 (CE 135)",
-      "value": 0
-    },
-    {
-      "bit": "2",
-      "detail": "R553(2S)",
-      "context": "CE 553 (Up Main [Salop]) to Up & Down Loop (CE 137)",
-      "value": 0
-    },
-    {
-      "bit": "3",
-      "detail": "R553(3S)",
-      "context": "CE 553 (Up Main [Salop]) to Platform 11 (CE 139)",
-      "value": 0
-    },
-    {
-      "bit": "4",
-      "detail": "R553(4S)",
-      "context": "CE 553 (Up Main [Salop]) to Platform 8",
-      "value": 0
-    },
-    {
-      "bit": "5",
-      "detail": "R553(5S)",
-      "context": "CE 553 (Up Main [Salop]) to Platform 7",
-      "value": 0
-    },
-    {
-      "bit": "6",
-      "detail": "R555(1S)",
-      "context": "CE 555 (Up and Down Potteries) to Platform 4",
-      "value": 0
-    },
-    {
-      "bit": "7",
-      "detail": "R555(2S)",
-      "context": "CE 555 (Up and Down Potteries) to Platform 3",
-      "value": 0
-    }
-  ],
-  "2A": [
-    {
-      "bit": "0",
-      "detail": "R555(3S)",
-      "context": "CE 555 (Up and Down Potteries) to Platform 2",
-      "value": 0
-    },
-    {
-      "bit": "1",
-      "detail": "R555(4S)",
-      "context": "CE 555 (Up and Down Potteries) to Platform 1 (CE 147)",
-      "value": 0
-    },
-    {
-      "bit": "2",
-      "detail": "R561(2S)",
-      "context": "CE 561 (Holding Sidings) to Down Chester (CE 161)",
-      "value": 0
-    },
-    {
-      "bit": "3",
-      "detail": "R561(3S)",
-      "context": "CE 561 (Holding Sidings) to Up Chester LOS",
-      "value": 0
-    },
-    {
-      "bit": "4",
-      "detail": "R561(4S)",
-      "context": "CE 561 (Holding Sidings) to Down Slow (CY 52)",
-      "value": 0
-    },
-    {
-      "bit": "5",
-      "detail": "R561(5S)",
-      "context": "CE 561 (Holding Sidings) to Down Fast (CY 48)",
-      "value": 0
-    },
-    {
-      "bit": "6",
-      "detail": "R561(6S)",
-      "context": "CE 561 (Holding Sidings) to Up Fast LOS",
-      "value": 0
-    },
-    {
-      "bit": "7",
-      "detail": "R561(7S)",
-      "context": "CE 561 (Holding Sidings) to Up Slow LOS",
-      "value": 0
-    }
-  ],
-  "2B": [
-    {
-      "bit": "0",
-      "detail": "R562(1S)",
-      "context": "CE 562 (Down Chester) to Platform 10",
-      "value": 0
-    },
-    {
-      "bit": "1",
-      "detail": "R562(2S)",
-      "context": "CE 562 (Down Chester) to Platform 11 (CE 116)",
-      "value": 0
-    },
-    {
-      "bit": "2",
-      "detail": "R562(3S)",
-      "context": "CE 562 (Down Chester) to Up & Down Loop (CE 114)",
-      "value": 0
-    },
-    {
-      "bit": "3",
-      "detail": "R562(4S)",
-      "context": "CE 562 (Down Chester) to Holding Siding",
-      "value": 0
-    },
-    {
-      "bit": "4",
-      "detail": "R562(5S)",
-      "context": "CE 562 (Down Chester) to Platform 12 (CE 112)",
-      "value": 0
-    },
-    {
-      "bit": "5",
-      "detail": "R562(6S)",
-      "context": "CE 562 (Down Chester) to DED Access / Departure Line",
-      "value": 0
-    },
-    {
-      "bit": "6",
-      "detail": "R562(7S)",
-      "context": "CE 562 (Down Chester) to Up Chester Ind.",
-      "value": 0
-    },
-    {
-      "bit": "7",
-      "detail": "R562(8S)",
-      "context": "CE 562 (Down Chester) to Down Chester Ind. LOS",
-      "value": 0
-    }
-  ],
-  "37": [
-    {
-      "bit": "7",
-      "detail": "CE573",
-      "context": "Signal State",
-      "value": 0
+      "context": "CE 121 (Up & Down Potteries) to Platform 1 (CE 147)",
+      "detail": "R121(14M/C)"
     }
   ],
   "3A": [
     {
+      "value": 0,
       "bit": "6",
-      "detail": "P1DTRSE",
       "context": "TRTS",
-      "value": 0
+      "detail": "P1DTRSE"
     },
     {
+      "value": 0,
       "bit": "7",
-      "detail": "P1UTRSE",
       "context": "TRTS",
-      "value": 0
+      "detail": "P1UTRSE"
     }
   ],
-  "3B": [
+  "22": [
     {
+      "value": 0,
       "bit": "0",
-      "detail": "P2TRTSE",
-      "context": "TRTS",
-      "value": 0
+      "context": "CE 159 (Platform 1) to Down Manchester (MS 4029)",
+      "detail": "R159(5M)"
     },
     {
+      "value": 0,
       "bit": "1",
-      "detail": "P3TRTSE",
-      "context": "TRTS",
-      "value": 0
+      "context": "CE 159 (Platform 1) to Up Manchester Loop LOS",
+      "detail": "R159(6S)"
     },
     {
+      "value": 0,
       "bit": "2",
-      "detail": "P4TRTSE",
-      "context": "TRTS",
-      "value": 0
+      "context": "CE 161 (Down Chester) to Down Chester (SW 2)",
+      "detail": "R161(2M)"
     },
     {
+      "value": 0,
       "bit": "3",
-      "detail": "P5DTRSE",
-      "context": "TRTS",
-      "value": 0
+      "context": "CE 162 (Up Chester) to Up Chester (CE 142)",
+      "detail": "R162(1M)"
     },
     {
+      "value": 0,
       "bit": "4",
-      "detail": "P5UTRSE",
-      "context": "TRTS",
-      "value": 0
+      "context": "CE 164 (ETD Departure) to Up Chester (CE 162)",
+      "detail": "R164(1M)"
     },
     {
-      "bit": "5",
-      "detail": "P6DTRSNE",
-      "context": "TRTS",
-      "value": 0
-    },
-    {
+      "value": 0,
       "bit": "6",
-      "detail": "P6DTRSSE",
-      "context": "TRTS",
-      "value": 0
+      "context": "CE 175 (Down Main [Potteries]) to Down Main [Potteries] (CE 183)",
+      "detail": "R175(1M)"
     },
     {
+      "value": 0,
       "bit": "7",
-      "detail": "P6UTRSE",
-      "context": "TRTS",
-      "value": 0
+      "context": "CE 175 (Down Main [Potteries]) to Up & Down Goods Loop (CE 179)",
+      "detail": "R175(2M/C)"
+    }
+  ],
+  "14": [
+    {
+      "value": 0,
+      "bit": "0",
+      "context": "CE 134 (Platform 2) to Up & Down Potteries (CE 198)",
+      "detail": "R134(2M/S)"
+    },
+    {
+      "value": 0,
+      "bit": "1",
+      "context": "CE 134 (Platform 2) to Up & Down Potteries Loop (CE 196)",
+      "detail": "R134(3M/S)"
+    },
+    {
+      "value": 0,
+      "bit": "2",
+      "context": "CE 134 (Platform 2) to Up Fast (CE 104)",
+      "detail": "R134(6M/S)"
+    },
+    {
+      "value": 0,
+      "bit": "3",
+      "context": "CE 134 (Platform 2) to Up Slow (CE 102)",
+      "detail": "R134(7M)"
+    },
+    {
+      "value": 0,
+      "bit": "4",
+      "context": "CE 135 (Platform 12) to Down Chester (CE 161)",
+      "detail": "R135(2M/S)"
+    },
+    {
+      "value": 0,
+      "bit": "5",
+      "context": "CE 135 (Platform 12) to Up Chester LOS",
+      "detail": "R135(3S)"
+    },
+    {
+      "value": 0,
+      "bit": "6",
+      "context": "CE 135 (Platform 12) to Down Slow (CY 52)",
+      "detail": "R135(4M/S)"
+    },
+    {
+      "value": 0,
+      "bit": "7",
+      "context": "CE 135 (Platform 12) to Down Fast (CY 48)",
+      "detail": "R135(5M/S)"
+    }
+  ],
+  "28": [
+    {
+      "value": 0,
+      "bit": "0",
+      "context": "CE 545 (Up Fast) to Platform 6 (CE 149)",
+      "detail": "R545(3S)"
+    },
+    {
+      "value": 0,
+      "bit": "1",
+      "context": "CE 545 (Up Fast) to Down Fast (CE 153)",
+      "detail": "R545(4S)"
+    },
+    {
+      "value": 0,
+      "bit": "2",
+      "context": "CE 545 (Up Fast) to Up Fast (CE 155)",
+      "detail": "R545(5S)"
+    },
+    {
+      "value": 0,
+      "bit": "3",
+      "context": "CE 545 (Up Fast) to Platform 5 (CE 157)",
+      "detail": "R545(6S)"
+    },
+    {
+      "value": 0,
+      "bit": "4",
+      "context": "CE 545 (Up Fast) to Platform 4",
+      "detail": "R545(7S)"
+    },
+    {
+      "value": 0,
+      "bit": "5",
+      "context": "CE 545 (Up Fast) to Platform 3",
+      "detail": "R545(8S)"
+    },
+    {
+      "value": 0,
+      "bit": "6",
+      "context": "CE 545 (Up Fast) to Platform 2",
+      "detail": "R545(9S)"
+    },
+    {
+      "value": 0,
+      "bit": "7",
+      "context": "CE 551 (DED Siding) to DED Access / Departure Line",
+      "detail": "R551(1S)"
+    }
+  ],
+  "0F": [
+    {
+      "value": 0,
+      "bit": "0",
+      "context": "CE 121 (Up & Down Potteries) to Platform 7",
+      "detail": "R121(6M/C)"
+    },
+    {
+      "value": 0,
+      "bit": "1",
+      "context": "CE 121 (Up & Down Potteries) to Platform 6 (CE 149)",
+      "detail": "R121(7M/C/W)"
+    },
+    {
+      "value": 0,
+      "bit": "2",
+      "context": "CE 121 (Up & Down Potteries) to Down Fast (CE 153)",
+      "detail": "R121(8M)"
+    },
+    {
+      "value": 0,
+      "bit": "3",
+      "context": "CE 121 (Up & Down Potteries) to Up Fast (CE 155)",
+      "detail": "R121(9M/W)"
+    },
+    {
+      "value": 0,
+      "bit": "4",
+      "context": "CE 122 (Platform 6) to Up & Down Potteries (CE 198)",
+      "detail": "R122(1M)"
+    },
+    {
+      "value": 0,
+      "bit": "5",
+      "context": "CE 122 (Platform 6) to Up & Down Potteries Loop (CE 196)",
+      "detail": "R122(2M)"
+    },
+    {
+      "value": 0,
+      "bit": "6",
+      "context": "CE 122 (Platform 6) to Up Fast (CE 104)",
+      "detail": "R122(5M/S)"
+    },
+    {
+      "value": 0,
+      "bit": "7",
+      "context": "CE 122 (Platform 6) to Up Slow (CE 102)",
+      "detail": "R122(6M/S)"
+    }
+  ],
+  "01": [
+    {
+      "value": 0,
+      "bit": "1",
+      "context": "CE 105 (Down Slow) to DED Access / Departure Line",
+      "detail": "R105(1S)"
+    },
+    {
+      "value": 0,
+      "bit": "2",
+      "context": "CE 105 (Down Slow) to Platform 12 (CE 135)",
+      "detail": "R105(2M/C)"
+    },
+    {
+      "value": 0,
+      "bit": "3",
+      "context": "CE 105 (Down Slow) to Up & Down Loop (CE 137)",
+      "detail": "R105(3M/C)"
+    },
+    {
+      "value": 0,
+      "bit": "4",
+      "context": "CE 105 (Down Slow) to Platform 11 (CE 139)",
+      "detail": "R105(4M/C)"
+    },
+    {
+      "value": 0,
+      "bit": "5",
+      "context": "CE 105 (Down Slow) to Platform 8",
+      "detail": "R105(5M/C)"
+    },
+    {
+      "value": 0,
+      "bit": "6",
+      "context": "CE 105 (Down Slow) to Platform 7",
+      "detail": "R105(6M/C)"
+    },
+    {
+      "value": 0,
+      "bit": "7",
+      "context": "CE 105 (Down Slow) to Platform 6 (CE 149)",
+      "detail": "R105(7M/C/W)"
+    },
+    {
+      "value": 0,
+      "bit": "0",
+      "context": "CE 105 (Down Slow) to Platform 1 (CE 159)",
+      "detail": "R105(17M/C)"
+    }
+  ],
+  "29": [
+    {
+      "value": 0,
+      "bit": "0",
+      "context": "CE 551 (DED Siding) to Up Main [Salop] (CE 553)",
+      "detail": "R551(2S)"
+    },
+    {
+      "value": 0,
+      "bit": "1",
+      "context": "CE 553 (Up Main [Salop]) to Platform 12 (CE 135)",
+      "detail": "R553(1S)"
+    },
+    {
+      "value": 0,
+      "bit": "2",
+      "context": "CE 553 (Up Main [Salop]) to Up & Down Loop (CE 137)",
+      "detail": "R553(2S)"
+    },
+    {
+      "value": 0,
+      "bit": "3",
+      "context": "CE 553 (Up Main [Salop]) to Platform 11 (CE 139)",
+      "detail": "R553(3S)"
+    },
+    {
+      "value": 0,
+      "bit": "4",
+      "context": "CE 553 (Up Main [Salop]) to Platform 8",
+      "detail": "R553(4S)"
+    },
+    {
+      "value": 0,
+      "bit": "5",
+      "context": "CE 553 (Up Main [Salop]) to Platform 7",
+      "detail": "R553(5S)"
+    },
+    {
+      "value": 0,
+      "bit": "6",
+      "context": "CE 555 (Up and Down Potteries) to Platform 4",
+      "detail": "R555(1S)"
+    },
+    {
+      "value": 0,
+      "bit": "7",
+      "context": "CE 555 (Up and Down Potteries) to Platform 3",
+      "detail": "R555(2S)"
+    }
+  ],
+  "30": [
+    {
+      "value": 0,
+      "bit": "0",
+      "context": "Signal State",
+      "detail": "CE137"
+    },
+    {
+      "value": 0,
+      "bit": "1",
+      "context": "Signal State",
+      "detail": "CE139"
+    },
+    {
+      "value": 0,
+      "bit": "2",
+      "context": "Signal State",
+      "detail": "CE141"
+    },
+    {
+      "value": 0,
+      "bit": "3",
+      "context": "Signal State",
+      "detail": "CE142"
+    },
+    {
+      "value": 0,
+      "bit": "4",
+      "context": "Signal State",
+      "detail": "CE143"
+    },
+    {
+      "value": 0,
+      "bit": "5",
+      "context": "Signal State",
+      "detail": "CE144"
+    },
+    {
+      "value": 0,
+      "bit": "6",
+      "context": "Signal State",
+      "detail": "CE146"
+    },
+    {
+      "value": 0,
+      "bit": "7",
+      "context": "Signal State",
+      "detail": "CE147"
+    }
+  ],
+  "11": [
+    {
+      "value": 0,
+      "bit": "1",
+      "context": "CE 126 (Up Fast) to Up & Down Potteries (CE 198)",
+      "detail": "R126(1M)"
+    },
+    {
+      "value": 0,
+      "bit": "2",
+      "context": "CE 126 (Up Fast) to Up & Down Potteries Loop (CE 196)",
+      "detail": "R126(2M)"
+    },
+    {
+      "value": 0,
+      "bit": "3",
+      "context": "CE 126 (Up Fast) to Up Fast (CE 104)",
+      "detail": "R126(5M/S)"
+    },
+    {
+      "value": 0,
+      "bit": "4",
+      "context": "CE 126 (Up Fast) to Up Slow (CE 102)",
+      "detail": "R126(6M)"
+    },
+    {
+      "value": 0,
+      "bit": "5",
+      "context": "CE 126 (Up Fast) to Up Slow (CE 102)",
+      "detail": "R126(7M/S)"
+    },
+    {
+      "value": 0,
+      "bit": "0",
+      "context": "CE 126 (Up Fast) to Up Main [Salop] (GL 9030)",
+      "detail": "R126(10M)"
+    },
+    {
+      "value": 0,
+      "bit": "7",
+      "context": "CE 128 (Platform 5) to Up & Down Potteries (CE 198)",
+      "detail": "R128(1M)"
+    },
+    {
+      "value": 0,
+      "bit": "6",
+      "context": "CE 128 (Platform 5) to Up Main [Salop] (GL 9030)",
+      "detail": "R128(10M)"
+    }
+  ],
+  "26": [
+    {
+      "value": 0,
+      "bit": "0",
+      "context": "CE 531 (Down Refuge Siding) to Down Fast (CE 153)",
+      "detail": "R531(4S)"
+    },
+    {
+      "value": 0,
+      "bit": "1",
+      "context": "CE 531 (Down Refuge Siding) to Up Fast (CE 155)",
+      "detail": "R531(5S)"
+    },
+    {
+      "value": 0,
+      "bit": "2",
+      "context": "CE 531 (Down Refuge Siding) to Platform 5 (CE 157)",
+      "detail": "R531(6S)"
+    },
+    {
+      "value": 0,
+      "bit": "3",
+      "context": "CE 535 (Carriage Shed 1) to Up Fast (CE 545)",
+      "detail": "R535(1S)"
+    },
+    {
+      "value": 0,
+      "bit": "4",
+      "context": "CE 537 (Carriage Shed 2) to Up Fast (CE 545)",
+      "detail": "R537(1S)"
+    },
+    {
+      "value": 0,
+      "bit": "5",
+      "context": "CE 539 (Head Shunt) to Up & Down Potteries (CE 555)",
+      "detail": "R539(1S)"
+    },
+    {
+      "value": 0,
+      "bit": "6",
+      "context": "CE 543 (South Yard) to DED Access / Departure Line",
+      "detail": "R543(1S)"
+    },
+    {
+      "value": 0,
+      "bit": "7",
+      "context": "CE 542 (South Yard) to Up Main [Salop] (CE 553)",
+      "detail": "R543(2S)"
+    }
+  ],
+  "1C": [
+    {
+      "value": 0,
+      "bit": "0",
+      "context": "CE 146 (Up Slow) to Down Fast (CE 124)",
+      "detail": "R146(4M)"
+    },
+    {
+      "value": 0,
+      "bit": "1",
+      "context": "CE 146 (Up Slow) to Down Fast (CE 124)",
+      "detail": "R146(5M)"
+    },
+    {
+      "value": 0,
+      "bit": "2",
+      "context": "CE 146 (Up Slow) to Platform 6 (CE 122)",
+      "detail": "R146(6M/C)"
+    },
+    {
+      "value": 0,
+      "bit": "3",
+      "context": "CE 146 (Up Slow) to Platform 6 (CE 122)",
+      "detail": "R146(7M/C)"
+    },
+    {
+      "value": 0,
+      "bit": "4",
+      "context": "CE 146 (Up Slow) to Platform 6 (CE 122)",
+      "detail": "R146(8M/C)"
+    },
+    {
+      "value": 0,
+      "bit": "5",
+      "context": "CE 146 (Up Slow) to Platform 10",
+      "detail": "R146(9M/C)"
+    },
+    {
+      "value": 0,
+      "bit": "6",
+      "context": "CE 147 (Platform 1) to Platform 1 (CE 159)",
+      "detail": "R147(1M/S)"
+    },
+    {
+      "value": 0,
+      "bit": "7",
+      "context": "CE 148 (Down Manchester) to Up Fast (CE 126)",
+      "detail": "R148(1M)"
+    }
+  ],
+  "21": [
+    {
+      "value": 0,
+      "bit": "0",
+      "context": "CE 157 (Platform 5) to Up Fast LOS",
+      "detail": "R157(3S)"
+    },
+    {
+      "value": 0,
+      "bit": "1",
+      "context": "CE 157 (Platform 5) to Up Slow LOS",
+      "detail": "R157(4S)"
+    },
+    {
+      "value": 0,
+      "bit": "2",
+      "context": "CE 157 (Platform 5) to Down Manchester (MS 4029)",
+      "detail": "R157(5M)"
+    },
+    {
+      "value": 0,
+      "bit": "3",
+      "context": "CE 157 (Platform 5) to Up Manchester Loop LOS",
+      "detail": "R157(6S)"
+    },
+    {
+      "value": 0,
+      "bit": "4",
+      "context": "CE 159 (Platform 1) to Down Slow (CY 52)",
+      "detail": "R159(1M)"
+    },
+    {
+      "value": 0,
+      "bit": "5",
+      "context": "CE 159 (Platform 1) to Down Fast (CY 48)",
+      "detail": "R159(2M)"
+    },
+    {
+      "value": 0,
+      "bit": "6",
+      "context": "CE 159 (Platform 1) to Up Fast LOS",
+      "detail": "R159(3S)"
+    },
+    {
+      "value": 0,
+      "bit": "7",
+      "context": "CE 159 (Platform 1) to Up Slow LOS",
+      "detail": "R159(4S)"
+    }
+  ],
+  "31": [
+    {
+      "value": 0,
+      "bit": "0",
+      "context": "Signal State",
+      "detail": "CE148"
+    },
+    {
+      "value": 0,
+      "bit": "1",
+      "context": "Signal State",
+      "detail": "CE149"
+    },
+    {
+      "value": 0,
+      "bit": "2",
+      "context": "Signal State",
+      "detail": "CE150"
+    },
+    {
+      "value": 0,
+      "bit": "3",
+      "context": "Signal State",
+      "detail": "CE151"
+    },
+    {
+      "value": 0,
+      "bit": "4",
+      "context": "Signal State",
+      "detail": "CE152"
+    },
+    {
+      "value": 0,
+      "bit": "5",
+      "context": "Signal State",
+      "detail": "CE153"
+    },
+    {
+      "value": 0,
+      "bit": "6",
+      "context": "Signal State",
+      "detail": "CE154"
+    },
+    {
+      "value": 0,
+      "bit": "7",
+      "context": "Signal State",
+      "detail": "CE155"
+    }
+  ],
+  "1D": [
+    {
+      "value": 0,
+      "bit": "0",
+      "context": "CE 148 (Down Manchester) to Down Fast (CE 124)",
+      "detail": "R148(2M)"
+    },
+    {
+      "value": 0,
+      "bit": "1",
+      "context": "CE 148 (Down Manchester) to Platform 6 (CE 122)",
+      "detail": "R148(3M/C)"
+    },
+    {
+      "value": 0,
+      "bit": "2",
+      "context": "CE 149 (Platform 6) to Platform 6 (CE 151)",
+      "detail": "R149(1M/W/S)"
+    },
+    {
+      "value": 0,
+      "bit": "3",
+      "context": "CE 149 (Platform 6) to Down Fast (CY 48)",
+      "detail": "R149(2M/S)"
+    },
+    {
+      "value": 0,
+      "bit": "4",
+      "context": "CE 149 (Platform 6) to Up Fast LOS",
+      "detail": "R149(3S)"
+    },
+    {
+      "value": 0,
+      "bit": "5",
+      "context": "CE 149 (Platform 6) to Up Slow LOS",
+      "detail": "R149(4S)"
+    },
+    {
+      "value": 0,
+      "bit": "6",
+      "context": "CE 149 (Platform 6) to Down Manchester (MS 4029)",
+      "detail": "R149(5M)"
+    },
+    {
+      "value": 0,
+      "bit": "7",
+      "context": "CE 150 (Up Manchester) to Platform 1 (CE 136)",
+      "detail": "R150(1M/C)"
+    }
+  ],
+  "35": [
+    {
+      "value": 0,
+      "bit": "0",
+      "context": "Signal State",
+      "detail": "CE202"
+    },
+    {
+      "value": 0,
+      "bit": "1",
+      "context": "Signal State",
+      "detail": "CE524"
+    },
+    {
+      "value": 0,
+      "bit": "2",
+      "context": "Signal State",
+      "detail": "CE531"
+    },
+    {
+      "value": 0,
+      "bit": "3",
+      "context": "Signal State",
+      "detail": "CE535"
+    },
+    {
+      "value": 0,
+      "bit": "4",
+      "context": "Signal State",
+      "detail": "CE537"
+    },
+    {
+      "value": 0,
+      "bit": "5",
+      "context": "Signal State",
+      "detail": "CE539"
+    },
+    {
+      "value": 0,
+      "bit": "6",
+      "context": "Signal State",
+      "detail": "CE543"
+    },
+    {
+      "value": 0,
+      "bit": "7",
+      "context": "Signal State",
+      "detail": "CE544"
+    }
+  ],
+  "24": [
+    {
+      "value": 0,
+      "bit": "0",
+      "context": "CE 186 (Up Main [Potteries]) to Up Main [Potteries] (CE 184)",
+      "detail": "R186(1M)"
+    },
+    {
+      "value": 0,
+      "bit": "3",
+      "context": "CE 189 (Down Main [Potteries]) to Up & Down Potteries (CE 191)",
+      "detail": "R189(1M)"
+    },
+    {
+      "value": 0,
+      "bit": "4",
+      "context": "CE 190 (Up & Down Potteries) to Up Main [Potteries] (CE 186)",
+      "detail": "R190(1M)"
+    },
+    {
+      "value": 0,
+      "bit": "6",
+      "context": "CE 193 (Up & Down Potteries) to Up & Down Potteries Loop (CE 119)",
+      "detail": "R193(1M)"
+    },
+    {
+      "value": 0,
+      "bit": "7",
+      "context": "CE 193 (Up & Down Potteries) to Up & Down Potteries (CE 121)",
+      "detail": "R193(2M)"
+    }
+  ],
+  "2C": [
+    {
+      "value": 0,
+      "bit": "5",
+      "context": "Signal State",
+      "detail": "CE101"
+    },
+    {
+      "value": 0,
+      "bit": "6",
+      "context": "Signal State",
+      "detail": "CE105"
+    },
+    {
+      "value": 0,
+      "bit": "7",
+      "context": "Signal State",
+      "detail": "CE107"
+    },
+    {
+      "value": 0,
+      "bit": "0",
+      "context": "CE 566 (EMU Sidings) to Platform 1 (CE 136)",
+      "detail": "R566(1S)"
+    },
+    {
+      "value": 0,
+      "bit": "1",
+      "context": "CE 570 (Engine Siding) to Platform 6 (CE 564)",
+      "detail": "R570(1S)"
+    },
+    {
+      "value": 0,
+      "bit": "2",
+      "context": "CE 570 (Engine Siding) to Platform 9",
+      "detail": "R570(2S)"
+    },
+    {
+      "value": 0,
+      "bit": "3",
+      "context": "CE 570 (Engine Siding) to Down Chester (CE 562)",
+      "detail": "R570(3S)"
+    },
+    {
+      "value": 0,
+      "bit": "4",
+      "context": "CE 573 (Up Chester) to Crewe Works Arrival / Departure Line",
+      "detail": "R573(1S)"
+    }
+  ],
+  "23": [
+    {
+      "value": 0,
+      "bit": "0",
+      "context": "CE 175 (Down Main [Potteries]) to Siding",
+      "detail": "R175(3S)"
+    },
+    {
+      "value": 0,
+      "bit": "1",
+      "context": "CE 176 (Siding) to Up Main [Potteries]",
+      "detail": "R176(1M)"
+    },
+    {
+      "value": 0,
+      "bit": "2",
+      "context": "CE 178 (Up & Down Goods Loop) to Up Main [Potteries]",
+      "detail": "R178(1M)"
+    },
+    {
+      "value": 0,
+      "bit": "3",
+      "context": "CE 179 (Up & Down Goods Loop) to Up Main [Potteries] (CE 181)",
+      "detail": "R179(1M)"
+    },
+    {
+      "value": 0,
+      "bit": "4",
+      "context": "CE 181 (Up Main [Potteries] to Down Main [Potteries] (CE 185)",
+      "detail": "R181(1M)"
+    },
+    {
+      "value": 0,
+      "bit": "5",
+      "context": "CE 183 (Down Main [Potteries] to Down Main [Potteries] (CE 185)",
+      "detail": "R183(1M)"
+    },
+    {
+      "value": 0,
+      "bit": "6",
+      "context": "CE 184 (Up Main [Potteries]) to Up & Down Goods Loop (CE 178)",
+      "detail": "R184(1M/C)"
+    },
+    {
+      "value": 0,
+      "bit": "7",
+      "context": "CE 185 (Down Main [Potteries]) to Down Main [Potteries] (CE 189)",
+      "detail": "R185(1M)"
+    }
+  ],
+  "33": [
+    {
+      "value": 0,
+      "bit": "0",
+      "context": "Signal State",
+      "detail": "CE178"
+    },
+    {
+      "value": 0,
+      "bit": "1",
+      "context": "Signal State",
+      "detail": "CE179"
+    },
+    {
+      "value": 0,
+      "bit": "2",
+      "context": "Signal State",
+      "detail": "CE181"
+    },
+    {
+      "value": 0,
+      "bit": "3",
+      "context": "Signal State",
+      "detail": "CE183"
+    },
+    {
+      "value": 0,
+      "bit": "4",
+      "context": "Signal State",
+      "detail": "CE184"
+    },
+    {
+      "value": 0,
+      "bit": "5",
+      "context": "Signal State",
+      "detail": "CE185"
+    },
+    {
+      "value": 0,
+      "bit": "6",
+      "context": "Signal State",
+      "detail": "CE186"
+    }
+  ],
+  "1F": [
+    {
+      "value": 0,
+      "bit": "0",
+      "context": "CE 152 (Up Manchester Loop) to Platform 5 (CE 128)",
+      "detail": "R152(2M/C/W)"
+    },
+    {
+      "value": 0,
+      "bit": "1",
+      "context": "CE 153 (Down Fast) to Down Slow (CY 52)",
+      "detail": "R153(1M)"
+    },
+    {
+      "value": 0,
+      "bit": "2",
+      "context": "CE 153 (Down Fast) to Down Fast (CY 48)",
+      "detail": "R153(2M)"
+    },
+    {
+      "value": 0,
+      "bit": "3",
+      "context": "CE 153 (Down Fast) to Up Fast LOS",
+      "detail": "R153(3S)"
+    },
+    {
+      "value": 0,
+      "bit": "4",
+      "context": "CE 153 (Down Fast) to Up Slow LOS",
+      "detail": "R153(4S)"
+    },
+    {
+      "value": 0,
+      "bit": "5",
+      "context": "CE 153 (Down Fast) to Down Manchester (MS 4029)",
+      "detail": "R153(5M)"
+    },
+    {
+      "value": 0,
+      "bit": "6",
+      "context": "CE 154 (Up Manchester) to Up Manchester Loop (CE 152)",
+      "detail": "R154(1M/W)"
+    },
+    {
+      "value": 0,
+      "bit": "7",
+      "context": "CE 154 (Up Manchester) to Up Manchester (CE 150)",
+      "detail": "R154(2M/W)"
+    }
+  ],
+  "25": [
+    {
+      "value": 0,
+      "bit": "0",
+      "context": "CE 196 (Up & Down Potteries Loop) to Up & Down Potteries (CE 192)",
+      "detail": "R196(1M)"
+    },
+    {
+      "value": 0,
+      "bit": "1",
+      "context": "CE 198 (Up & Down Potteries) to Up & Down Potteries (CE 192)",
+      "detail": "R198(1M)"
+    },
+    {
+      "value": 0,
+      "bit": "2",
+      "context": "CE 202 (Crewe Works) to Up Chester Line (CE 162)",
+      "detail": "R202(1M)"
+    },
+    {
+      "value": 0,
+      "bit": "3",
+      "context": "CE 524 (Up Main [Potteries]) to Up & Down Goods Loop (CE 178)",
+      "detail": "R524(1S)"
+    },
+    {
+      "value": 0,
+      "bit": "4",
+      "context": "CE 524 (Up Main [Potteries]) to Up Main [Potteries]",
+      "detail": "R524(2S)"
+    },
+    {
+      "value": 0,
+      "bit": "5",
+      "context": "CE 531 (Down Refuge Siding) to DED Access / Departure Line",
+      "detail": "R531(1S)"
+    },
+    {
+      "value": 0,
+      "bit": "6",
+      "context": "CE 531 (Down Refuge Siding) to Up Main [Salop] (CE 553)",
+      "detail": "R531(2S)"
+    },
+    {
+      "value": 0,
+      "bit": "7",
+      "context": "CE 531 (Down Refuge Siding) to Platform 6 (CE 149)",
+      "detail": "R531(3S)"
+    }
+  ],
+  "12": [
+    {
+      "value": 0,
+      "bit": "0",
+      "context": "CE 128 (Platform 5) to Up & Down Potteries Loop (CE 196)",
+      "detail": "R128(2M)"
+    },
+    {
+      "value": 0,
+      "bit": "1",
+      "context": "CE 128 (Platform 5) to Up Fast (CE 104)",
+      "detail": "R128(5M/S)"
+    },
+    {
+      "value": 0,
+      "bit": "2",
+      "context": "CE 128 (Platform 5) to Up Slow (CE 102)",
+      "detail": "R128(6M)"
+    },
+    {
+      "value": 0,
+      "bit": "3",
+      "context": "CE 128 (Platform 5) to Up Slow (CE 102)",
+      "detail": "R128(7M/S)"
+    },
+    {
+      "value": 0,
+      "bit": "4",
+      "context": "CE 130 (Platform 4) to Up & Down Potteries (CE 198)",
+      "detail": "R130(2M/S)"
+    },
+    {
+      "value": 0,
+      "bit": "5",
+      "context": "CE 130 (Platform 4) to Up & Down Potteries Loop (CE 196)",
+      "detail": "R130(3M/S)"
+    },
+    {
+      "value": 0,
+      "bit": "6",
+      "context": "CE 130 (Platform 4) to Up Fast (CE 104)",
+      "detail": "R130(6M/S)"
+    },
+    {
+      "value": 0,
+      "bit": "7",
+      "context": "CE 130 (Platform 4) to Up Slow (CE 102)",
+      "detail": "R130(7M)"
+    }
+  ],
+  "09": [
+    {
+      "value": 0,
+      "bit": "1",
+      "context": "CE 117 (Up Main [Salop]) to DED Access / Departure Line",
+      "detail": "R117(1S)"
+    },
+    {
+      "value": 0,
+      "bit": "2",
+      "context": "CE 117 (Up Main [Salop]) to Platform 12 (CE 135)",
+      "detail": "R117(2M/C)"
+    },
+    {
+      "value": 0,
+      "bit": "3",
+      "context": "CE 117 (Up Main [Salop]) to Up & Down Loop (CE 137)",
+      "detail": "R117(3M/C)"
+    },
+    {
+      "value": 0,
+      "bit": "4",
+      "context": "CE 117 (Up Main [Salop]) to Platform 11 (CE 139)",
+      "detail": "R117(4M/C)"
+    },
+    {
+      "value": 0,
+      "bit": "5",
+      "context": "CE 117 (Up Main [Salop]) to Platform 8",
+      "detail": "R117(5M/C)"
+    },
+    {
+      "value": 0,
+      "bit": "6",
+      "context": "CE 117 (Up Main [Salop]) to Platform 7",
+      "detail": "R117(6M/C)"
+    },
+    {
+      "value": 0,
+      "bit": "7",
+      "context": "CE 117 (Up Main [Salop]) to Platform 6 (CE 149)",
+      "detail": "R117(7M/C/W)"
+    },
+    {
+      "value": 0,
+      "bit": "0",
+      "context": "CE 117 (Up Main [Salop]) to Platform 5 (CE 157)",
+      "detail": "R117(10M/C)"
+    }
+  ],
+  "2B": [
+    {
+      "value": 0,
+      "bit": "0",
+      "context": "CE 562 (Down Chester) to Platform 10",
+      "detail": "R562(1S)"
+    },
+    {
+      "value": 0,
+      "bit": "1",
+      "context": "CE 562 (Down Chester) to Platform 11 (CE 116)",
+      "detail": "R562(2S)"
+    },
+    {
+      "value": 0,
+      "bit": "2",
+      "context": "CE 562 (Down Chester) to Up & Down Loop (CE 114)",
+      "detail": "R562(3S)"
+    },
+    {
+      "value": 0,
+      "bit": "3",
+      "context": "CE 562 (Down Chester) to Holding Siding",
+      "detail": "R562(4S)"
+    },
+    {
+      "value": 0,
+      "bit": "4",
+      "context": "CE 562 (Down Chester) to Platform 12 (CE 112)",
+      "detail": "R562(5S)"
+    },
+    {
+      "value": 0,
+      "bit": "5",
+      "context": "CE 562 (Down Chester) to DED Access / Departure Line",
+      "detail": "R562(6S)"
+    },
+    {
+      "value": 0,
+      "bit": "6",
+      "context": "CE 562 (Down Chester) to Up Chester Ind.",
+      "detail": "R562(7S)"
+    },
+    {
+      "value": 0,
+      "bit": "7",
+      "context": "CE 562 (Down Chester) to Down Chester Ind. LOS",
+      "detail": "R562(8S)"
+    }
+  ],
+  "36": [
+    {
+      "value": 0,
+      "bit": "0",
+      "context": "Signal State",
+      "detail": "CE545"
+    },
+    {
+      "value": 0,
+      "bit": "1",
+      "context": "Signal State",
+      "detail": "CE551"
+    },
+    {
+      "value": 0,
+      "bit": "2",
+      "context": "Signal State",
+      "detail": "CE553"
+    },
+    {
+      "value": 0,
+      "bit": "3",
+      "context": "Signal State",
+      "detail": "CE555"
+    },
+    {
+      "value": 0,
+      "bit": "4",
+      "context": "Signal State",
+      "detail": "CE561"
+    },
+    {
+      "value": 0,
+      "bit": "5",
+      "context": "Signal State",
+      "detail": "CE562"
+    },
+    {
+      "value": 0,
+      "bit": "6",
+      "context": "Signal State",
+      "detail": "CE566"
+    },
+    {
+      "value": 0,
+      "bit": "7",
+      "context": "Signal State",
+      "detail": "CE570"
+    }
+  ],
+  "37": [
+    {
+      "value": 0,
+      "bit": "7",
+      "context": "Signal State",
+      "detail": "CE573"
     }
   ],
   "3C": [
     {
+      "value": 0,
       "bit": "0",
-      "detail": "P7TRTSE",
       "context": "TRTS",
-      "value": 0
+      "detail": "P7TRTSE"
     },
     {
+      "value": 0,
       "bit": "1",
-      "detail": "P8TRTSE",
       "context": "TRTS",
-      "value": 0
+      "detail": "P8TRTSE"
     },
     {
+      "value": 0,
       "bit": "2",
-      "detail": "P9TRTSE",
       "context": "TRTS",
-      "value": 0
+      "detail": "P9TRTSE"
     },
     {
+      "value": 0,
       "bit": "3",
-      "detail": "P10TRTSE",
       "context": "TRTS",
-      "value": 0
+      "detail": "P10TRTSE"
     },
     {
+      "value": 0,
       "bit": "4",
-      "detail": "P11DTRSE",
       "context": "TRTS",
-      "value": 0
+      "detail": "P11DTRSE"
     },
     {
+      "value": 0,
       "bit": "5",
-      "detail": "P11UTRSE",
       "context": "TRTS",
-      "value": 0
+      "detail": "P11UTRSE"
     },
     {
+      "value": 0,
       "bit": "6",
-      "detail": "P12DTRSE",
       "context": "TRTS",
-      "value": 0
+      "detail": "P12DTRSE"
     },
     {
+      "value": 0,
       "bit": "7",
-      "detail": "P12UTRSE",
       "context": "TRTS",
-      "value": 0
+      "detail": "P12UTRSE"
+    }
+  ],
+  "0D": [
+    {
+      "value": 0,
+      "bit": "1",
+      "context": "CE 120 (Platform 7) to Up & Down Potteries (CE 198)",
+      "detail": "R120(1M)"
+    },
+    {
+      "value": 0,
+      "bit": "2",
+      "context": "CE 120 (Platform 7) to Up & Down Potteries Loop (CE 196)",
+      "detail": "R120(2M)"
+    },
+    {
+      "value": 0,
+      "bit": "3",
+      "context": "CE 120 (Platform 7) to Up Fast (CE 104)",
+      "detail": "R120(5M/S)"
+    },
+    {
+      "value": 0,
+      "bit": "4",
+      "context": "CE 120 (Platform 7) to Up Slow (CE 102)",
+      "detail": "R120(6M/S)"
+    },
+    {
+      "value": 0,
+      "bit": "5",
+      "context": "CE 120 (Platform 7) to Up Main [Salop] (GL 9030)",
+      "detail": "R120(9M)"
+    },
+    {
+      "value": 0,
+      "bit": "0",
+      "context": "CE 120 (Platform 7) to DED Siding",
+      "detail": "R120(11S)"
+    },
+    {
+      "value": 0,
+      "bit": "6",
+      "context": "CE 121 (Up & Down Potteries) to Platform 5 (CE 157)",
+      "detail": "R121(10M/C)"
+    },
+    {
+      "value": 0,
+      "bit": "7",
+      "context": "CE 121 (Up & Down Potteries) to Platform 4",
+      "detail": "R121(11M/C)"
+    }
+  ],
+  "13": [
+    {
+      "value": 0,
+      "bit": "0",
+      "context": "CE 131 (Down Chester Ind.) to Down Chester (CE 161)",
+      "detail": "R131(3M)"
+    },
+    {
+      "value": 0,
+      "bit": "1",
+      "context": "CE 131 (Down Chester Ind.) to Up Chester LOS",
+      "detail": "R131(4S)"
+    },
+    {
+      "value": 0,
+      "bit": "2",
+      "context": "CE 132 (Platform 3) to Up & Down Potteries (CE 198)",
+      "detail": "R132(2M/S)"
+    },
+    {
+      "value": 0,
+      "bit": "3",
+      "context": "CE 132 (Platform 3) to Up & Down Potteries Loop (CE 196)",
+      "detail": "R132(3M/S)"
+    },
+    {
+      "value": 0,
+      "bit": "4",
+      "context": "CE 132 (Platform 3) to Up Fast (CE 104)",
+      "detail": "R132(6M/S)"
+    },
+    {
+      "value": 0,
+      "bit": "5",
+      "context": "CE 132 (Platform 3) to Up Slow (CE 102)",
+      "detail": "R132(7M)"
+    },
+    {
+      "value": 0,
+      "bit": "6",
+      "context": "CE 133 (DED Access / Departure Line) to Down Chester (CE 161)",
+      "detail": "R133(2M)"
+    },
+    {
+      "value": 0,
+      "bit": "7",
+      "context": "CE 133 (DED Access / Departure Line) to Up Chester LOS",
+      "detail": "R133(3S)"
+    }
+  ],
+  "0A": [
+    {
+      "value": 0,
+      "bit": "0",
+      "context": "CE 117 (Up Main [Salop]) to Down Fast (CE 153)",
+      "detail": "R117(8M)"
+    },
+    {
+      "value": 0,
+      "bit": "1",
+      "context": "CE 117 (Up Main [Salop]) to Up Fast (CE 155)",
+      "detail": "R117(9M/W)"
+    },
+    {
+      "value": 0,
+      "bit": "4",
+      "context": "CE 118 (Platform 8) to Up & Down Potteries (CE 198)",
+      "detail": "R118(1M)"
+    },
+    {
+      "value": 0,
+      "bit": "5",
+      "context": "CE 118 (Platform 8) to Up & Down Potteries Loop (CE 196)",
+      "detail": "R118(2M)"
+    },
+    {
+      "value": 0,
+      "bit": "6",
+      "context": "CE 118 (Platform 8) to Up Fast (CE 104)",
+      "detail": "R118(5M/S)"
+    },
+    {
+      "value": 0,
+      "bit": "7",
+      "context": "CE 118 (Platform 8) to Up Slow (CE 102)",
+      "detail": "R118(6M/S)"
+    },
+    {
+      "value": 0,
+      "bit": "2",
+      "context": "CE 118 (Platform 8) to Down Salop Goods",
+      "detail": "R118(10S)"
+    },
+    {
+      "value": 0,
+      "bit": "3",
+      "context": "CE 118 (Platform 8) to DED Siding",
+      "detail": "R118(11S)"
+    }
+  ],
+  "08": [
+    {
+      "value": 0,
+      "bit": "0",
+      "context": "CE 115 (Down Main [Salop]) to Platform 7",
+      "detail": "R115(5M/C)"
+    },
+    {
+      "value": 0,
+      "bit": "3",
+      "context": "CE 116 (Platform 11) to Up & Down Potteries (CE 198)",
+      "detail": "R116(1M)"
+    },
+    {
+      "value": 0,
+      "bit": "4",
+      "context": "CE 116 (Platform 11) to Up & Down Potteries Loop (CE 196)",
+      "detail": "R116(2M)"
+    },
+    {
+      "value": 0,
+      "bit": "5",
+      "context": "CE 116 (Platform 11) to Up Fast (CE 104)",
+      "detail": "R116(5M/S)"
+    },
+    {
+      "value": 0,
+      "bit": "6",
+      "context": "CE 116 (Platform 11) to Up Slow (CE 102)",
+      "detail": "R116(6M/S)"
+    },
+    {
+      "value": 0,
+      "bit": "7",
+      "context": "CE 116 (Platform 11) to Up Main (Salop)",
+      "detail": "R116(9M)"
+    },
+    {
+      "value": 0,
+      "bit": "1",
+      "context": "CE 116 (Platform 11) to Down Salop Goods Loop",
+      "detail": "R116(10S)"
+    },
+    {
+      "value": 0,
+      "bit": "2",
+      "context": "CE 116 (Platform 11) to Siding (DED)",
+      "detail": "R116(11S)"
+    }
+  ],
+  "16": [
+    {
+      "value": 0,
+      "bit": "0",
+      "context": "CE 137 (Up & Down Loop) to Down Slow (CY 52)",
+      "detail": "R137(4M/S)"
+    },
+    {
+      "value": 0,
+      "bit": "1",
+      "context": "CE 137 (Up & Down Loop) to Down Fast (CY 48)",
+      "detail": "R137(5M/S)"
+    },
+    {
+      "value": 0,
+      "bit": "2",
+      "context": "CE 137 (Up & Down Loop) to Up Fast LOS",
+      "detail": "R137(6S)"
+    },
+    {
+      "value": 0,
+      "bit": "3",
+      "context": "CE 137 (Up & Down Loop) to Up Slow LOS",
+      "detail": "R137(7S)"
+    },
+    {
+      "value": 0,
+      "bit": "4",
+      "context": "CE 139 (Platform 11) to Down Chester (CE 161)",
+      "detail": "R139(2M/S)"
+    },
+    {
+      "value": 0,
+      "bit": "5",
+      "context": "CE 139 (Platform 11) to Up Chester LOS",
+      "detail": "R139(3S)"
+    },
+    {
+      "value": 0,
+      "bit": "6",
+      "context": "CE 139 (Platform 11) to Down Slow (CY 52)",
+      "detail": "R139(4M/S)"
+    },
+    {
+      "value": 0,
+      "bit": "7",
+      "context": "CE 139 (Platform 11) to Down Fast (CY 48)",
+      "detail": "R139(5M/S)"
+    }
+  ],
+  "15": [
+    {
+      "value": 0,
+      "bit": "0",
+      "context": "CE 135 (Platform 12) to Up Fast LOS",
+      "detail": "R135(6S)"
+    },
+    {
+      "value": 0,
+      "bit": "1",
+      "context": "CE 135 (Platform 12) to Up Slow LOS",
+      "detail": "R135(7S)"
+    },
+    {
+      "value": 0,
+      "bit": "2",
+      "context": "CE 136 (Platform 1) to Up & Down Potteries (CE 198)",
+      "detail": "R136(2M/S)"
+    },
+    {
+      "value": 0,
+      "bit": "3",
+      "context": "CE 136 (Platform 1) to Up & Down Potteries Loop (CE 196)",
+      "detail": "R136(3M/S)"
+    },
+    {
+      "value": 0,
+      "bit": "4",
+      "context": "CE 136 (Platform 1) to Up Fast (CE 104)",
+      "detail": "R136(6M/S)"
+    },
+    {
+      "value": 0,
+      "bit": "5",
+      "context": "CE 136 (Platform 1) to Up Slow (CE 102)",
+      "detail": "R136(7M)"
+    },
+    {
+      "value": 0,
+      "bit": "6",
+      "context": "CE 137 (Up & Down Loop) to Down Chester (CE 161)",
+      "detail": "R137(2M/S)"
+    },
+    {
+      "value": 0,
+      "bit": "7",
+      "context": "CE 137 (Up & Down Loop) to Up Chester LOS",
+      "detail": "R137(3S)"
+    }
+  ],
+  "1B": [
+    {
+      "value": 0,
+      "bit": "0",
+      "context": "CE 144 (Up Fast) to Platform 10",
+      "detail": "R144(9M/C)"
+    },
+    {
+      "value": 0,
+      "bit": "5",
+      "context": "CE 146 (Up Slow) to Platform 1 (CE 136)",
+      "detail": "R146(1M/C)"
+    },
+    {
+      "value": 0,
+      "bit": "6",
+      "context": "CE 146 (Up Slow) to Platform 5 (CE 128)",
+      "detail": "R146(2M/C/W)"
+    },
+    {
+      "value": 0,
+      "bit": "7",
+      "context": "CE 146 (Up Slow) to Up Fast (CE 126)",
+      "detail": "R146(3M)"
+    },
+    {
+      "value": 0,
+      "bit": "1",
+      "context": "CE 146 (Up Slow) to Platform 11 (CE 116)",
+      "detail": "R146(10M/C)"
+    },
+    {
+      "value": 0,
+      "bit": "2",
+      "context": "CE 146 (Up Slow) to Up & Down Loop (CE 114)",
+      "detail": "R146(11M/C)"
+    },
+    {
+      "value": 0,
+      "bit": "3",
+      "context": "CE 146 (Up Slow) to Holding Siding",
+      "detail": "R146(12S)"
+    },
+    {
+      "value": 0,
+      "bit": "4",
+      "context": "CE 146 (Up Slow) to Platform 12 (CE 112)",
+      "detail": "R146(13M/C)"
+    }
+  ],
+  "1E": [
+    {
+      "value": 0,
+      "bit": "0",
+      "context": "CE 150 (Up Manchester) to Platform 5 (CE 128)",
+      "detail": "R150(2M/C/W)"
+    },
+    {
+      "value": 0,
+      "bit": "1",
+      "context": "CE 151 (Platform 6) to Down Chester (CE 161)",
+      "detail": "R151(2M)"
+    },
+    {
+      "value": 0,
+      "bit": "2",
+      "context": "CE 151 (Platform 6) to Up Chester LOS",
+      "detail": "R151(3S)"
+    },
+    {
+      "value": 0,
+      "bit": "3",
+      "context": "CE 151 (Platform 6) to Down Slow (CY 52)",
+      "detail": "R151(4M/S)"
+    },
+    {
+      "value": 0,
+      "bit": "4",
+      "context": "CE 151 (Platform 6) to Down Fast (CY 48)",
+      "detail": "R151(5M/S)"
+    },
+    {
+      "value": 0,
+      "bit": "5",
+      "context": "CE 151 (Platform 6) to Up Fast LOS",
+      "detail": "R151(6S)"
+    },
+    {
+      "value": 0,
+      "bit": "6",
+      "context": "CE 151 (Platform 6) to Up Slow LOS",
+      "detail": "R151(7S)"
+    },
+    {
+      "value": 0,
+      "bit": "7",
+      "context": "CE 152 (Up Manchester Loop) to Platform 1 (CE 136)",
+      "detail": "R152(1M/C)"
+    }
+  ],
+  "2F": [
+    {
+      "value": 0,
+      "bit": "0",
+      "context": "Signal State",
+      "detail": "CE128"
+    },
+    {
+      "value": 0,
+      "bit": "1",
+      "context": "Signal State",
+      "detail": "CE130"
+    },
+    {
+      "value": 0,
+      "bit": "2",
+      "context": "Signal State",
+      "detail": "CE131"
+    },
+    {
+      "value": 0,
+      "bit": "3",
+      "context": "Signal State",
+      "detail": "CE132"
+    },
+    {
+      "value": 0,
+      "bit": "4",
+      "context": "Signal State",
+      "detail": "CE133"
+    },
+    {
+      "value": 0,
+      "bit": "5",
+      "context": "Signal State",
+      "detail": "CE134"
+    },
+    {
+      "value": 0,
+      "bit": "6",
+      "context": "Signal State",
+      "detail": "CE135"
+    },
+    {
+      "value": 0,
+      "bit": "7",
+      "context": "Signal State",
+      "detail": "CE136"
+    }
+  ],
+  "2E": [
+    {
+      "value": 0,
+      "bit": "0",
+      "context": "Signal State",
+      "detail": "CE118"
+    },
+    {
+      "value": 0,
+      "bit": "1",
+      "context": "Signal State",
+      "detail": "CE119"
+    },
+    {
+      "value": 0,
+      "bit": "2",
+      "context": "Signal State",
+      "detail": "CE120"
+    },
+    {
+      "value": 0,
+      "bit": "3",
+      "context": "Signal State",
+      "detail": "CE121"
+    },
+    {
+      "value": 0,
+      "bit": "4",
+      "context": "Signal State",
+      "detail": "CE122"
+    },
+    {
+      "value": 0,
+      "bit": "5",
+      "context": "Signal State",
+      "detail": "CE124"
+    },
+    {
+      "value": 0,
+      "bit": "7",
+      "context": "Signal State",
+      "detail": "CE126"
+    }
+  ],
+  "04": [
+    {
+      "value": 0,
+      "bit": "0",
+      "context": "CE 107 (Down Fast) to CE 153 (Down Fast)",
+      "detail": "R107(8M)"
+    },
+    {
+      "value": 0,
+      "bit": "1",
+      "context": "CE 107 (Down Fast) to CE 155 (Up Fast)",
+      "detail": "R107(9M/W)"
+    },
+    {
+      "value": 0,
+      "bit": "2",
+      "context": "CE 110 (DED Access / Departure Line) to Up & Down Potteries (CE 198)",
+      "detail": "R110(1M)"
+    },
+    {
+      "value": 0,
+      "bit": "3",
+      "context": "CE 110 (DED Access / Departure Line) to Up & Down Potteries Loop (CE 196)",
+      "detail": "R110(2M)"
+    },
+    {
+      "value": 0,
+      "bit": "4",
+      "context": "CE 110 (DED Access / Departure Line) to Up Fast (CE 104)",
+      "detail": "R110(5M/S)"
+    },
+    {
+      "value": 0,
+      "bit": "5",
+      "context": "CE 110 (DED Access / Departure Line) to Up Slow (CE 102)",
+      "detail": "R110(6M/S)"
+    },
+    {
+      "value": 0,
+      "bit": "6",
+      "context": "CE 110 (DED Access / Departure Line) to Up Main (Salop)",
+      "detail": "R110(9M)"
+    }
+  ],
+  "00": [
+    {
+      "value": 0,
+      "bit": "0",
+      "context": "CE 101 (Down Slow) to CE 105 (Down Slow)",
+      "detail": "R101(1M)"
+    },
+    {
+      "value": 0,
+      "bit": "1",
+      "context": "CE 105 (Down Slow) to CE 155 (Up Fast)",
+      "detail": "R105(10M/W)"
+    },
+    {
+      "value": 0,
+      "bit": "2",
+      "context": "CE 105 (Down Slow) to CE 155 (Up Fast)",
+      "detail": "R105(11M/W)"
+    },
+    {
+      "value": 0,
+      "bit": "3",
+      "context": "CE 105 (Down Slow) to Platform 5 (CE 157)",
+      "detail": "R105(12M/C)"
+    },
+    {
+      "value": 0,
+      "bit": "4",
+      "context": "CE 105 (Down Slow) to Platform 5 (CE 157)",
+      "detail": "R105(13M/C)"
+    },
+    {
+      "value": 0,
+      "bit": "5",
+      "context": "CE 105 (Down Slow) to Platform 4",
+      "detail": "R105(14M/C)"
+    },
+    {
+      "value": 0,
+      "bit": "6",
+      "context": "CE 105 (Down Slow) to Platform 3",
+      "detail": "R105(15M/C)"
+    },
+    {
+      "value": 0,
+      "bit": "7",
+      "context": "CE 105 (Down Slow) to Platform 2",
+      "detail": "R105(16M/C)"
+    }
+  ],
+  "07": [
+    {
+      "value": 0,
+      "bit": "0",
+      "context": "CE 114 (Up & Down Loop) to Up Fast (CE 104)",
+      "detail": "R114(5M/S)"
+    },
+    {
+      "value": 0,
+      "bit": "2",
+      "context": "CE 114 (Up & Down Loop) to Up Slow (CE 102)",
+      "detail": "R114(6M/S)"
+    },
+    {
+      "value": 0,
+      "bit": "3",
+      "context": "CE 114 (Up & Down Loop) to Up Main (Salop)",
+      "detail": "R114(9M)"
+    },
+    {
+      "value": 0,
+      "bit": "4",
+      "context": "CE 115 (Down Main [Salop]) to Platform 12 (CE 135)",
+      "detail": "R115(1M/C)"
+    },
+    {
+      "value": 0,
+      "bit": "5",
+      "context": "CE 115 (Down Main [Salop]) to Up & Down Loop (CE 137)",
+      "detail": "R115(2M/C)"
+    },
+    {
+      "value": 0,
+      "bit": "6",
+      "context": "CE 115 (Down Main [Salop]) to Platform 11 (CE 135)",
+      "detail": "R115(3M/C)"
+    },
+    {
+      "value": 0,
+      "bit": "7",
+      "context": "CE 115 (Down Main [Salop]) to Platform 8",
+      "detail": "R115(4M/C)"
+    }
+  ],
+  "18": [
+    {
+      "value": 0,
+      "bit": "1",
+      "context": "CE 142 (Up Chester) to Platform 6 (CE 122)",
+      "detail": "R142(1M/C)"
+    },
+    {
+      "value": 0,
+      "bit": "2",
+      "context": "CE 142 (Up Chester) to Platform 9",
+      "detail": "R142(2M/C)"
+    },
+    {
+      "value": 0,
+      "bit": "3",
+      "context": "CE 142 (Up Chester) to Platform 10",
+      "detail": "R142(3M/C)"
+    },
+    {
+      "value": 0,
+      "bit": "4",
+      "context": "CE 142 (Up Chester) to Platform 11",
+      "detail": "R142(4M/C)"
+    },
+    {
+      "value": 0,
+      "bit": "5",
+      "context": "CE 142 (Up Chester) to Up & Down Loop (CE 114)",
+      "detail": "R142(5M/C)"
+    },
+    {
+      "value": 0,
+      "bit": "6",
+      "context": "CE 142 (Up Chester) to Holding Siding",
+      "detail": "R142(6S)"
+    },
+    {
+      "value": 0,
+      "bit": "7",
+      "context": "CE 142 (Up Chester) to Platform 12 (CE 112)",
+      "detail": "R142(7M/C)"
+    },
+    {
+      "value": 0,
+      "bit": "0",
+      "context": "CE 142 (Up Chester) to Down Chester Ind.",
+      "detail": "R142(10S)"
+    }
+  ],
+  "0C": [
+    {
+      "value": 0,
+      "bit": "0",
+      "context": "CE 119 (Up & Down Potteries Loop) to Up & Down Loop (CE 137)",
+      "detail": "R119(3M/C)"
+    },
+    {
+      "value": 0,
+      "bit": "1",
+      "context": "CE 119 (Up & Down Potteries Loop) to Platform 11 (CE 139)",
+      "detail": "R119(4M/C)"
+    },
+    {
+      "value": 0,
+      "bit": "2",
+      "context": "CE 119 (Up & Down Potteries Loop) to Platform 8",
+      "detail": "R119(5M/C)"
+    },
+    {
+      "value": 0,
+      "bit": "3",
+      "context": "CE 119 (Up & Down Potteries Loop) to Platform 7",
+      "detail": "R119(6M/C)"
+    },
+    {
+      "value": 0,
+      "bit": "4",
+      "context": "CE 119 (Up & Down Potteries Loop) to Platform 6 (CE 149)",
+      "detail": "R119(7M/C/W)"
+    },
+    {
+      "value": 0,
+      "bit": "5",
+      "context": "CE 119 (Up & Down Potteries Loop) to Down Fast (CE 153)",
+      "detail": "R119(8M)"
+    },
+    {
+      "value": 0,
+      "bit": "6",
+      "context": "CE 119 (Up & Down Potteries Loop) to Up Fast (CE 155)",
+      "detail": "R119(9M/W)"
+    },
+    {
+      "value": 0,
+      "bit": "7",
+      "context": "CE 120 (Platform 7) to Down Salop Goods",
+      "detail": "R120(10S)"
+    }
+  ],
+  "0B": [
+    {
+      "value": 0,
+      "bit": "0",
+      "context": "CE 118 (Platform 8) to Up Main [Salop] (GL 9030)",
+      "detail": "R118(9M)"
+    },
+    {
+      "value": 0,
+      "bit": "6",
+      "context": "CE 119 (Up & Down Potteries Loop) to DED Access / Departure Line",
+      "detail": "R119(1S)"
+    },
+    {
+      "value": 0,
+      "bit": "7",
+      "context": "CE 119 (Up & Down Potteries Loop) to Platform 12 (CE 135)",
+      "detail": "R119(2M/C)"
+    },
+    {
+      "value": 0,
+      "bit": "1",
+      "context": "CE 119 (Up & Down Potteries Loop) to Platform 5 (CE 157)",
+      "detail": "R119(10M/C)"
+    },
+    {
+      "value": 0,
+      "bit": "2",
+      "context": "CE 119 (Up & Down Potteries Loop) to Platform 4",
+      "detail": "R119(11M/C)"
+    },
+    {
+      "value": 0,
+      "bit": "3",
+      "context": "CE 119 (Up & Down Potteries Loop) to Platform 3",
+      "detail": "R119(12M/C)"
+    },
+    {
+      "value": 0,
+      "bit": "4",
+      "context": "CE 119 (Up & Down Potteries Loop) to Platform 2",
+      "detail": "R119(13M/C)"
+    },
+    {
+      "value": 0,
+      "bit": "5",
+      "context": "CE 119 (Up & Down Potteries Loop) to Platform 1 (CE 147)",
+      "detail": "R119(14M/C)"
+    }
+  ],
+  "19": [
+    {
+      "value": 0,
+      "bit": "0",
+      "context": "CE 142 (Up Chester) to DED Access / Departure Line",
+      "detail": "R142(8S)"
+    },
+    {
+      "value": 0,
+      "bit": "1",
+      "context": "CE 142 (Up Chester) to Up Chester Ind.",
+      "detail": "R142(9M)"
+    },
+    {
+      "value": 0,
+      "bit": "2",
+      "context": "CE 143 (Platform 9) to Down Chester (CE 161)",
+      "detail": "R143(2M)"
+    },
+    {
+      "value": 0,
+      "bit": "3",
+      "context": "CE 143 (Platform 9) to Up Chester LOS",
+      "detail": "R143(3S)"
+    },
+    {
+      "value": 0,
+      "bit": "4",
+      "context": "CE 144 (Up Fast) to Platform 11 (CE 116)",
+      "detail": "R144(10M/C)"
+    },
+    {
+      "value": 0,
+      "bit": "5",
+      "context": "CE 144 (Up Fast) to Up & Down Loop (CE 114)",
+      "detail": "R144(11M/C)"
+    },
+    {
+      "value": 0,
+      "bit": "6",
+      "context": "CE 144 (Up Fast) to Holding Siding",
+      "detail": "R144(12S)"
+    },
+    {
+      "value": 0,
+      "bit": "7",
+      "context": "CE 144 (Up Fast) to Platform 12 (CE 112)",
+      "detail": "R144(13M/C)"
+    }
+  ],
+  "27": [
+    {
+      "value": 0,
+      "bit": "0",
+      "context": "CE 542 (South Yard) to Platform 6 (CE 149)",
+      "detail": "R543(3S)"
+    },
+    {
+      "value": 0,
+      "bit": "1",
+      "context": "CE 542 (South Yard) to Down Fast (CE 153)",
+      "detail": "R543(4S)"
+    },
+    {
+      "value": 0,
+      "bit": "2",
+      "context": "CE 542 (South Yard) to Up Fast (CE 155)",
+      "detail": "R543(5S)"
+    },
+    {
+      "value": 0,
+      "bit": "3",
+      "context": "CE 542 (South Yard) to Platform 5 (CE 157)",
+      "detail": "R543(6S)"
+    },
+    {
+      "value": 0,
+      "bit": "4",
+      "context": "CE 544 (DED Access / Departure Line) to DED Siding",
+      "detail": "R544(1S)"
+    },
+    {
+      "value": 0,
+      "bit": "6",
+      "context": "CE 545 (Up Fast) to DED Access / Departure Line Line",
+      "detail": "R545(1S)"
+    },
+    {
+      "value": 0,
+      "bit": "7",
+      "context": "CE 545 (Up Fast) to Up Main [Salop] (CE 553)",
+      "detail": "R545(2S)"
+    },
+    {
+      "value": 0,
+      "bit": "5",
+      "context": "CE 545 (Up Fast) to Platform 1 (CE 147)",
+      "detail": "R545(10S)"
+    }
+  ],
+  "3B": [
+    {
+      "value": 0,
+      "bit": "0",
+      "context": "TRTS",
+      "detail": "P2TRTSE"
+    },
+    {
+      "value": 0,
+      "bit": "1",
+      "context": "TRTS",
+      "detail": "P3TRTSE"
+    },
+    {
+      "value": 0,
+      "bit": "2",
+      "context": "TRTS",
+      "detail": "P4TRTSE"
+    },
+    {
+      "value": 0,
+      "bit": "3",
+      "context": "TRTS",
+      "detail": "P5DTRSE"
+    },
+    {
+      "value": 0,
+      "bit": "4",
+      "context": "TRTS",
+      "detail": "P5UTRSE"
+    },
+    {
+      "value": 0,
+      "bit": "5",
+      "context": "TRTS",
+      "detail": "P6DTRSNE"
+    },
+    {
+      "value": 0,
+      "bit": "6",
+      "context": "TRTS",
+      "detail": "P6DTRSSE"
+    },
+    {
+      "value": 0,
+      "bit": "7",
+      "context": "TRTS",
+      "detail": "P6UTRSE"
+    }
+  ],
+  "34": [
+    {
+      "value": 0,
+      "bit": "1",
+      "context": "Signal State",
+      "detail": "CE189"
+    },
+    {
+      "value": 0,
+      "bit": "2",
+      "context": "Signal State",
+      "detail": "CE190"
+    },
+    {
+      "value": 0,
+      "bit": "3",
+      "context": "Signal State",
+      "detail": "CE191"
+    },
+    {
+      "value": 0,
+      "bit": "4",
+      "context": "Signal State",
+      "detail": "CE192"
+    },
+    {
+      "value": 0,
+      "bit": "5",
+      "context": "Signal State",
+      "detail": "CE193"
+    },
+    {
+      "value": 0,
+      "bit": "6",
+      "context": "Signal State",
+      "detail": "CE196"
+    },
+    {
+      "value": 0,
+      "bit": "7",
+      "context": "Signal State",
+      "detail": "CE198"
+    }
+  ],
+  "17": [
+    {
+      "value": 0,
+      "bit": "0",
+      "context": "CE 139 (Platform 11) to Up Fast LOS",
+      "detail": "R139(6S)"
+    },
+    {
+      "value": 0,
+      "bit": "1",
+      "context": "CE 139 (Platform 11) to Up Slow LOS",
+      "detail": "R139(7S)"
+    },
+    {
+      "value": 0,
+      "bit": "2",
+      "context": "CE 141 (Platform 10) to Down Chester (CE 161)",
+      "detail": "R141(2M/S)"
+    },
+    {
+      "value": 0,
+      "bit": "3",
+      "context": "CE 141 (Platform 10) to Up Chester LOS",
+      "detail": "R141(3S)"
+    },
+    {
+      "value": 0,
+      "bit": "4",
+      "context": "CE 141 (Platform 10) to Down Slow (CY 52)",
+      "detail": "R141(4M/S)"
+    },
+    {
+      "value": 0,
+      "bit": "5",
+      "context": "CE 141 (Platform 10) to Down Fast (CY 48)",
+      "detail": "R141(5M/S)"
+    },
+    {
+      "value": 0,
+      "bit": "6",
+      "context": "CE 141 (Platform 10) to Up Fast LOS",
+      "detail": "R141(6S)"
+    },
+    {
+      "value": 0,
+      "bit": "7",
+      "context": "CE 141 (Platform 10) to Up Slow LOS",
+      "detail": "R141(7S)"
+    }
+  ],
+  "06": [
+    {
+      "value": 0,
+      "bit": "0",
+      "context": "CE 113 (Down Salop Goods Loop) to Up & Down Loop (CE 137)",
+      "detail": "R113(2M/C)"
+    },
+    {
+      "value": 0,
+      "bit": "1",
+      "context": "CE 113 (Down Salop Goods Loop) to Platform 11 (CE 135)",
+      "detail": "R113(3M/C)"
+    },
+    {
+      "value": 0,
+      "bit": "2",
+      "context": "CE 113 (Down Salop Goods Loop) to Platform 8",
+      "detail": "R113(4M/C)"
+    },
+    {
+      "value": 0,
+      "bit": "3",
+      "context": "CE 113 (Down Salop Goods Loop) to Platform 7",
+      "detail": "R113(5M/C)"
+    },
+    {
+      "value": 0,
+      "bit": "6",
+      "context": "CE 114 (Up & Down Loop) to Up & Down Potteries (CE 198)",
+      "detail": "R114(1M)"
+    },
+    {
+      "value": 0,
+      "bit": "7",
+      "context": "CE 114 (Up & Down Loop) to Up & Down Potteries Loop (CE 196)",
+      "detail": "R114(2M)"
+    },
+    {
+      "value": 0,
+      "bit": "4",
+      "context": "CE 114 (Up & Down Loop) to Down Salop Goods Loop",
+      "detail": "R114(10S)"
+    },
+    {
+      "value": 0,
+      "bit": "5",
+      "context": "CE 114 (Up & Down Loop) to Siding (DED)",
+      "detail": "R114(11S)"
+    }
+  ],
+  "10": [
+    {
+      "value": 0,
+      "bit": "0",
+      "context": "CE 122 (Platform 6) to Up Main [Salop] (GL 9030)",
+      "detail": "R122(9M)"
+    },
+    {
+      "value": 0,
+      "bit": "2",
+      "context": "CE 124 (Down Fast) to Up & Down Potteries (CE 198)",
+      "detail": "R124(1M)"
+    },
+    {
+      "value": 0,
+      "bit": "3",
+      "context": "CE 124 (Down Fast) to Up & Down Potteries Loop (CE 196)",
+      "detail": "R124(2M)"
+    },
+    {
+      "value": 0,
+      "bit": "4",
+      "context": "CE 124 (Down Fast) to Up Fast (CE 104)",
+      "detail": "R124(5M/S)"
+    },
+    {
+      "value": 0,
+      "bit": "5",
+      "context": "CE 124 (Down Fast) to Up Slow (CE 102)",
+      "detail": "R124(6M)"
+    },
+    {
+      "value": 0,
+      "bit": "6",
+      "context": "CE 124 (Down Fast) to Up Slow (CE 102)",
+      "detail": "R124(7M/S)"
+    },
+    {
+      "value": 0,
+      "bit": "1",
+      "context": "CE 124 (Down Fast) to Up Main [Salop] (GL 9030)",
+      "detail": "R124(10M)"
+    }
+  ],
+  "05": [
+    {
+      "value": 0,
+      "bit": "2",
+      "context": "CE 112 (Platform 12) to Up & Down Potteries (CE 198)",
+      "detail": "R112(1M)"
+    },
+    {
+      "value": 0,
+      "bit": "3",
+      "context": "CE 112 (Platform 12) to Up & Down Potteries Loop (CE 196)",
+      "detail": "R112(2M)"
+    },
+    {
+      "value": 0,
+      "bit": "4",
+      "context": "CE 112 (Platform 12) to Up Fast (CE 104)",
+      "detail": "R112(5M/S)"
+    },
+    {
+      "value": 0,
+      "bit": "5",
+      "context": "CE 112 (Platform 12) to Up Slow (CE 102)",
+      "detail": "R112(6M/S)"
+    },
+    {
+      "value": 0,
+      "bit": "6",
+      "context": "CE 112 (Platform 12) to Up Main (Salop)",
+      "detail": "R112(9M)"
+    },
+    {
+      "value": 0,
+      "bit": "0",
+      "context": "CE 112 (Platform 12) to Down Salop Goods Loop",
+      "detail": "R112(10S)"
+    },
+    {
+      "value": 0,
+      "bit": "1",
+      "context": "CE 112 (Platform 12) to Siding (DED)",
+      "detail": "R112(11S)"
+    },
+    {
+      "value": 0,
+      "bit": "7",
+      "context": "CE 113 (Down Salop Goods Loop) to Platform 12 (CE 135)",
+      "detail": "R113(1M/C)"
+    }
+  ],
+  "2D": [
+    {
+      "value": 0,
+      "bit": "0",
+      "context": "Signal State",
+      "detail": "CE110"
+    },
+    {
+      "value": 0,
+      "bit": "2",
+      "context": "Signal State",
+      "detail": "CE112"
+    },
+    {
+      "value": 0,
+      "bit": "3",
+      "context": "Signal State",
+      "detail": "CE113"
+    },
+    {
+      "value": 0,
+      "bit": "4",
+      "context": "Signal State",
+      "detail": "CE114"
+    },
+    {
+      "value": 0,
+      "bit": "5",
+      "context": "Signal State",
+      "detail": "CE115"
+    },
+    {
+      "value": 0,
+      "bit": "6",
+      "context": "Signal State",
+      "detail": "CE116"
+    },
+    {
+      "value": 0,
+      "bit": "7",
+      "context": "Signal State",
+      "detail": "CE117"
+    }
+  ],
+  "1A": [
+    {
+      "value": 0,
+      "bit": "0",
+      "context": "CE 144 (Up Fast) to Platform 1 (CE 136)",
+      "detail": "R144(1M/C)"
+    },
+    {
+      "value": 0,
+      "bit": "1",
+      "context": "CE 144 (Up Fast) to Platform 5 (CE 128)",
+      "detail": "R144(2M/C/W)"
+    },
+    {
+      "value": 0,
+      "bit": "2",
+      "context": "CE 144 (Up Fast) to Up Fast (CE 126)",
+      "detail": "R144(3M)"
+    },
+    {
+      "value": 0,
+      "bit": "3",
+      "context": "CE 144 (Up Fast) to Down Fast (CE 124)",
+      "detail": "R144(4M)"
+    },
+    {
+      "value": 0,
+      "bit": "4",
+      "context": "CE 144 (Up Fast) to Down Fast (CE 124)",
+      "detail": "R144(5M)"
+    },
+    {
+      "value": 0,
+      "bit": "5",
+      "context": "CE 144 (Up Fast) to Platform 6 (CE 122)",
+      "detail": "R144(6M/C)"
+    },
+    {
+      "value": 0,
+      "bit": "6",
+      "context": "CE 144 (Up Fast) to Platform 6 (CE 122)",
+      "detail": "R144(7M/C)"
+    },
+    {
+      "value": 0,
+      "bit": "7",
+      "context": "CE 144 (Up Fast) to Platform 6 (CE 122)",
+      "detail": "R144(8M/C)"
+    }
+  ],
+  "20": [
+    {
+      "value": 0,
+      "bit": "0",
+      "context": "CE 154 (Up Manchester) to Down Manchester (CE 148)",
+      "detail": "R154(3M/W)"
+    },
+    {
+      "value": 0,
+      "bit": "1",
+      "context": "CE 155 (Up Fast) to Down Slow (CY 52)",
+      "detail": "R155(1M)"
+    },
+    {
+      "value": 0,
+      "bit": "2",
+      "context": "CE 155 (Up Fast) to Down Fast (CY 48)",
+      "detail": "R155(2M)"
+    },
+    {
+      "value": 0,
+      "bit": "3",
+      "context": "CE 155 (Up Fast) to Up Fast LOS",
+      "detail": "R155(3S)"
+    },
+    {
+      "value": 0,
+      "bit": "4",
+      "context": "CE 155 (Up Fast) to Up Slow LOS",
+      "detail": "R155(4S)"
+    },
+    {
+      "value": 0,
+      "bit": "5",
+      "context": "CE 155 (Up Fast) to Down Manchester (MS 4029)",
+      "detail": "R155(5M)"
+    },
+    {
+      "value": 0,
+      "bit": "6",
+      "context": "CE 157 (Platform 5) to Down Slow (CY 52)",
+      "detail": "R157(1M)"
+    },
+    {
+      "value": 0,
+      "bit": "7",
+      "context": "CE 157 (Platform 5) to Down Fast (CY 48)",
+      "detail": "R157(2M)"
+    }
+  ],
+  "2A": [
+    {
+      "value": 0,
+      "bit": "0",
+      "context": "CE 555 (Up and Down Potteries) to Platform 2",
+      "detail": "R555(3S)"
+    },
+    {
+      "value": 0,
+      "bit": "1",
+      "context": "CE 555 (Up and Down Potteries) to Platform 1 (CE 147)",
+      "detail": "R555(4S)"
+    },
+    {
+      "value": 0,
+      "bit": "2",
+      "context": "CE 561 (Holding Sidings) to Down Chester (CE 161)",
+      "detail": "R561(2S)"
+    },
+    {
+      "value": 0,
+      "bit": "3",
+      "context": "CE 561 (Holding Sidings) to Up Chester LOS",
+      "detail": "R561(3S)"
+    },
+    {
+      "value": 0,
+      "bit": "4",
+      "context": "CE 561 (Holding Sidings) to Down Slow (CY 52)",
+      "detail": "R561(4S)"
+    },
+    {
+      "value": 0,
+      "bit": "5",
+      "context": "CE 561 (Holding Sidings) to Down Fast (CY 48)",
+      "detail": "R561(5S)"
+    },
+    {
+      "value": 0,
+      "bit": "6",
+      "context": "CE 561 (Holding Sidings) to Up Fast LOS",
+      "detail": "R561(6S)"
+    },
+    {
+      "value": 0,
+      "bit": "7",
+      "context": "CE 561 (Holding Sidings) to Up Slow LOS",
+      "detail": "R561(7S)"
     }
   ]
 }

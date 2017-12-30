@@ -43,7 +43,7 @@ td_matrix = {}
 routing_table = {}
 
 logging.basicConfig(filename='crewe_td.log',
-                    level=logging.DEBUG,
+                    level=logging.INFO,
                     format=LOG_FORMAT,
                     filemode='w')
 logger = logging.getLogger()
@@ -54,23 +54,26 @@ class SVGFile:
     @staticmethod
     def check_svg_file():
 
+        """ This method looks for existing files and removes / refreshes as appropriate """
+
+        logger.info('Undertaking some file system house keeping...')
         full_orig_file = path.join(SVG_DIR, ORIG_SVG)
         full_wrk_file = path.join(SVG_DIR, WORKING_SVG)
 
         try:
             if path.isfile(full_wrk_file):
                 os.remove(full_wrk_file)
-                logger.info('Deleted {}'.format(full_wrk_file))
+                logger.info('....deleted old version of {}'.format(full_wrk_file))
 
             if path.isfile(full_orig_file):
                 copyfile(full_orig_file, full_wrk_file)
-                logger.info('Created new {}, based on {}'.format(full_wrk_file, full_orig_file))
+                logger.info('....created new {}, based on {}'.format(full_wrk_file, full_orig_file))
                 return full_wrk_file
             else:
-                logger.warning('Cannot find {}, Cannot Continue...'.format(full_orig_file))
+                logger.error('....cannot find {}, cannot continue...'.format(full_orig_file))
                 return None
-        except:
-            logger.error('Cannot find {}, Cannot Continue...'.format(full_orig_file))
+        except Exception as e:
+            logger.error('....cannot find {}, cannot continue...'.format(full_orig_file))
             return None
 
 
@@ -79,6 +82,7 @@ class IncomingMessageHandler:
     @staticmethod
     def make_valid_headcode(description):
 
+        logger.info('Trying to create valid headcode from {}'.format(description))
         letter = re.findall('[A-Z]', description)
         if len(letter) > 1:
             return description
@@ -88,16 +92,19 @@ class IncomingMessageHandler:
                 numbers.sort()
                 if int(numbers[2]) in (0, 4, 6, 7, 8):
                     new_headcode = '{}{}{}{}'.format(numbers[2], letter[0], numbers[0], numbers[1])
+
                 elif int(numbers[0]) in (0, 4, 6, 7, 8):
                     new_headcode = '{}{}{}{}'.format(numbers[0], letter[0], numbers[1], numbers[2])
                 elif int(numbers[1]) in (0, 4, 6, 7, 8):
                     new_headcode = '{}{}{}{}'.format(numbers[1], letter[0], numbers[0], numbers[2])
                 else:
+                    logger.info('....unable to create valid headcode from {}'.format(description))
                     return description
-
+                logger.info('....success! {} => {}'.format(description, new_headcode))
                 return new_headcode
 
             else:
+                logger.info('....unable to create valid headcode from {}'.format(description))
                 return description
 
     @staticmethod
@@ -108,12 +115,9 @@ class IncomingMessageHandler:
                 if v['area_id'] == 'CE':
                     with thread_queue_lock:
                         if k == 'CA_MSG':  # Berth Step Message
-
                             description = v['descr']
-
                             if not re.match(r'^[0-9][A-Z][0-9][0-9]$', description):
                                 description = IncomingMessageHandler.make_valid_headcode(description)
-
                             berth_from = v['from']
                             berth_to = v['to']
 
@@ -125,6 +129,8 @@ class IncomingMessageHandler:
                                 y = threading.Thread(target=svg_handler.clear_berth, args=(berth_from, ))
                                 y.daemon = True
                                 thread_queue.put(y)
+
+                                logger.info('Berth step: {} from: {}, to: {}'.format(description, berth_from, berth_to))
 
                         elif k == 'CC_MSG':  # Interpose Message
 
@@ -141,6 +147,8 @@ class IncomingMessageHandler:
                                 x.daemon = True
                                 thread_queue.put(x)
 
+                                logger.info('Description interpose: {} into berth {}'.format(description, berth))
+
                         elif k == 'CB_MSG':  # Cancel Message
 
                             berth = v['from']
@@ -150,6 +158,8 @@ class IncomingMessageHandler:
                                 y = threading.Thread(target=svg_handler.clear_berth, args=(berth,))
                                 y.daemon = True
                                 thread_queue.put(y)
+
+                                logger.info('Berth cancel: {}'.format(berth))
 
                         elif k == 'CT_MSG':  # TD Heartbeat
                             logger.info('TD Heartbeat received at {}'.format(v['report_time']))
@@ -194,34 +204,33 @@ class IncomingMessageHandler:
                             if str(td_matrix[address][x]['detail']).startswith('R'):
 
                                 if td_matrix[address][x]['value'] == 1:
-                                    print('Route Set: {}'.format(td_matrix[address][x]['context']))
+                                    logger.info('Route Set: {}'.format(td_matrix[address][x]['context']))
                                     svg_handler.set_route(td_matrix[address][x]['detail'])
                                 else:
-                                    print('Route Cancelled: {}'.format(td_matrix[address][x]['context']))
+                                    logger.info('Route Cancelled: {}'.format(td_matrix[address][x]['context']))
                                     svg_handler.set_route(td_matrix[address][x]['detail'], False)
 
                             if td_matrix[address][x]['context'] == 'Signal State':
 
                                 if td_matrix[address][x]['value'] == 1:
-                                    print('Signal OFF: {}'.format(format(td_matrix[address][x]['detail'])))
+                                    logger.info('Signal OFF: {}'.format(format(td_matrix[address][x]['detail'])))
                                     svg_handler.set_signal(td_matrix[address][x]['detail'], False)
                                 else:
-                                    print('Signal ON: {}'.format(format(td_matrix[address][x]['detail'])))
+                                    logger.info('Signal ON: {}'.format(format(td_matrix[address][x]['detail'])))
                                     svg_handler.set_signal(td_matrix[address][x]['detail'], True)
 
                             if td_matrix[address][x]['context'] == 'TRTS':
 
                                 if td_matrix[address][x]['value'] == 1:
-                                    print('{} Operated: {}'.format(td_matrix[address][x]['context'], td_matrix[address][x]['detail']))
+                                    logger.info('{} Operated: {}'.format(td_matrix[address][x]['context'], td_matrix[address][x]['detail']))
                                     svg_handler.show_trts(td_matrix[address][x]['detail'])
                                 else:
-                                    print('{} Cancelled: {}'.format(td_matrix[address][x]['context'], td_matrix[address][x]['detail']))
+                                    logger.info('{} Cancelled: {}'.format(td_matrix[address][x]['context'], td_matrix[address][x]['detail']))
                                     svg_handler.clear_trts(td_matrix[address][x]['detail'])
 
                         break
             else:  # Unknown Address, not found in sig_matrix
-                print(v)
-                pass
+                logger.info('Unknown address: {}, with data: {} received'.format(address, h_data))
 
 
 class SVGHandler:
@@ -239,7 +248,7 @@ class SVGHandler:
 
     def clear_all_routes(self):
 
-        logger.info('START: clear_all_routes')
+        logger.info('All routes cleared')
         with update_lock:
             for element in self.root.iterfind('.//{http://www.w3.org/2000/svg}g[@id="base_layer"]'):
                 for sub_elem in element.iterfind('.//{http://www.w3.org/2000/svg}g[@id="crewe_basic_track_layout"]'):
@@ -248,11 +257,8 @@ class SVGHandler:
                         style = re.sub(r'fill:#[0-9A-Za-z]*', 'fill:#ffffff', style)
                         e.set('style', style)
 
-            logger.info('END: clear_all_routes')
-
     def set_route(self, route, set_route=True):
 
-        logger.info('START: set_route')
         with update_lock:
             if route in routing_table:
                 for trk in routing_table[route]:
@@ -266,38 +272,32 @@ class SVGHandler:
                                 else:
                                     style = re.sub(r'fill:#[0-9A-Za-z]*', 'fill:#ffffff', style)
                                 e.set('style', style)
-            logger.info('END: set_route')
 
     def delete_all_berth_text(self):
 
-        logger.info('START: delete_all_berth_text')
+        logger.info('All berths cleared')
         with update_lock:
             for element in self.root.iterfind('.//{http://www.w3.org/2000/svg}g'):
                 if 'Berth' in str(element.attrib):
                     berth_list.append(element.get('id'))
                     for sub_elem in element.iterfind('.//{http://www.w3.org/2000/svg}tspan'):
                         sub_elem.text = ''
-            logger.info('END: delete_all_berth_text')
 
     def interpose_description(self, description, berth):
 
-        logger.info('START: interpose_description')
         with update_lock:
             search_string = './/{{http://www.w3.org/2000/svg}}g[@id="{}"]'.format(berth)
             for elem in self.root.iterfind(search_string):
                 for sub_elem in elem.iterfind('.//{http://www.w3.org/2000/svg}tspan'):
                     sub_elem.text = description
-            logger.info('END: interpose_description')
 
     def clear_berth(self, berth):
 
-        logger.info('START: clear_berth')
         self.interpose_description('', berth)
-        logger.info('END: clear_berth')
 
     def clear_all_trts(self):
 
-        logger.info('START: clear_all_trts')
+        logger.info('All TRTS Cleared')
         with update_lock:
             search_string = './/{http://www.w3.org/2000/svg}g[@id="trts"]'
             for elem in self.root.iterfind(search_string):
@@ -306,11 +306,9 @@ class SVGHandler:
                     style = sub_elem.get('style')
                     style = re.sub(r'fill:#[a-z0-9]*', 'fill:#ffe355', style)
                     sub_elem.set('style', style)
-            logger.info('END: clear_all_trts')
 
     def set_signal(self, signal, signal_on=True):
 
-        logger.info('START: set_signal')
         with update_lock:
             search_string = ".//{{http://www.w3.org/2000/svg}}g[@id='{}']".format(signal)
 
@@ -322,8 +320,10 @@ class SVGHandler:
 
                     if signal_on:
                         style_attrib = re.sub(r'fill:#[a-z0-9]*', 'fill:#ff0000', style_attrib)
+
                     else:
                         style_attrib = re.sub(r'fill:#[a-z0-9]*', 'fill:#59f442', style_attrib)
+
 
                     sub_elem.set('style', style_attrib)
 
@@ -338,11 +338,9 @@ class SVGHandler:
 
                     sub_elem.set('style', style_attrib)
 
-            logger.info('END: set_signal')
-
     def clear_trts(self, trts):
 
-        logger.info('START: clear_trts')
+        logger.info('Clear TRTS: {}'.format(trts))
 
         with update_lock:
             search_string = './/{{http://www.w3.org/2000/svg}}circle[@id="{}"]'.format(trts)
@@ -355,53 +353,50 @@ class SVGHandler:
 
     def show_trts(self, trts):
 
-        logger.info('START: show_trts')
+        logger.info('Showing TRTS: {}'.format(trts))
         with update_lock:
             search_string = './/{{http://www.w3.org/2000/svg}}circle[@id="{}"]'.format(trts)
             for elem in self.root.iterfind(search_string):
                 style = elem.get('style')
                 style = re.sub(r'fill:#[a-z0-9]*', 'fill:#ffffff', style)
                 elem.set('style', style)
-            logger.info('END: show_trts')
 
     @staticmethod
     def upload_to_server():
 
         try:
-
-            logger.info('START: upload_to_server')
-            ftp = FTP(FTP_SERVER)
-            print(ftp)
-            ftp.set_debuglevel(2)
             url_path = path.join(SVG_DIR, WORKING_SVG)
+            logger.info('Uploading {} to server'.format(url_path))
+            ftp = FTP(FTP_SERVER)
             with open(url_path, 'rb') as file:
-                logger.info('START: Login to FTP Server')
-                ftp.login(user=FTP_USER, passwd=FTP_PASS)
-                logger.info('END: Login to FTP Server')
-                logger.info('START: Upload')
-                ftp.storbinary(f'STOR ' + WORKING_SVG, file, 1024)
-                logger.info('END: Upload')
-                logger.info(ftp.retrlines('LIST'))
+
+                logger.info('....{} opened for binary read'.format(url_path))
+                logger.info('....attempting ftp server login')
+                logger.info('........{}'.format(ftp.login(user=FTP_USER, passwd=FTP_PASS)))
+
+                logger.info('....attempting to upload {} to ftp server'.format(url_path))
+                logger.info('........{}'.format(ftp.storbinary('STOR ' + WORKING_SVG, file, 1024)))
+
                 try:
                     ftp.quit()
                 finally:
                     pass
 
         except Exception as e:
-            logger.warning('Failed to upload file to server: {}'.format(e))
+            logger.warning('....failed to upload file to server: {}'.format(e))
         finally:
-            logger.info('END: upload_to_server')
+            pass
 
     @staticmethod
     def refresh():
 
-        logger.info('START: refresh')
         if path.isfile(path.join(SVG_DIR, WORKING_SVG)):
             with open(path.join(SVG_DIR, WORKING_SVG), 'a'):
                 threading.Thread(target=svg_handler.upload_to_server()).start()
-        logger.info('END: refresh')
 
     def queue_thread(self):
+
+        """ This method is ran as a thread, and starts threads in the thread queue, max of 10 at a time"""
 
         while True:
             if not thread_queue.empty():
@@ -414,19 +409,19 @@ class SVGHandler:
                     for x in range(mx):
                         m = thread_queue.get()
                         m.setName(self.thread_number)
-                        print('Starting Thread: {}'.format(m.getName()))
+                        logger.debug('Starting Thread: {}'.format(m.getName()))
                         m.start()
                         m.join()
                         thread_queue.task_done()
                         self.thread_number += 1
-                        print('Thread {} ended'.format(m.getName()))
+                        logger.debug('Thread {} ended'.format(m.getName()))
 
                 with update_lock:
                     logger.info('START: Writing SVG')
                     self.tree.write(path.join(SVG_DIR, WORKING_SVG))
                     logger.info('END: Writing SVG')
                     self.refresh()
-                    print('{} Threads Ran'.format(mx))
+                    logger.debug('{} Threads Ran'.format(mx))
 
 
 class SOPBuilder:
@@ -436,10 +431,18 @@ class SOPBuilder:
 
         """ This method reads in the details from the CSV and populates the td_matrix array """
 
+        total_trts = 0
+        total_signal = 0
+        total_route = 0
+
+        logger.info('Attempting to populate td_matrix...')
         full_file_name = path.join(CSV_DIR, CSV_FILE)
         if path.isfile(full_file_name):
+            logger.info('....Found {}'.format(full_file_name))
             with open(full_file_name) as csv_file:
                 csv_data = csv.reader(csv_file, delimiter=',')
+                logger.info('....Reading {}'.format(full_file_name))
+
                 for row in csv_data:
 
                     address = str(row[1]).zfill(2)
@@ -449,12 +452,14 @@ class SOPBuilder:
                     value = 0
 
                     if detail.startswith('P'):  # TRTS
-                        pass
+                        total_trts += 1
                     elif detail.startswith('S'):  # Signal State
+                        total_signal += 1
                         detail = re.findall(r'[0-9]{3,4}', detail)
                         detail = 'CE{}'.format(detail[0])
                     elif detail.startswith('R'):  # Route
                         context = str(row[5])
+                        total_route += 1
                         if row[12]:
                             tracks = str(row[12]).replace(' ', '')
                             routing_tracks = tracks.split(',')
@@ -468,20 +473,37 @@ class SOPBuilder:
 
                             td_matrix[address].append({'bit': bit, 'detail': detail, 'context': context, 'value': value})
 
+            logger.info('Summary of {}...'.format(full_file_name))
+            logger.info('....{} signals found'.format(total_signal))
+            logger.info('....{} routes found'.format(total_route))
+            logger.info('....{} TRTS found'.format(total_trts))
+
     @staticmethod
     def print_json_to_file():
 
+        """ This method prints the contents of the td_matrix to a json file """
+
+        logger.info('Outputting td_matrix to json...')
         file_name = path.join(JSON_DIR, JSON_FILE)
-        with open(file_name, 'w') as jf:
-            json.dump(td_matrix, jf, indent=2)
+        logger.info('....working with {}'.format(file_name))
+
+        try:
+            with open(file_name, 'w') as jf:
+                json.dump(td_matrix, jf, indent=2)
+        except Exception as e:
+
+            logger.warning('....unable to write json file.')
+            return
+
+        finally:
+            logger.info('....{} created.'.format(file_name))
 
 
 if __name__ == '__main__':
 
     logger.info('Application Start')
-    print('Track Worker Safety v2.0')
+    print('Starting Track Worker Safety v2.0...')
     svg_path = SVGFile.check_svg_file()
-    print(svg_path)
 
     if svg_path:
 
@@ -491,9 +513,6 @@ if __name__ == '__main__':
         svg_handler.delete_all_berth_text()
         svg_handler.clear_all_trts()
         svg_handler.clear_all_routes()
-        svg_handler.interpose_description('NOGO', '0570')
-        svg_handler.interpose_description('BTET', '0202')
-        svg_handler.interpose_description('RUST', '0110')
         th = threading.Thread(target=svg_handler.queue_thread)
         th.setName('Queue Manager Thread')
         th.daemon = True
