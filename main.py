@@ -9,6 +9,7 @@ import threading
 from ftplib import FTP
 from queue import Queue
 import logging
+import pika
 
 try:
     import xml.etree.cElementTree as ET
@@ -25,11 +26,27 @@ JSON_DIR = 'json'
 CSV_FILE = 'crewe_td.csv'
 CSV_DIR = 'csv'
 
-FTP_SERVER = 'ftp.jgm-net.co.uk'
-FTP_USER = 'crewe@jgm-net.co.uk'
-FTP_PASS = '74!VyJxWK'
-
 LOG_FORMAT = '%(levelname)s %(asctime)s - %(message)s'
+
+MSG_BROKER = '192.168.1.88'
+MB_USER = 'moss495'
+MB_PASS = 'moss495'
+MB_PORT = 5672
+
+credentials = pika.PlainCredentials(MB_USER, MB_PASS)
+parameters = pika.ConnectionParameters(MSG_BROKER, MB_PORT, '/', credentials)
+send_message_properties = pika.BasicProperties(expiration='10000', )
+
+
+def send_to_broker(msg):
+
+    connection = pika.BlockingConnection(parameters)
+    channel = connection.channel()
+    channel.queue_declare(queue='svg')
+
+    channel.basic_publish(exchange='', routing_key='svg', body=msg, properties=send_message_properties)
+    connection.close()
+
 
 svg_handler = None
 SCALE = 16
@@ -362,32 +379,6 @@ class SVGHandler:
                 elem.set('style', style)
 
     @staticmethod
-    def upload_to_server():
-
-        try:
-            url_path = path.join(SVG_DIR, WORKING_SVG)
-            logger.info('Uploading {} to server'.format(url_path))
-            ftp = FTP(FTP_SERVER)
-            with open(url_path, 'rb') as file:
-
-                logger.info('....{} opened for binary read'.format(url_path))
-                logger.info('....attempting ftp server login')
-                logger.info('........{}'.format(ftp.login(user=FTP_USER, passwd=FTP_PASS)))
-
-                logger.info('....attempting to upload {} to ftp server'.format(url_path))
-                logger.info('........{}'.format(ftp.storbinary('STOR ' + WORKING_SVG, file, 1024)))
-
-                try:
-                    ftp.quit()
-                finally:
-                    pass
-
-        except Exception as e:
-            logger.warning('....failed to upload file to server: {}'.format(e))
-        finally:
-            pass
-
-    @staticmethod
     def refresh():
 
         if path.isfile(path.join(SVG_DIR, WORKING_SVG)):
@@ -417,11 +408,16 @@ class SVGHandler:
                         logger.debug('Thread {} ended'.format(m.getName()))
 
                 with update_lock:
-                    logger.info('START: Writing SVG')
+
+                    logger.info('Writing SVG...')
                     self.tree.write(path.join(SVG_DIR, WORKING_SVG))
-                    logger.info('END: Writing SVG')
-                    self.refresh()
-                    logger.debug('{} Threads Ran'.format(mx))
+                    logger.info('....success!')
+
+                    logger.info('Sending message to broker...')
+                    send_to_broker(ET.tostring(self.root, method='xml'))
+                    logger.info('....success!')
+
+                    logger.info('{} Threads processed on this pass'.format(mx))
 
 
 class SOPBuilder:
