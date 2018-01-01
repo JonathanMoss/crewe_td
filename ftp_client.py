@@ -34,10 +34,12 @@ channel.queue_declare(queue='svg')
 
 def callback(ch, method, properties, body):
 
+    logger.info('Message received from broker...')
     ftp = FTP(FTP_SERVER)
-    ftp.login(user=FTP_USER, passwd=FTP_PASS)
+    logger.info('....{}'.format(ftp.login(user=FTP_USER, passwd=FTP_PASS)))
     bio = io.BytesIO(body)
-    ftp.storbinary('STOR ' + WORKING_SVG, bio, 1024)
+    logger.info('....{}'.format(ftp.storbinary('STOR ' + WORKING_SVG, bio, 1024)))
+    logger.info('....message acknowledge.')
     ch.basic_ack(delivery_tag=method.delivery_tag)
 
 
