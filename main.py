@@ -6,7 +6,6 @@ import json
 from mq import Mq
 import csv
 import threading
-from ftplib import FTP
 from queue import Queue
 import logging
 import pika
@@ -15,6 +14,8 @@ try:
     import xml.etree.cElementTree as ET
 except ImportError:
     import xml.etree.ElementTree as ET
+
+CREDENTIALS_JSON = 'json/credentials.json'
 
 ORIG_SVG = 'crewe_td.svg'
 WORKING_SVG = 'crewe_td_wrk.svg'
@@ -26,12 +27,29 @@ JSON_DIR = 'json'
 CSV_FILE = 'crewe_td.csv'
 CSV_DIR = 'csv'
 
-LOG_FORMAT = '%(levelname)s %(asctime)s - %(message)s'
+MSG_BROKER = None
+MB_USER = None
+MB_PASS = None
+MB_PORT = None
 
-MSG_BROKER = '192.168.1.88'
-MB_USER = 'moss495'
-MB_PASS = 'moss495'
-MB_PORT = 5672
+LOG_FORMAT = '%(levelname)s %(asctime)s - %(message)s'
+logging.basicConfig(filename='crewe_td.log',
+                    level=logging.INFO,
+                    format=LOG_FORMAT,
+                    filemode='w')
+logger = logging.getLogger()
+
+if path.isfile(CREDENTIALS_JSON):
+    with open(CREDENTIALS_JSON, 'r') as js:
+        data = json.load(js)
+        MSG_BROKER = data['csv_msg_broker']['server']
+        MB_USER = data['csv_msg_broker']['user_name']
+        MB_PASS = data['csv_msg_broker']['password']
+        MB_PORT = int(data['csv_msg_broker']['port'])
+
+else:
+    logger.error('Cannot find "{}", cannot continue'.format(CREDENTIALS_JSON))
+    exit()
 
 credentials = pika.PlainCredentials(MB_USER, MB_PASS)
 parameters = pika.ConnectionParameters(MSG_BROKER, MB_PORT, '/', credentials)
@@ -59,11 +77,7 @@ berth_list = []
 td_matrix = {}
 routing_table = {}
 
-logging.basicConfig(filename='crewe_td.log',
-                    level=logging.INFO,
-                    format=LOG_FORMAT,
-                    filemode='w')
-logger = logging.getLogger()
+
 
 
 class SVGFile:
@@ -107,12 +121,12 @@ class IncomingMessageHandler:
             numbers = re.findall('[0-9]', description)
             if len(numbers) == 3:
                 numbers.sort()
-                if int(numbers[2]) in (0, 4, 6, 7, 8):
+                if int(numbers[2]) in (0, 4, 6, 7, 8, 5):
                     new_headcode = '{}{}{}{}'.format(numbers[2], letter[0], numbers[0], numbers[1])
 
-                elif int(numbers[0]) in (0, 4, 6, 7, 8):
+                elif int(numbers[0]) in (0, 4, 6, 7, 8, 5):
                     new_headcode = '{}{}{}{}'.format(numbers[0], letter[0], numbers[1], numbers[2])
-                elif int(numbers[1]) in (0, 4, 6, 7, 8):
+                elif int(numbers[1]) in (0, 4, 6, 7, 8, 5):
                     new_headcode = '{}{}{}{}'.format(numbers[1], letter[0], numbers[0], numbers[2])
                 else:
                     logger.info('....unable to create valid headcode from {}'.format(description))

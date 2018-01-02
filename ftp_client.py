@@ -3,34 +3,66 @@ import ftplib
 import logging
 import pika
 import io
+import socket
+import time
+import json
+from os import path
 
-FTP_SERVER = 'ftp.jgm-net.co.uk'
-FTP_USER = 'crewe@jgm-net.co.uk'
-FTP_PASS = '74!VyJxWK'
-
-WORKING_SVG = 'crewe_td_wrk.svg'
-
+CREDENTIALS_JSON = 'json/credentials.json'
 LOG_FORMAT = '%(levelname)s %(asctime)s - %(message)s'
+WORKING_SVG = 'crewe_td_wrk.svg'
+MSG_BROKER = None
+MB_USER = None
+MB_PASS = None
+MB_PORT = None
+FTP_SERVER = None
+FTP_USER = None
+FTP_PASS = None
 
 logging.basicConfig(filename='crewe_ftp.log',
-                    level=logging.INFO,
+                    level=logging.DEBUG,
                     format=LOG_FORMAT,
                     filemode='w')
 
 logger = logging.getLogger()
 
-MSG_BROKER = '192.168.1.88'
-MB_USER = 'crewe_ftp'
-MB_PASS = 'crewe_ftp'
-MB_PORT = 5672
+if path.isfile(CREDENTIALS_JSON):
+    with open(CREDENTIALS_JSON, 'r') as js:
+        data = json.load(js)
+        MSG_BROKER = data['ftp_msg_broker']['server']
+        MB_USER = data['ftp_msg_broker']['user_name']
+        MB_PASS = data['ftp_msg_broker']['password']
+        MB_PORT = int(data['ftp_msg_broker']['port'])
+        FTP_SERVER = data['ftp']['server']
+        FTP_USER = data['ftp']['user_name']
+        FTP_PASS = data['ftp']['password']
+else:
+    logger.error('Cannot find "{}", cannot continue'.format(CREDENTIALS_JSON))
+    exit()
 
+channel = None
 credentials = pika.PlainCredentials(MB_USER, MB_PASS)
-parameters = pika.ConnectionParameters(MSG_BROKER, MB_PORT, '/', credentials)
-send_message_properties = pika.BasicProperties(expiration='10000', )
+parameters = pika.ConnectionParameters(MSG_BROKER,
+                                       MB_PORT,
+                                       '/',
+                                       credentials,
+                                       heartbeat_interval=90,
+                                       retry_delay=5,
+                                       socket_timeout=90,
+                                       connection_attempts=10)
 
-connection = pika.BlockingConnection(parameters)
-channel = connection.channel()
-channel.queue_declare(queue='svg')
+
+def create_connection():
+
+    logger.info('Creating connection to message broker...')
+    global channel
+    connection = pika.BlockingConnection(parameters)
+    logger.info('....{}'.format(parameters))
+    channel = connection.channel()
+    channel.queue_declare(queue='svg')
+    channel.basic_qos(prefetch_count=1)
+    channel.basic_consume(callback, queue='svg')
+    logger.info('....success!')
 
 
 def callback(ch, method, properties, body):
@@ -42,7 +74,8 @@ def callback(ch, method, properties, body):
             bio = io.BytesIO(body)
             logger.info('....{}'.format(ftp.storbinary('STOR ' + WORKING_SVG, bio, 1024)))
             logger.info('....message acknowledge.')
-            ch.basic_ack(delivery_tag=method.delivery_tag)
+    except socket.error as e:
+        logger.error('Socket error: {}'.format(e))
     except ftplib.error_reply as e:
         logger.error('Unexpected reply received from the server: {}'.format(e))
     except ftplib.error_temp as e:
@@ -53,7 +86,33 @@ def callback(ch, method, properties, body):
         logger.error('Temporary error (response codes in the range 400–499): {}'.format(e))
     except Exception as e:
         logger.error('Non-FTP error: {}'.format(e))
+    finally:
+        ch.basic_ack(delivery_tag=method.delivery_tag)
 
 
-channel.basic_consume(callback, queue='svg')
-channel.start_consuming()
+def receive_messages():
+    logger.info('Attempting to consume messages')
+    global channel
+    try:
+        channel.start_consuming()
+    except pika.exceptions.AMQPConnectionError as e:
+        logger.error(str(e))
+        logger.debug('Attempting to reconnect to message broker(pika)...')
+        time.sleep(2)
+        create_connection()
+        receive_messages()
+    except Exception as e:
+        logger.error(str(e))
+        logger.debug('Attempting to reconnect to message broker(other)...')
+        time.sleep(2)
+        create_connection()
+        receive_messages()
+
+
+def main():
+    create_connection()
+    receive_messages()
+
+
+if __name__ == '__main__':
+    main()
