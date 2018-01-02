@@ -8,7 +8,11 @@ import csv
 import threading
 from queue import Queue
 import logging
-import pika
+#import pika
+from ftplib import FTP
+import socket
+import ftplib
+import io
 
 try:
     import xml.etree.cElementTree as ET
@@ -31,40 +35,18 @@ MSG_BROKER = None
 MB_USER = None
 MB_PASS = None
 MB_PORT = None
+FTP_SERVER = None
+FTP_USER = None
+FTP_PASS = None
 
 LOG_FORMAT = '%(levelname)s %(asctime)s - %(message)s'
+
 logging.basicConfig(filename='crewe_td.log',
                     level=logging.INFO,
                     format=LOG_FORMAT,
                     filemode='w')
+
 logger = logging.getLogger()
-
-if path.isfile(CREDENTIALS_JSON):
-    with open(CREDENTIALS_JSON, 'r') as js:
-        data = json.load(js)
-        MSG_BROKER = data['svg_msg_broker']['server']
-        MB_USER = data['svg_msg_broker']['user_name']
-        MB_PASS = data['svg_msg_broker']['password']
-        MB_PORT = int(data['svg_msg_broker']['port'])
-
-else:
-    logger.error('Cannot find "{}", cannot continue'.format(CREDENTIALS_JSON))
-    exit()
-
-credentials = pika.PlainCredentials(MB_USER, MB_PASS)
-parameters = pika.ConnectionParameters(MSG_BROKER, MB_PORT, '/', credentials)
-send_message_properties = pika.BasicProperties(expiration='10000', )
-
-
-def send_to_broker(msg):
-
-    connection = pika.BlockingConnection(parameters)
-    channel = connection.channel()
-    channel.queue_declare(queue='svg')
-
-    channel.basic_publish(exchange='', routing_key='svg', body=msg, properties=send_message_properties)
-    connection.close()
-
 
 svg_handler = None
 SCALE = 16
@@ -77,7 +59,58 @@ berth_list = []
 td_matrix = {}
 routing_table = {}
 
+if path.isfile(CREDENTIALS_JSON):
+    with open(CREDENTIALS_JSON, 'r') as js:
+        data = json.load(js)
+        MSG_BROKER = data['svg_msg_broker']['server']
+        MB_USER = data['svg_msg_broker']['user_name']
+        MB_PASS = data['svg_msg_broker']['password']
+        MB_PORT = int(data['svg_msg_broker']['port'])
+        FTP_SERVER = data['ftp']['server']
+        FTP_USER = data['ftp']['user_name']
+        FTP_PASS = data['ftp']['password']
 
+else:
+    logger.error('Cannot find "{}", cannot continue'.format(CREDENTIALS_JSON))
+    exit()
+
+# credentials = pika.PlainCredentials(MB_USER, MB_PASS)
+# parameters = pika.ConnectionParameters(MSG_BROKER, MB_PORT, '/', credentials)
+# send_message_properties = pika.BasicProperties(expiration='10000', )
+#
+#
+# def send_to_broker(msg):
+#
+#     connection = pika.BlockingConnection(parameters)
+#     channel = connection.channel()
+#     channel.queue_declare(queue='svg')
+#
+#     channel.basic_publish(exchange='', routing_key='svg', body=msg, properties=send_message_properties)
+#     connection.close()
+
+
+def file_transfer(body):
+
+    try:
+        with FTP(FTP_SERVER, timeout=10) as ftp:
+            logger.info('....{}'.format(ftp.login(user=FTP_USER, passwd=FTP_PASS)))
+            bio = io.BytesIO(body)
+            logger.info('....{}'.format(ftp.storbinary('STOR ' + WORKING_SVG, bio, 1024)))
+            #logger.info('....message acknowledge.')
+    except socket.error as e:
+        logger.error('Socket error: {}'.format(e))
+    except ftplib.error_reply as e:
+        logger.error('Unexpected reply received from the server: {}'.format(e))
+    except ftplib.error_temp as e:
+        logger.error('Temporary error (response codes in the range 400–499): {}'.format(e))
+    except ftplib.error_perm as e:
+        logger.error('Permanent error (response codes in the range 500–599): {}'.format(e))
+    except ftplib.error_proto as e:
+        logger.error('Temporary error (response codes in the range 400–499): {}'.format(e))
+    except Exception as e:
+        logger.error('Non-FTP error: {}'.format(e))
+    #finally:
+        #ch.basic_ack(delivery_tag=method.delivery_tag)
 
 
 class SVGFile:
@@ -355,7 +388,6 @@ class SVGHandler:
                     else:
                         style_attrib = re.sub(r'fill:#[a-z0-9]*', 'fill:#59f442', style_attrib)
 
-
                     sub_elem.set('style', style_attrib)
 
                 for sub_elem in elem.iterfind('.//{http://www.w3.org/2000/svg}circle'):
@@ -428,7 +460,7 @@ class SVGHandler:
                     logger.info('....success!')
 
                     logger.info('Sending message to broker...')
-                    send_to_broker(ET.tostring(self.root, method='xml'))
+                    file_transfer(ET.tostring(self.root, method='xml'))
                     logger.info('....success!')
 
                     logger.info('{} Threads processed on this pass'.format(mx))
