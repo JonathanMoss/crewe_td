@@ -1,4 +1,5 @@
 from ftplib import FTP
+import ftplib
 import logging
 import pika
 import io
@@ -35,12 +36,23 @@ channel.queue_declare(queue='svg')
 def callback(ch, method, properties, body):
 
     logger.info('Message received from broker...')
-    ftp = FTP(FTP_SERVER)
-    logger.info('....{}'.format(ftp.login(user=FTP_USER, passwd=FTP_PASS)))
-    bio = io.BytesIO(body)
-    logger.info('....{}'.format(ftp.storbinary('STOR ' + WORKING_SVG, bio, 1024)))
-    logger.info('....message acknowledge.')
-    ch.basic_ack(delivery_tag=method.delivery_tag)
+    try:
+        with FTP(FTP_SERVER, timeout=10) as ftp:
+            logger.info('....{}'.format(ftp.login(user=FTP_USER, passwd=FTP_PASS)))
+            bio = io.BytesIO(body)
+            logger.info('....{}'.format(ftp.storbinary('STOR ' + WORKING_SVG, bio, 1024)))
+            logger.info('....message acknowledge.')
+            ch.basic_ack(delivery_tag=method.delivery_tag)
+    except ftplib.error_reply as e:
+        logger.error('Unexpected reply received from the server: {}'.format(e))
+    except ftplib.error_temp as e:
+        logger.error('Temporary error (response codes in the range 400–499): {}'.format(e))
+    except ftplib.error_perm as e:
+        logger.error('Permanent error (response codes in the range 500–599): {}'.format(e))
+    except ftplib.error_proto as e:
+        logger.error('Temporary error (response codes in the range 400–499): {}'.format(e))
+    except Exception as e:
+        logger.error('Non-FTP error: {}'.format(e))
 
 
 channel.basic_consume(callback, queue='svg')
