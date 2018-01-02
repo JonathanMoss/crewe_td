@@ -42,10 +42,10 @@ logger = logging.getLogger()
 if path.isfile(CREDENTIALS_JSON):
     with open(CREDENTIALS_JSON, 'r') as js:
         data = json.load(js)
-        MSG_BROKER = data['csv_msg_broker']['server']
-        MB_USER = data['csv_msg_broker']['user_name']
-        MB_PASS = data['csv_msg_broker']['password']
-        MB_PORT = int(data['csv_msg_broker']['port'])
+        MSG_BROKER = data['svg_msg_broker']['server']
+        MB_USER = data['svg_msg_broker']['user_name']
+        MB_PASS = data['svg_msg_broker']['password']
+        MB_PORT = int(data['svg_msg_broker']['port'])
 
 else:
     logger.error('Cannot find "{}", cannot continue'.format(CREDENTIALS_JSON))
