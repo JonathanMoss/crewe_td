@@ -109,6 +109,8 @@ def file_transfer(body):
         logger.error('Temporary error (response codes in the range 400–499): {}'.format(e))
     except Exception as e:
         logger.error('Non-FTP error: {}'.format(e))
+    else:
+        logger.info('....success!')
     #finally:
         #ch.basic_ack(delivery_tag=method.delivery_tag)
 
@@ -153,20 +155,9 @@ class IncomingMessageHandler:
         else:
             numbers = re.findall('[0-9]', description)
             if len(numbers) == 3:
-                numbers.sort()
-                if int(numbers[2]) in (0, 4, 6, 7, 8, 5):
-                    new_headcode = '{}{}{}{}'.format(numbers[2], letter[0], numbers[0], numbers[1])
-
-                elif int(numbers[0]) in (0, 4, 6, 7, 8, 5):
-                    new_headcode = '{}{}{}{}'.format(numbers[0], letter[0], numbers[1], numbers[2])
-                elif int(numbers[1]) in (0, 4, 6, 7, 8, 5):
-                    new_headcode = '{}{}{}{}'.format(numbers[1], letter[0], numbers[0], numbers[2])
-                else:
-                    logger.info('....unable to create valid headcode from {}'.format(description))
-                    return description
-                logger.info('....success! {} => {}'.format(description, new_headcode))
+                new_headcode = '{}{}{}{}'.format(numbers[0], letter[0], numbers[1], numbers[2])
+                logger.info('....done! {} => {}'.format(description, new_headcode))
                 return new_headcode
-
             else:
                 logger.info('....unable to create valid headcode from {}'.format(description))
                 return description
@@ -397,7 +388,10 @@ class SVGHandler:
                     if signal_on:
                         style_attrib = re.sub(r'fill:#[a-z0-9]*', 'fill:#ff0000', style_attrib)
                     else:
-                        style_attrib = re.sub(r'fill:#[a-z0-9]*', 'fill:#59f442', style_attrib)
+                        if str(signal)[2] == '5':
+                            style_attrib = re.sub(r'fill:#[a-z0-9]*', 'fill:#ffffff', style_attrib)
+                        else:
+                            style_attrib = re.sub(r'fill:#[a-z0-9]*', 'fill:#59f442', style_attrib)
 
                     sub_elem.set('style', style_attrib)
 
@@ -459,9 +453,8 @@ class SVGHandler:
                     self.tree.write(path.join(SVG_DIR, WORKING_SVG))
                     logger.info('....success!')
 
-                    logger.info('Sending message to broker...')
+                    logger.info('Sending message to ftp server...')
                     file_transfer(ET.tostring(self.root, method='xml'))
-                    logger.info('....success!')
 
                     logger.info('{} Threads processed on this pass'.format(mx))
 
