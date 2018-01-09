@@ -397,6 +397,8 @@ class SVGHandler:
 
     def clear_trts(self, trts):
 
+        """ This method indicates that a TRTS has been cancelled """
+
         logger.info('Clear TRTS: {}'.format(trts))
 
         with update_lock:
@@ -410,6 +412,8 @@ class SVGHandler:
 
     def show_trts(self, trts):
 
+        """ This method indicates that a TRTS button has been pressed """
+
         logger.info('Showing TRTS: {}'.format(trts))
         with update_lock:
             search_string = './/{{http://www.w3.org/2000/svg}}circle[@id="{}"]'.format(trts)
@@ -418,12 +422,12 @@ class SVGHandler:
                 style = re.sub(r'fill:#[a-z0-9]*', 'fill:#ffffff', style)
                 elem.set('style', style)
 
-    @staticmethod
-    def refresh():
-
-        if path.isfile(path.join(SVG_DIR, WORKING_SVG)):
-            with open(path.join(SVG_DIR, WORKING_SVG), 'a'):
-                threading.Thread(target=svg_handler.upload_to_server()).start()
+    # @staticmethod
+    # def refresh():
+    #
+    #     if path.isfile(path.join(SVG_DIR, WORKING_SVG)):
+    #         with open(path.join(SVG_DIR, WORKING_SVG), 'a'):
+    #             threading.Thread(target=svg_handler.upload_to_server()).start()
 
     def queue_thread(self):
 
