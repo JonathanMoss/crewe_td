@@ -43,8 +43,8 @@
      showguides="true"
      units="px"
      inkscape:current-layer="base_layer"
-     inkscape:cx="4695.3519"
-     inkscape:cy="402.82166"
+     inkscape:cx="2323.0558"
+     inkscape:cy="613.54129"
      inkscape:document-units="mm"
      inkscape:guide-bbox="true"
      inkscape:measure-end="1373.33,908.743"
@@ -59,7 +59,7 @@
      inkscape:window-width="1600"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
-     inkscape:zoom="1">
+     inkscape:zoom="0.5">
     <sodipodi:guide
        id="guide6981"
        orientation="1,0"
@@ -135,7 +135,7 @@
      inkscape:groupmode="layer"
      inkscape:label="Base Layer">
     <path
-       d="M -366.9113,6.8387862 H 921.01684 V 330.54165 H -366.9113 Z"
+       d="M -363.42314,6.8387858 H 924.505 V 330.54165 H -363.42314 Z"
        id="track_1"
        label="Routing Track 1"
        style="opacity:1;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.22324219;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.66972662, 0.66972662;stroke-dashoffset:0;stroke-opacity:1"
@@ -179,7 +179,7 @@
          inkscape:connector-curvature="0"
          inkscape:label="Routing Track 5" />
       <path
-         d="m 43.225056,124.31081 6.347432,16.3749 h -1.757802 l -6.347434,-16.3749 z"
+         d="m 55.869636,124.31081 6.347432,16.3749 h -1.757802 l -6.347434,-16.3749 z"
          id="track_6"
          label="Routing Track 6"
          style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#241c1c;stroke-width:0.4191497;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -371,6 +371,14 @@
          sodipodi:nodetypes="ccccc"
          inkscape:connector-curvature="0"
          inkscape:label="Routing Track 30" />
+      <path
+         inkscape:label="Routing Track 6"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc"
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#241c1c;stroke-width:0.4191497;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         label="Routing Track 6"
+         id="path6435"
+         d="m 49.558764,124.31081 -6.347432,16.3749 h 1.757802 l 6.347434,-16.3749 z" />
       <path
          d="M -18.076104,123.5817 H 205.43827 v 1.28235 H -18.076104 Z"
          id="track_31"
@@ -2809,7 +2817,7 @@
          style="opacity:1;fill:#ffe680;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.15814893;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          label="Routing Track 259"
          id="path5266"
-         d="m 56.729125,107.17126 -6.40813,16.40435 h 1.648246 l 5.906707,-15.12217 h 9.927628 v -1.28218 h -9.426661 z" />
+         d="m 65.013505,107.17126 -6.40813,16.40435 h 1.648246 l 5.906707,-15.12217 h 9.927628 v -1.28218 h -9.426661 z" />
       <path
          d="m 67.803576,107.17126 h 11.684427 v 1.28235 H 67.803576 Z"
          id="path5268"
@@ -2824,6 +2832,28 @@
          label="Routing Track 34"
          id="path6070"
          d="m 132.13459,107.17126 h 10.99881 v 1.28235 h -10.99881 z" />
+      <path
+         inkscape:label="Routing Track 14"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc"
+         style="opacity:1;fill:#00aad4;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.10442584;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         label="Routing Track 14"
+         id="path6379"
+         d="m 40.693856,107.60714 6.24853,15.94346 -1.80208,-0.0319 -6.20426,-15.91899 z" />
+      <path
+         inkscape:label="Routing Track 15"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:#00aad4;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.09868176;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         label="Routing Track 15"
+         id="path6381"
+         d="m 25.502396,107.60714 h 15.19146 v 1.28235 h -15.19146 z" />
+      <path
+         inkscape:label="Routing Track 98"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:#ffe680;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.16259791;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         label="Routing Track 98"
+         id="path6383"
+         d="m -18.254415,107.60714 h 43.756811 v 1.28234 h -43.756811 z" />
     </g>
     <g
        id="crewe_station"
@@ -3894,14 +3924,14 @@
       <text
          id="text5232"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:3.3972497px;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="18.046082"
+         x="-1.1387941"
          y="117.07119"
          xml:space="preserve"><tspan
            id="tspan5230"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
-           x="18.046082"
+           x="-1.1387941"
            y="117.07119"
-           sodipodi:role="line">GL TBC</tspan></text>
+           sodipodi:role="line">GL 9019</tspan></text>
       <text
          id="text5240"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:3.3972497px;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -5436,25 +5466,36 @@
       <text
          xml:space="preserve"
          y="150.93756"
-         x="-16.979372"
+         x="-19.595491"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:3.3972497px;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
          id="text6072"><tspan
            sodipodi:role="line"
            y="150.93756"
-           x="-16.979372"
+           x="-19.595491"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
            id="tspan6074">GL 9012</tspan></text>
       <text
          id="text6092"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:3.3972497px;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="30.046869"
+         x="26.12269"
          y="134.84821"
          xml:space="preserve"><tspan
            id="tspan6095"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
-           x="30.046869"
+           x="26.12269"
            y="134.84821"
            sodipodi:role="line">GL 9023</tspan></text>
+      <text
+         xml:space="preserve"
+         y="101.71069"
+         x="26.12269"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:3.3972497px;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         id="text6411"><tspan
+           sodipodi:role="line"
+           y="101.71069"
+           x="26.12269"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
+           id="tspan6409">GL 9021</tspan></text>
     </g>
     <g
        id="BH11"
@@ -6777,10 +6818,10 @@
          inkscape:label="Left Aspect" />
     </g>
     <g
-       id="GLTBC"
+       id="GL9019"
        style="fill:#000000"
-       transform="matrix(0.09664062,0,0,0.09664062,19.280279,107.13751)"
-       inkscape:label="Signal GL TBC">
+       transform="matrix(0.09664062,0,0,0.09664062,0.09540124,107.13751)"
+       inkscape:label="Signal GL 9019">
       <rect
          height="7.2162771"
          id="rect5206"
@@ -6809,7 +6850,7 @@
     </g>
     <g
        id="A111"
-       transform="translate(-80.615702,-48.656807)"
+       transform="translate(-80.615702,-87.24457)"
        inkscape:label="Berth A111">
       <rect
          height="5.970933"
@@ -6834,7 +6875,7 @@
     </g>
     <g
        id="B111"
-       transform="translate(-98.380574,-48.656807)"
+       transform="translate(-98.380574,-87.24457)"
        inkscape:label="Berth B111">
       <rect
          height="5.970933"
@@ -10532,7 +10573,7 @@
     </g>
     <g
        id="A125"
-       transform="translate(-80.615702,-48.889351)"
+       transform="translate(-80.615702,-78.756716)"
        inkscape:label="Berth A125">
       <rect
          height="5.970933"
@@ -10588,7 +10629,7 @@
     </g>
     <g
        id="B125"
-       transform="translate(-98.380574,-48.889351)"
+       transform="translate(-98.380574,-78.756716)"
        inkscape:label="Berth B125">
       <rect
          height="5.970933"
@@ -12313,31 +12354,6 @@
            sodipodi:role="line">0176</tspan></text>
     </g>
     <g
-       inkscape:label="Berth 0543"
-       transform="translate(-314.43658,27.697746)"
-       id="g6240">
-      <rect
-         inkscape:label="Berth Rect"
-         y="169.99109"
-         x="81.877373"
-         width="15.176927"
-         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#241c1c;stroke-width:0.28812453;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="rect6242"
-         height="5.970933" />
-      <text
-         xml:space="preserve"
-         inkscape:label="Berth Text"
-         y="174.77765"
-         x="83.3377"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:3.3972497px;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         id="text6244"><tspan
-           sodipodi:role="line"
-           y="174.77765"
-           x="83.3377"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
-           id="tspan6246">0543</tspan></text>
-    </g>
-    <g
        inkscape:label="Ground Position Light CE 521"
        transform="translate(-320.70686,36.931898)"
        id="CE521">
@@ -12777,7 +12793,7 @@
     </g>
     <g
        inkscape:label="Signal GL 9030"
-       transform="matrix(-0.09664062,0,0,-0.09664062,-5.5721726,158.38006)"
+       transform="matrix(-0.09664062,0,0,-0.09664062,-8.188292,158.38006)"
        style="fill:#000000"
        id="GL9012">
       <rect
@@ -12808,7 +12824,7 @@
     </g>
     <g
        inkscape:label="Berth 9012"
-       transform="translate(-86.009211,-31.816172)"
+       transform="translate(-89.933391,-31.816172)"
        id="9012">
       <rect
          inkscape:label="Berth Rect"
@@ -12834,8 +12850,8 @@
     <g
        id="GL9023"
        style="fill:#000000"
-       transform="translate(-73.472752,-11.590154)"
-       inkscape:label="Ground Position Light GL 9021">
+       transform="translate(-77.396932,-11.590154)"
+       inkscape:label="Ground Position Light GL 9023">
       <rect
          height="7.2162771"
          id="rect6100"
@@ -12882,7 +12898,7 @@
     </g>
     <g
        id="9023"
-       transform="translate(-67.247619,-31.816172)"
+       transform="translate(-71.171799,-31.816172)"
        inkscape:label="Berth 9023">
       <rect
          height="5.970933"
@@ -12904,6 +12920,105 @@
            x="83.210922"
            y="174.77765"
            sodipodi:role="line">9023</tspan></text>
+    </g>
+    <g
+       id="9019"
+       transform="translate(-97.999759,-48.820949)"
+       inkscape:label="Berth 9019">
+      <rect
+         height="5.970933"
+         id="rect6365"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#241c1c;stroke-width:0.28812453;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         width="15.176927"
+         x="81.877373"
+         y="169.99109"
+         inkscape:label="Berth Rect" />
+      <text
+         id="text6369"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:3.3972497px;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="83.210922"
+         y="174.77765"
+         inkscape:label="Berth Text"
+         xml:space="preserve"><tspan
+           id="tspan6367"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
+           x="83.210922"
+           y="174.77765"
+           sodipodi:role="line">9019</tspan></text>
+    </g>
+    <g
+       inkscape:label="Ground Position Light GL 9021"
+       transform="translate(-77.396932,-44.727674)"
+       style="fill:#000000"
+       id="GL9021">
+      <rect
+         inkscape:label="Rectangle 002"
+         y="-71.380402"
+         x="69.175064"
+         width="56.126598"
+         transform="matrix(0.09664062,0,0,0.09664062,97.844017,155.55626)"
+         style="display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect6413"
+         height="7.2162771" />
+      <rect
+         inkscape:label="Rectangle 001"
+         y="69.175064"
+         x="45.455261"
+         width="25.925142"
+         transform="matrix(0,-0.09664062,0.09664062,0,97.844017,155.55626)"
+         style="display:inline;opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect6415"
+         height="7.2162771" />
+      <rect
+         inkscape:label="Ground Signal Rect"
+         y="-150.64806"
+         x="-116.8691"
+         width="7.3335581"
+         transform="scale(-1)"
+         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.09344184;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect6417"
+         height="3.3485713" />
+      <circle
+         inkscape:label="Right Aspect"
+         transform="scale(-1)"
+         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.12119147;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         r="1.2516944"
+         id="circle6419"
+         cy="-148.97377"
+         cx="-111.66964" />
+      <circle
+         inkscape:label="Left Aspect"
+         transform="scale(-1)"
+         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.12119147;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         r="1.2516944"
+         id="circle6421"
+         cy="-148.97377"
+         cx="-114.68393" />
+    </g>
+    <g
+       inkscape:label="Berth 9021"
+       transform="translate(-71.171799,-64.953692)"
+       id="9021">
+      <rect
+         inkscape:label="Berth Rect"
+         y="169.99109"
+         x="81.877373"
+         width="15.176927"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#241c1c;stroke-width:0.28812453;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect6425"
+         height="5.970933" />
+      <text
+         xml:space="preserve"
+         inkscape:label="Berth Text"
+         y="174.77765"
+         x="83.210922"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:3.3972497px;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         id="text6429"><tspan
+           sodipodi:role="line"
+           y="174.77765"
+           x="83.210922"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
+           id="tspan6427">9021</tspan></text>
     </g>
   </g>
 </svg>
