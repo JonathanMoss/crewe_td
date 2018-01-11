@@ -43,8 +43,8 @@
      showguides="true"
      units="px"
      inkscape:current-layer="base_layer"
-     inkscape:cx="4054.8366"
-     inkscape:cy="714.48149"
+     inkscape:cx="5516.6375"
+     inkscape:cy="652.68779"
      inkscape:document-units="mm"
      inkscape:guide-bbox="true"
      inkscape:measure-end="1373.33,908.743"
@@ -59,7 +59,7 @@
      inkscape:window-width="1600"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
-     inkscape:zoom="0.5">
+     inkscape:zoom="2">
     <sodipodi:guide
        id="guide6981"
        orientation="1,0"
@@ -5550,7 +5550,7 @@
            y="181.9761"
            x="834.10663"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
-           id="tspan6450">CY 103</tspan></text>
+           id="tspan6450">WD 103</tspan></text>
       <text
          xml:space="preserve"
          y="198.90921"
@@ -5561,7 +5561,7 @@
            y="198.90921"
            x="834.10663"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
-           id="tspan6454">CY 101</tspan></text>
+           id="tspan6454">WD 101</tspan></text>
       <text
          id="text6492"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:3.3972497px;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -5572,7 +5572,7 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
            x="870.29755"
            y="181.9761"
-           sodipodi:role="line">CY 107</tspan></text>
+           sodipodi:role="line">WD 107</tspan></text>
       <text
          id="text6496"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:3.3972497px;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -5583,7 +5583,7 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
            x="870.29755"
            y="198.90921"
-           sodipodi:role="line">CY 105</tspan></text>
+           sodipodi:role="line">WD 105</tspan></text>
       <text
          xml:space="preserve"
          y="174.4295"
@@ -13294,10 +13294,10 @@
          inkscape:label="Aspect" />
     </g>
     <g
-       inkscape:label="Signal CY 103"
+       inkscape:label="Signal WD 103"
        transform="matrix(0.09664062,0,0,0.09664062,835.44446,171.73503)"
        style="fill:#000000"
-       id="CY103">
+       id="WD103">
       <rect
          inkscape:label="Rectangle 002"
          y="133.96558"
@@ -13325,10 +13325,10 @@
          cx="78.092056" />
     </g>
     <g
-       inkscape:label="Signal CY 101"
+       inkscape:label="Signal WD 101"
        transform="matrix(0.09664062,0,0,0.09664062,835.44446,188.40378)"
        style="fill:#000000"
-       id="CY101">
+       id="WD101">
       <rect
          inkscape:label="Rectangle 002"
          y="133.96558"
@@ -13356,9 +13356,9 @@
          cx="78.092056" />
     </g>
     <g
-       id="0103"
+       id="WD_0103"
        transform="translate(736.99968,16.015796)"
-       inkscape:label="Berth 0103">
+       inkscape:label="Berth WD_0103">
       <rect
          height="5.970933"
          id="rect6474"
@@ -13381,9 +13381,9 @@
            sodipodi:role="line">0103</tspan></text>
     </g>
     <g
-       inkscape:label="Berth 0101"
+       inkscape:label="Berth WD_0101"
        transform="translate(736.99968,32.419974)"
-       id="0101">
+       id="WD_0101">
       <rect
          inkscape:label="Berth Rect"
          y="169.99109"
@@ -13406,10 +13406,10 @@
            id="tspan6484">0101</tspan></text>
     </g>
     <g
-       id="CY107"
+       id="WD107"
        style="fill:#000000"
        transform="matrix(0.09664062,0,0,0.09664062,871.63412,171.73503)"
-       inkscape:label="Signal CY 107">
+       inkscape:label="Signal WD 107">
       <rect
          height="7.2162771"
          id="rect6498"
@@ -13437,10 +13437,10 @@
          inkscape:label="Aspect" />
     </g>
     <g
-       id="CY105"
+       id="WD105"
        style="fill:#000000"
        transform="matrix(0.09664062,0,0,0.09664062,871.63412,188.40378)"
-       inkscape:label="Signal CY 105">
+       inkscape:label="Signal WD 105">
       <rect
          height="7.2162771"
          id="rect6506"
@@ -13468,9 +13468,9 @@
          inkscape:label="Aspect" />
     </g>
     <g
-       inkscape:label="Berth CY_0107"
+       inkscape:label="Berth WD_0107"
        transform="translate(773.18934,16.015796)"
-       id="CY_0107">
+       id="WD_0107">
       <rect
          inkscape:label="Berth Rect"
          y="169.99109"
@@ -13493,9 +13493,9 @@
            id="tspan6516">0107</tspan></text>
     </g>
     <g
-       id="CY_0105"
+       id="WD_0105"
        transform="translate(773.18934,32.419974)"
-       inkscape:label="Berth CY_0105">
+       inkscape:label="Berth WD_0105">
       <rect
          height="5.970933"
          id="rect6522"
