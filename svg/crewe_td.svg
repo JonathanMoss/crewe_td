@@ -43,8 +43,8 @@
      showguides="true"
      units="px"
      inkscape:current-layer="base_layer"
-     inkscape:cx="5516.6375"
-     inkscape:cy="652.68779"
+     inkscape:cx="1858.1312"
+     inkscape:cy="843.77032"
      inkscape:document-units="mm"
      inkscape:guide-bbox="true"
      inkscape:measure-end="1373.33,908.743"
@@ -53,17 +53,19 @@
      inkscape:object-paths="false"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:snap-intersection-paths="false"
+     inkscape:snap-intersection-paths="true"
      inkscape:window-height="848"
      inkscape:window-maximized="1"
      inkscape:window-width="1600"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
-     inkscape:zoom="2">
+     inkscape:zoom="0.70710678"
+     inkscape:snap-nodes="true"
+     inkscape:snap-smooth-nodes="false">
     <sodipodi:guide
        id="guide6981"
        orientation="1,0"
-       position="345.63901,213.27014"
+       position="500.98689,261.17593"
        inkscape:locked="false" />
     <sodipodi:guide
        id="guide6987"
@@ -73,7 +75,7 @@
     <sodipodi:guide
        id="guide4718"
        orientation="1,0"
-       position="303.87292,164.26899"
+       position="281.79775,199.47828"
        inkscape:locked="false" />
     <sodipodi:guide
        id="guide5861"
@@ -83,12 +85,12 @@
     <sodipodi:guide
        id="guide5863"
        orientation="0.93104875,0.36489481"
-       position="156.44077,55.723183"
+       position="392.77908,188.0293"
        inkscape:locked="false" />
     <sodipodi:guide
        id="guide5876"
        orientation="-0.93145734,0.36385054"
-       position="210.14355,75.218459"
+       position="347.63838,189.31211"
        inkscape:locked="false" />
     <sodipodi:guide
        id="guide5897"
@@ -103,7 +105,7 @@
     <sodipodi:guide
        id="guide5590"
        orientation="1,0"
-       position="1247.017,146.93871"
+       position="1268.3982,118.70037"
        inkscape:locked="false" />
     <sodipodi:guide
        position="730.03762,49.660409"
@@ -114,6 +116,21 @@
        position="80.572367,83.532176"
        orientation="1,0"
        id="guide5956"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="929.82354,272.18736"
+       orientation="0,1"
+       id="guide6460"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="389.06077,197.56698"
+       orientation="0.51658099,0.85623833"
+       id="guide6520"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="389.47477,168.68522"
+       orientation="1,0"
+       id="guide6530"
        inkscape:locked="false" />
   </sodipodi:namedview>
   <metadata
@@ -135,7 +152,7 @@
      inkscape:groupmode="layer"
      inkscape:label="Base Layer">
     <path
-       d="M -349.90652,10.544955 H 938.02162 V 334.24782 H -349.90652 Z"
+       d="M -694.34279,7.5521311 H 593.58456 V 331.25499 H -694.34279 Z"
        id="track_1"
        label="Routing Track 1"
        style="opacity:1;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.22324219;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.66972662, 0.66972662;stroke-dashoffset:0;stroke-opacity:1"
@@ -161,11 +178,10 @@
          inkscape:label="Routing Track 3"
          inkscape:connector-curvature="0" />
       <path
-         d="m -122.36005,810.85984 17.42656,-0.53982 -0.68961,1.55966 -17.42656,0.53982 z"
+         d="m 755.68507,222.61853 -6.30835,16.20181 1.64796,1e-5 6.30835,-16.20182 z"
          id="track_4"
          label="Routing Track 4"
-         style="opacity:1;fill:#008000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.40481165;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         transform="matrix(-0.33383838,0.94263033,0.90900249,0.41679068,0,0)"
+         style="opacity:1;fill:#008000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.40400001;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          sodipodi:nodetypes="ccccc"
          inkscape:connector-curvature="0"
          inkscape:label="Routing Track 4" />
@@ -179,10 +195,10 @@
          inkscape:connector-curvature="0"
          inkscape:label="Routing Track 5" />
       <path
-         d="m 55.869636,124.31081 6.347432,16.3749 h -1.757802 l -6.347434,-16.3749 z"
+         d="m 73.200364,124.86404 6.096176,15.55562 -1.64795,0.002 -6.097311,-15.55762 z"
          id="track_6"
          label="Routing Track 6"
-         style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#241c1c;stroke-width:0.4191497;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         style="opacity:1;fill:#a05a2c;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.4191497;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          sodipodi:nodetypes="ccccc"
          inkscape:connector-curvature="0"
          inkscape:label="Routing Track 6" />
@@ -210,7 +226,7 @@
          inkscape:connector-curvature="0"
          inkscape:label="Routing Track 9" />
       <path
-         d="m 768.51618,189.26489 6.3133,16.16968 h -1.64795 l -6.31329,-16.16968 z"
+         d="m 775.4925,189.26489 6.3133,16.16968 h -1.64795 l -6.31329,-16.16968 z"
          id="track_10"
          label="Routing Track 10"
          style="opacity:1;fill:#a05a2c;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.40400001;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -218,10 +234,10 @@
          inkscape:connector-curvature="0"
          inkscape:label="Routing Track 10" />
       <path
-         d="m 728.68536,204.92844 h 154.61656 v 1.28234 H 728.68536 Z"
+         d="m 728.68536,204.92844 h 175.99776 v 1.28234 H 728.68536 Z"
          id="track_11"
          label="Routing Track 11"
-         style="opacity:1;fill:#008000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.8146714;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         style="opacity:1;fill:#008000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.86917663;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          inkscape:connector-curvature="0"
          inkscape:label="Routing Track 11" />
       <path
@@ -375,17 +391,18 @@
          inkscape:label="Routing Track 6"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="ccccc"
-         style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#241c1c;stroke-width:0.4191497;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         style="opacity:1;fill:#ffe680;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.4191497;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          label="Routing Track 6"
          id="path6435"
-         d="m 49.558764,124.31081 -6.347432,16.3749 h 1.757802 l 6.347434,-16.3749 z" />
+         d="m -11.259238,123.5767 -6.46559,16.84296 h 1.64795 l 6.5754442,-16.84296 z" />
       <path
-         d="M -18.076104,123.5817 H 205.43827 v 1.28235 H -18.076104 Z"
+         d="M 76.819612,123.5817 H 205.43827 v 1.28235 H 76.318694 Z"
          id="track_31"
          label="Routing Track 31"
-         style="opacity:1;fill:#ffe680;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.31627345;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         style="opacity:1;fill:#ffe680;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.23991753;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          inkscape:label="Routing Track 31"
-         inkscape:connector-curvature="0" />
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc" />
       <path
          d="m 198.617,-166.36563 17.71596,-0.0926 -0.83149,1.6519 -17.71596,0.0926 z"
          id="track_32"
@@ -686,7 +703,7 @@
          inkscape:label="Routing Track 70"
          inkscape:connector-curvature="0" />
       <path
-         d="m 758.7691,238.67132 -6.30836,16.20181 1.64796,1e-5 6.30835,-16.20182 z"
+         d="m 745.6885,238.67132 -6.30836,16.20181 1.64796,1e-5 6.30835,-16.20182 z"
          id="track_71"
          label="Routing Track 71"
          style="opacity:1;fill:#a05a2c;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.40400001;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -694,7 +711,7 @@
          inkscape:connector-curvature="0"
          inkscape:label="Routing Track 71" />
       <path
-         d="m 690.78759,253.5908 h 63.32111 v 1.28234 h -63.32111 z"
+         d="m 677.70699,253.5908 h 63.32111 v 1.28234 h -63.32111 z"
          id="track_72"
          label="Routing Track 72"
          style="opacity:1;fill:#a05a2c;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.20147042;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -732,7 +749,7 @@
          inkscape:label="Routing Track 76"
          inkscape:connector-curvature="0" />
       <path
-         d="m 750.71203,172.91414 6.3133,16.16968 h -1.64795 l -6.31329,-16.16968 z"
+         d="m 758.56039,172.91414 6.3133,16.16968 h -1.64795 l -6.31329,-16.16968 z"
          id="track_77"
          label="Routing Track 77"
          style="opacity:1;fill:#00aad4;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.40400001;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -740,7 +757,7 @@
          inkscape:connector-curvature="0"
          inkscape:label="Routing Track 77" />
       <path
-         d="m 691.05585,172.91414 h 59.65618 v 1.28235 h -59.65618 z"
+         d="m 698.90421,172.91414 h 59.65618 v 1.28235 h -59.65618 z"
          id="track_78"
          label="Routing Track 78"
          style="opacity:1;fill:#00aad4;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.15076052;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -886,17 +903,18 @@
          inkscape:label="Routing Track 96"
          inkscape:connector-curvature="0" />
       <path
-         d="M -18.076104,140.41966 H 132.93761 v 1.28235 H -18.076104 Z"
+         d="m 77.647807,140.41966 h 55.454243 v 1.28235 H 78.150383 Z"
          id="track_97"
          label="Routing Track 97"
-         style="opacity:1;fill:#ffe680;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.87975603;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         style="opacity:1;fill:#ffe680;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.54267228;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          inkscape:connector-curvature="0"
-         inkscape:label="Routing Track 97" />
+         inkscape:label="Routing Track 97"
+         sodipodi:nodetypes="ccccc" />
       <path
-         d="m 70.257629,156.27686 h 43.756811 v 1.28234 H 70.257629 Z"
+         d="m 61.162406,156.27686 h 52.852034 v 1.28234 H 61.162406 Z"
          id="track_98"
          label="Routing Track 98"
-         style="opacity:1;fill:#ffe680;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.16259791;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         style="opacity:1;fill:#ffe680;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.17869936;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          inkscape:connector-curvature="0"
          inkscape:label="Routing Track 98" />
       <path
@@ -1148,11 +1166,10 @@
          inkscape:label="Routing Track 130"
          sodipodi:nodetypes="ccccc" />
       <path
-         d="m -594.54778,57.543964 h 28.2916 l -0.50268,1.282347 h -28.29154 z"
+         d="m 583.85153,57.524694 -17.74302,0.01927 0.26175,1.282347 17.99144,-1.8e-5 z"
          id="track_131"
          label="Routing Track 131"
-         style="opacity:1;fill:#a05a2c;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.1230441;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         transform="scale(-1,1)"
+         style="opacity:1;fill:#a05a2c;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.08878929;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          inkscape:label="Routing Track 131"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="ccccc" />
@@ -1181,26 +1198,18 @@
          inkscape:label="Routing Track 134"
          inkscape:connector-curvature="0" />
       <path
-         d="m 599.55711,69.041959 h 15.0675 v 1.282347 h -15.0675 z"
-         id="track_135"
-         label="Routing Track 135"
-         style="opacity:1;fill:#a05a2c;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.30965114;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         inkscape:connector-curvature="0"
-         inkscape:label="Routing Track 135" />
-      <path
-         d="m 594.41551,53.00209 h -1.64795 l 6.78955,17.322216 h 1.64795 z"
+         d="m 583.51217,52.454773 h -1.64795 l 2.49748,6.371521 h 1.64795 z"
          id="track_136"
          label="Routing Track 136"
-         style="opacity:1;fill:#a05a2c;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.10678335;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         style="opacity:1;fill:#008000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.10678335;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          sodipodi:nodetypes="ccccc"
          inkscape:connector-curvature="0"
          inkscape:label="Routing Track 136" />
       <path
-         d="m -644.30695,69.041954 h 29.68232 V 70.3243 h -29.68232 z"
+         d="m 604.5021,57.543947 h -20.1404 v 1.282346 h 20.1404 z"
          id="track_137"
          label="Routing Track 137"
-         style="opacity:1;fill:#008000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.1230441;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         transform="scale(-1,1)"
+         style="opacity:1;fill:#008000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.10135517;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          inkscape:label="Routing Track 137"
          inkscape:connector-curvature="0" />
       <path
@@ -1452,11 +1461,10 @@
          inkscape:connector-curvature="0"
          inkscape:label="Routing Track 169" />
       <path
-         d="m 2864.629,583.30625 h -7.0866 l 80.5111,205.42925 h 7.0866 z"
+         d="m 602.64474,137.63689 h -1.64794 l 18.72237,47.77133 h 1.64794 z"
          id="track_56"
          label="Routing Track 56"
-         style="opacity:1;fill:#a05a2c;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.45919642;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         transform="matrix(0.23254394,0,0,0.23254394,-90.022258,5.0756872)"
+         style="opacity:1;fill:#a05a2c;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.10678335;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          sodipodi:nodetypes="ccccc"
          inkscape:connector-curvature="0"
          inkscape:label="Routing Track 56" />
@@ -1628,10 +1636,10 @@
          inkscape:connector-curvature="0"
          inkscape:label="Routing Track 190" />
       <path
-         d="m 728.53554,188.49135 h 154.76638 v 1.28235 H 728.53554 Z"
+         d="m 728.53554,188.49135 h 176.14758 v 1.28235 H 728.53554 Z"
          id="track_191"
          label="Routing Track 191"
-         style="opacity:1;fill:#008000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.94631225;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         style="opacity:1;fill:#008000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.00956547;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          inkscape:connector-curvature="0"
          inkscape:label="Routing Track 191" />
       <path
@@ -1799,17 +1807,17 @@
          inkscape:connector-curvature="0"
          inkscape:label="Routing Track 212" />
       <path
-         d="m 697.80554,221.90443 h 56.5377 v 1.28235 h -56.5377 z"
+         d="m 697.80554,221.90443 h 44.43815 v 1.28235 h -44.43815 z"
          id="track_213"
          label="Routing Track 213"
-         style="opacity:1;fill:#00aad4;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.32252878;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         style="opacity:1;fill:#00aad4;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.28594163;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          inkscape:label="Routing Track 213"
          inkscape:connector-curvature="0" />
       <path
-         d="m 697.48157,238.21964 h 56.86167 v 1.28234 h -56.86167 z"
+         d="m 697.48157,238.21964 h 45.08913 v 1.28234 h -45.08913 z"
          id="track_214"
          label="Routing Track 214"
-         style="opacity:1;fill:#00aad4;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.32252878;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         style="opacity:1;fill:#00aad4;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.28720674;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          inkscape:label="Routing Track 214"
          inkscape:connector-curvature="0" />
       <path
@@ -2454,15 +2462,15 @@
       <path
          inkscape:connector-curvature="0"
          inkscape:label="Routing Track 213"
-         style="opacity:1;fill:#ffe680;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.3854757;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         style="opacity:1;fill:#ffe680;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.40068898;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          label="Routing Track 213"
          id="path7157"
-         d="m 754.34324,221.90443 h 150.32358 v 1.28235 H 754.34324 Z" />
+         d="m 742.24369,221.90443 h 162.42313 v 1.28235 H 742.24369 Z" />
       <path
-         d="m 754.34324,238.21963 h 150.32358 v 1.28235 H 754.34324 Z"
+         d="m 742.5707,238.21963 h 162.09612 v 1.28235 H 742.5707 Z"
          id="path7159"
          label="Routing Track 213"
-         style="opacity:1;fill:#ffe680;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.3854757;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         style="opacity:1;fill:#ffe680;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.40028539;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          inkscape:label="Routing Track 213"
          inkscape:connector-curvature="0" />
       <path
@@ -2475,10 +2483,10 @@
       <path
          inkscape:label="Routing Track 34"
          inkscape:connector-curvature="0"
-         style="opacity:1;fill:#a05a2c;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.31664085;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         style="opacity:1;fill:#a05a2c;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.26322773;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          label="Routing Track 34"
          id="path5664"
-         d="m 79.488003,107.17126 h 52.646587 v 1.28235 H 79.488003 Z" />
+         d="m 95.751495,107.17126 h 36.383095 v 1.28235 H 95.751495 Z" />
       <path
          sodipodi:nodetypes="ccccc"
          inkscape:label="Routing Track 501"
@@ -2817,12 +2825,12 @@
          style="opacity:1;fill:#ffe680;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.15814893;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          label="Routing Track 259"
          id="path5266"
-         d="m 65.013505,107.17126 -6.40813,16.40435 h 1.648246 l 5.906707,-15.12217 h 9.927628 v -1.28218 h -9.426661 z" />
+         d="m 81.582265,107.17126 -6.40813,16.40435 h 1.648246 l 5.906707,-15.12217 h 9.927628 v -1.28218 h -9.426661 z" />
       <path
-         d="m 67.803576,107.17126 h 11.684427 v 1.28235 H 67.803576 Z"
+         d="m 92.656716,107.17126 h 3.094779 v 1.28235 h -3.094779 z"
          id="path5268"
          label="Routing Track 34"
-         style="opacity:1;fill:#008000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.31664085;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         style="opacity:1;fill:#008000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.16295889;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          inkscape:connector-curvature="0"
          inkscape:label="Routing Track 34" />
       <path
@@ -2839,21 +2847,260 @@
          style="opacity:1;fill:#00aad4;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.10442584;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          label="Routing Track 14"
          id="path6379"
-         d="m 40.693856,107.60714 6.24853,15.94346 -1.80208,-0.0319 -6.20426,-15.91899 z" />
+         d="m 4.0681774,107.60714 6.2485286,15.97455 -1.7828101,-0.005 -6.2235281,-15.97679 z" />
       <path
          inkscape:label="Routing Track 15"
          inkscape:connector-curvature="0"
-         style="opacity:1;fill:#00aad4;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.09868176;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         style="opacity:1;fill:#00aad4;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.16780895;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          label="Routing Track 15"
          id="path6381"
-         d="m 25.502396,107.60714 h 15.19146 v 1.28235 h -15.19146 z" />
+         d="M -39.86128,107.60714 H 4.0681774 v 1.28235 H -39.86128 Z" />
       <path
          inkscape:label="Routing Track 98"
          inkscape:connector-curvature="0"
-         style="opacity:1;fill:#ffe680;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.16259791;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         style="opacity:1;fill:#ffe680;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.12119026;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          label="Routing Track 98"
          id="path6383"
-         d="m -18.254415,107.60714 h 43.756811 v 1.28234 h -43.756811 z" />
+         d="m -64.16939,107.60714 h 24.30811 v 1.28234 h -24.30811 z" />
+      <path
+         inkscape:label="Routing Track 64"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc"
+         style="opacity:1;fill:#008000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.10678335;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         label="Routing Track 64"
+         id="path6458"
+         d="m 604.5021,57.543947 h -1.64795 l 25.98241,66.576153 h 1.75783 z" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:label="Routing Track 261"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:#00aad4;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.15679754;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         label="Routing Track 261"
+         id="path6462"
+         d="m 72.697789,123.5817 h 4.121823 l -0.500918,1.28235 -3.11833,-1e-5 z" />
+      <path
+         inkscape:label="Routing Track 97"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:#ffe680;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.34688345;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         label="Routing Track 97"
+         id="path6466"
+         d="m 51.480269,123.58169 h 21.217516 l 0.502579,1.28235 H 50.979351 Z"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:label="Routing Track 96"
+         style="opacity:1;fill:#00aad4;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.13862388;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         label="Routing Track 96"
+         id="path6468"
+         d="m 59.60901,140.41966 h 18.038796 l 0.502577,1.28235 H 59.075242 Z"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         inkscape:label="Routing Track 46"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc"
+         style="opacity:1;fill:#a05b2d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.10678335;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         label="Routing Track 46"
+         id="path6470"
+         d="M 83.265658,75.11781 57.85121,140.41966 h 1.7578 L 85.084696,75.11781 Z" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         d="M -6.4900736,140.41966 H 39.028989 l 2.125509,1.28235 H -5.9874974 Z"
+         id="path6472"
+         label="Routing Track 97"
+         style="opacity:1;fill:#ffe680;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.60110968;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:connector-curvature="0"
+         inkscape:label="Routing Track 97" />
+      <path
+         d="m 75.246704,58.27984 -25.52423,65.30185 h 1.7578 l 25.41438,-65.30185 z"
+         id="path6474"
+         label="Routing Track 46"
+         style="opacity:1;fill:#008000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.10678335;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         inkscape:label="Routing Track 46" />
+      <path
+         inkscape:label="Routing Track 34"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:#a05b2d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.29419565;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         label="Routing Track 34"
+         id="path6476"
+         d="m 85.016197,75.11781 h 52.255613 v 1.28235 H 84.583778 Z"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         d="m 76.893017,58.27984 h 60.378793 v 1.28235 H 76.409244 Z"
+         id="path6482"
+         label="Routing Track 34"
+         style="opacity:1;fill:#008000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.31607673;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:connector-curvature="0"
+         inkscape:label="Routing Track 34"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         inkscape:label="Routing Track 238"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc"
+         style="opacity:1;fill:#008000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.45919642;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         label="Routing Track 238"
+         id="path6488"
+         d="m 22.424567,124.86404 -1.592525,-0.0116 2.368719,6.01783 2.145046,1.29414 z" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:label="Routing Track 81"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:#a05a2c;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.76110142;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         label="Routing Track 81"
+         id="path6490"
+         d="m 21.921991,123.58169 h 29.558278 l -0.500918,1.28235 H 22.424567 Z" />
+      <path
+         inkscape:label="Routing Track 98"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:#008000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.09669578;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         label="Routing Track 98"
+         id="path6492"
+         d="m 33.147636,156.27686 h 13.719739 v 1.28234 l -13.217462,-7.7e-4 z"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         d="m -0.62906458,124.85215 -1.64795062,2.8e-4 9.4724769,24.17023 H 8.843411 Z"
+         id="path6494"
+         label="Routing Track 238"
+         style="opacity:1;fill:#008000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.45919642;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         inkscape:label="Routing Track 238" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         d="M 10.038577,156.27686 H 25.75969 v 1.28234 l -15.145566,-7.7e-4 z"
+         id="path6496"
+         label="Routing Track 98"
+         style="opacity:1;fill:#008000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.10350855;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:connector-curvature="0"
+         inkscape:label="Routing Track 98" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         d="m 8.539318,123.58169 h 13.382673 l 0.50259,1.28238 -13.3826869,-3e-5 z"
+         id="path6498"
+         label="Routing Track 97"
+         style="opacity:1;fill:#ffe680;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.34688345;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:connector-curvature="0"
+         inkscape:label="Routing Track 97" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         d="m -9.5014338,123.5767 h 6.7242739 l 0.5027391,1.28235 h -7.7240928 z"
+         id="path6500"
+         label="Routing Track 96"
+         style="opacity:1;fill:#00aad4;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.13862388;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:label="Routing Track 96"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:label="Routing Track 98"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:#008000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.09669578;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         label="Routing Track 98"
+         id="path6502"
+         d="m -3.1184089,149.02266 h 10.31398 l 0.5025722,1.28234 -10.3142818,-7.7e-4 z"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         inkscape:label="Routing Track 9"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc"
+         style="opacity:1;fill:#008000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.10442584;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         label="Routing Track 9"
+         id="path6504"
+         d="m -5.9873088,141.70201 3.3708803,8.60222 h -1.6479493 l -3.3708803,-8.59425 z" />
+      <path
+         d="m -16.076698,140.4192 9.5866244,4.6e-4 0.5027648,1.28235 H -16.577799 Z"
+         id="path6506"
+         label="Routing Track 81"
+         style="opacity:1;fill:#a05a2c;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.76110142;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:connector-curvature="0"
+         inkscape:label="Routing Track 81"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         d="m 8.843411,149.02266 2.869016,7.32094 -1.673804,-0.0667 -2.8431613,-7.24623 z"
+         id="path6508"
+         label="Routing Track 9"
+         style="opacity:1;fill:#008000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.10442584;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         inkscape:label="Routing Track 9" />
+      <path
+         inkscape:label="Routing Track 97"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:#a05a2c;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.34688345;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         label="Routing Track 97"
+         id="path6510"
+         d="M -2.7771599,123.5767 H 8.5374615 l 0.5024769,1.28235 H -2.2745838 Z"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         inkscape:connector-curvature="0"
+         inkscape:label="Routing Track 96"
+         style="opacity:1;fill:#00aad4;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.13862388;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         label="Routing Track 96"
+         id="path6512"
+         d="m -39.86128,140.40752 h 23.789141 l -0.500918,1.28235 H -39.86128 Z"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         d="m -2.6161385,150.30423 3.37088031,8.60222 h -1.6479493 L -4.2640878,150.3122 Z"
+         id="path6514"
+         label="Routing Track 9"
+         style="opacity:1;fill:#008000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.10442584;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         inkscape:label="Routing Track 9" />
+      <path
+         inkscape:label="Routing Track 98"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:#008000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.09669578;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         label="Routing Track 98"
+         id="path6516"
+         d="M 1.9753958,166.2271 H 15.695136 v 1.28234 l -13.2174632,-7.7e-4 z"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         inkscape:label="Routing Track 9"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc"
+         style="opacity:1;fill:#008000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.10442584;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         label="Routing Track 9"
+         id="path6518"
+         d="m 24.473597,130.09226 17.072051,10.32107 -2.516659,0.006 -13.683295,-8.25533 z" />
+      <path
+         d="m 24.848712,130.86998 -1.647951,2.8e-4 9.946875,25.4066 h 1.588182 z"
+         id="path6522"
+         label="Routing Track 238"
+         style="opacity:1;fill:#008000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.45919642;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         inkscape:label="Routing Track 238" />
+      <path
+         inkscape:label="Routing Track 9"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc"
+         style="opacity:1;fill:#008000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.10442584;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         label="Routing Track 9"
+         id="path6526"
+         d="m 0.75474181,158.90645 3.37088029,8.60222 H 2.4776728 l -3.37088029,-8.59425 z" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         d="M 15.192859,166.22787 H 25.75969 v 1.28234 l -10.179981,-7.7e-4 z"
+         id="path6528"
+         label="Routing Track 98"
+         style="opacity:1;fill:#008000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.08486077;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:connector-curvature="0"
+         inkscape:label="Routing Track 98" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         d="m -64.16939,123.5767 h 52.910152 l -0.492262,1.28235 -52.41789,0 z"
+         id="path6533"
+         label="Routing Track 96"
+         style="opacity:1;fill:#00aad4;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.1885424;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:label="Routing Track 96"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m -64.16939,140.40752 h 24.30811 v 1.28234 h -24.30811 z"
+         id="path6535"
+         label="Routing Track 98"
+         style="opacity:1;fill:#ffe680;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.12119026;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:connector-curvature="0"
+         inkscape:label="Routing Track 98" />
     </g>
     <g
        id="crewe_station"
@@ -3622,13 +3869,13 @@
       <text
          id="text4618"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:3.3972497px;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="34.371155"
-         y="157.78363"
+         x="60.886044"
+         y="154.7005"
          xml:space="preserve"><tspan
            id="tspan4616"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
-           x="34.371155"
-           y="157.78363"
+           x="60.886044"
+           y="154.7005"
            sodipodi:role="line">Down Refuge Siding</tspan></text>
       <text
          id="text5070"
@@ -3913,57 +4160,57 @@
       <text
          id="text5204"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:3.3972497px;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="67.253281"
-         y="117.07119"
+         x="83.386017"
+         y="116.19915"
          xml:space="preserve"><tspan
            id="tspan5202"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
-           x="67.253281"
-           y="117.07119"
+           x="83.386017"
+           y="116.19915"
            sodipodi:role="line">GL 9032</tspan></text>
       <text
          id="text5232"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:3.3972497px;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="-1.1387941"
+         x="-90.086861"
          y="117.07119"
          xml:space="preserve"><tspan
            id="tspan5230"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
-           x="-1.1387941"
+           x="-90.086861"
            y="117.07119"
            sodipodi:role="line">GL 9019</tspan></text>
       <text
          id="text5240"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:3.3972497px;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="-49.214584"
+         x="-132.05838"
          y="141.90884"
          xml:space="preserve"><tspan
            id="tspan5238"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
-           x="-49.214584"
+           x="-132.05838"
            y="141.90884"
            sodipodi:role="line">Up Main [Salop]</tspan></text>
       <text
          id="text5244"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:3.3972497px;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="-52.389587"
+         x="-141.33766"
          y="125.50487"
          xml:space="preserve"><tspan
            id="tspan5242"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
-           x="-52.389587"
+           x="-141.33766"
            y="125.50487"
            sodipodi:role="line">Down Main [Salop]</tspan></text>
       <text
          id="text5248"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:3.3972497px;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="62.159527"
-         y="102.99048"
+         x="84.396545"
+         y="103.4265"
          xml:space="preserve"><tspan
            id="tspan5246"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
-           x="62.159527"
-           y="102.99048"
+           x="84.396545"
+           y="103.4265"
            sodipodi:role="line">Down Salop Goods Loop</tspan></text>
       <text
          id="text5256"
@@ -4298,23 +4545,23 @@
       <text
          id="text5669"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:3.3972497px;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="884.42639"
+         x="907.53625"
          y="206.95695"
          xml:space="preserve"><tspan
            id="tspan5667"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
-           x="884.42639"
+           x="907.53625"
            y="206.95695"
            sodipodi:role="line">Down Fast</tspan></text>
       <text
          id="text5673"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:3.3972497px;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="884.42639"
+         x="907.53625"
          y="190.55301"
          xml:space="preserve"><tspan
            id="tspan5671"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
-           x="884.42639"
+           x="907.53625"
            y="190.55301"
            sodipodi:role="line">Down Slow</tspan></text>
       <text
@@ -4364,12 +4611,12 @@
       <text
          id="text5697"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:3.3972497px;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="657.20032"
+         x="644.11926"
          y="255.10616"
          xml:space="preserve"><tspan
            id="tspan5695"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
-           x="657.20032"
+           x="644.11926"
            y="255.10616"
            sodipodi:role="line">Up Liverpool Ind.</tspan></text>
       <text
@@ -4584,13 +4831,13 @@
       <text
          id="text6355"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:3.3972497px;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="603.15063"
-         y="79.231438"
+         x="590.94269"
+         y="66.586861"
          xml:space="preserve"><tspan
            id="tspan6353"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
-           x="603.15063"
-           y="79.231438"
+           x="590.94269"
+           y="66.586861"
            sodipodi:role="line">CE 574</tspan></text>
       <text
          id="text5660"
@@ -4738,23 +4985,23 @@
       <text
          id="text6046"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:3.3972497px;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="796.17157"
+         x="800.96796"
          y="181.9761"
          xml:space="preserve"><tspan
            id="tspan6044"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
-           x="796.17157"
+           x="800.96796"
            y="181.9761"
            sodipodi:role="line">CY 51</tspan></text>
       <text
          id="text6050"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:3.3972497px;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="796.17157"
+         x="800.96796"
          y="198.90921"
          xml:space="preserve"><tspan
            id="tspan6048"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
-           x="796.17157"
+           x="800.96796"
            y="198.90921"
            sodipodi:role="line">CY 47</tspan></text>
       <text
@@ -4826,23 +5073,23 @@
       <text
          id="text6078"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:3.3972497px;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="807.87909"
+         x="784.33319"
          y="248.43352"
          xml:space="preserve"><tspan
            id="tspan6076"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
-           x="807.87909"
+           x="784.33319"
            y="248.43352"
            sodipodi:role="line">CY 18</tspan></text>
       <text
          id="text6082"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:3.3972497px;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="807.87909"
+         x="784.33319"
          y="232.02957"
          xml:space="preserve"><tspan
            id="tspan6080"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
-           x="807.87909"
+           x="784.33319"
            y="232.02957"
            sodipodi:role="line">CY 25</tspan></text>
       <text
@@ -4919,12 +5166,12 @@
       <text
          id="text4697"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:3.3972497px;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="744.28192"
+         x="752.56659"
          y="166.47705"
          xml:space="preserve"><tspan
            id="tspan4699"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
-           x="744.28192"
+           x="752.56659"
            y="166.47705"
            sodipodi:role="line">CY 55</tspan></text>
       <text
@@ -4952,13 +5199,13 @@
       <text
          id="text5546"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:3.3972497px;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="645.12787"
-         y="70.453308"
+         x="653.41254"
+         y="70.889328"
          xml:space="preserve"><tspan
            id="tspan5549"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
-           x="645.12787"
-           y="70.453308"
+           x="653.41254"
+           y="70.889328"
            sodipodi:role="line">Siding</tspan></text>
       <text
          xml:space="preserve"
@@ -5007,23 +5254,23 @@
       <text
          id="text7129"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:3.3972497px;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="750.40283"
+         x="741.24609"
          y="216.72491"
          xml:space="preserve"><tspan
            id="tspan7131"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
-           x="750.40283"
+           x="741.24609"
            y="216.72491"
            sodipodi:role="line">LOS</tspan></text>
       <text
          xml:space="preserve"
          y="232.93224"
-         x="750.40283"
+         x="741.24609"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:3.3972497px;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
          id="text7143"><tspan
            sodipodi:role="line"
            y="232.93224"
-           x="750.40283"
+           x="741.24609"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
            id="tspan7145">LOS</tspan></text>
       <text
@@ -5422,23 +5669,23 @@
       <text
          xml:space="preserve"
          y="166.47705"
-         x="717.07428"
+         x="727.10309"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:3.3972497px;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
          id="text5161"><tspan
            sodipodi:role="line"
            y="166.47705"
-           x="717.07428"
+           x="727.10309"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
            id="tspan5163">CY 13</tspan></text>
       <text
          xml:space="preserve"
          y="263.18262"
-         x="716.89014"
+         x="686.80371"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:3.3972497px;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
          id="text5181"><tspan
            sodipodi:role="line"
            y="263.18262"
-           x="716.89014"
+           x="686.80371"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
            id="tspan5185">CY 20</tspan></text>
       <text
@@ -5466,133 +5713,133 @@
       <text
          xml:space="preserve"
          y="150.93756"
-         x="-19.595491"
+         x="-108.54356"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:3.3972497px;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
          id="text6072"><tspan
            sodipodi:role="line"
            y="150.93756"
-           x="-19.595491"
+           x="-108.54356"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
            id="tspan6074">GL 9012</tspan></text>
       <text
          id="text6092"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:3.3972497px;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="26.12269"
-         y="134.84821"
+         x="-40.697361"
+         y="135.06622"
          xml:space="preserve"><tspan
            id="tspan6095"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
-           x="26.12269"
-           y="134.84821"
+           x="-40.697361"
+           y="135.06622"
            sodipodi:role="line">GL 9023</tspan></text>
       <text
          xml:space="preserve"
-         y="101.71069"
-         x="26.12269"
+         y="102.36472"
+         x="-40.709419"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:3.3972497px;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
          id="text6411"><tspan
            sodipodi:role="line"
-           y="101.71069"
-           x="26.12269"
+           y="102.36472"
+           x="-40.709419"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
            id="tspan6409">GL 9021</tspan></text>
       <text
          xml:space="preserve"
          y="248.43352"
-         x="875.90057"
+         x="852.35468"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:3.3972497px;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
          id="text6388"><tspan
            sodipodi:role="line"
            y="248.43352"
-           x="875.90057"
+           x="852.35468"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
            id="tspan6386">CY 108</tspan></text>
       <text
          xml:space="preserve"
          y="232.02957"
-         x="875.90057"
+         x="852.35468"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:3.3972497px;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
          id="text6392"><tspan
            sodipodi:role="line"
            y="232.02957"
-           x="875.90057"
+           x="852.35468"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
            id="tspan6390">CY 106</tspan></text>
       <text
          id="text6412"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:3.3972497px;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="843.19794"
+         x="819.65204"
          y="248.43352"
          xml:space="preserve"><tspan
            id="tspan6410"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
-           x="843.19794"
+           x="819.65204"
            y="248.43352"
            sodipodi:role="line">CY 104</tspan></text>
       <text
          id="text6416"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:3.3972497px;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="843.19794"
+         x="819.65204"
          y="232.02957"
          xml:space="preserve"><tspan
            id="tspan6414"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
-           x="843.19794"
+           x="819.65204"
            y="232.02957"
            sodipodi:role="line">CY 102</tspan></text>
       <text
          xml:space="preserve"
          y="181.9761"
-         x="834.10663"
+         x="838.90302"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:3.3972497px;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
          id="text6452"><tspan
            sodipodi:role="line"
            y="181.9761"
-           x="834.10663"
+           x="838.90302"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
            id="tspan6450">WD 103</tspan></text>
       <text
          xml:space="preserve"
          y="198.90921"
-         x="834.10663"
+         x="838.90302"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:3.3972497px;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
          id="text6456"><tspan
            sodipodi:role="line"
            y="198.90921"
-           x="834.10663"
+           x="838.90302"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
            id="tspan6454">WD 101</tspan></text>
       <text
          id="text6492"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:3.3972497px;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="870.29755"
+         x="875.09393"
          y="181.9761"
          xml:space="preserve"><tspan
            id="tspan6490"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
-           x="870.29755"
+           x="875.09393"
            y="181.9761"
            sodipodi:role="line">WD 107</tspan></text>
       <text
          id="text6496"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:3.3972497px;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="870.29755"
+         x="875.09393"
          y="198.90921"
          xml:space="preserve"><tspan
            id="tspan6494"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
-           x="870.29755"
+           x="875.09393"
            y="198.90921"
            sodipodi:role="line">WD 105</tspan></text>
       <text
          xml:space="preserve"
          y="174.4295"
-         x="657.20032"
+         x="665.04895"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:3.3972497px;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
          id="text6542"><tspan
            sodipodi:role="line"
            y="174.4295"
-           x="657.20032"
+           x="665.04895"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
            id="tspan6540">Up Liverpool Ind.</tspan></text>
     </g>
@@ -6870,7 +7117,7 @@
     <g
        id="GL9032"
        style="fill:#000000"
-       transform="rotate(180,92.418045,130.35482)"
+       transform="rotate(180,100.2664,130.13681)"
        inkscape:label="Ground Position Light GL 9032">
       <rect
          height="7.2162771"
@@ -6919,7 +7166,7 @@
     <g
        id="GL9019"
        style="fill:#000000"
-       transform="matrix(0.09664062,0,0,0.09664062,0.09540124,107.13751)"
+       transform="matrix(0.09664062,0,0,0.09664062,-88.852676,107.13751)"
        inkscape:label="Signal GL 9019">
       <rect
          height="7.2162771"
@@ -8591,7 +8838,7 @@
     <g
        id="CY_18"
        style="fill:#000000"
-       transform="matrix(-0.09664062,0,0,-0.09664062,817.53103,256.33985)"
+       transform="matrix(-0.09664062,0,0,-0.09664062,793.98595,256.33985)"
        inkscape:label="Signal CY 18">
       <rect
          height="7.2162771"
@@ -8622,7 +8869,7 @@
     <g
        id="CY_25"
        style="fill:#000000"
-       transform="matrix(-0.09664062,0,0,-0.09664062,817.53103,239.93568)"
+       transform="matrix(-0.09664062,0,0,-0.09664062,793.98595,239.93568)"
        inkscape:label="Signal CY 25">
       <rect
          height="7.2162771"
@@ -8653,7 +8900,7 @@
     <g
        id="CY51"
        style="fill:#000000"
-       transform="matrix(0.09664062,0,0,0.09664062,797.51072,171.73503)"
+       transform="matrix(0.09664062,0,0,0.09664062,802.30694,171.73503)"
        inkscape:label="Signal CY 51">
       <rect
          height="7.2162771"
@@ -8684,7 +8931,7 @@
     <g
        id="CY47"
        style="fill:#000000"
-       transform="matrix(0.09664062,0,0,0.09664062,797.51072,188.40378)"
+       transform="matrix(0.09664062,0,0,0.09664062,802.30694,188.40378)"
        inkscape:label="Signal CY 47">
       <rect
          height="7.2162771"
@@ -9087,7 +9334,7 @@
     </g>
     <g
        id="CE574"
-       transform="rotate(180,359.82235,111.51629)"
+       transform="rotate(180,353.71807,105.194)"
        inkscape:label="Ground Position Light CE 574">
       <rect
          height="7.2162771"
@@ -10350,7 +10597,7 @@
     </g>
     <g
        id="CY18"
-       transform="translate(736.58892,65.844647)"
+       transform="translate(713.04384,65.844647)"
        inkscape:label="Berth CY18">
       <rect
          height="5.970933"
@@ -10375,7 +10622,7 @@
     </g>
     <g
        id="CY25"
-       transform="translate(736.58892,49.755021)"
+       transform="translate(713.04384,49.755021)"
        inkscape:label="Berth CY25">
       <rect
          height="5.970933"
@@ -10400,7 +10647,7 @@
     </g>
     <g
        id="C106"
-       transform="translate(804.97272,49.755021)"
+       transform="translate(781.42764,49.755021)"
        inkscape:label="Berth C106">
       <rect
          height="5.970933"
@@ -10425,7 +10672,7 @@
     </g>
     <g
        id="C108"
-       transform="translate(804.97272,65.844647)"
+       transform="translate(781.42764,65.844647)"
        inkscape:label="Berth C108">
       <rect
          height="5.970933"
@@ -10698,7 +10945,7 @@
     <g
        id="CY_55"
        style="fill:#000000"
-       transform="matrix(0.09664062,0,0,0.09664062,745.62108,156.2361)"
+       transform="matrix(0.09664062,0,0,0.09664062,753.46944,156.2361)"
        inkscape:label="Signal CY 55">
       <rect
          height="7.2162771"
@@ -11342,7 +11589,7 @@
     </g>
     <g
        id="g7133"
-       transform="translate(646.47153,69.918707)"
+       transform="translate(637.31511,69.918707)"
        inkscape:label="Ground Position Light CE 573">
       <rect
          height="0.69738549"
@@ -11382,7 +11629,7 @@
     </g>
     <g
        inkscape:label="Ground Position Light CE 573"
-       transform="translate(646.47153,86.126029)"
+       transform="translate(637.31511,86.126029)"
        id="g7147">
       <rect
          inkscape:label="Rectangle 002"
@@ -12532,7 +12779,7 @@
     </g>
     <g
        inkscape:label="Berth C051"
-       transform="translate(699.06594,16.015796)"
+       transform="translate(703.86216,16.015796)"
        id="C051">
       <rect
          inkscape:label="Berth Rect"
@@ -12557,7 +12804,7 @@
     </g>
     <g
        id="C047"
-       transform="translate(699.06594,32.419974)"
+       transform="translate(703.86216,32.419974)"
        inkscape:label="Berth C047">
       <rect
          height="5.970933"
@@ -12582,7 +12829,7 @@
     </g>
     <g
        id="CY55"
-       transform="translate(647.70281,0.60975778)"
+       transform="translate(655.55117,0.60975778)"
        inkscape:label="Berth CY55">
       <rect
          height="5.970933"
@@ -12607,7 +12854,7 @@
     </g>
     <g
        inkscape:label="Signal CY 13"
-       transform="matrix(0.09664062,0,0,0.09664062,718.41342,156.2361)"
+       transform="matrix(0.09664062,0,0,0.09664062,726.26178,156.2361)"
        style="fill:#000000"
        id="CY_13">
       <rect
@@ -12638,7 +12885,7 @@
     </g>
     <g
        inkscape:label="Berth C013"
-       transform="translate(620.49515,0.60975778)"
+       transform="translate(628.34351,0.60975778)"
        id="CY13">
       <rect
          inkscape:label="Berth Rect"
@@ -12663,7 +12910,7 @@
     </g>
     <g
        inkscape:label="Signal CY 20"
-       transform="matrix(-0.09664062,0,0,-0.09664062,727.4141,271.08898)"
+       transform="matrix(-0.09664062,0,0,-0.09664062,697.32872,271.08898)"
        style="fill:#000000"
        id="CY_20">
       <rect
@@ -12694,7 +12941,7 @@
     </g>
     <g
        inkscape:label="Berth CY20"
-       transform="translate(646.03597,81.276953)"
+       transform="translate(615.95059,81.276953)"
        id="CY20">
       <rect
          inkscape:label="Berth Rect"
@@ -12867,7 +13114,7 @@
     </g>
     <g
        id="9032"
-       transform="translate(-0.44318662,-65.087518)"
+       transform="translate(15.689551,-65.087518)"
        inkscape:label="Berth 9032">
       <rect
          height="5.970933"
@@ -12892,7 +13139,7 @@
     </g>
     <g
        inkscape:label="Signal GL 9030"
-       transform="matrix(-0.09664062,0,0,-0.09664062,-8.188292,158.38006)"
+       transform="matrix(-0.09664062,0,0,-0.09664062,-97.136372,158.38006)"
        style="fill:#000000"
        id="GL9012">
       <rect
@@ -12923,7 +13170,7 @@
     </g>
     <g
        inkscape:label="Berth 9012"
-       transform="translate(-89.933391,-31.816172)"
+       transform="translate(-178.88147,-31.816172)"
        id="9012">
       <rect
          inkscape:label="Berth Rect"
@@ -12949,7 +13196,7 @@
     <g
        id="GL9023"
        style="fill:#000000"
-       transform="translate(-77.396932,-11.590154)"
+       transform="translate(-144.63894,-11.372144)"
        inkscape:label="Ground Position Light GL 9023">
       <rect
          height="7.2162771"
@@ -12997,7 +13244,7 @@
     </g>
     <g
        id="9023"
-       transform="translate(-71.171799,-31.816172)"
+       transform="translate(-139.84495,-31.816172)"
        inkscape:label="Berth 9023">
       <rect
          height="5.970933"
@@ -13022,7 +13269,7 @@
     </g>
     <g
        id="9019"
-       transform="translate(-97.999759,-48.820949)"
+       transform="translate(-186.94784,-48.820949)"
        inkscape:label="Berth 9019">
       <rect
          height="5.970933"
@@ -13047,7 +13294,7 @@
     </g>
     <g
        inkscape:label="Ground Position Light GL 9021"
-       transform="translate(-77.396932,-44.727674)"
+       transform="translate(-144.63894,-44.073644)"
        style="fill:#000000"
        id="GL9021">
       <rect
@@ -13096,7 +13343,7 @@
     </g>
     <g
        inkscape:label="Berth 9021"
-       transform="translate(-71.171799,-64.953692)"
+       transform="translate(-139.84495,-64.953692)"
        id="9021">
       <rect
          inkscape:label="Berth Rect"
@@ -13121,7 +13368,7 @@
     </g>
     <g
        inkscape:label="Signal CY 108"
-       transform="matrix(-0.09664062,0,0,-0.09664062,885.55015,256.33985)"
+       transform="matrix(-0.09664062,0,0,-0.09664062,862.00507,256.33985)"
        style="fill:#000000"
        id="CY108">
       <rect
@@ -13152,7 +13399,7 @@
     </g>
     <g
        inkscape:label="Signal CY 106"
-       transform="matrix(-0.09664062,0,0,-0.09664062,885.55015,239.93568)"
+       transform="matrix(-0.09664062,0,0,-0.09664062,862.00507,239.93568)"
        style="fill:#000000"
        id="CY106">
       <rect
@@ -13183,7 +13430,7 @@
     </g>
     <g
        inkscape:label="Berth C102"
-       transform="translate(772.27122,49.755021)"
+       transform="translate(748.72614,49.755021)"
        id="C102">
       <rect
          inkscape:label="Berth Rect"
@@ -13208,7 +13455,7 @@
     </g>
     <g
        inkscape:label="Berth C104"
-       transform="translate(772.27122,65.844647)"
+       transform="translate(748.72614,65.844647)"
        id="C104">
       <rect
          inkscape:label="Berth Rect"
@@ -13234,7 +13481,7 @@
     <g
        id="CY104"
        style="fill:#000000"
-       transform="matrix(-0.09664062,0,0,-0.09664062,852.84865,256.33985)"
+       transform="matrix(-0.09664062,0,0,-0.09664062,829.30357,256.33985)"
        inkscape:label="Signal CY 104">
       <rect
          height="7.2162771"
@@ -13265,7 +13512,7 @@
     <g
        id="CY102"
        style="fill:#000000"
-       transform="matrix(-0.09664062,0,0,-0.09664062,852.84865,239.93568)"
+       transform="matrix(-0.09664062,0,0,-0.09664062,829.30357,239.93568)"
        inkscape:label="Signal CY 102">
       <rect
          height="7.2162771"
@@ -13295,7 +13542,7 @@
     </g>
     <g
        inkscape:label="Signal WD 103"
-       transform="matrix(0.09664062,0,0,0.09664062,835.44446,171.73503)"
+       transform="matrix(0.09664062,0,0,0.09664062,840.24068,171.73503)"
        style="fill:#000000"
        id="WD103">
       <rect
@@ -13326,7 +13573,7 @@
     </g>
     <g
        inkscape:label="Signal WD 101"
-       transform="matrix(0.09664062,0,0,0.09664062,835.44446,188.40378)"
+       transform="matrix(0.09664062,0,0,0.09664062,840.24068,188.40378)"
        style="fill:#000000"
        id="WD101">
       <rect
@@ -13357,7 +13604,7 @@
     </g>
     <g
        id="WD_0103"
-       transform="translate(736.99968,16.015796)"
+       transform="translate(741.7959,16.015796)"
        inkscape:label="Berth WD_0103">
       <rect
          height="5.970933"
@@ -13382,7 +13629,7 @@
     </g>
     <g
        inkscape:label="Berth WD_0101"
-       transform="translate(736.99968,32.419974)"
+       transform="translate(741.7959,32.419974)"
        id="WD_0101">
       <rect
          inkscape:label="Berth Rect"
@@ -13408,7 +13655,7 @@
     <g
        id="WD107"
        style="fill:#000000"
-       transform="matrix(0.09664062,0,0,0.09664062,871.63412,171.73503)"
+       transform="matrix(0.09664062,0,0,0.09664062,876.43034,171.73503)"
        inkscape:label="Signal WD 107">
       <rect
          height="7.2162771"
@@ -13439,7 +13686,7 @@
     <g
        id="WD105"
        style="fill:#000000"
-       transform="matrix(0.09664062,0,0,0.09664062,871.63412,188.40378)"
+       transform="matrix(0.09664062,0,0,0.09664062,876.43034,188.40378)"
        inkscape:label="Signal WD 105">
       <rect
          height="7.2162771"
@@ -13469,7 +13716,7 @@
     </g>
     <g
        inkscape:label="Berth WD_0107"
-       transform="translate(773.18934,16.015796)"
+       transform="translate(777.98556,16.015796)"
        id="WD_0107">
       <rect
          inkscape:label="Berth Rect"
@@ -13494,7 +13741,7 @@
     </g>
     <g
        id="WD_0105"
-       transform="translate(773.18934,32.419974)"
+       transform="translate(777.98556,32.419974)"
        inkscape:label="Berth WD_0105">
       <rect
          height="5.970933"
@@ -13520,12 +13767,17 @@
     <path
        id="path6532"
        style="fill:none;stroke:#000000;stroke-width:0.67318732;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 693.32759,180.29252 -2.49148,-3.2294 v -3.5078 m 2.49148,-6.73721 -2.49148,3.2294 v 3.50781"
+       d="m 701.17595,180.29252 -2.49148,-3.2294 v -3.5078 m 2.49148,-6.73721 -2.49148,3.2294 v 3.50781"
        inkscape:connector-curvature="0" />
     <path
        inkscape:connector-curvature="0"
-       d="m 693.32759,260.96917 -2.49148,-3.2294 v -3.5078 m 2.49148,-6.73721 -2.49148,3.2294 v 3.50781"
+       d="m 680.24699,260.96917 -2.49148,-3.2294 v -3.5078 m 2.49148,-6.73721 -2.49148,3.2294 v 3.50781"
        style="fill:none;stroke:#000000;stroke-width:0.67318732;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path6544" />
+    <path
+       style="fill:#a05a2c;fill-opacity:1;stroke:none;stroke-width:0.21800996px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 39.028999,140.41966 h 20.580009 l -0.533775,1.28235 H 41.154487 Z"
+       id="path6524"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>
