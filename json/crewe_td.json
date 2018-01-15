@@ -49,56 +49,6 @@
       "value": 0
     }
   ],
-  "2C": [
-    {
-      "bit": "5",
-      "detail": "CE101",
-      "context": "Signal State",
-      "value": 0
-    },
-    {
-      "bit": "6",
-      "detail": "CE105",
-      "context": "Signal State",
-      "value": 0
-    },
-    {
-      "bit": "7",
-      "detail": "CE107",
-      "context": "Signal State",
-      "value": 0
-    },
-    {
-      "bit": "0",
-      "detail": "R566(1S)",
-      "context": "CE 566 (EMU Sidings) to Platform 1 (CE 136)",
-      "value": 0
-    },
-    {
-      "bit": "1",
-      "detail": "R570(1S)",
-      "context": "CE 570 (Engine Siding) to Platform 6 (CE 564)",
-      "value": 0
-    },
-    {
-      "bit": "2",
-      "detail": "R570(2S)",
-      "context": "CE 570 (Engine Siding) to Platform 9",
-      "value": 0
-    },
-    {
-      "bit": "3",
-      "detail": "R570(3S)",
-      "context": "CE 570 (Engine Siding) to Down Chester (CE 562)",
-      "value": 0
-    },
-    {
-      "bit": "4",
-      "detail": "R573(1S)",
-      "context": "CE 573 (Up Chester) to Crewe Works Arrival / Departure Line",
-      "value": 0
-    }
-  ],
   "01": [
     {
       "bit": "0",
@@ -290,50 +240,6 @@
       "bit": "6",
       "detail": "R110(9M)",
       "context": "CE 110 (DED Access / Departure Line) to Up Main (Salop)",
-      "value": 0
-    }
-  ],
-  "2D": [
-    {
-      "bit": "0",
-      "detail": "CE110",
-      "context": "Signal State",
-      "value": 0
-    },
-    {
-      "bit": "2",
-      "detail": "CE112",
-      "context": "Signal State",
-      "value": 0
-    },
-    {
-      "bit": "3",
-      "detail": "CE113",
-      "context": "Signal State",
-      "value": 0
-    },
-    {
-      "bit": "4",
-      "detail": "CE114",
-      "context": "Signal State",
-      "value": 0
-    },
-    {
-      "bit": "5",
-      "detail": "CE115",
-      "context": "Signal State",
-      "value": 0
-    },
-    {
-      "bit": "6",
-      "detail": "CE116",
-      "context": "Signal State",
-      "value": 0
-    },
-    {
-      "bit": "7",
-      "detail": "CE117",
-      "context": "Signal State",
       "value": 0
     }
   ],
@@ -681,50 +587,6 @@
       "value": 0
     }
   ],
-  "2E": [
-    {
-      "bit": "0",
-      "detail": "CE118",
-      "context": "Signal State",
-      "value": 0
-    },
-    {
-      "bit": "1",
-      "detail": "CE119",
-      "context": "Signal State",
-      "value": 0
-    },
-    {
-      "bit": "2",
-      "detail": "CE120",
-      "context": "Signal State",
-      "value": 0
-    },
-    {
-      "bit": "3",
-      "detail": "CE121",
-      "context": "Signal State",
-      "value": 0
-    },
-    {
-      "bit": "4",
-      "detail": "CE122",
-      "context": "Signal State",
-      "value": 0
-    },
-    {
-      "bit": "5",
-      "detail": "CE124",
-      "context": "Signal State",
-      "value": 0
-    },
-    {
-      "bit": "7",
-      "detail": "CE126",
-      "context": "Signal State",
-      "value": 0
-    }
-  ],
   "0C": [
     {
       "bit": "0",
@@ -1069,56 +931,6 @@
       "value": 0
     }
   ],
-  "2F": [
-    {
-      "bit": "0",
-      "detail": "CE128",
-      "context": "Signal State",
-      "value": 0
-    },
-    {
-      "bit": "1",
-      "detail": "CE130",
-      "context": "Signal State",
-      "value": 0
-    },
-    {
-      "bit": "2",
-      "detail": "CE131",
-      "context": "Signal State",
-      "value": 0
-    },
-    {
-      "bit": "3",
-      "detail": "CE132",
-      "context": "Signal State",
-      "value": 0
-    },
-    {
-      "bit": "4",
-      "detail": "CE133",
-      "context": "Signal State",
-      "value": 0
-    },
-    {
-      "bit": "5",
-      "detail": "CE134",
-      "context": "Signal State",
-      "value": 0
-    },
-    {
-      "bit": "6",
-      "detail": "CE135",
-      "context": "Signal State",
-      "value": 0
-    },
-    {
-      "bit": "7",
-      "detail": "CE136",
-      "context": "Signal State",
-      "value": 0
-    }
-  ],
   "13": [
     {
       "bit": "0",
@@ -1316,56 +1128,6 @@
       "bit": "7",
       "detail": "R139(5M/S)",
       "context": "CE 139 (Platform 11) to Down Fast (CY 48)",
-      "value": 0
-    }
-  ],
-  "30": [
-    {
-      "bit": "0",
-      "detail": "CE137",
-      "context": "Signal State",
-      "value": 0
-    },
-    {
-      "bit": "1",
-      "detail": "CE139",
-      "context": "Signal State",
-      "value": 0
-    },
-    {
-      "bit": "2",
-      "detail": "CE141",
-      "context": "Signal State",
-      "value": 0
-    },
-    {
-      "bit": "3",
-      "detail": "CE142",
-      "context": "Signal State",
-      "value": 0
-    },
-    {
-      "bit": "4",
-      "detail": "CE143",
-      "context": "Signal State",
-      "value": 0
-    },
-    {
-      "bit": "5",
-      "detail": "CE144",
-      "context": "Signal State",
-      "value": 0
-    },
-    {
-      "bit": "6",
-      "detail": "CE146",
-      "context": "Signal State",
-      "value": 0
-    },
-    {
-      "bit": "7",
-      "detail": "CE147",
-      "context": "Signal State",
       "value": 0
     }
   ],
@@ -1719,56 +1481,6 @@
       "value": 0
     }
   ],
-  "31": [
-    {
-      "bit": "0",
-      "detail": "CE148",
-      "context": "Signal State",
-      "value": 0
-    },
-    {
-      "bit": "1",
-      "detail": "CE149",
-      "context": "Signal State",
-      "value": 0
-    },
-    {
-      "bit": "2",
-      "detail": "CE150",
-      "context": "Signal State",
-      "value": 0
-    },
-    {
-      "bit": "3",
-      "detail": "CE151",
-      "context": "Signal State",
-      "value": 0
-    },
-    {
-      "bit": "4",
-      "detail": "CE152",
-      "context": "Signal State",
-      "value": 0
-    },
-    {
-      "bit": "5",
-      "detail": "CE153",
-      "context": "Signal State",
-      "value": 0
-    },
-    {
-      "bit": "6",
-      "detail": "CE154",
-      "context": "Signal State",
-      "value": 0
-    },
-    {
-      "bit": "7",
-      "detail": "CE155",
-      "context": "Signal State",
-      "value": 0
-    }
-  ],
   "1E": [
     {
       "bit": "0",
@@ -1969,50 +1681,6 @@
       "value": 0
     }
   ],
-  "32": [
-    {
-      "bit": "0",
-      "detail": "CE157",
-      "context": "Signal State",
-      "value": 0
-    },
-    {
-      "bit": "1",
-      "detail": "CE159",
-      "context": "Signal State",
-      "value": 0
-    },
-    {
-      "bit": "2",
-      "detail": "CE161",
-      "context": "Signal State",
-      "value": 0
-    },
-    {
-      "bit": "3",
-      "detail": "CE162",
-      "context": "Signal State",
-      "value": 0
-    },
-    {
-      "bit": "4",
-      "detail": "CE164",
-      "context": "Signal State",
-      "value": 0
-    },
-    {
-      "bit": "6",
-      "detail": "CE175",
-      "context": "Signal State",
-      "value": 0
-    },
-    {
-      "bit": "7",
-      "detail": "CE176",
-      "context": "Signal State",
-      "value": 0
-    }
-  ],
   "22": [
     {
       "bit": "0",
@@ -2107,50 +1775,6 @@
       "value": 0
     }
   ],
-  "33": [
-    {
-      "bit": "0",
-      "detail": "CE178",
-      "context": "Signal State",
-      "value": 0
-    },
-    {
-      "bit": "1",
-      "detail": "CE179",
-      "context": "Signal State",
-      "value": 0
-    },
-    {
-      "bit": "2",
-      "detail": "CE181",
-      "context": "Signal State",
-      "value": 0
-    },
-    {
-      "bit": "3",
-      "detail": "CE183",
-      "context": "Signal State",
-      "value": 0
-    },
-    {
-      "bit": "4",
-      "detail": "CE184",
-      "context": "Signal State",
-      "value": 0
-    },
-    {
-      "bit": "5",
-      "detail": "CE185",
-      "context": "Signal State",
-      "value": 0
-    },
-    {
-      "bit": "6",
-      "detail": "CE186",
-      "context": "Signal State",
-      "value": 0
-    }
-  ],
   "24": [
     {
       "bit": "0",
@@ -2180,50 +1804,6 @@
       "bit": "7",
       "detail": "R193(2M)",
       "context": "CE 193 (Up & Down Potteries) to Up & Down Potteries (CE 121)",
-      "value": 0
-    }
-  ],
-  "34": [
-    {
-      "bit": "1",
-      "detail": "CE189",
-      "context": "Signal State",
-      "value": 0
-    },
-    {
-      "bit": "2",
-      "detail": "CE190",
-      "context": "Signal State",
-      "value": 0
-    },
-    {
-      "bit": "3",
-      "detail": "CE191",
-      "context": "Signal State",
-      "value": 0
-    },
-    {
-      "bit": "4",
-      "detail": "CE192",
-      "context": "Signal State",
-      "value": 0
-    },
-    {
-      "bit": "5",
-      "detail": "CE193",
-      "context": "Signal State",
-      "value": 0
-    },
-    {
-      "bit": "6",
-      "detail": "CE196",
-      "context": "Signal State",
-      "value": 0
-    },
-    {
-      "bit": "7",
-      "detail": "CE198",
-      "context": "Signal State",
       "value": 0
     }
   ],
@@ -2274,56 +1854,6 @@
       "bit": "7",
       "detail": "R531(3S)",
       "context": "CE 531 (Down Refuge Siding) to Platform 6 (CE 149)",
-      "value": 0
-    }
-  ],
-  "35": [
-    {
-      "bit": "0",
-      "detail": "CE202",
-      "context": "Signal State",
-      "value": 0
-    },
-    {
-      "bit": "1",
-      "detail": "CE524",
-      "context": "Signal State",
-      "value": 0
-    },
-    {
-      "bit": "2",
-      "detail": "CE531",
-      "context": "Signal State",
-      "value": 0
-    },
-    {
-      "bit": "3",
-      "detail": "CE535",
-      "context": "Signal State",
-      "value": 0
-    },
-    {
-      "bit": "4",
-      "detail": "CE537",
-      "context": "Signal State",
-      "value": 0
-    },
-    {
-      "bit": "5",
-      "detail": "CE539",
-      "context": "Signal State",
-      "value": 0
-    },
-    {
-      "bit": "6",
-      "detail": "CE543",
-      "context": "Signal State",
-      "value": 0
-    },
-    {
-      "bit": "7",
-      "detail": "CE544",
-      "context": "Signal State",
       "value": 0
     }
   ],
@@ -2477,56 +2007,6 @@
       "value": 0
     }
   ],
-  "36": [
-    {
-      "bit": "0",
-      "detail": "CE545",
-      "context": "Signal State",
-      "value": 0
-    },
-    {
-      "bit": "1",
-      "detail": "CE551",
-      "context": "Signal State",
-      "value": 0
-    },
-    {
-      "bit": "2",
-      "detail": "CE553",
-      "context": "Signal State",
-      "value": 0
-    },
-    {
-      "bit": "3",
-      "detail": "CE555",
-      "context": "Signal State",
-      "value": 0
-    },
-    {
-      "bit": "4",
-      "detail": "CE561",
-      "context": "Signal State",
-      "value": 0
-    },
-    {
-      "bit": "5",
-      "detail": "CE562",
-      "context": "Signal State",
-      "value": 0
-    },
-    {
-      "bit": "6",
-      "detail": "CE566",
-      "context": "Signal State",
-      "value": 0
-    },
-    {
-      "bit": "7",
-      "detail": "CE570",
-      "context": "Signal State",
-      "value": 0
-    }
-  ],
   "29": [
     {
       "bit": "0",
@@ -2677,6 +2157,526 @@
       "value": 0
     }
   ],
+  "2C": [
+    {
+      "bit": "5",
+      "detail": "CE101",
+      "context": "Signal State",
+      "value": 0
+    },
+    {
+      "bit": "6",
+      "detail": "CE105",
+      "context": "Signal State",
+      "value": 0
+    },
+    {
+      "bit": "7",
+      "detail": "CE107",
+      "context": "Signal State",
+      "value": 0
+    },
+    {
+      "bit": "0",
+      "detail": "R566(1S)",
+      "context": "CE 566 (EMU Sidings) to Platform 1 (CE 136)",
+      "value": 0
+    },
+    {
+      "bit": "1",
+      "detail": "R570(1S)",
+      "context": "CE 570 (Engine Siding) to Platform 6 (CE 564)",
+      "value": 0
+    },
+    {
+      "bit": "2",
+      "detail": "R570(2S)",
+      "context": "CE 570 (Engine Siding) to Platform 9",
+      "value": 0
+    },
+    {
+      "bit": "3",
+      "detail": "R570(3S)",
+      "context": "CE 570 (Engine Siding) to Down Chester (CE 562)",
+      "value": 0
+    },
+    {
+      "bit": "4",
+      "detail": "R573(1S)",
+      "context": "CE 573 (Up Chester) to Crewe Works Arrival / Departure Line",
+      "value": 0
+    }
+  ],
+  "2D": [
+    {
+      "bit": "0",
+      "detail": "CE110",
+      "context": "Signal State",
+      "value": 0
+    },
+    {
+      "bit": "2",
+      "detail": "CE112",
+      "context": "Signal State",
+      "value": 0
+    },
+    {
+      "bit": "3",
+      "detail": "CE113",
+      "context": "Signal State",
+      "value": 0
+    },
+    {
+      "bit": "4",
+      "detail": "CE114",
+      "context": "Signal State",
+      "value": 0
+    },
+    {
+      "bit": "5",
+      "detail": "CE115",
+      "context": "Signal State",
+      "value": 0
+    },
+    {
+      "bit": "6",
+      "detail": "CE116",
+      "context": "Signal State",
+      "value": 0
+    },
+    {
+      "bit": "7",
+      "detail": "CE117",
+      "context": "Signal State",
+      "value": 0
+    }
+  ],
+  "2E": [
+    {
+      "bit": "0",
+      "detail": "CE118",
+      "context": "Signal State",
+      "value": 0
+    },
+    {
+      "bit": "1",
+      "detail": "CE119",
+      "context": "Signal State",
+      "value": 0
+    },
+    {
+      "bit": "2",
+      "detail": "CE120",
+      "context": "Signal State",
+      "value": 0
+    },
+    {
+      "bit": "3",
+      "detail": "CE121",
+      "context": "Signal State",
+      "value": 0
+    },
+    {
+      "bit": "4",
+      "detail": "CE122",
+      "context": "Signal State",
+      "value": 0
+    },
+    {
+      "bit": "5",
+      "detail": "CE124",
+      "context": "Signal State",
+      "value": 0
+    },
+    {
+      "bit": "7",
+      "detail": "CE126",
+      "context": "Signal State",
+      "value": 0
+    }
+  ],
+  "2F": [
+    {
+      "bit": "0",
+      "detail": "CE128",
+      "context": "Signal State",
+      "value": 0
+    },
+    {
+      "bit": "1",
+      "detail": "CE130",
+      "context": "Signal State",
+      "value": 0
+    },
+    {
+      "bit": "2",
+      "detail": "CE131",
+      "context": "Signal State",
+      "value": 0
+    },
+    {
+      "bit": "3",
+      "detail": "CE132",
+      "context": "Signal State",
+      "value": 0
+    },
+    {
+      "bit": "4",
+      "detail": "CE133",
+      "context": "Signal State",
+      "value": 0
+    },
+    {
+      "bit": "5",
+      "detail": "CE134",
+      "context": "Signal State",
+      "value": 0
+    },
+    {
+      "bit": "6",
+      "detail": "CE135",
+      "context": "Signal State",
+      "value": 0
+    },
+    {
+      "bit": "7",
+      "detail": "CE136",
+      "context": "Signal State",
+      "value": 0
+    }
+  ],
+  "30": [
+    {
+      "bit": "0",
+      "detail": "CE137",
+      "context": "Signal State",
+      "value": 0
+    },
+    {
+      "bit": "1",
+      "detail": "CE139",
+      "context": "Signal State",
+      "value": 0
+    },
+    {
+      "bit": "2",
+      "detail": "CE141",
+      "context": "Signal State",
+      "value": 0
+    },
+    {
+      "bit": "3",
+      "detail": "CE142",
+      "context": "Signal State",
+      "value": 0
+    },
+    {
+      "bit": "4",
+      "detail": "CE143",
+      "context": "Signal State",
+      "value": 0
+    },
+    {
+      "bit": "5",
+      "detail": "CE144",
+      "context": "Signal State",
+      "value": 0
+    },
+    {
+      "bit": "6",
+      "detail": "CE146",
+      "context": "Signal State",
+      "value": 0
+    },
+    {
+      "bit": "7",
+      "detail": "CE147",
+      "context": "Signal State",
+      "value": 0
+    }
+  ],
+  "31": [
+    {
+      "bit": "0",
+      "detail": "CE148",
+      "context": "Signal State",
+      "value": 0
+    },
+    {
+      "bit": "1",
+      "detail": "CE149",
+      "context": "Signal State",
+      "value": 0
+    },
+    {
+      "bit": "2",
+      "detail": "CE150",
+      "context": "Signal State",
+      "value": 0
+    },
+    {
+      "bit": "3",
+      "detail": "CE151",
+      "context": "Signal State",
+      "value": 0
+    },
+    {
+      "bit": "4",
+      "detail": "CE152",
+      "context": "Signal State",
+      "value": 0
+    },
+    {
+      "bit": "5",
+      "detail": "CE153",
+      "context": "Signal State",
+      "value": 0
+    },
+    {
+      "bit": "6",
+      "detail": "CE154",
+      "context": "Signal State",
+      "value": 0
+    },
+    {
+      "bit": "7",
+      "detail": "CE155",
+      "context": "Signal State",
+      "value": 0
+    }
+  ],
+  "32": [
+    {
+      "bit": "0",
+      "detail": "CE157",
+      "context": "Signal State",
+      "value": 0
+    },
+    {
+      "bit": "1",
+      "detail": "CE159",
+      "context": "Signal State",
+      "value": 0
+    },
+    {
+      "bit": "2",
+      "detail": "CE161",
+      "context": "Signal State",
+      "value": 0
+    },
+    {
+      "bit": "3",
+      "detail": "CE162",
+      "context": "Signal State",
+      "value": 0
+    },
+    {
+      "bit": "4",
+      "detail": "CE164",
+      "context": "Signal State",
+      "value": 0
+    },
+    {
+      "bit": "6",
+      "detail": "CE175",
+      "context": "Signal State",
+      "value": 0
+    },
+    {
+      "bit": "7",
+      "detail": "CE176",
+      "context": "Signal State",
+      "value": 0
+    }
+  ],
+  "33": [
+    {
+      "bit": "0",
+      "detail": "CE178",
+      "context": "Signal State",
+      "value": 0
+    },
+    {
+      "bit": "1",
+      "detail": "CE179",
+      "context": "Signal State",
+      "value": 0
+    },
+    {
+      "bit": "2",
+      "detail": "CE181",
+      "context": "Signal State",
+      "value": 0
+    },
+    {
+      "bit": "3",
+      "detail": "CE183",
+      "context": "Signal State",
+      "value": 0
+    },
+    {
+      "bit": "4",
+      "detail": "CE184",
+      "context": "Signal State",
+      "value": 0
+    },
+    {
+      "bit": "5",
+      "detail": "CE185",
+      "context": "Signal State",
+      "value": 0
+    },
+    {
+      "bit": "6",
+      "detail": "CE186",
+      "context": "Signal State",
+      "value": 0
+    }
+  ],
+  "34": [
+    {
+      "bit": "1",
+      "detail": "CE189",
+      "context": "Signal State",
+      "value": 0
+    },
+    {
+      "bit": "2",
+      "detail": "CE190",
+      "context": "Signal State",
+      "value": 0
+    },
+    {
+      "bit": "3",
+      "detail": "CE191",
+      "context": "Signal State",
+      "value": 0
+    },
+    {
+      "bit": "4",
+      "detail": "CE192",
+      "context": "Signal State",
+      "value": 0
+    },
+    {
+      "bit": "5",
+      "detail": "CE193",
+      "context": "Signal State",
+      "value": 0
+    },
+    {
+      "bit": "6",
+      "detail": "CE196",
+      "context": "Signal State",
+      "value": 0
+    },
+    {
+      "bit": "7",
+      "detail": "CE198",
+      "context": "Signal State",
+      "value": 0
+    }
+  ],
+  "35": [
+    {
+      "bit": "0",
+      "detail": "CE202",
+      "context": "Signal State",
+      "value": 0
+    },
+    {
+      "bit": "1",
+      "detail": "CE524",
+      "context": "Signal State",
+      "value": 0
+    },
+    {
+      "bit": "2",
+      "detail": "CE531",
+      "context": "Signal State",
+      "value": 0
+    },
+    {
+      "bit": "3",
+      "detail": "CE535",
+      "context": "Signal State",
+      "value": 0
+    },
+    {
+      "bit": "4",
+      "detail": "CE537",
+      "context": "Signal State",
+      "value": 0
+    },
+    {
+      "bit": "5",
+      "detail": "CE539",
+      "context": "Signal State",
+      "value": 0
+    },
+    {
+      "bit": "6",
+      "detail": "CE543",
+      "context": "Signal State",
+      "value": 0
+    },
+    {
+      "bit": "7",
+      "detail": "CE544",
+      "context": "Signal State",
+      "value": 0
+    }
+  ],
+  "36": [
+    {
+      "bit": "0",
+      "detail": "CE545",
+      "context": "Signal State",
+      "value": 0
+    },
+    {
+      "bit": "1",
+      "detail": "CE551",
+      "context": "Signal State",
+      "value": 0
+    },
+    {
+      "bit": "2",
+      "detail": "CE553",
+      "context": "Signal State",
+      "value": 0
+    },
+    {
+      "bit": "3",
+      "detail": "CE555",
+      "context": "Signal State",
+      "value": 0
+    },
+    {
+      "bit": "4",
+      "detail": "CE561",
+      "context": "Signal State",
+      "value": 0
+    },
+    {
+      "bit": "5",
+      "detail": "CE562",
+      "context": "Signal State",
+      "value": 0
+    },
+    {
+      "bit": "6",
+      "detail": "CE566",
+      "context": "Signal State",
+      "value": 0
+    },
+    {
+      "bit": "7",
+      "detail": "CE570",
+      "context": "Signal State",
+      "value": 0
+    }
+  ],
   "37": [
     {
       "bit": "7",
@@ -2796,56 +2796,6 @@
       "bit": "7",
       "detail": "P12UTRSE",
       "context": "TRTS",
-      "value": 0
-    }
-  ],
-  "46": [
-    {
-      "bit": "0",
-      "detail": "RGL1133",
-      "context": "",
-      "value": 0
-    },
-    {
-      "bit": "1",
-      "detail": "RGL6001",
-      "context": "",
-      "value": 0
-    },
-    {
-      "bit": "2",
-      "detail": "RGL6002",
-      "context": "",
-      "value": 0
-    },
-    {
-      "bit": "3",
-      "detail": "RGL6201",
-      "context": "",
-      "value": 0
-    },
-    {
-      "bit": "4",
-      "detail": "RGL6401",
-      "context": "",
-      "value": 0
-    },
-    {
-      "bit": "5",
-      "detail": "RGL9052",
-      "context": "",
-      "value": 0
-    },
-    {
-      "bit": "6",
-      "detail": "RGL9062",
-      "context": "",
-      "value": 0
-    },
-    {
-      "bit": "7",
-      "detail": "RGL9064",
-      "context": "",
       "value": 0
     }
   ],
@@ -3245,6 +3195,56 @@
     {
       "bit": "7",
       "detail": "RGL9042A(S)",
+      "context": "",
+      "value": 0
+    }
+  ],
+  "46": [
+    {
+      "bit": "0",
+      "detail": "RGL1133",
+      "context": "",
+      "value": 0
+    },
+    {
+      "bit": "1",
+      "detail": "RGL6001",
+      "context": "",
+      "value": 0
+    },
+    {
+      "bit": "2",
+      "detail": "RGL6002",
+      "context": "",
+      "value": 0
+    },
+    {
+      "bit": "3",
+      "detail": "RGL6201",
+      "context": "",
+      "value": 0
+    },
+    {
+      "bit": "4",
+      "detail": "RGL6401",
+      "context": "",
+      "value": 0
+    },
+    {
+      "bit": "5",
+      "detail": "RGL9052",
+      "context": "",
+      "value": 0
+    },
+    {
+      "bit": "6",
+      "detail": "RGL9062",
+      "context": "",
+      "value": 0
+    },
+    {
+      "bit": "7",
+      "detail": "RGL9064",
       "context": "",
       "value": 0
     }
