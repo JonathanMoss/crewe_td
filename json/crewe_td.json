@@ -101,6 +101,12 @@
   ],
   "01": [
     {
+      "bit": "0",
+      "detail": "R105(17M/C)",
+      "context": "CE 105 (Down Slow) to Platform 1 (CE 159)",
+      "value": 0
+    },
+    {
       "bit": "1",
       "detail": "R105(1S)",
       "context": "CE 105 (Down Slow) to DED Access / Departure Line",
@@ -140,12 +146,6 @@
       "bit": "7",
       "detail": "R105(7M/C/W)",
       "context": "CE 105 (Down Slow) to Platform 6 (CE 149)",
-      "value": 0
-    },
-    {
-      "bit": "0",
-      "detail": "R105(17M/C)",
-      "context": "CE 105 (Down Slow) to Platform 1 (CE 159)",
       "value": 0
     }
   ],
@@ -201,6 +201,12 @@
   ],
   "03": [
     {
+      "bit": "0",
+      "detail": "R107(16M/C)",
+      "context": "CE 107 (Down Fast) to Platform 1 (CE 159)",
+      "value": 0
+    },
+    {
       "bit": "1",
       "detail": "R107(1S)",
       "context": "CE 107 (Down Fast) to DED Access / Departure Line",
@@ -240,12 +246,6 @@
       "bit": "7",
       "detail": "R107(7M/C/W)",
       "context": "CE 107 (Down Fast) to Platform 6 (CE 149)",
-      "value": 0
-    },
-    {
-      "bit": "0",
-      "detail": "R107(16M/C)",
-      "context": "CE 107 (Down Fast) to Platform 1 (CE 159)",
       "value": 0
     }
   ],
@@ -339,6 +339,18 @@
   ],
   "05": [
     {
+      "bit": "0",
+      "detail": "R112(10S)",
+      "context": "CE 112 (Platform 12) to Down Salop Goods Loop",
+      "value": 0
+    },
+    {
+      "bit": "1",
+      "detail": "R112(11S)",
+      "context": "CE 112 (Platform 12) to Siding (DED)",
+      "value": 0
+    },
+    {
       "bit": "2",
       "detail": "R112(1M)",
       "context": "CE 112 (Platform 12) to Up & Down Potteries (CE 198)",
@@ -366,18 +378,6 @@
       "bit": "6",
       "detail": "R112(9M)",
       "context": "CE 112 (Platform 12) to Up Main (Salop)",
-      "value": 0
-    },
-    {
-      "bit": "0",
-      "detail": "R112(10S)",
-      "context": "CE 112 (Platform 12) to Down Salop Goods Loop",
-      "value": 0
-    },
-    {
-      "bit": "1",
-      "detail": "R112(11S)",
-      "context": "CE 112 (Platform 12) to Siding (DED)",
       "value": 0
     },
     {
@@ -413,18 +413,6 @@
       "value": 0
     },
     {
-      "bit": "6",
-      "detail": "R114(1M)",
-      "context": "CE 114 (Up & Down Loop) to Up & Down Potteries (CE 198)",
-      "value": 0
-    },
-    {
-      "bit": "7",
-      "detail": "R114(2M)",
-      "context": "CE 114 (Up & Down Loop) to Up & Down Potteries Loop (CE 196)",
-      "value": 0
-    },
-    {
       "bit": "4",
       "detail": "R114(10S)",
       "context": "CE 114 (Up & Down Loop) to Down Salop Goods Loop",
@@ -434,6 +422,18 @@
       "bit": "5",
       "detail": "R114(11S)",
       "context": "CE 114 (Up & Down Loop) to Siding (DED)",
+      "value": 0
+    },
+    {
+      "bit": "6",
+      "detail": "R114(1M)",
+      "context": "CE 114 (Up & Down Loop) to Up & Down Potteries (CE 198)",
+      "value": 0
+    },
+    {
+      "bit": "7",
+      "detail": "R114(2M)",
+      "context": "CE 114 (Up & Down Loop) to Up & Down Potteries Loop (CE 196)",
       "value": 0
     }
   ],
@@ -489,6 +489,18 @@
       "value": 0
     },
     {
+      "bit": "1",
+      "detail": "R116(10S)",
+      "context": "CE 116 (Platform 11) to Down Salop Goods Loop",
+      "value": 0
+    },
+    {
+      "bit": "2",
+      "detail": "R116(11S)",
+      "context": "CE 116 (Platform 11) to Siding (DED)",
+      "value": 0
+    },
+    {
       "bit": "3",
       "detail": "R116(1M)",
       "context": "CE 116 (Platform 11) to Up & Down Potteries (CE 198)",
@@ -517,21 +529,15 @@
       "detail": "R116(9M)",
       "context": "CE 116 (Platform 11) to Up Main (Salop)",
       "value": 0
-    },
-    {
-      "bit": "1",
-      "detail": "R116(10S)",
-      "context": "CE 116 (Platform 11) to Down Salop Goods Loop",
-      "value": 0
-    },
-    {
-      "bit": "2",
-      "detail": "R116(11S)",
-      "context": "CE 116 (Platform 11) to Siding (DED)",
-      "value": 0
     }
   ],
   "09": [
+    {
+      "bit": "0",
+      "detail": "R117(10M/C)",
+      "context": "CE 117 (Up Main [Salop]) to Platform 5 (CE 157)",
+      "value": 0
+    },
     {
       "bit": "1",
       "detail": "R117(1S)",
@@ -573,12 +579,6 @@
       "detail": "R117(7M/C/W)",
       "context": "CE 117 (Up Main [Salop]) to Platform 6 (CE 149)",
       "value": 0
-    },
-    {
-      "bit": "0",
-      "detail": "R117(10M/C)",
-      "context": "CE 117 (Up Main [Salop]) to Platform 5 (CE 157)",
-      "value": 0
     }
   ],
   "0A": [
@@ -592,6 +592,18 @@
       "bit": "1",
       "detail": "R117(9M/W)",
       "context": "CE 117 (Up Main [Salop]) to Up Fast (CE 155)",
+      "value": 0
+    },
+    {
+      "bit": "2",
+      "detail": "R118(10S)",
+      "context": "CE 118 (Platform 8) to Down Salop Goods",
+      "value": 0
+    },
+    {
+      "bit": "3",
+      "detail": "R118(11S)",
+      "context": "CE 118 (Platform 8) to DED Siding",
       "value": 0
     },
     {
@@ -617,18 +629,6 @@
       "detail": "R118(6M/S)",
       "context": "CE 118 (Platform 8) to Up Slow (CE 102)",
       "value": 0
-    },
-    {
-      "bit": "2",
-      "detail": "R118(10S)",
-      "context": "CE 118 (Platform 8) to Down Salop Goods",
-      "value": 0
-    },
-    {
-      "bit": "3",
-      "detail": "R118(11S)",
-      "context": "CE 118 (Platform 8) to DED Siding",
-      "value": 0
     }
   ],
   "0B": [
@@ -636,18 +636,6 @@
       "bit": "0",
       "detail": "R118(9M)",
       "context": "CE 118 (Platform 8) to Up Main [Salop] (GL 9030)",
-      "value": 0
-    },
-    {
-      "bit": "6",
-      "detail": "R119(1S)",
-      "context": "CE 119 (Up & Down Potteries Loop) to DED Access / Departure Line",
-      "value": 0
-    },
-    {
-      "bit": "7",
-      "detail": "R119(2M/C)",
-      "context": "CE 119 (Up & Down Potteries Loop) to Platform 12 (CE 135)",
       "value": 0
     },
     {
@@ -678,6 +666,18 @@
       "bit": "5",
       "detail": "R119(14M/C)",
       "context": "CE 119 (Up & Down Potteries Loop) to Platform 1 (CE 147)",
+      "value": 0
+    },
+    {
+      "bit": "6",
+      "detail": "R119(1S)",
+      "context": "CE 119 (Up & Down Potteries Loop) to DED Access / Departure Line",
+      "value": 0
+    },
+    {
+      "bit": "7",
+      "detail": "R119(2M/C)",
+      "context": "CE 119 (Up & Down Potteries Loop) to Platform 12 (CE 135)",
       "value": 0
     }
   ],
@@ -777,6 +777,12 @@
   ],
   "0D": [
     {
+      "bit": "0",
+      "detail": "R120(11S)",
+      "context": "CE 120 (Platform 7) to DED Siding",
+      "value": 0
+    },
+    {
       "bit": "1",
       "detail": "R120(1M)",
       "context": "CE 120 (Platform 7) to Up & Down Potteries (CE 198)",
@@ -807,12 +813,6 @@
       "value": 0
     },
     {
-      "bit": "0",
-      "detail": "R120(11S)",
-      "context": "CE 120 (Platform 7) to DED Siding",
-      "value": 0
-    },
-    {
       "bit": "6",
       "detail": "R121(10M/C)",
       "context": "CE 121 (Up & Down Potteries) to Platform 5 (CE 157)",
@@ -826,6 +826,24 @@
     }
   ],
   "0E": [
+    {
+      "bit": "0",
+      "detail": "R121(12M/C)",
+      "context": "CE 121 (Up & Down Potteries) to Platform 3",
+      "value": 0
+    },
+    {
+      "bit": "1",
+      "detail": "R121(13M/C)",
+      "context": "CE 121 (Up & Down Potteries) to Platform 2",
+      "value": 0
+    },
+    {
+      "bit": "2",
+      "detail": "R121(14M/C)",
+      "context": "CE 121 (Up & Down Potteries) to Platform 1 (CE 147)",
+      "value": 0
+    },
     {
       "bit": "3",
       "detail": "R121(1S)",
@@ -854,24 +872,6 @@
       "bit": "7",
       "detail": "R121(5M/C)",
       "context": "CE 121 (Up & Down Potteries) to Platform 8",
-      "value": 0
-    },
-    {
-      "bit": "0",
-      "detail": "R121(12M/C)",
-      "context": "CE 121 (Up & Down Potteries) to Platform 3",
-      "value": 0
-    },
-    {
-      "bit": "1",
-      "detail": "R121(13M/C)",
-      "context": "CE 121 (Up & Down Potteries) to Platform 2",
-      "value": 0
-    },
-    {
-      "bit": "2",
-      "detail": "R121(14M/C)",
-      "context": "CE 121 (Up & Down Potteries) to Platform 1 (CE 147)",
       "value": 0
     }
   ],
@@ -933,6 +933,12 @@
       "value": 0
     },
     {
+      "bit": "1",
+      "detail": "R124(10M)",
+      "context": "CE 124 (Down Fast) to Up Main [Salop] (GL 9030)",
+      "value": 0
+    },
+    {
       "bit": "2",
       "detail": "R124(1M)",
       "context": "CE 124 (Down Fast) to Up & Down Potteries (CE 198)",
@@ -961,15 +967,15 @@
       "detail": "R124(7M/S)",
       "context": "CE 124 (Down Fast) to Up Slow (CE 102)",
       "value": 0
-    },
-    {
-      "bit": "1",
-      "detail": "R124(10M)",
-      "context": "CE 124 (Down Fast) to Up Main [Salop] (GL 9030)",
-      "value": 0
     }
   ],
   "11": [
+    {
+      "bit": "0",
+      "detail": "R126(10M)",
+      "context": "CE 126 (Up Fast) to Up Main [Salop] (GL 9030)",
+      "value": 0
+    },
     {
       "bit": "1",
       "detail": "R126(1M)",
@@ -1001,21 +1007,15 @@
       "value": 0
     },
     {
-      "bit": "0",
-      "detail": "R126(10M)",
-      "context": "CE 126 (Up Fast) to Up Main [Salop] (GL 9030)",
+      "bit": "6",
+      "detail": "R128(10M)",
+      "context": "CE 128 (Platform 5) to Up Main [Salop] (GL 9030)",
       "value": 0
     },
     {
       "bit": "7",
       "detail": "R128(1M)",
       "context": "CE 128 (Platform 5) to Up & Down Potteries (CE 198)",
-      "value": 0
-    },
-    {
-      "bit": "6",
-      "detail": "R128(10M)",
-      "context": "CE 128 (Platform 5) to Up Main [Salop] (GL 9030)",
       "value": 0
     }
   ],
@@ -1421,6 +1421,12 @@
   ],
   "18": [
     {
+      "bit": "0",
+      "detail": "R142(10S)",
+      "context": "CE 142 (Up Chester) to Down Chester Ind.",
+      "value": 0
+    },
+    {
       "bit": "1",
       "detail": "R142(1M/C)",
       "context": "CE 142 (Up Chester) to Platform 6 (CE 122)",
@@ -1460,12 +1466,6 @@
       "bit": "7",
       "detail": "R142(7M/C)",
       "context": "CE 142 (Up Chester) to Platform 12 (CE 112)",
-      "value": 0
-    },
-    {
-      "bit": "0",
-      "detail": "R142(10S)",
-      "context": "CE 142 (Up Chester) to Down Chester Ind.",
       "value": 0
     }
   ],
@@ -1577,24 +1577,6 @@
       "value": 0
     },
     {
-      "bit": "5",
-      "detail": "R146(1M/C)",
-      "context": "CE 146 (Up Slow) to Platform 1 (CE 136)",
-      "value": 0
-    },
-    {
-      "bit": "6",
-      "detail": "R146(2M/C/W)",
-      "context": "CE 146 (Up Slow) to Platform 5 (CE 128)",
-      "value": 0
-    },
-    {
-      "bit": "7",
-      "detail": "R146(3M)",
-      "context": "CE 146 (Up Slow) to Up Fast (CE 126)",
-      "value": 0
-    },
-    {
       "bit": "1",
       "detail": "R146(10M/C)",
       "context": "CE 146 (Up Slow) to Platform 11 (CE 116)",
@@ -1616,6 +1598,24 @@
       "bit": "4",
       "detail": "R146(13M/C)",
       "context": "CE 146 (Up Slow) to Platform 12 (CE 112)",
+      "value": 0
+    },
+    {
+      "bit": "5",
+      "detail": "R146(1M/C)",
+      "context": "CE 146 (Up Slow) to Platform 1 (CE 136)",
+      "value": 0
+    },
+    {
+      "bit": "6",
+      "detail": "R146(2M/C/W)",
+      "context": "CE 146 (Up Slow) to Platform 5 (CE 128)",
+      "value": 0
+    },
+    {
+      "bit": "7",
+      "detail": "R146(3M)",
+      "context": "CE 146 (Up Slow) to Up Fast (CE 126)",
       "value": 0
     }
   ],
@@ -2409,6 +2409,12 @@
       "value": 0
     },
     {
+      "bit": "5",
+      "detail": "R545(10S)",
+      "context": "CE 545 (Up Fast) to Platform 1 (CE 147)",
+      "value": 0
+    },
+    {
       "bit": "6",
       "detail": "R545(1S)",
       "context": "CE 545 (Up Fast) to DED Access / Departure Line Line",
@@ -2418,12 +2424,6 @@
       "bit": "7",
       "detail": "R545(2S)",
       "context": "CE 545 (Up Fast) to Up Main [Salop] (CE 553)",
-      "value": 0
-    },
-    {
-      "bit": "5",
-      "detail": "R545(10S)",
-      "context": "CE 545 (Up Fast) to Platform 1 (CE 147)",
       "value": 0
     }
   ],
@@ -2796,6 +2796,650 @@
       "bit": "7",
       "detail": "P12UTRSE",
       "context": "TRTS",
+      "value": 0
+    }
+  ],
+  "46": [
+    {
+      "bit": "0",
+      "detail": "RGL1133",
+      "context": "",
+      "value": 0
+    },
+    {
+      "bit": "1",
+      "detail": "RGL6001",
+      "context": "",
+      "value": 0
+    },
+    {
+      "bit": "2",
+      "detail": "RGL6002",
+      "context": "",
+      "value": 0
+    },
+    {
+      "bit": "3",
+      "detail": "RGL6201",
+      "context": "",
+      "value": 0
+    },
+    {
+      "bit": "4",
+      "detail": "RGL6401",
+      "context": "",
+      "value": 0
+    },
+    {
+      "bit": "5",
+      "detail": "RGL9052",
+      "context": "",
+      "value": 0
+    },
+    {
+      "bit": "6",
+      "detail": "RGL9062",
+      "context": "",
+      "value": 0
+    },
+    {
+      "bit": "7",
+      "detail": "RGL9064",
+      "context": "",
+      "value": 0
+    }
+  ],
+  "3D": [
+    {
+      "bit": "0",
+      "detail": "RGL9001A(M)",
+      "context": "GL 9001 (Down Nantwich) to Down Nantwich (GL 9003)",
+      "value": 0
+    },
+    {
+      "bit": "1",
+      "detail": "RGL9002A(M)",
+      "context": "GL 9002 (Up Nantwich) to Up Nantwich (SC 8482)",
+      "value": 0
+    },
+    {
+      "bit": "2",
+      "detail": "RGL9003C(M)",
+      "context": "GL 9003 (Down Nantwich) to Down Nantwich (GL 9019)",
+      "value": 0
+    },
+    {
+      "bit": "3",
+      "detail": "RGL9004A(M)",
+      "context": "GL 9004 (Up Nantwich) to Up Nantwich (GL 9002)",
+      "value": 0
+    },
+    {
+      "bit": "4",
+      "detail": "RGL9012B(M)",
+      "context": "GL 9012 (Up Nantwich) to Up Nantwich (GL 9004)",
+      "value": 0
+    },
+    {
+      "bit": "5",
+      "detail": "RGL9019A(M)",
+      "context": "GL 9019 (Down Nantwich) to Down Salop (SG 12)",
+      "value": 0
+    },
+    {
+      "bit": "6",
+      "detail": "RGL9019B(M)",
+      "context": "GL 9019 (Down Nantwich) to Down Salop Goods Loop (CE 113)",
+      "value": 0
+    },
+    {
+      "bit": "7",
+      "detail": "RGL9019D(M)",
+      "context": "GL 9019 (Down Nantwich) to Down Nantwich (CE 115)",
+      "value": 0
+    }
+  ],
+  "3E": [
+    {
+      "bit": "5",
+      "detail": "RGL9003A(S)",
+      "context": "",
+      "value": 0
+    },
+    {
+      "bit": "6",
+      "detail": "RGL9003B(S)",
+      "context": "",
+      "value": 0
+    },
+    {
+      "bit": "7",
+      "detail": "RGL9005A(S)",
+      "context": "GL 9005 (Up Nantwich) to Up Nantwich (GL 9011)",
+      "value": 0
+    },
+    {
+      "bit": "0",
+      "detail": "RGL9019E(M)",
+      "context": "GL 9019 (Down Nantwich) to Up Nantwich (CE 117)",
+      "value": 0
+    },
+    {
+      "bit": "1",
+      "detail": "RGL9019F(M)",
+      "context": "GL 9010 (Down Nantwich) to Up Sorting",
+      "value": 0
+    },
+    {
+      "bit": "2",
+      "detail": "RGL9026A(M)",
+      "context": "GL 9026 (Down Sorting)",
+      "value": 0
+    },
+    {
+      "bit": "3",
+      "detail": "RGL9030A(M)",
+      "context": "",
+      "value": 0
+    },
+    {
+      "bit": "4",
+      "detail": "RGL9034A(M)",
+      "context": "GL 9034 (Up Salop) to Up Nantwich (GL 9012)",
+      "value": 0
+    }
+  ],
+  "3F": [
+    {
+      "bit": "0",
+      "detail": "RGL9005B(S)",
+      "context": "GL 9005 (Up Nantwich) to Gresty Green Through Sidings (GL 9013)",
+      "value": 0
+    },
+    {
+      "bit": "1",
+      "detail": "RGL9006A(S)",
+      "context": "GL 9006 (Gresty Green Through Siding) to Neck",
+      "value": 0
+    },
+    {
+      "bit": "2",
+      "detail": "RGL9006B(S)",
+      "context": "GL 9006 (Greast Green Through Siding) to Up Nantwich (GL 9004)",
+      "value": 0
+    },
+    {
+      "bit": "3",
+      "detail": "RGL9007A(S)",
+      "context": "GL 9007 (Grest Green Through Sidings Neck) to Gresty Green Through Siding (GL 9013)",
+      "value": 0
+    },
+    {
+      "bit": "4",
+      "detail": "RGL9008A(S)",
+      "context": "GL 9008 (Down Through Siding) to Neck",
+      "value": 0
+    },
+    {
+      "bit": "5",
+      "detail": "RGL9009A(S)(NP)",
+      "context": "GL 9009 (Down Through Siding) to Down Siding Arrival",
+      "value": 0
+    },
+    {
+      "bit": "6",
+      "detail": "RGL9009A(S)(P)",
+      "context": "GL 9009 (Down Through Siding) to Down Siding Arrival",
+      "value": 0
+    },
+    {
+      "bit": "7",
+      "detail": "RGL9009B(S)(NP)",
+      "context": "GL 9009 (Down Through Siding) to Down Through Siding (GL 9015)",
+      "value": 0
+    }
+  ],
+  "40": [
+    {
+      "bit": "0",
+      "detail": "RGL9009B(S)(P)",
+      "context": "GL 9009 (Down Through Siding) to Down Through Siding (GL 9015)",
+      "value": 0
+    },
+    {
+      "bit": "1",
+      "detail": "RGL9010A(S)",
+      "context": "GL 9010 (Down Siding Arrival) to Down Through Siding Neck",
+      "value": 0
+    },
+    {
+      "bit": "2",
+      "detail": "RGL9011A(S)",
+      "context": "GL 9011 (Up Nantwich) to Up Nantwich (GL 9015)",
+      "value": 0
+    },
+    {
+      "bit": "3",
+      "detail": "RGL9012A(S)",
+      "context": "GL 9012 (Up Nantwich) to Gresty Green Through Sidings (GL 9006)",
+      "value": 0
+    },
+    {
+      "bit": "4",
+      "detail": "RGL9013A(S)",
+      "context": "GL 9013 (Gresty Green Through Sidings) to Up Nantwich (GL 9023)",
+      "value": 0
+    },
+    {
+      "bit": "5",
+      "detail": "RGL9014A(S)(NP)",
+      "context": "GL 9014 (Down Through Siding) to Down Through Siding (GL 9008)",
+      "value": 0
+    },
+    {
+      "bit": "6",
+      "detail": "RGL9014A(S)(P)",
+      "context": "GL 9014 (Down Through Siding) to Down Through Siding (GL 9008)",
+      "value": 0
+    },
+    {
+      "bit": "7",
+      "detail": "RGL9014B(S)(NP)",
+      "context": "GL 9014 (Down Through Siding) to Down Sidings Arrival (GL 9010)",
+      "value": 0
+    }
+  ],
+  "41": [
+    {
+      "bit": "0",
+      "detail": "RGL9014B(S)(P)",
+      "context": "GL 9014 (Down Through Siding) to Down Sidings Arrival (GL 9010)",
+      "value": 0
+    },
+    {
+      "bit": "1",
+      "detail": "RGL9015A(S)",
+      "context": "GL 9015 (Down Through Siding) to Down Through Siding (GL 9021)",
+      "value": 0
+    },
+    {
+      "bit": "2",
+      "detail": "RGL9018A(S)",
+      "context": "GL 9018 (Down Salop Siding) to Down Through Siding (GL 9014)",
+      "value": 0
+    },
+    {
+      "bit": "3",
+      "detail": "RGL9019C(S)",
+      "context": "GL 9019 (Down Nantwich) to Diesel Depot)",
+      "value": 0
+    },
+    {
+      "bit": "4",
+      "detail": "RGL9020A(S)",
+      "context": "",
+      "value": 0
+    },
+    {
+      "bit": "5",
+      "detail": "RGL9021A(S)",
+      "context": "GL 9021 (Down Through Siding) to Down Salop Siding",
+      "value": 0
+    },
+    {
+      "bit": "6",
+      "detail": "RGL9021B(S)",
+      "context": "GL 9021 (Down Through Siding) to Down Salop (SG 12)",
+      "value": 0
+    },
+    {
+      "bit": "7",
+      "detail": "RGL9021C(S)",
+      "context": "GL 9021 (Down Through Siding) to Down Salop Goods Loop (GL 9031)",
+      "value": 0
+    }
+  ],
+  "42": [
+    {
+      "bit": "0",
+      "detail": "RGL9021D(S)",
+      "context": "GL 9021 (Down Through Siding) to Down Nantwich (CE 115)",
+      "value": 0
+    },
+    {
+      "bit": "1",
+      "detail": "RGL9021E(S)",
+      "context": "GL 9021 (Down Through Siding) to Up Nantwich (CE 117)",
+      "value": 0
+    },
+    {
+      "bit": "2",
+      "detail": "RGL9021F(S)",
+      "context": "GL 9021 (Down Through Siding) to Up Sorting",
+      "value": 0
+    },
+    {
+      "bit": "3",
+      "detail": "RGL9022A(S)",
+      "context": "",
+      "value": 0
+    },
+    {
+      "bit": "4",
+      "detail": "RGL9022B(S)",
+      "context": "",
+      "value": 0
+    },
+    {
+      "bit": "5",
+      "detail": "RGL9023A(S)",
+      "context": "GL 9023 (Up Nantwich) to Down Salop (SG 12)",
+      "value": 0
+    },
+    {
+      "bit": "6",
+      "detail": "RGL9023B(S)",
+      "context": "GL 9023 (Up Nantwich) to Down Salop Goods Loop (GL 9031)",
+      "value": 0
+    },
+    {
+      "bit": "7",
+      "detail": "RGL9023C(S)",
+      "context": "GL 9023 (Up Nantwich) to Down Nantwich (CE 115)",
+      "value": 0
+    }
+  ],
+  "44": [
+    {
+      "bit": "0",
+      "detail": "RGL9023D(S)",
+      "context": "GL 9023 (Up Nantwich) to Up Nantwich (CE 117)",
+      "value": 0
+    },
+    {
+      "bit": "1",
+      "detail": "RGL9023E(S)",
+      "context": "GL 9023 (Up Nantwich) to Up Sorting",
+      "value": 0
+    },
+    {
+      "bit": "2",
+      "detail": "RGL9023F(S)",
+      "context": "GL 9023 (Up Nantwich) to Down Sorting",
+      "value": 0
+    },
+    {
+      "bit": "3",
+      "detail": "RGL9023G(S)",
+      "context": "GL 9023 (Up Nantwich) to Western Siding",
+      "value": 0
+    },
+    {
+      "bit": "4",
+      "detail": "RGL9025A(S)(NP)",
+      "context": "",
+      "value": 0
+    },
+    {
+      "bit": "5",
+      "detail": "RGL9025A(S)(P)",
+      "context": "",
+      "value": 0
+    },
+    {
+      "bit": "6",
+      "detail": "RGL9025B(S)(NP)",
+      "context": "",
+      "value": 0
+    },
+    {
+      "bit": "7",
+      "detail": "RGL9025B(S)(P)",
+      "context": "",
+      "value": 0
+    }
+  ],
+  "45": [
+    {
+      "bit": "0",
+      "detail": "RGL9026B(S)",
+      "context": "",
+      "value": 0
+    },
+    {
+      "bit": "1",
+      "detail": "RGL9030B(S)",
+      "context": "",
+      "value": 0
+    },
+    {
+      "bit": "2",
+      "detail": "RGL9031A(S)",
+      "context": "",
+      "value": 0
+    },
+    {
+      "bit": "4",
+      "detail": "RGL9031B(PS)",
+      "context": "",
+      "value": 0
+    },
+    {
+      "bit": "3",
+      "detail": "RGL9031B(S)",
+      "context": "",
+      "value": 0
+    },
+    {
+      "bit": "5",
+      "detail": "RGL9032A(S)",
+      "context": "GL 9032 (Down Salop Goods Loop) to Up Nantwich (GL 9012)",
+      "value": 0
+    },
+    {
+      "bit": "6",
+      "detail": "RGL9032B(S)",
+      "context": "",
+      "value": 0
+    },
+    {
+      "bit": "7",
+      "detail": "RGL9042A(S)",
+      "context": "",
+      "value": 0
+    }
+  ],
+  "47": [
+    {
+      "bit": "0",
+      "detail": "GL9001",
+      "context": "Signal State",
+      "value": 0
+    },
+    {
+      "bit": "1",
+      "detail": "GL9002",
+      "context": "Signal State",
+      "value": 0
+    },
+    {
+      "bit": "2",
+      "detail": "GL9003",
+      "context": "Signal State",
+      "value": 0
+    },
+    {
+      "bit": "3",
+      "detail": "GL9004",
+      "context": "Signal State",
+      "value": 0
+    },
+    {
+      "bit": "4",
+      "detail": "GL9012",
+      "context": "Signal State",
+      "value": 0
+    },
+    {
+      "bit": "5",
+      "detail": "GL9019",
+      "context": "Signal State",
+      "value": 0
+    },
+    {
+      "bit": "6",
+      "detail": "GL9026",
+      "context": "Signal State",
+      "value": 0
+    },
+    {
+      "bit": "7",
+      "detail": "GL9030",
+      "context": "Signal State",
+      "value": 0
+    }
+  ],
+  "48": [
+    {
+      "bit": "0",
+      "detail": "GL9034",
+      "context": "Signal State",
+      "value": 0
+    },
+    {
+      "bit": "1",
+      "detail": "GL9005",
+      "context": "Signal State",
+      "value": 0
+    },
+    {
+      "bit": "2",
+      "detail": "GL9006",
+      "context": "Signal State",
+      "value": 0
+    },
+    {
+      "bit": "3",
+      "detail": "GL9007",
+      "context": "Signal State",
+      "value": 0
+    },
+    {
+      "bit": "4",
+      "detail": "GL9008",
+      "context": "Signal State",
+      "value": 0
+    },
+    {
+      "bit": "5",
+      "detail": "GL9009",
+      "context": "Signal State",
+      "value": 0
+    },
+    {
+      "bit": "6",
+      "detail": "GL9010",
+      "context": "Signal State",
+      "value": 0
+    },
+    {
+      "bit": "7",
+      "detail": "GL9011",
+      "context": "Signal State",
+      "value": 0
+    }
+  ],
+  "49": [
+    {
+      "bit": "0",
+      "detail": "GL9013",
+      "context": "Signal State",
+      "value": 0
+    },
+    {
+      "bit": "1",
+      "detail": "GL9014",
+      "context": "Signal State",
+      "value": 0
+    },
+    {
+      "bit": "2",
+      "detail": "GL9015",
+      "context": "Signal State",
+      "value": 0
+    },
+    {
+      "bit": "3",
+      "detail": "GL9018",
+      "context": "Signal State",
+      "value": 0
+    },
+    {
+      "bit": "4",
+      "detail": "GL9020",
+      "context": "Signal State",
+      "value": 0
+    },
+    {
+      "bit": "5",
+      "detail": "GL9021",
+      "context": "Signal State",
+      "value": 0
+    },
+    {
+      "bit": "6",
+      "detail": "GL9022",
+      "context": "Signal State",
+      "value": 0
+    },
+    {
+      "bit": "7",
+      "detail": "GL9023",
+      "context": "Signal State",
+      "value": 0
+    }
+  ],
+  "4A": [
+    {
+      "bit": "0",
+      "detail": "GL9025",
+      "context": "Signal State",
+      "value": 0
+    },
+    {
+      "bit": "1",
+      "detail": "GL9031",
+      "context": "Signal State",
+      "value": 0
+    },
+    {
+      "bit": "2",
+      "detail": "GL9032",
+      "context": "Signal State",
+      "value": 0
+    },
+    {
+      "bit": "3",
+      "detail": "GL9042",
+      "context": "Signal State",
+      "value": 0
+    },
+    {
+      "bit": "4",
+      "detail": "GL9052",
+      "context": "Signal State",
+      "value": 0
+    },
+    {
+      "bit": "5",
+      "detail": "GL9062",
+      "context": "Signal State",
+      "value": 0
+    },
+    {
+      "bit": "6",
+      "detail": "GL9064",
+      "context": "Signal State",
       "value": 0
     }
   ]

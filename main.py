@@ -245,6 +245,7 @@ class IncomingMessageHandler:
 
         address = v['address']  # Get the address from the message
         h_data = v['data']  # Get the message data
+        print(address, h_data)
         hex_data = bin(int(h_data, SCALE))[2:].zfill(NUM_OF_BITS)  # Convert the message data to 8 bit binary string
         rev_hex_data = hex_data[::-1]  # Reverse the binary string (LSB first)
 
@@ -364,6 +365,7 @@ class SVGHandler:
 
     def set_signal(self, signal, signal_on=True):
 
+        print(signal)
         with update_lock:
             search_string = ".//{{http://www.w3.org/2000/svg}}g[@id='{}']".format(signal)
 
@@ -494,8 +496,12 @@ class SOPBuilder:
                         total_trts += 1
                     elif detail.startswith('S'):  # Signal State
                         total_signal += 1
-                        detail = re.findall(r'[0-9]{3,4}', detail)
-                        detail = 'CE{}'.format(detail[0])
+                        if 'GL' not in detail:
+                            detail = re.findall(r'[0-9]{3,4}', detail)
+                            detail = 'CE{}'.format(detail[0])
+                        else:
+                            detail = re.findall(r'[0-9]{3,4}', detail)
+                            detail = 'GL{}'.format(detail[0])
                     elif detail.startswith('R'):  # Route
                         context = str(row[5])
                         total_route += 1
@@ -516,6 +522,7 @@ class SOPBuilder:
             logger.info('....{} signals found'.format(total_signal))
             logger.info('....{} routes found'.format(total_route))
             logger.info('....{} TRTS found'.format(total_trts))
+            print(td_matrix)
 
     @staticmethod
     def print_json_to_file():
