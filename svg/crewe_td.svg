@@ -43,8 +43,8 @@
      showguides="true"
      units="px"
      inkscape:current-layer="base_layer"
-     inkscape:cx="1337.9244"
-     inkscape:cy="997.68862"
+     inkscape:cx="994.97762"
+     inkscape:cy="884.55154"
      inkscape:document-units="mm"
      inkscape:guide-bbox="true"
      inkscape:measure-end="1373.33,908.743"
@@ -58,7 +58,7 @@
      inkscape:window-maximized="1"
      inkscape:window-width="1600"
      inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:window-y="1042"
      inkscape:zoom="0.7071068"
      inkscape:snap-nodes="true"
      inkscape:snap-smooth-nodes="false">
@@ -6437,14 +6437,24 @@
       <text
          id="text6728"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:3.3972497px;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="-261.39703"
-         y="159.28105"
+         x="-271.51355"
+         y="153.21115"
          xml:space="preserve"><tspan
            id="tspan6726"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
-           x="-261.39703"
-           y="159.28105"
-           sodipodi:role="line">Neck</tspan></text>
+           x="-271.51355"
+           y="153.21115"
+           sodipodi:role="line">Gresty Green </tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
+           x="-271.51355"
+           y="156.73027"
+           sodipodi:role="line"
+           id="tspan6736">Through Sidings</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
+           x="-271.51355"
+           y="160.24937"
+           sodipodi:role="line"
+           id="tspan6738">Neck</tspan></text>
       <text
          xml:space="preserve"
          y="88.6064"
@@ -6478,6 +6488,17 @@
            x="-140.46864"
            y="75.525787"
            sodipodi:role="line">Gresty Lane Down Sidings</tspan></text>
+      <text
+         xml:space="preserve"
+         y="153.14816"
+         x="-187.08499"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:3.3972497px;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         id="text6734"><tspan
+           sodipodi:role="line"
+           y="153.14816"
+           x="-187.08499"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
+           id="tspan6732">Gresty Green Through Sidings</tspan></text>
     </g>
     <g
        id="BH11"
