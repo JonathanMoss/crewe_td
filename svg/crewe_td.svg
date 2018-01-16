@@ -43,23 +43,23 @@
      showguides="true"
      units="px"
      inkscape:current-layer="base_layer"
-     inkscape:cx="994.97762"
-     inkscape:cy="884.55154"
+     inkscape:cx="2364.8542"
+     inkscape:cy="1091.2771"
      inkscape:document-units="mm"
      inkscape:guide-bbox="true"
      inkscape:measure-end="1373.33,908.743"
      inkscape:measure-start="1326.27,1016.86"
-     inkscape:object-nodes="false"
+     inkscape:object-nodes="true"
      inkscape:object-paths="false"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:snap-intersection-paths="false"
+     inkscape:snap-intersection-paths="true"
      inkscape:window-height="848"
      inkscape:window-maximized="1"
      inkscape:window-width="1600"
      inkscape:window-x="-8"
-     inkscape:window-y="1042"
-     inkscape:zoom="0.7071068"
+     inkscape:window-y="-8"
+     inkscape:zoom="1.1161465"
      inkscape:snap-nodes="true"
      inkscape:snap-smooth-nodes="false">
     <sodipodi:guide
@@ -85,12 +85,12 @@
     <sodipodi:guide
        id="guide5863"
        orientation="0.93104875,0.36489481"
-       position="362.47561,171.63174"
+       position="375.10325,204.86727"
        inkscape:locked="false" />
     <sodipodi:guide
        id="guide5876"
        orientation="-0.93145734,0.36385054"
-       position="255.97248,188.04146"
+       position="517.1299,237.68843"
        inkscape:locked="false" />
     <sodipodi:guide
        id="guide5897"
@@ -138,9 +138,19 @@
        id="guide6727"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="380.00157,170.8142"
+       position="197.69666,165.39957"
        orientation="0,1"
-       id="guide6729"
+       id="guide6738"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="231.64435,176.48479"
+       orientation="1,0"
+       id="guide6751"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="243.24854,245.37632"
+       orientation="0,1"
+       id="guide6772"
        inkscape:locked="false" />
   </sodipodi:namedview>
   <metadata
@@ -162,10 +172,10 @@
      inkscape:groupmode="layer"
      inkscape:label="Base Layer">
     <path
-       d="M -363.56368,6.4042632 H 930.46795 V 330.10712 H -363.56368 Z"
+       d="M -398.35573,6.4042632 H 930.46795 V 330.10712 H -398.35573 Z"
        id="track_1"
        label="Routing Track 1"
-       style="opacity:1;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.22324219;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.66972662, 0.66972662;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:1;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.22622339;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.67867022, 0.67867022;stroke-dashoffset:0;stroke-opacity:1"
        inkscape:connector-curvature="0"
        inkscape:label="Routing Track 1"
        sodipodi:nodetypes="ccccc"
@@ -426,20 +436,21 @@
          inkscape:connector-curvature="0"
          inkscape:label="Routing Track 32" />
       <path
-         d="m 153.64049,91.453411 -6.30836,16.201809 1.64796,1e-5 6.30835,-16.201819 z"
+         d="m 153.64049,91.453411 -6.03501,15.763799 h 1.54495 l 6.13801,-15.763799 z"
          id="track_33"
          label="Routing Track 33"
-         style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#241c1c;stroke-width:0.40400001;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         style="opacity:1;fill:#a05a2c;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.40400001;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          sodipodi:nodetypes="ccccc"
          inkscape:connector-curvature="0"
          inkscape:label="Routing Track 33" />
       <path
-         d="m 143.1334,107.17126 h 62.35234 v 1.28235 H 143.1334 Z"
+         d="m 149.15065,107.17126 56.33509,-2e-5 v 1.28235 h -56.81812 z"
          id="track_34"
          label="Routing Track 34"
          style="opacity:1;fill:#008000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.31664085;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          inkscape:connector-curvature="0"
-         inkscape:label="Routing Track 34" />
+         inkscape:label="Routing Track 34"
+         sodipodi:nodetypes="ccccc" />
       <path
          d="M 1591.3698,578.05551 1536.406,718.7606 h 7.0866 l 54.9638,-140.70426 z"
          id="track_35"
@@ -1451,12 +1462,13 @@
          inkscape:label="Routing Track 166"
          sodipodi:nodetypes="ccccc" />
       <path
-         d="m 148.00391,90.760536 h 48.2072 v 1.282346 h -48.2072 z"
+         d="m 153.91573,90.760536 42.29538,0 v 1.282346 l -42.79629,0 z"
          id="track_167"
          label="Routing Track 167"
          style="opacity:1;fill:#00aad4;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.11806028;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          inkscape:label="Routing Track 167"
-         inkscape:connector-curvature="0" />
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc" />
       <path
          d="m 552.85701,172.18791 h 33.95743 l 0.50283,1.28235 h -34.46026 z"
          id="track_168"
@@ -2852,7 +2864,8 @@
          style="opacity:1;fill:#00aad4;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.31664085;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          label="Routing Track 34"
          id="path6070"
-         d="m 132.13459,107.17126 h 10.99881 v 1.28235 h -10.99881 z" />
+         d="m 132.13459,107.17126 17.03373,0 -0.50071,1.28235 -16.53302,0 z"
+         sodipodi:nodetypes="ccccc" />
       <path
          inkscape:label="Routing Track 14"
          inkscape:connector-curvature="0"
@@ -2955,7 +2968,7 @@
          style="opacity:1;fill:#008000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.45919642;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          label="Routing Track 238"
          id="path6488"
-         d="m 22.424931,124.86404 -1.544953,-0.0116 8.432498,21.40959 h 1.540038 z" />
+         d="m 11.388168,124.86404 -1.5449527,-0.0116 8.4324977,21.40959 h 1.540038 z" />
       <path
          sodipodi:nodetypes="ccccc"
          inkscape:label="Routing Track 81"
@@ -2963,14 +2976,14 @@
          style="opacity:1;fill:#a05a2c;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.76110142;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          label="Routing Track 81"
          id="path6490"
-         d="m 21.921991,123.58169 h 29.558278 l -0.500918,1.28235 H 22.424567 Z" />
+         d="m 10.884053,123.58169 40.596216,0 -0.500918,1.28235 -39.591183,0 z" />
       <path
          inkscape:label="Routing Track 98"
          inkscape:connector-curvature="0"
          style="opacity:1;fill:#008000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.09669578;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          label="Routing Track 98"
          id="path6492"
-         d="M 29.312476,146.26203 H 51.0829 v 1.28234 l -21.268147,-7.7e-4 z"
+         d="m 18.275713,146.26203 h 12.156832 v 1.28234 L 18.77799,147.5436 Z"
          sodipodi:nodetypes="ccccc" />
       <path
          d="m -0.46290303,124.85824 -1.81411217,-0.006 9.4756956,24.17836 1.796645,-0.0391 z"
@@ -2982,7 +2995,7 @@
          inkscape:label="Routing Track 238" />
       <path
          sodipodi:nodetypes="ccccc"
-         d="M 8.5934075,152.80838 H 51.0829 v 1.28234 l -41.9139455,-7.7e-4 z"
+         d="m 8.5934075,152.80838 17.8199895,0.0916 v 1.28234 l -17.2444425,-0.0923 z"
          id="path6496"
          label="Routing Track 98"
          style="opacity:1;fill:#008000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.10350855;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -2990,7 +3003,7 @@
          inkscape:label="Routing Track 98" />
       <path
          sodipodi:nodetypes="ccccc"
-         d="m 3.9908875,123.5371 17.9311035,0.0446 0.50259,1.28238 -16.0161457,-0.007 z"
+         d="m 3.9908875,123.5371 6.8947115,0.0446 0.502585,1.28238 -4.9797487,-0.007 z"
          id="path6498"
          label="Routing Track 97"
          style="opacity:1;fill:#ffe680;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.34688345;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -3066,7 +3079,7 @@
          style="opacity:1;fill:#008000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.09669578;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          label="Routing Track 98"
          id="path6516"
-         d="m -0.89320749,158.90645 51.95055749,0.0107 0.02555,1.38068 -51.46790043,-0.018 z"
+         d="m -0.89320749,158.90645 21.82796849,0.0107 0.02555,1.38068 -21.34531143,-0.018 z"
          sodipodi:nodetypes="ccccc" />
       <path
          sodipodi:nodetypes="ccccc"
@@ -3148,21 +3161,16 @@
          inkscape:connector-curvature="0"
          inkscape:label="Routing Track 14" />
       <path
-         inkscape:label="Routing Track 14"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="ccccc"
-         style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.25877953;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         label="Routing Track 14"
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.26614165;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 1191.033,385.47385 13.9295,35.54918 h -7.559 l -13.9296,-35.54919"
          id="path6738"
-         d="m -123.19752,77.386716 5.75795,14.692184 -1.78282,-0.005 -5.52008,-14.723217 z" />
+         transform="matrix(0.20438434,0,0,0.20438434,-363.71508,6.0284846)"
+         inkscape:connector-curvature="0" />
       <path
-         d="m -113.38704,77.386716 5.75795,14.692184 -1.78282,-0.005 -5.52008,-14.723217 z"
-         id="path6740"
-         label="Routing Track 14"
-         style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.25877953;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         sodipodi:nodetypes="ccccc"
          inkscape:connector-curvature="0"
-         inkscape:label="Routing Track 14" />
+         id="path6794"
+         d="m -114.97258,84.813303 2.84697,7.265696 h -1.54494 l -2.84699,-7.265698"
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.25877953;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <path
          d="m -152.21947,91.637588 h 49.7874 l 0.49039,1.28235 h -50.27779 z"
          id="path6265"
@@ -3355,10 +3363,11 @@
       <path
          inkscape:label="Routing Track 15"
          inkscape:connector-curvature="0"
-         style="opacity:1;fill:#00aad4;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.16780895;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         style="opacity:1;fill:#00aad4;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.09643196;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          label="Routing Track 15"
          id="path6549"
-         d="m -188.10306,157.42144 h 60.31675 v 1.28235 h -60.31675 z" />
+         d="m -188.10306,157.42144 h 20.96033 l 0.50258,1.28235 h -21.46291 z"
+         sodipodi:nodetypes="ccccc" />
       <path
          d="m -127.78635,157.4214 h 13.25911 l 0.008,1.28238 -13.26747,1e-5 z"
          id="path6576"
@@ -3391,6 +3400,38 @@
          style="opacity:1;fill:#00aad4;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.16780895;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          inkscape:connector-curvature="0"
          inkscape:label="Routing Track 15" />
+      <path
+         d="m -164.84795,164.31969 32.36845,0.012 v 1.417 h -31.80838 z"
+         id="path6747"
+         label="Routing Track 14"
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.25877953;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         inkscape:label="Routing Track 14" />
+      <path
+         inkscape:label="Routing Track 14"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc"
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.25877953;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         label="Routing Track 14"
+         id="path6749"
+         d="m -163.62164,167.49014 31.14214,0.012 v 1.417 h -30.58207 z" />
+      <path
+         inkscape:label="Routing Track 550"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc"
+         style="opacity:1;fill:#a05a2c;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.10717268;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         label="Routing Track 13"
+         id="path6736"
+         d="m -166.64017,158.70375 4.06091,10.36254 h -1.54496 l -4.0609,-10.36245 z" />
+      <path
+         d="m -167.14273,157.42144 h 39.35602 v 1.28235 h -38.85344 z"
+         id="path6743"
+         label="Routing Track 15"
+         style="opacity:1;fill:#008000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.13504049;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:connector-curvature="0"
+         inkscape:label="Routing Track 15"
+         sodipodi:nodetypes="ccccc" />
     </g>
     <g
        id="crewe_station"
@@ -6249,12 +6290,12 @@
            sodipodi:role="line">Down Salop Siding</tspan></text>
       <text
          xml:space="preserve"
-         y="157.90671"
+         y="160.46773"
          x="21.644165"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:3.3972497px;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
          id="text5421"><tspan
            sodipodi:role="line"
-           y="157.90671"
+           y="160.46773"
            x="21.644165"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
            id="tspan5423">Western Sidings</tspan></text>
@@ -6262,21 +6303,21 @@
          id="text5425"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:3.3972497px;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
          x="31.206026"
-         y="145.19662"
+         y="147.76878"
          xml:space="preserve"><tspan
            id="tspan5427"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
            x="31.206026"
-           y="145.19662"
+           y="147.76878"
            sodipodi:role="line">Up Sorting</tspan></text>
       <text
          xml:space="preserve"
-         y="151.65076"
+         y="154.31512"
          x="27.31996"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:3.3972497px;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
          id="text5429"><tspan
            sodipodi:role="line"
-           y="151.65076"
+           y="154.31512"
            x="27.31996"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
            id="tspan5431">Down Sorting</tspan></text>
@@ -6480,14 +6521,19 @@
       <text
          id="text6744"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:3.3972497px;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="-140.46864"
-         y="75.525787"
+         x="-129.11545"
+         y="80.09433"
          xml:space="preserve"><tspan
            id="tspan6742"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
-           x="-140.46864"
-           y="75.525787"
-           sodipodi:role="line">Gresty Lane Down Sidings</tspan></text>
+           x="-129.11545"
+           y="80.09433"
+           sodipodi:role="line">Gresty Lane</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
+           x="-129.11545"
+           y="83.613441"
+           sodipodi:role="line"
+           id="tspan6796">Down Sidings</tspan></text>
       <text
          xml:space="preserve"
          y="153.14816"
@@ -6499,6 +6545,28 @@
            x="-187.08499"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
            id="tspan6732">Gresty Green Through Sidings</tspan></text>
+      <text
+         id="text6759"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99763703px;line-height:3.3972497px;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="-131.49768"
+         y="165.55753"
+         xml:space="preserve"><tspan
+           id="tspan6757"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
+           x="-131.49768"
+           y="165.55753"
+           sodipodi:role="line">No. 1 Siding</tspan></text>
+      <text
+         xml:space="preserve"
+         y="169.23643"
+         x="-131.49768"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99763703px;line-height:3.3972497px;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         id="text6763"><tspan
+           sodipodi:role="line"
+           y="169.23643"
+           x="-131.49768"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
+           id="tspan6761">No. 2 Siding</tspan></text>
     </g>
     <g
        id="BH11"
@@ -7768,7 +7836,7 @@
          id="ellipse5180"
          rx="22.499998"
          ry="22.5"
-         style="opacity:1;fill:#808080;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         style="opacity:1;fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          inkscape:label="Aspect" />
     </g>
     <g
@@ -7848,7 +7916,7 @@
          id="ellipse5210"
          rx="22.499998"
          ry="22.5"
-         style="opacity:1;fill:#808080;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         style="opacity:1;fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          inkscape:label="Aspect" />
     </g>
     <g
@@ -13718,7 +13786,7 @@
          height="7.2162771" />
       <ellipse
          inkscape:label="Aspect"
-         style="opacity:1;fill:#808080;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         style="opacity:1;fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          ry="22.5"
          rx="22.499998"
          id="ellipse6082"
@@ -13884,7 +13952,7 @@
       <circle
          inkscape:label="Right Aspect"
          transform="scale(-1)"
-         style="opacity:1;fill:#808080;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.12119147;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         style="opacity:1;fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.12119147;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          r="1.2516944"
          id="circle6419"
          cy="-148.97377"
@@ -13892,7 +13960,7 @@
       <circle
          inkscape:label="Left Aspect"
          transform="scale(-1)"
-         style="opacity:1;fill:#808080;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.12119147;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         style="opacity:1;fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.12119147;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          r="1.2516944"
          id="circle6421"
          cy="-148.97377"
@@ -14540,7 +14608,7 @@
          height="7.2162771" />
       <ellipse
          inkscape:label="Aspect"
-         style="opacity:1;fill:#808080;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         style="opacity:1;fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          ry="22.5"
          rx="22.499998"
          id="ellipse6615"
@@ -14600,7 +14668,7 @@
          id="ellipse6635"
          rx="22.499998"
          ry="22.5"
-         style="opacity:1;fill:#808080;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         style="opacity:1;fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          inkscape:label="Aspect" />
     </g>
     <g
@@ -14656,7 +14724,7 @@
          id="ellipse6655"
          rx="22.499998"
          ry="22.5"
-         style="opacity:1;fill:#808080;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         style="opacity:1;fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          inkscape:label="Aspect" />
     </g>
     <g
@@ -14708,7 +14776,7 @@
          height="7.2162771" />
       <ellipse
          inkscape:label="Aspect"
-         style="opacity:1;fill:#808080;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         style="opacity:1;fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          ry="22.5"
          rx="22.499998"
          id="ellipse6675"
@@ -15467,7 +15535,7 @@
        inkscape:connector-curvature="0" />
     <path
        style="fill:#808080;fill-opacity:1;stroke:#000000;stroke-width:0.20438434px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 26.981058,140.41966 h 1.54022 l 0.502581,1.28238 h -1.54022 z"
+       d="m 15.944295,140.41966 h 1.54022 l 0.502581,1.28238 h -1.54022 z"
        id="path6723"
        inkscape:connector-curvature="0" />
     <path
@@ -15480,5 +15548,22 @@
        id="path6739"
        d="m 53.377901,145.58878 v 14.9634"
        style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.37105241;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.20438434px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -156.24935,165.72842 0.67746,1.72881 h 1.54495 l -0.67746,-1.72881 z"
+       id="path6765"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.20438434px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -156.26749,165.41899 0.92701,2.36908 1.33905,0.0343 -0.89269,-2.39195 z"
+       id="path6768"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:none;stroke:none;stroke-width:0.20438434px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -121.82164,84.484565 -0.11731,-0.297563 1.30471,0.0057 0.083,0.288979 z"
+       id="path6774"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>
