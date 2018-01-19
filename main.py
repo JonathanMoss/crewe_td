@@ -294,6 +294,7 @@ class SVGHandler:
     svg_file = None
     tree = None
     root = None
+
     thread_number = 0
 
     def __init__(self, svg):
