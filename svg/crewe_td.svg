@@ -8,11 +8,11 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   height="1583.7947"
+   height="1705.4316"
    id="svg8"
    version="1.1"
-   viewBox="0 0 1286.6136 323.70284"
-   width="6295.0698"
+   viewBox="0 0 1740.2176 348.56353"
+   width="8514.4375"
    sodipodi:docname="crewe_td.svg"
    inkscape:export-filename="C:\Users\jmoss2\Desktop\crewe_td.svg.png"
    inkscape:export-xdpi="96"
@@ -43,17 +43,17 @@
      showguides="true"
      units="px"
      inkscape:current-layer="base_layer"
-     inkscape:cx="1064.3051"
-     inkscape:cy="787.42767"
+     inkscape:cx="3278.3226"
+     inkscape:cy="415.58758"
      inkscape:document-units="mm"
      inkscape:guide-bbox="true"
      inkscape:measure-end="1373.33,908.743"
      inkscape:measure-start="1326.27,1016.86"
-     inkscape:object-nodes="false"
+     inkscape:object-nodes="true"
      inkscape:object-paths="false"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:snap-intersection-paths="true"
+     inkscape:snap-intersection-paths="false"
      inkscape:snap-nodes="true"
      inkscape:snap-smooth-nodes="false"
      inkscape:window-height="848"
@@ -61,99 +61,94 @@
      inkscape:window-width="1600"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
-     inkscape:zoom="2.232293">
+     inkscape:zoom="0.39461737">
     <sodipodi:guide
        id="guide6981"
        orientation="1,0"
-       position="500.98689,261.17593"
+       position="941.4365,276.09227"
        inkscape:locked="false" />
     <sodipodi:guide
        id="guide6987"
        orientation="1,0"
-       position="732.78322,48.328222"
+       position="1173.2328,63.244564"
        inkscape:locked="false" />
     <sodipodi:guide
        id="guide4718"
        orientation="1,0"
-       position="160.89135,222.58817"
+       position="601.34095,237.50451"
        inkscape:locked="false" />
     <sodipodi:guide
        id="guide5861"
        orientation="1,0"
-       position="598.70931,201.38131"
+       position="1039.1589,216.29765"
        inkscape:locked="false" />
     <sodipodi:guide
        id="guide5863"
        orientation="0.93104875,0.36489481"
-       position="-252.01817,24.074668"
+       position="640.29046,178.88987"
        inkscape:locked="false" />
     <sodipodi:guide
        id="guide5876"
        orientation="-0.93145734,0.36385054"
-       position="-171.54227,40.511968"
+       position="877.40649,281.30095"
        inkscape:locked="false" />
     <sodipodi:guide
        id="guide5897"
        orientation="1,0"
-       position="795.73576,170.40574"
+       position="1236.1854,185.32208"
        inkscape:locked="false" />
     <sodipodi:guide
        id="guide5526"
        orientation="1,0"
-       position="836.52176,120.71762"
+       position="1276.9714,135.63396"
        inkscape:locked="false" />
     <sodipodi:guide
        id="guide5590"
        orientation="1,0"
-       position="1268.3982,118.70037"
+       position="1708.8478,133.61671"
        inkscape:locked="false" />
     <sodipodi:guide
        id="guide4860"
        orientation="1,0"
-       position="730.03761,49.660409"
+       position="1170.4872,64.576751"
        inkscape:locked="false" />
     <sodipodi:guide
        id="guide5956"
        orientation="1,0"
-       position="48.405082,200.40323"
+       position="488.85469,215.31957"
        inkscape:locked="false" />
     <sodipodi:guide
        id="guide6460"
        orientation="0,1"
-       position="929.82353,272.18736"
+       position="1370.2731,287.1037"
        inkscape:locked="false" />
     <sodipodi:guide
        id="guide6520"
        orientation="0.51658099,0.85623833"
-       position="292.5887,194.54528"
+       position="733.03831,209.46162"
        inkscape:locked="false" />
     <sodipodi:guide
        id="guide6530"
        orientation="-0.48080714,-0.87682638"
-       position="360.71302,211.41066"
+       position="801.16263,226.327"
        inkscape:locked="false" />
     <sodipodi:guide
        id="guide6727"
        orientation="1,0"
-       position="414.79798,193.65416"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       id="guide6738"
-       orientation="0,1"
-       position="205.29466,163.97353"
+       position="888.74847,268.24749"
        inkscape:locked="false" />
     <sodipodi:guide
        id="guide6751"
        orientation="1,0"
-       position="203.99984,159.71679"
+       position="644.44945,174.63313"
        inkscape:locked="false" />
     <sodipodi:guide
        id="guide6772"
        orientation="0,1"
-       position="243.24854,245.37632"
+       position="1133.4449,269.78148"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="231.13822,161.55414"
+       position="703.40426,167.45201"
        orientation="1,0"
        id="guide6752"
        inkscape:locked="false" />
@@ -173,20 +168,59 @@
   <g
      id="base_layer"
      style="display:inline"
-     transform="translate(363.71508,-6.0284846)"
+     transform="translate(804.16468,3.9158542)"
      inkscape:groupmode="layer"
      inkscape:label="Base Layer">
     <path
-       d="M -780.85781,-3.9158542 H 936.05299 V 344.64765 h -1716.9108 z"
+       d="M -804.16468,-5.4692696 H 936.05299 V 343.09423 H -804.16468 Z"
        id="track_1"
        label="Routing Track 1"
-       style="display:inline;opacity:1;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.26683658;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.80050984, 0.80050984;stroke-dashoffset:0;stroke-opacity:1"
+       style="display:inline;opacity:1;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.26864162;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.80592494, 0.80592494;stroke-dashoffset:0;stroke-opacity:1"
        sodipodi:nodetypes="ccccc"
        inkscape:connector-curvature="0"
        inkscape:export-filename="C:\Users\jmoss2\Desktop\track_1.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
        inkscape:label="Routing Track 1" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.20438434px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -254.18097,262.7948 v 34.79206"
+       id="path6770"
+       inkscape:connector-curvature="0" />
+    <g
+       id="alsager_cctv"
+       inkscape:label="alsager_cctv"
+       transform="matrix(1,0,0,0.65068495,0,97.279118)">
+      <rect
+         y="254.37146"
+         x="-409.54959"
+         height="53.469887"
+         width="15.564864"
+         id="rect6739"
+         style="opacity:1;fill:#ffe355;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.05021096;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path6741"
+         d="m -393.98475,254.37146 v 53.46989"
+         style="fill:none;stroke:#000000;stroke-width:0.20438434px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path6743"
+         d="M -409.5496,307.84135 V 254.37146"
+         style="fill:none;stroke:#000000;stroke-width:0.20438434px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <rect
+         style="opacity:1;fill:#ffe355;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.05021096;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect6760"
+         width="15.564864"
+         height="53.469887"
+         x="-269.74585"
+         y="254.37146" />
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.20438434px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M -269.74584,297.58686 V 262.7948"
+       id="path6772"
+       inkscape:connector-curvature="0" />
     <g
        id="crewe_basic_track_layout"
        style="display:inline"
@@ -441,7 +475,7 @@
          inkscape:connector-curvature="0"
          inkscape:label="Routing Track 32" />
       <path
-         d="m 153.64049,91.453411 -6.03501,15.763799 h 1.54495 l 6.13801,-15.763799 z"
+         d="m 153.76326,91.45329 -6.15778,15.76392 h 1.54495 l 6.15741,-15.76392 z"
          id="track_33"
          label="Routing Track 33"
          style="opacity:1;fill:#a05a2c;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.40400001;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -1002,10 +1036,10 @@
          inkscape:connector-curvature="0"
          inkscape:label="Routing Track 105" />
       <path
-         d="m 196.13882,90.760536 h 21.74371 v 1.282346 h -21.74371 z"
+         d="m 178.7428,90.760536 h 39.13973 v 1.282346 H 178.7428 Z"
          id="track_106"
          label="Routing Track 106"
-         style="opacity:1;fill:#00aad4;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.11806028;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         style="opacity:1;fill:#00aad4;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.15839663;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          inkscape:connector-curvature="0"
          inkscape:label="Routing Track 106" />
       <path
@@ -1467,10 +1501,10 @@
          inkscape:connector-curvature="0"
          inkscape:label="Routing Track 166" />
       <path
-         d="m 153.91573,90.760536 h 42.29538 v 1.282346 h -42.79629 z"
+         d="m 161.77959,74.866182 h 13.89206 v 1.282346 h -14.56281 z"
          id="track_167"
          label="Routing Track 167"
-         style="opacity:1;fill:#00aad4;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.11806028;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         style="opacity:1;fill:#00aad4;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.06766135;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          sodipodi:nodetypes="ccccc"
          inkscape:connector-curvature="0"
          inkscape:label="Routing Track 167" />
@@ -2617,7 +2651,7 @@
          inkscape:connector-curvature="0"
          inkscape:label="Routing Track 512" />
       <path
-         d="m -358.68923,272.74488 h 42.14559 v 1.28234 h -42.64651 z"
+         d="m -382.79607,272.74488 h 66.25243 v 1.28234 h -66.75334 z"
          id="track_518"
          label="Routing Track 518"
          style="opacity:1;fill:#a05a2c;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.15814893;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -2625,7 +2659,7 @@
          inkscape:connector-curvature="0"
          inkscape:label="Routing Track 518" />
       <path
-         d="m -363.44845,289.1494 5.90625,-15.12218 h -1.64795 l -5.90625,15.12218 z"
+         d="m -387.57542,289.19879 5.90625,-15.12218 h -1.64795 l -5.90625,15.12218 z"
          id="track_523"
          label="Routing Track 523"
          style="opacity:1;fill:#ffe680;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.10678335;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -2633,7 +2667,7 @@
          inkscape:connector-curvature="0"
          inkscape:label="Routing Track 523" />
       <path
-         d="m -363.13009,287.91644 h 4.12494 v 1.28235 h -4.62586 z"
+         d="m -387.11196,287.937 28.10681,-0.0206 v 1.28235 h -28.57027 z"
          id="track_513"
          label="Routing Track 513"
          style="opacity:1;fill:#008000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.20485511;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -2641,7 +2675,7 @@
          inkscape:connector-curvature="0"
          inkscape:label="Routing Track 513" />
       <path
-         d="m -414.9323,287.937 h 51.79693 l -0.49564,1.26179 -51.30128,0.0206 z"
+         d="m -414.9323,287.937 h 26.20181 l -0.49288,1.26179 -25.70892,0.0206 z"
          id="track_514"
          label="Routing Track 514"
          style="opacity:1;fill:#00aad4;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.35666385;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -2649,7 +2683,7 @@
          inkscape:connector-curvature="0"
          inkscape:label="Routing Track 514" />
       <path
-         d="m -415.11435,272.74488 h 56.42512 l -0.50092,1.28235 h -55.9242 z"
+         d="m -415.11435,272.74488 h 32.31828 l -0.50091,1.28235 h -31.81737 z"
          id="track_519"
          label="Routing Track 519"
          style="opacity:1;fill:#008000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.20485511;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -2664,17 +2698,17 @@
          inkscape:connector-curvature="0"
          inkscape:label="Routing Track 520" />
       <path
-         d="m -457.57881,287.937 h 42.64651 v 1.28234 h -42.64651 z"
+         d="m -445.67627,287.937 h 30.74397 v 1.28234 h -30.74397 z"
          id="track_515"
          label="Routing Track 515"
-         style="opacity:1;fill:#a05a2c;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.15814893;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         style="opacity:1;fill:#a05a2c;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.13427788;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          inkscape:connector-curvature="0"
          inkscape:label="Routing Track 515" />
       <path
-         d="m -492.71696,287.937 h 35.13815 l 0.0166,1.26179 -35.15449,0.0206 z"
+         d="m -458.84049,287.937 h 13.1802 l 0.006,1.26179 -13.18633,0.0206 z"
          id="track_516"
          label="Routing Track 516"
-         style="opacity:1;fill:#00aad4;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.35666385;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         style="opacity:1;fill:#00aad4;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.21843924;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          sodipodi:nodetypes="ccccc"
          inkscape:connector-curvature="0"
          inkscape:label="Routing Track 516" />
@@ -2701,10 +2735,10 @@
          inkscape:connector-curvature="0"
          inkscape:label="Routing Track 529" />
       <path
-         d="m -606.68628,304.34152 h 61.47596 v 1.28235 h -61.47596 z"
+         d="m -606.68628,304.34152 h 94.25372 v 1.28235 h -94.25372 z"
          id="track_536"
          label="Routing Track 536"
-         style="opacity:1;fill:#ffe680;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.37659973;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         style="opacity:1;fill:#ffe680;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.46631199;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          inkscape:connector-curvature="0"
          inkscape:label="Routing Track 536" />
       <path
@@ -2764,7 +2798,7 @@
          inkscape:connector-curvature="0"
          inkscape:label="Routing Track 527" />
       <path
-         d="m -568.65826,287.93699 h 33.90183 l -0.50092,1.28235 h -33.40091 z"
+         d="m -568.56671,287.93699 h 66.58804 l -0.50092,1.28235 h -66.08712 z"
          id="track_526"
          label="Routing Track 526"
          style="opacity:1;fill:#008000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.20485511;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -2772,7 +2806,7 @@
          inkscape:connector-curvature="0"
          inkscape:label="Routing Track 526" />
       <path
-         d="m -539.51565,304.34152 5.90625,-15.12218 h -1.64795 l -5.90625,15.12218 z"
+         d="m -506.73789,304.34152 5.90625,-15.12218 h -1.64795 l -5.90625,15.12218 z"
          id="track_534"
          label="Routing Track 534"
          style="opacity:1;fill:#ffe680;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.10678335;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -2780,10 +2814,10 @@
          inkscape:connector-curvature="0"
          inkscape:label="Routing Track 534" />
       <path
-         d="m -534.75643,287.937 h 13.6885 v 1.28234 h -14.18942 z"
+         d="m -501.97868,287.937 h 23.85146 v 1.28234 h -24.35237 z"
          id="track_525"
          label="Routing Track 525"
-         style="opacity:1;fill:#a05a2c;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.15814893;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         style="opacity:1;fill:#a05a2c;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.20718315;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          sodipodi:nodetypes="ccccc"
          inkscape:connector-curvature="0"
          inkscape:label="Routing Track 525" />
@@ -2796,14 +2830,14 @@
          inkscape:connector-curvature="0"
          inkscape:label="Routing Track 541" />
       <path
-         d="m -521.06793,287.937 h 28.35097 v 1.28234 h -28.35097 z"
+         d="m -478.12722,287.937 h 19.37829 v 1.28234 h -19.37829 z"
          id="track_524"
          label="Routing Track 524"
-         style="opacity:1;fill:#008000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.15814893;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         style="opacity:1;fill:#008000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.13074948;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          inkscape:connector-curvature="0"
          inkscape:label="Routing Track 524" />
       <path
-         d="m -545.21032,304.34152 h 5.74711 l -0.55335,1.28234 h -5.19376 z"
+         d="m -512.43256,304.34152 h 5.74711 l -0.55335,1.28234 h -5.19376 z"
          id="track_535"
          label="Routing Track 535"
          style="opacity:1;fill:#008000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.15814893;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -2811,7 +2845,7 @@
          inkscape:connector-curvature="0"
          inkscape:label="Routing Track 535" />
       <path
-         d="m -539.51565,304.34152 h 3.37753 v 1.28234 h -3.87844 z"
+         d="m -506.73789,304.34152 h 3.37753 v 1.28234 h -3.87844 z"
          id="track_705"
          label="Routing Track 705"
          style="opacity:1;fill:#a05a2c;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.15814893;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -2827,7 +2861,7 @@
          inkscape:connector-curvature="0"
          inkscape:label="Routing Track 537" />
       <path
-         d="m -716.19198,287.82184 5.26187,-1e-5 0.009,1.28235 h -5.27134 z"
+         d="m -716.42678,287.937 5.26187,-1e-5 0.009,1.28235 h -5.27134 z"
          id="track_530"
          label="Routing Track 530"
          style="opacity:1;fill:#008000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.15814893;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -2928,7 +2962,7 @@
          inkscape:connector-curvature="0"
          inkscape:label="Routing Track 716" />
       <path
-         d="M 83.265658,75.11781 57.85121,140.41966 h 1.7578 L 85.084696,75.11781 Z"
+         d="M 83.413505,74.866182 57.85121,140.41966 h 1.7578 L 85.182991,74.866182 Z"
          id="track_717"
          label="Routing Track 717"
          style="opacity:1;fill:#a05b2d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.10678335;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -2944,7 +2978,7 @@
          inkscape:connector-curvature="0"
          inkscape:label="Routing Track 718" />
       <path
-         d="m 75.246704,58.27984 -25.52423,65.30185 h 1.7578 l 25.41438,-65.30185 z"
+         d="M 75.508509,57.543962 49.722474,123.58169 h 1.7578 L 76.893017,57.543962 Z"
          id="track_719"
          label="Routing Track 719"
          style="opacity:1;fill:#008000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.10678335;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -2952,15 +2986,15 @@
          inkscape:connector-curvature="0"
          inkscape:label="Routing Track 719" />
       <path
-         d="m 85.016197,75.11781 h 52.255613 v 1.28235 H 84.583778 Z"
+         d="m 85.181622,74.866182 h 52.090198 v 1.28235 H 84.750572 Z"
          id="track_720"
          label="Routing Track 720"
-         style="opacity:1;fill:#a05b2d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.29419565;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         style="opacity:1;fill:#a05b2d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.29372966;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          sodipodi:nodetypes="ccccc"
          inkscape:connector-curvature="0"
          inkscape:label="Routing Track 720" />
       <path
-         d="m 76.893017,58.27984 h 60.378793 v 1.28235 H 76.409244 Z"
+         d="m 76.893017,57.543962 h 60.378793 v 1.28235 H 76.409244 Z"
          id="track_721"
          label="Routing Track 721"
          style="opacity:1;fill:#008000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.31607673;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -3170,7 +3204,7 @@
          d="m 1191.033,385.47385 13.9295,35.54918 h -7.559 l -13.9296,-35.54919"
          id="track_747"
          label="Routing Track 747"
-         style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.26614165;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.24566929;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          transform="matrix(0.20438434,0,0,0.20438434,-363.71508,6.0284846)"
          inkscape:connector-curvature="0"
          inkscape:label="Routing Track 747" />
@@ -3178,7 +3212,7 @@
          d="m -114.97258,84.813303 2.84697,7.265696 h -1.54494 l -2.84699,-7.265698"
          id="track_748"
          label="Routing Track 748"
-         style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.25877953;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.05021095;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          inkscape:connector-curvature="0"
          inkscape:label="Routing Track 748" />
       <path
@@ -3411,23 +3445,7 @@
          inkscape:connector-curvature="0"
          inkscape:label="Routing Track 777" />
       <path
-         d="m -160.91205,164.46068 28.3258,0.0101 v 1.14734 l -27.76518,0 z"
-         id="track_778"
-         label="Routing Track 778"
-         style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.23297369;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         sodipodi:nodetypes="ccccc"
-         inkscape:connector-curvature="0"
-         inkscape:label="Routing Track 778" />
-      <path
-         d="m -164.41929,167.63036 31.89081,0.0108 v 1.27679 h -31.33045 z"
-         id="track_779"
-         label="Routing Track 779"
-         style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.24570611;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         sodipodi:nodetypes="ccccc"
-         inkscape:connector-curvature="0"
-         inkscape:label="Routing Track 779" />
-      <path
-         d="m -166.64017,158.70375 4.06091,10.36254 h -1.54496 l -4.0609,-10.36245 z"
+         d="m -166.64017,158.70375 8.01444,20.44645 h -1.54495 l -8.01444,-20.44636 z"
          id="track_780"
          label="Routing Track 780"
          style="opacity:1;fill:#a05a2c;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.10717268;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -3449,7 +3467,22 @@
          style="opacity:1;fill:#a05a2c;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.10717268;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          label="Routing Track 780"
          id="path6750"
-         d="m -163.86958,165.76962 4.15434,-0.0118 0,-1.43724 -4.71941,0.0112 z" />
+         d="m -160.85157,173.47026 4.15434,-0.0117 v -1.43737 l -4.71941,0.0112 z" />
+      <path
+         inkscape:label="Routing Track 900"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc"
+         style="opacity:1;fill:#a05a2c;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.40400001;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         label="Routing Track 33"
+         id="track_900"
+         d="m 160.21755,74.866182 -6.45467,16.587229 h 1.54496 l 6.47175,-16.587229 z" />
+      <path
+         inkscape:label="Routing Track 901"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:#ffe680;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.12887929;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         label="Routing Track 98"
+         id="track_901"
+         d="m 175.67165,74.866188 h 27.49046 v 1.28234 h -27.49046 z" />
     </g>
     <g
        id="crewe_station"
@@ -4530,26 +4563,36 @@
            sodipodi:role="line">GL 9019</tspan></text>
       <text
          id="text5240"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:3.3972497px;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="-345.27536"
-         y="141.90884"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:3.3972497px;font-family:Georgia;-inkscape-font-specification:Georgia;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="-315.97913"
+         y="140.18317"
          xml:space="preserve"><tspan
            id="tspan5238"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
-           x="-345.27536"
-           y="141.90884"
-           sodipodi:role="line">Up Main [Salop]</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;text-align:end;text-anchor:end;stroke-width:0.26458332"
+           x="-315.97913"
+           y="140.18317"
+           sodipodi:role="line">Up Main [Salop]/</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;text-align:end;text-anchor:end;stroke-width:0.26458332"
+           x="-315.97913"
+           y="143.70229"
+           sodipodi:role="line"
+           id="tspan6752">Up Nantwich</tspan></text>
       <text
          id="text5244"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:3.3972497px;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="-349.16144"
-         y="125.50487"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:3.3972497px;font-family:Georgia;-inkscape-font-specification:Georgia;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="-315.97913"
+         y="123.7311"
          xml:space="preserve"><tspan
            id="tspan5242"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
-           x="-349.16144"
-           y="125.50487"
-           sodipodi:role="line">Down Main [Salop]</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;text-align:end;text-anchor:end;stroke-width:0.26458332"
+           x="-315.97913"
+           y="123.7311"
+           sodipodi:role="line">Down Main [Salop]/</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;text-align:end;text-anchor:end;stroke-width:0.26458332"
+           x="-315.97913"
+           y="127.25021"
+           sodipodi:role="line"
+           id="tspan6750">Down Nantwich</tspan></text>
       <text
          id="text5248"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:3.3972497px;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -4685,13 +4728,13 @@
       <text
          id="text5303"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:3.3972497px;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="183.09883"
-         y="86.384872"
+         x="179.90802"
+         y="89.497849"
          xml:space="preserve"><tspan
            id="tspan5301"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
-           x="183.09883"
-           y="86.384872"
+           x="179.90802"
+           y="89.497849"
            sodipodi:role="line">DED Siding</tspan></text>
       <text
          id="text5347"
@@ -5465,26 +5508,36 @@
            sodipodi:role="line">CE 582</tspan></text>
       <text
          id="text5764"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:3.3972497px;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="43.527248"
-         y="267.82089"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:3.3972497px;font-family:Georgia;-inkscape-font-specification:Georgia;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="67.159065"
+         y="267.00333"
          xml:space="preserve"><tspan
            id="tspan5762"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
-           x="43.527248"
-           y="267.82089"
-           sodipodi:role="line">Up &amp; Down Potteries Loop</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;text-align:center;text-anchor:middle;stroke-width:0.26458332"
+           x="67.159065"
+           y="267.00333"
+           sodipodi:role="line">Up &amp; Down</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;text-align:center;text-anchor:middle;stroke-width:0.26458332"
+           x="67.159065"
+           y="270.52243"
+           sodipodi:role="line"
+           id="tspan6729">Potteries Loop</tspan></text>
       <text
          id="text5768"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:3.3972497px;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="-59.925972"
-         y="295.42404"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:3.3972497px;font-family:Georgia;-inkscape-font-specification:Georgia;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="-94.349197"
+         y="292.49417"
          xml:space="preserve"><tspan
            id="tspan5766"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
-           x="-59.925972"
-           y="295.42404"
-           sodipodi:role="line">Up &amp; Down Potteries</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;text-align:center;text-anchor:middle;stroke-width:0.26458332"
+           x="-94.349197"
+           y="292.49417"
+           sodipodi:role="line">Up &amp; Down</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;text-align:center;text-anchor:middle;stroke-width:0.26458332"
+           x="-94.349197"
+           y="296.01328"
+           sodipodi:role="line"
+           id="tspan6774">Potteries</tspan></text>
       <text
          id="text5802"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:3.3972497px;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -5831,23 +5884,23 @@
       <text
          id="text6154"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:3.3972497px;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="-532.87756"
+         x="-489.13934"
          y="298.66873"
          xml:space="preserve"><tspan
            id="tspan6156"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
-           x="-532.87756"
+           x="-489.13934"
            y="298.66873"
            sodipodi:role="line">CE 524</tspan></text>
       <text
          id="text6174"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:3.3972497px;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="-553.40906"
+         x="-520.30005"
          y="314.25616"
          xml:space="preserve"><tspan
            id="tspan6176"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
-           x="-553.40906"
+           x="-520.30005"
            y="314.25616"
            sodipodi:role="line">CE 179</tspan></text>
       <text
@@ -5919,13 +5972,13 @@
       <text
          id="text6288"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:3.3972497px;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="-604.08453"
-         y="300.4599"
+         x="-579.18073"
+         y="303.20663"
          xml:space="preserve"><tspan
            id="tspan6290"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
-           x="-604.08453"
-           y="300.4599"
+           x="-579.18073"
+           y="303.20663"
            sodipodi:role="line">Up &amp; Down Goods Loop</tspan></text>
       <text
          id="text5161"
@@ -5952,13 +6005,13 @@
       <text
          id="text5210"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:3.3972497px;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="155.24368"
-         y="100.29898"
+         x="162.19273"
+         y="84.35704"
          xml:space="preserve"><tspan
            id="tspan5212"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
-           x="155.24368"
-           y="100.29898"
+           x="162.19273"
+           y="84.35704"
            sodipodi:role="line">GL 9042</tspan></text>
       <text
          id="text5246"
@@ -6095,14 +6148,14 @@
       <text
          id="text6542"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:3.3972497px;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="665.04895"
+         x="661.37018"
          y="174.4295"
          xml:space="preserve"><tspan
            id="tspan6540"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
-           x="665.04895"
+           x="661.37018"
            y="174.4295"
-           sodipodi:role="line">Up Liverpool Ind.</tspan></text>
+           sodipodi:role="line">Down Liverpool Ind.</tspan></text>
       <text
          id="text6495"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:3.3972497px;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -6117,29 +6170,29 @@
       <text
          id="text6519"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:3.3972497px;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="87.89798"
-         y="85.316566"
+         x="88.064774"
+         y="85.064941"
          xml:space="preserve"><tspan
            id="tspan6517"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
-           x="87.89798"
-           y="85.316566"
+           x="88.064774"
+           y="85.064941"
            sodipodi:role="line">GL 9034</tspan></text>
       <text
          id="text6583"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:3.3972497px;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
          x="122.80381"
-         y="51.631699"
+         y="50.814163"
          xml:space="preserve"><tspan
            id="tspan6579"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
            x="122.80381"
-           y="51.631699"
+           y="50.814163"
            sodipodi:role="line">SG 12</tspan><tspan
            id="tspan6581"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
            x="122.80381"
-           y="55.150814"
+           y="54.333279"
            sodipodi:role="line" /></text>
       <text
          id="text6609"
@@ -6188,24 +6241,24 @@
       <text
          id="text5401"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:3.3972497px;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="138.35127"
-         y="60.10857"
+         x="137.63911"
+         y="59.072708"
          xml:space="preserve"><tspan
            id="tspan5403"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
-           x="138.35127"
-           y="60.10857"
+           x="137.63911"
+           y="59.072708"
            sodipodi:role="line">Down Salop</tspan></text>
       <text
          id="text5405"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:3.3972497px;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="138.35127"
-         y="76.911613"
+         x="137.73624"
+         y="76.458427"
          xml:space="preserve"><tspan
            id="tspan5407"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
-           x="138.35127"
-           y="76.911613"
+           x="137.73624"
+           y="76.458427"
            sodipodi:role="line">Up Salop</tspan></text>
       <text
          id="text5417"
@@ -6253,14 +6306,14 @@
            sodipodi:role="line">Down Sorting</tspan></text>
       <text
          id="text5433"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:3.3972497px;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="-45.904762"
-         y="114.47575"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99763703px;line-height:3.3972497px;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="-40.590782"
+         y="111.61444"
          xml:space="preserve"><tspan
            id="tspan5435"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
-           x="-45.904762"
-           y="114.47575"
+           x="-40.590782"
+           y="111.61444"
            sodipodi:role="line">Down Through Siding</tspan></text>
       <text
          id="text5439"
@@ -6375,56 +6428,61 @@
       <text
          id="text6733"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:3.3972497px;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="52.511803"
+         x="51.2855"
          y="163.47534"
          xml:space="preserve"><tspan
            id="tspan6731"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
-           x="52.511803"
+           x="51.2855"
            y="163.47534"
-           sodipodi:role="line">C</tspan></text>
+           sodipodi:role="line">A</tspan></text>
       <text
          id="text6737"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:3.3972497px;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="52.511803"
+         x="51.2855"
          y="144.50664"
          xml:space="preserve"><tspan
            id="tspan6735"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
-           x="52.511803"
+           x="51.2855"
            y="144.50664"
-           sodipodi:role="line">C</tspan></text>
+           sodipodi:role="line">A</tspan></text>
       <text
          id="text6724"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:3.3972497px;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="-285.51517"
-         y="109.41154"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:3.3972497px;font-family:Georgia;-inkscape-font-specification:Georgia;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="-252.45538"
+         y="107.4693"
          xml:space="preserve"><tspan
            id="tspan6722"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
-           x="-285.51517"
-           y="109.41154"
-           sodipodi:role="line">Down Sidings Neck</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;text-align:end;text-anchor:end;stroke-width:0.26458332"
+           x="-252.45538"
+           y="107.4693"
+           sodipodi:role="line">Down Sidings</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;text-align:end;text-anchor:end;stroke-width:0.26458332"
+           x="-252.45538"
+           y="110.98841"
+           sodipodi:role="line"
+           id="tspan6748">Neck</tspan></text>
       <text
          id="text6728"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:3.3972497px;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="-271.51355"
-         y="153.21115"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:3.3972497px;font-family:Georgia;-inkscape-font-specification:Georgia;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="-251.77263"
+         y="155.66376"
          xml:space="preserve"><tspan
            id="tspan6726"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
-           x="-271.51355"
-           y="153.21115"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;text-align:end;text-anchor:end;stroke-width:0.26458332"
+           x="-249.82959"
+           y="155.66376"
            sodipodi:role="line">Gresty Green </tspan><tspan
            id="tspan6736"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
-           x="-271.51355"
-           y="156.73027"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;text-align:end;text-anchor:end;stroke-width:0.26458332"
+           x="-251.77263"
+           y="159.18288"
            sodipodi:role="line">Through Sidings</tspan><tspan
            id="tspan6738"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
-           x="-271.51355"
-           y="160.24937"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;text-align:end;text-anchor:end;stroke-width:0.26458332"
+           x="-251.77263"
+           y="162.70198"
            sodipodi:role="line">Neck</tspan></text>
       <text
          id="text6732"
@@ -6466,37 +6524,99 @@
            sodipodi:role="line">Down Sidings</tspan></text>
       <text
          id="text6734"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:3.3972497px;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="-187.08499"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99763703px;line-height:3.3972497px;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="-158.11761"
          y="153.14816"
          xml:space="preserve"><tspan
            id="tspan6732"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
-           x="-187.08499"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;text-align:center;text-anchor:middle;stroke-width:0.26458332"
+           x="-157.2921"
            y="153.14816"
-           sodipodi:role="line">Gresty Green Through Sidings</tspan></text>
+           sodipodi:role="line">Gresty Green </tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;text-align:center;text-anchor:middle;stroke-width:0.26458332"
+           x="-158.11761"
+           y="156.64897"
+           sodipodi:role="line"
+           id="tspan6733">Through Sidings</tspan></text>
       <text
          id="text6759"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99763703px;line-height:3.3972497px;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="-131.49768"
-         y="165.55753"
+         x="-99.51548"
+         y="173.58545"
          xml:space="preserve"><tspan
            id="tspan6757"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
-           x="-131.49768"
-           y="165.55753"
+           x="-99.51548"
+           y="173.58545"
            sodipodi:role="line">No. 1 Siding</tspan></text>
       <text
          id="text6763"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99763703px;line-height:3.3972497px;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="-131.49768"
-         y="169.23643"
+         x="-99.51548"
+         y="190.08313"
          xml:space="preserve"><tspan
            id="tspan6761"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
-           x="-131.49768"
-           y="169.23643"
+           x="-99.51548"
+           y="190.08313"
            sodipodi:role="line">No. 2 Siding</tspan></text>
+      <text
+         xml:space="preserve"
+         y="76.478996"
+         x="203.59013"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:3.3972497px;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         id="text6746"><tspan
+           sodipodi:role="line"
+           y="76.478996"
+           x="203.59013"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
+           id="tspan6744">Diesel Depot</tspan></text>
+      <g
+         id="g6753" />
+      <g
+         id="g6766" />
+      <text
+         xml:space="preserve"
+         y="257.51541"
+         x="-401.61618"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:3.3972497px;font-family:Georgia;-inkscape-font-specification:Georgia;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         id="text6755"><tspan
+           sodipodi:role="line"
+           y="257.51541"
+           x="-401.61618"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;text-align:center;text-anchor:middle;stroke-width:0.26458332"
+           id="tspan6751">Alsager CCTV</tspan><tspan
+           sodipodi:role="line"
+           y="261.03452"
+           x="-401.61618"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;text-align:center;text-anchor:middle;stroke-width:0.26458332"
+           id="tspan6758">(2m 33ch)</tspan><tspan
+           sodipodi:role="line"
+           y="264.55365"
+           x="-401.61618"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;text-align:center;text-anchor:middle;stroke-width:0.26458332"
+           id="tspan6753" /></text>
+      <text
+         id="text6768"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:3.3972497px;font-family:Georgia;-inkscape-font-specification:Georgia;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="-261.81244"
+         y="257.51541"
+         xml:space="preserve"><tspan
+           id="tspan6762"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;text-align:center;text-anchor:middle;stroke-width:0.26458332"
+           x="-261.81244"
+           y="257.51541"
+           sodipodi:role="line">Radway Green CCTV</tspan><tspan
+           id="tspan6764"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;text-align:center;text-anchor:middle;stroke-width:0.26458332"
+           x="-261.81244"
+           y="261.03452"
+           sodipodi:role="line">(4m 07ch)</tspan><tspan
+           id="tspan6766"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;text-align:center;text-anchor:middle;stroke-width:0.26458332"
+           x="-261.81244"
+           y="264.55365"
+           sodipodi:role="line" /></text>
     </g>
     <g
        id="BH11"
@@ -13028,7 +13148,7 @@
     </g>
     <g
        id="CE524"
-       transform="rotate(180,-208.19171,221.23489)"
+       transform="rotate(180,-186.32305,221.23489)"
        inkscape:label="Ground Position Light CE 524">
       <rect
          height="7.2162771"
@@ -13076,7 +13196,7 @@
     </g>
     <g
        id="CD179"
-       transform="matrix(0.09664062,0,0,-0.09664062,-552.87377,322.09885)"
+       transform="matrix(0.09664062,0,0,-0.09664062,-519.7634,322.09885)"
        inkscape:label="Signal CE 179">
       <rect
          height="7.2162771"
@@ -13106,7 +13226,7 @@
     </g>
     <g
        id="0179"
-       transform="translate(-651.93747,131.84822)"
+       transform="translate(-618.8271,131.84822)"
        inkscape:label="Berth 0179">
       <rect
          height="5.970933"
@@ -13289,7 +13409,7 @@
     </g>
     <g
        id="0524"
-       transform="translate(-598.00167,116.48038)"
+       transform="translate(-554.26328,116.48038)"
        inkscape:label="Berth 0524">
       <rect
          height="5.970933"
@@ -13502,7 +13622,7 @@
     <g
        id="GL9042"
        style="fill:#000000"
-       transform="rotate(180,136.41327,121.96872)"
+       transform="rotate(180,139.88773,113.9979)"
        inkscape:label="Ground Position Light GL 9042">
       <rect
          height="7.2162771"
@@ -13550,7 +13670,7 @@
     </g>
     <g
        id="9042"
-       transform="translate(87.774954,-81.678784)"
+       transform="translate(94.724027,-97.620775)"
        inkscape:label="Berth 9042">
       <rect
          height="5.970933"
@@ -14393,8 +14513,8 @@
          id="rect6521"
          style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          width="56.126598"
-         x="6.9490075"
-         y="133.96558"
+         x="5.2230873"
+         y="136.56932"
          inkscape:label="Rectangle 002" />
       <rect
          height="7.2162771"
@@ -14402,12 +14522,12 @@
          style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          transform="rotate(-90)"
          width="25.925142"
-         x="-159.89072"
-         y="6.9490075"
+         x="-162.49446"
+         y="5.2230873"
          inkscape:label="Rectangle 001" />
       <ellipse
-         cx="78.092056"
-         cy="137.57372"
+         cx="76.366135"
+         cy="140.17746"
          id="ellipse6525"
          rx="22.499998"
          ry="22.5"
@@ -14416,7 +14536,7 @@
     </g>
     <g
        id="9034"
-       transform="translate(18.86814,-97.43717)"
+       transform="translate(19.034934,-97.688798)"
        inkscape:label="Berth 9034">
       <rect
          height="5.970933"
@@ -14441,7 +14561,7 @@
     </g>
     <g
        id="SG_12"
-       transform="matrix(0.09664062,0,0,0.09664062,122.91288,41.844904)"
+       transform="matrix(0.09664062,0,0,0.09664062,122.91288,41.027366)"
        inkscape:label="Signal SG 12">
       <rect
          height="7.2162771"
@@ -14471,7 +14591,7 @@
     </g>
     <g
        id="SG12"
-       transform="translate(25.345546,-114.19122)"
+       transform="translate(25.345546,-115.00876)"
        inkscape:label="Berth SG12">
       <rect
          height="5.970933"
@@ -15410,7 +15530,7 @@
     </g>
     <g
        id="90013"
-       transform="translate(-227.92099,-15.247412)"
+       transform="translate(-226.69468,-15.247412)"
        inkscape:label="Berth 9013">
       <rect
          height="5.970933"
@@ -15454,26 +15574,20 @@
        style="fill:#808080;fill-opacity:1;stroke:#000000;stroke-width:0.20438434px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        inkscape:connector-curvature="0" />
     <path
-       d="m 53.377901,145.58878 v 14.9634"
+       d="m 52.151594,145.58878 v 14.9634"
        id="path6739"
        style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.37105241;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       inkscape:connector-curvature="0" />
-    <path
-       d="m -155.46461,165.62883 0.75443,1.93096 h 1.53591 l -0.75443,-1.93096 z"
-       id="path6765"
-       style="fill:none;stroke:#000000;stroke-width:0.21537058px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       sodipodi:nodetypes="ccccc"
-       inkscape:connector-curvature="0" />
-    <path
-       d="m -155.48925,165.2695 1.07268,2.75198 1.37142,0.0885 -1.07073,-2.82711 z"
-       id="path6768"
-       style="fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.22028287px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       sodipodi:nodetypes="ccccc"
        inkscape:connector-curvature="0" />
     <path
        d="m -121.82164,84.484565 -0.11731,-0.297563 1.30471,0.0057 0.083,0.288979 z"
        id="path6774"
        style="fill:none;stroke:none;stroke-width:0.20438434px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.05021095;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.9000001;stroke-dasharray:none;stroke-opacity:1"
+       d="m -156.69723,172.02122 h 55.93681 v 1.43737 h -43.33622 l 5.89235,15.03258 h 37.44387 v 1.28235 h -55.24652 l -4.16374,-10.62332 h 1.54496 l 3.66112,9.34097 h 15.21535 l -5.89738,-15.04536 -11.0506,0.0128 z"
+       id="path6744"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccccc" />
   </g>
 </svg>
