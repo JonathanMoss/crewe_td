@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="5603a0c5-1c06-41c7-a093-ae725128e1d4" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main.py" afterPath="$PROJECT_DIR$/main.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/svg/crewe_td.svg" afterPath="$PROJECT_DIR$/svg/crewe_td.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/csv/crewe_td.csv" afterPath="$PROJECT_DIR$/csv/crewe_td.csv" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,11 +14,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="main.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="main.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="420">
               <caret line="296" column="0" lean-forward="false" selection-start-line="296" selection-start-column="0" selection-end-line="296" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="crewe_td.csv" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/csv/crewe_td.csv">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-5991">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -46,10 +55,10 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/json/crewe_td.json" />
-        <option value="$PROJECT_DIR$/csv/crewe_td.csv" />
         <option value="$PROJECT_DIR$/crewe_td.log" />
         <option value="$PROJECT_DIR$/working_svg/rename.py" />
         <option value="$PROJECT_DIR$/main.py" />
+        <option value="$PROJECT_DIR$/csv/crewe_td.csv" />
       </list>
     </option>
   </component>
@@ -74,14 +83,17 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="crewe_td" type="b2602c69:ProjectViewProjectNode" />
               <item name="crewe_td" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="crewe_td" type="b2602c69:ProjectViewProjectNode" />
+              <item name="crewe_td" type="462c0819:PsiDirectoryNode" />
+              <item name="csv" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="crewe_td" type="b2602c69:ProjectViewProjectNode" />
@@ -97,6 +109,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -231,6 +245,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="5474">
           <caret line="322" column="125" lean-forward="true" selection-start-line="322" selection-start-column="24" selection-end-line="322" selection-end-column="125" />
           <folding />
@@ -340,13 +362,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/csv/crewe_td.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/crewe_td.log">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="351">
@@ -366,6 +381,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="437">
           <caret line="31" column="11" lean-forward="false" selection-start-line="31" selection-start-column="11" selection-end-line="31" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/csv/crewe_td.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5991">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
