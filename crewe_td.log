@@ -1,115 +1,86 @@
-INFO 2018-01-15 20:53:38,256 - Application Start
-INFO 2018-01-15 20:53:38,256 - Undertaking some file system house keeping...
-INFO 2018-01-15 20:53:38,256 - ....deleted old version of svg\crewe_td_wrk.svg
-INFO 2018-01-15 20:53:38,271 - ....created new svg\crewe_td_wrk.svg, based on svg\crewe_td.svg
-INFO 2018-01-15 20:53:38,271 - Attempting to populate td_matrix...
-INFO 2018-01-15 20:53:38,271 - ....Found csv\crewe_td.csv
-INFO 2018-01-15 20:53:38,271 - ....Reading csv\crewe_td.csv
-INFO 2018-01-15 20:53:38,287 - Summary of csv\crewe_td.csv...
-INFO 2018-01-15 20:53:38,287 - ....110 signals found
-INFO 2018-01-15 20:53:38,287 - ....422 routes found
-INFO 2018-01-15 20:53:38,287 - ....18 TRTS found
-INFO 2018-01-15 20:53:38,287 - Outputting td_matrix to json...
-INFO 2018-01-15 20:53:38,287 - ....working with json\crewe_td.json
-INFO 2018-01-15 20:53:38,349 - ....json\crewe_td.json created.
-INFO 2018-01-15 20:53:38,412 - All berths cleared
-INFO 2018-01-15 20:53:38,427 - All TRTS Cleared
-INFO 2018-01-15 20:53:38,427 - All routes cleared
-INFO 2018-01-15 20:53:38,458 - Attempting connection to host datafeeds.networkrail.co.uk, port 61618
-INFO 2018-01-15 20:53:38,880 - Established connection to host datafeeds.networkrail.co.uk, port 61618
-INFO 2018-01-15 20:53:38,911 - Starting receiver loop
-INFO 2018-01-15 20:53:38,926 - Sending frame: 'STOMP', headers={'client-id': 'joth.moss@googlemail.com', 'accept-version': '1.1', 'host': 'datafeeds.networkrail.co.uk', 'login': 'joth.moss@googlemail.com', 'passcode': '********'}
-INFO 2018-01-15 20:53:39,051 - Received frame: 'CONNECTED', headers={'heart-beat': '0,0', 'session': 'joth.moss@googlemail.com', 'server': 'ActiveMQ/5.8.0.3', 'version': '1.1'}, len(body)=0
-INFO 2018-01-15 20:53:39,114 - Sending frame: 'SUBSCRIBE', headers={'activemq.subscriptionName': 'joth.moss@googlemail.com', 'destination': '/topic/TD_LNW_C_SIG_AREA', 'id': 'joth.moss@googlemail.com', 'ack': 'auto'}
-INFO 2018-01-15 20:53:39,207 - Received frame: 'MESSAGE', headers={'message-id': 'ID:ec2netrailwmq1-50391-1515926892102-11:1:2:31:10669', 'destination': '/topic/TD_LNW_C_SIG_AREA', 'timestamp': '1516049554636', 'expires': '1516049854636', 'subscription': 'joth.moss@googlemail.com', 'persistent': 'true', 'priority': '4'}, len(body)=3109
-INFO 2018-01-15 20:53:39,223 - Received frame: 'MESSAGE', headers={'message-id': 'ID:ec2netrailwmq1-50391-1515926892102-11:1:1:38:10397', 'destination': '/topic/TD_LNW_C_SIG_AREA', 'timestamp': '1516049560245', 'expires': '1516049860245', 'subscription': 'joth.moss@googlemail.com', 'persistent': 'true', 'priority': '4'}, len(body)=3151
-INFO 2018-01-15 20:53:39,223 - Writing SVG...
-INFO 2018-01-15 20:53:39,223 - Berth step: 1K27 from: 0189, to: 0191
-INFO 2018-01-15 20:53:39,223 - Trying to create valid headcode from 642K
-INFO 2018-01-15 20:53:39,223 - ....done! 642K => 6K42
-INFO 2018-01-15 20:53:39,223 - Berth step: 6K42 from: C104, to: CY18
-INFO 2018-01-15 20:53:39,348 - ....success!
-INFO 2018-01-15 20:53:39,348 - Sending message to ftp server...
-INFO 2018-01-15 20:53:39,722 - ....230 Login successful. Username & password correct; FTP unlocked.
-INFO 2018-01-15 20:53:40,471 - ....226 Transfer complete
-INFO 2018-01-15 20:53:40,502 - ....success!
-INFO 2018-01-15 20:53:40,502 - 1 Threads processed on this pass
-INFO 2018-01-15 20:53:40,502 - Signal OFF: CE191
-INFO 2018-01-15 20:53:40,502 - Signal OFF: CE192
-INFO 2018-01-15 20:53:40,502 - Signal OFF: CE193
-INFO 2018-01-15 20:53:40,502 - Writing SVG...
-INFO 2018-01-15 20:53:40,642 - ....success!
-INFO 2018-01-15 20:53:40,642 - Sending message to ftp server...
-INFO 2018-01-15 20:53:40,892 - ....230 Login successful. Username & password correct; FTP unlocked.
-INFO 2018-01-15 20:53:44,028 - ....226 Transfer complete
-INFO 2018-01-15 20:53:44,059 - ....success!
-INFO 2018-01-15 20:53:44,059 - 5 Threads processed on this pass
-INFO 2018-01-15 20:53:44,948 - Received frame: 'MESSAGE', headers={'message-id': 'ID:ec2netrailwmq1-50391-1515926892102-11:1:2:31:10670', 'transformation': 'jms-xml', 'destination': '/topic/TD_LNW_C_SIG_AREA', 'timestamp': '1516049566096', 'expires': '1516049866096', 'subscription': 'joth.moss@googlemail.com', 'persistent': 'true', 'priority': '4'}, len(body)=1727
-INFO 2018-01-15 20:53:44,964 - Route Set: CE 175 (Down Main [Potteries]) to Down Main [Potteries] (CE 183)
-INFO 2018-01-15 20:53:44,964 - Writing SVG...
-INFO 2018-01-15 20:53:45,042 - ....success!
-INFO 2018-01-15 20:53:45,042 - Sending message to ftp server...
-INFO 2018-01-15 20:53:45,244 - ....230 Login successful. Username & password correct; FTP unlocked.
-INFO 2018-01-15 20:53:46,040 - ....226 Transfer complete
-INFO 2018-01-15 20:53:46,071 - ....success!
-INFO 2018-01-15 20:53:46,071 - 1 Threads processed on this pass
-INFO 2018-01-15 20:53:49,956 - Received frame: 'MESSAGE', headers={'message-id': 'ID:ec2netrailwmq1-50391-1515926892102-11:1:2:31:10671', 'destination': '/topic/TD_LNW_C_SIG_AREA', 'timestamp': '1516049571100', 'expires': '1516049871100', 'subscription': 'joth.moss@googlemail.com', 'persistent': 'true', 'priority': '4'}, len(body)=2917
-INFO 2018-01-15 20:53:49,971 - Berth step: 1K28 from: 0184, to: 0524
-INFO 2018-01-15 20:53:49,971 - Route Set: CE 186 (Up Main [Potteries]) to Up Main [Potteries] (CE 184)
-INFO 2018-01-15 20:53:49,971 - Route Set: CE 193 (Up & Down Potteries) to Up & Down Potteries (CE 121)
-INFO 2018-01-15 20:53:49,971 - Route Set: CE 107 (Down Fast) to Platform 11 (CE 139)
-INFO 2018-01-15 20:53:49,987 - Route Set: CE 553 (Up Main [Salop]) to Platform 11 (CE 139)
-INFO 2018-01-15 20:53:50,002 - Route Set: CE 555 (Up and Down Potteries) to Platform 4
-INFO 2018-01-15 20:53:50,018 - Writing SVG...
-INFO 2018-01-15 20:53:50,143 - ....success!
-INFO 2018-01-15 20:53:50,143 - Sending message to ftp server...
-INFO 2018-01-15 20:53:50,673 - ....230 Login successful. Username & password correct; FTP unlocked.
-INFO 2018-01-15 20:53:51,469 - ....226 Transfer complete
-INFO 2018-01-15 20:53:51,484 - ....success!
-INFO 2018-01-15 20:53:51,500 - 5 Threads processed on this pass
-INFO 2018-01-15 20:53:51,500 - Writing SVG...
-INFO 2018-01-15 20:53:51,640 - ....success!
-INFO 2018-01-15 20:53:51,640 - Sending message to ftp server...
-INFO 2018-01-15 20:53:51,921 - ....230 Login successful. Username & password correct; FTP unlocked.
-INFO 2018-01-15 20:53:52,670 - ....226 Transfer complete
-INFO 2018-01-15 20:53:52,686 - ....success!
-INFO 2018-01-15 20:53:52,686 - 1 Threads processed on this pass
-INFO 2018-01-15 20:53:54,823 - Received frame: 'MESSAGE', headers={'message-id': 'ID:ec2netrailwmq1-50391-1515926892102-11:1:2:31:10672', 'destination': '/topic/TD_LNW_C_SIG_AREA', 'timestamp': '1516049576101', 'expires': '1516049876101', 'subscription': 'joth.moss@googlemail.com', 'persistent': 'true', 'priority': '4'}, len(body)=1951
-INFO 2018-01-15 20:53:59,907 - Received frame: 'MESSAGE', headers={'message-id': 'ID:ec2netrailwmq1-50391-1515926892102-11:1:1:38:10398', 'transformation': 'jms-xml', 'destination': '/topic/TD_LNW_C_SIG_AREA', 'timestamp': '1516049581363', 'expires': '1516049881363', 'subscription': 'joth.moss@googlemail.com', 'persistent': 'true', 'priority': '4'}, len(body)=3117
-INFO 2018-01-15 20:53:59,910 - Signal OFF: CE101
-INFO 2018-01-15 20:53:59,912 - Writing SVG...
-INFO 2018-01-15 20:54:00,052 - ....success!
-INFO 2018-01-15 20:54:00,052 - Sending message to ftp server...
-INFO 2018-01-15 20:54:00,432 - ....230 Login successful. Username & password correct; FTP unlocked.
-INFO 2018-01-15 20:54:01,235 - ....226 Transfer complete
-INFO 2018-01-15 20:54:01,258 - ....success!
-INFO 2018-01-15 20:54:01,258 - 1 Threads processed on this pass
-INFO 2018-01-15 20:54:04,990 - Received frame: 'MESSAGE', headers={'message-id': 'ID:ec2netrailwmq1-50391-1515926892102-11:1:1:38:10399', 'transformation': 'jms-xml', 'destination': '/topic/TD_LNW_C_SIG_AREA', 'timestamp': '1516049586480', 'expires': '1516049886480', 'subscription': 'joth.moss@googlemail.com', 'persistent': 'true', 'priority': '4'}, len(body)=3189
-INFO 2018-01-15 20:54:04,993 - Route Set: CE 101 (Down Slow) to CE 105 (Down Slow)
-INFO 2018-01-15 20:54:05,025 - Writing SVG...
-INFO 2018-01-15 20:54:05,230 - ....success!
-INFO 2018-01-15 20:54:05,230 - Sending message to ftp server...
-INFO 2018-01-15 20:54:05,690 - ....230 Login successful. Username & password correct; FTP unlocked.
-INFO 2018-01-15 20:54:06,475 - ....226 Transfer complete
-INFO 2018-01-15 20:54:06,498 - ....success!
-INFO 2018-01-15 20:54:06,498 - 1 Threads processed on this pass
-INFO 2018-01-15 20:54:11,746 - Received frame: 'MESSAGE', headers={'message-id': 'ID:ec2netrailwmq1-50391-1515926892102-11:1:1:38:10400', 'transformation': 'jms-xml', 'destination': '/topic/TD_LNW_C_SIG_AREA', 'timestamp': '1516049593217', 'expires': '1516049893217', 'subscription': 'joth.moss@googlemail.com', 'persistent': 'true', 'priority': '4'}, len(body)=3181
-INFO 2018-01-15 20:54:16,968 - Received frame: 'MESSAGE', headers={'message-id': 'ID:ec2netrailwmq1-50391-1515926892102-11:1:2:31:10673', 'transformation': 'jms-xml', 'destination': '/topic/TD_LNW_C_SIG_AREA', 'timestamp': '1516049598268', 'expires': '1516049898268', 'subscription': 'joth.moss@googlemail.com', 'persistent': 'true', 'priority': '4'}, len(body)=3285
-INFO 2018-01-15 20:54:24,057 - Received frame: 'MESSAGE', headers={'message-id': 'ID:ec2netrailwmq1-50391-1515926892102-11:1:1:38:10401', 'transformation': 'jms-xml', 'destination': '/topic/TD_LNW_C_SIG_AREA', 'timestamp': '1516049605529', 'expires': '1516049905529', 'subscription': 'joth.moss@googlemail.com', 'persistent': 'true', 'priority': '4'}, len(body)=3213
-INFO 2018-01-15 20:54:24,070 - Berth step: 5D21 from: C112, to: C108
-INFO 2018-01-15 20:54:24,075 - Writing SVG...
-INFO 2018-01-15 20:54:24,309 - ....success!
-INFO 2018-01-15 20:54:24,309 - Sending message to ftp server...
-INFO 2018-01-15 20:54:24,696 - ....230 Login successful. Username & password correct; FTP unlocked.
-INFO 2018-01-15 20:54:25,446 - ....226 Transfer complete
-INFO 2018-01-15 20:54:25,477 - ....success!
-INFO 2018-01-15 20:54:25,477 - 2 Threads processed on this pass
-INFO 2018-01-15 20:54:29,625 - Received frame: 'MESSAGE', headers={'message-id': 'ID:ec2netrailwmq1-50391-1515926892102-11:1:1:38:10402', 'destination': '/topic/TD_LNW_C_SIG_AREA', 'timestamp': '1516049611101', 'expires': '1516049911101', 'subscription': 'joth.moss@googlemail.com', 'persistent': 'true', 'priority': '4'}, len(body)=2471
-INFO 2018-01-15 20:54:36,288 - Received frame: 'MESSAGE', headers={'message-id': 'ID:ec2netrailwmq1-50391-1515926892102-11:1:2:31:10674', 'transformation': 'jms-xml', 'destination': '/topic/TD_LNW_C_SIG_AREA', 'timestamp': '1516049617581', 'expires': '1516049917581', 'subscription': 'joth.moss@googlemail.com', 'persistent': 'true', 'priority': '4'}, len(body)=3171
-INFO 2018-01-15 20:54:43,126 - Received frame: 'MESSAGE', headers={'message-id': 'ID:ec2netrailwmq1-50391-1515926892102-11:1:1:38:10403', 'transformation': 'jms-xml', 'destination': '/topic/TD_LNW_C_SIG_AREA', 'timestamp': '1516049624548', 'expires': '1516049924548', 'subscription': 'joth.moss@googlemail.com', 'persistent': 'true', 'priority': '4'}, len(body)=3129
-INFO 2018-01-15 20:54:49,723 - Received frame: 'MESSAGE', headers={'message-id': 'ID:ec2netrailwmq1-50391-1515926892102-11:1:2:31:10675', 'transformation': 'jms-xml', 'destination': '/topic/TD_LNW_C_SIG_AREA', 'timestamp': '1516049631102', 'expires': '1516049931102', 'subscription': 'joth.moss@googlemail.com', 'persistent': 'true', 'priority': '4'}, len(body)=2239
-INFO 2018-01-15 20:54:52,890 - Received frame: 'MESSAGE', headers={'message-id': 'ID:ec2netrailwmq1-50391-1515926892102-11:1:1:38:10404', 'transformation': 'jms-xml', 'destination': '/topic/TD_LNW_C_SIG_AREA', 'timestamp': '1516049634346', 'expires': '1516049934346', 'subscription': 'joth.moss@googlemail.com', 'persistent': 'true', 'priority': '4'}, len(body)=3163
-INFO 2018-01-15 20:54:57,894 - Received frame: 'MESSAGE', headers={'message-id': 'ID:ec2netrailwmq1-50391-1515926892102-11:1:1:38:10405', 'transformation': 'jms-xml', 'destination': '/topic/TD_LNW_C_SIG_AREA', 'timestamp': '1516049639329', 'expires': '1516049939329', 'subscription': 'joth.moss@googlemail.com', 'persistent': 'true', 'priority': '4'}, len(body)=3235
-INFO 2018-01-15 20:54:57,910 - TD Heartbeat received at 2053
-INFO 2018-01-15 20:55:04,689 - Received frame: 'MESSAGE', headers={'message-id': 'ID:ec2netrailwmq1-50391-1515926892102-11:1:2:31:10676', 'transformation': 'jms-xml', 'destination': '/topic/TD_LNW_C_SIG_AREA', 'timestamp': '1516049646102', 'expires': '1516049946102', 'subscription': 'joth.moss@googlemail.com', 'persistent': 'true', 'priority': '4'}, len(body)=2923
-INFO 2018-01-15 20:55:09,168 - Received frame: 'MESSAGE', headers={'message-id': 'ID:ec2netrailwmq1-50391-1515926892102-11:1:1:38:10406', 'transformation': 'jms-xml', 'destination': '/topic/TD_LNW_C_SIG_AREA', 'timestamp': '1516049650454', 'expires': '1516049950454', 'subscription': 'joth.moss@googlemail.com', 'persistent': 'true', 'priority': '4'}, len(body)=3181
+INFO 2018-01-22 09:45:49,229 - Application Start
+INFO 2018-01-22 09:45:49,229 - Undertaking some file system house keeping...
+INFO 2018-01-22 09:45:49,229 - ....deleted old version of svg\crewe_td_wrk.svg
+INFO 2018-01-22 09:45:49,245 - ....created new svg\crewe_td_wrk.svg, based on svg\crewe_td.svg
+INFO 2018-01-22 09:45:49,245 - Attempting to populate td_matrix...
+INFO 2018-01-22 09:45:49,245 - ....Found csv\crewe_td.csv
+INFO 2018-01-22 09:45:49,245 - ....Reading csv\crewe_td.csv
+INFO 2018-01-22 09:45:49,260 - Summary of csv\crewe_td.csv...
+INFO 2018-01-22 09:45:49,260 - ....110 signals found
+INFO 2018-01-22 09:45:49,260 - ....422 routes found
+INFO 2018-01-22 09:45:49,260 - ....18 TRTS found
+INFO 2018-01-22 09:45:49,260 - Outputting td_matrix to json...
+INFO 2018-01-22 09:45:49,260 - ....working with json\crewe_td.json
+INFO 2018-01-22 09:45:49,307 - ....json\crewe_td.json created.
+INFO 2018-01-22 09:45:49,354 - All berths cleared
+INFO 2018-01-22 09:45:49,354 - All TRTS Cleared
+INFO 2018-01-22 09:45:49,354 - All routes cleared
+INFO 2018-01-22 09:45:49,791 - Attempting connection to host datafeeds.networkrail.co.uk, port 61618
+INFO 2018-01-22 09:45:49,900 - Established connection to host datafeeds.networkrail.co.uk, port 61618
+INFO 2018-01-22 09:45:49,931 - Starting receiver loop
+INFO 2018-01-22 09:45:49,931 - Sending frame: 'STOMP', headers={'client-id': 'joth.moss@googlemail.com', 'accept-version': '1.1', 'host': 'datafeeds.networkrail.co.uk', 'login': 'joth.moss@googlemail.com', 'passcode': '********'}
+INFO 2018-01-22 09:45:50,009 - Received frame: 'CONNECTED', headers={'heart-beat': '0,0', 'session': 'joth.moss@googlemail.com', 'server': 'ActiveMQ/5.8.0.3', 'version': '1.1'}, len(body)=0
+INFO 2018-01-22 09:45:50,025 - Sending frame: 'SUBSCRIBE', headers={'activemq.subscriptionName': 'joth.moss@googlemail.com', 'destination': '/topic/TD_LNW_C_SIG_AREA', 'id': 'joth.moss@googlemail.com', 'ack': 'auto'}
+INFO 2018-01-22 09:45:51,647 - Received frame: 'MESSAGE', headers={'message-id': 'ID:ec2netrailwmq1-52876-1516469557861-11:1:3:27:2095', 'transformation': 'jms-xml', 'destination': '/topic/TD_LNW_C_SIG_AREA', 'timestamp': '1516614280739', 'expires': '1516614580739', 'subscription': 'joth.moss@googlemail.com', 'persistent': 'true', 'priority': '4'}, len(body)=3251
+INFO 2018-01-22 09:45:57,840 - Received frame: 'MESSAGE', headers={'message-id': 'ID:ec2netrailwmq1-52876-1516469557861-11:1:2:27:9311', 'transformation': 'jms-xml', 'destination': '/topic/TD_LNW_C_SIG_AREA', 'timestamp': '1516614286924', 'expires': '1516614586924', 'subscription': 'joth.moss@googlemail.com', 'persistent': 'true', 'priority': '4'}, len(body)=3099
+INFO 2018-01-22 09:46:01,855 - Received frame: 'MESSAGE', headers={'message-id': 'ID:ec2netrailwmq1-52876-1516469557861-11:1:2:27:9312', 'transformation': 'jms-xml', 'destination': '/topic/TD_LNW_C_SIG_AREA', 'timestamp': '1516614290703', 'expires': '1516614590703', 'subscription': 'joth.moss@googlemail.com', 'persistent': 'true', 'priority': '4'}, len(body)=3195
+INFO 2018-01-22 09:46:01,856 - Berth step: 1L70 from: C102, to: CY25
+INFO 2018-01-22 09:46:01,860 - Writing SVG...
+INFO 2018-01-22 09:46:02,098 - ....success!
+INFO 2018-01-22 09:46:02,099 - Sending message to ftp server...
+ERROR 2018-01-22 09:46:02,481 - Permanent error (response codes in the range 500–599): 530 Login failed. Please verify the username and password supplied, and that FTP has been unlocked. Check your control panel or contact support for more information.
+INFO 2018-01-22 09:46:02,481 - 2 Threads processed on this pass
+INFO 2018-01-22 09:46:07,110 - Received frame: 'MESSAGE', headers={'message-id': 'ID:ec2netrailwmq1-52876-1516469557861-11:1:2:27:9313', 'transformation': 'jms-xml', 'destination': '/topic/TD_LNW_C_SIG_AREA', 'timestamp': '1516614296123', 'expires': '1516614596123', 'subscription': 'joth.moss@googlemail.com', 'persistent': 'true', 'priority': '4'}, len(body)=3167
+INFO 2018-01-22 09:46:12,791 - Received frame: 'MESSAGE', headers={'message-id': 'ID:ec2netrailwmq1-52876-1516469557861-11:1:3:27:2096', 'transformation': 'jms-xml', 'destination': '/topic/TD_LNW_C_SIG_AREA', 'timestamp': '1516614301925', 'expires': '1516614601925', 'subscription': 'joth.moss@googlemail.com', 'persistent': 'true', 'priority': '4'}, len(body)=2443
+INFO 2018-01-22 09:46:17,034 - Received frame: 'MESSAGE', headers={'message-id': 'ID:ec2netrailwmq1-52876-1516469557861-11:1:2:27:9314', 'transformation': 'jms-xml', 'destination': '/topic/TD_LNW_C_SIG_AREA', 'timestamp': '1516614306137', 'expires': '1516614606137', 'subscription': 'joth.moss@googlemail.com', 'persistent': 'true', 'priority': '4'}, len(body)=3191
+INFO 2018-01-22 09:46:22,776 - Received frame: 'MESSAGE', headers={'message-id': 'ID:ec2netrailwmq1-52876-1516469557861-11:1:1:30:9419', 'transformation': 'jms-xml', 'destination': '/topic/TD_LNW_C_SIG_AREA', 'timestamp': '1516614311835', 'expires': '1516614611835', 'subscription': 'joth.moss@googlemail.com', 'persistent': 'true', 'priority': '4'}, len(body)=3137
+INFO 2018-01-22 09:46:27,261 - Received frame: 'MESSAGE', headers={'message-id': 'ID:ec2netrailwmq1-52876-1516469557861-11:1:3:27:2097', 'transformation': 'jms-xml', 'destination': '/topic/TD_LNW_C_SIG_AREA', 'timestamp': '1516614316177', 'expires': '1516614616177', 'subscription': 'joth.moss@googlemail.com', 'persistent': 'true', 'priority': '4'}, len(body)=3193
+INFO 2018-01-22 09:46:27,276 - Berth step: 1L70 from: CY25, to: 0144
+INFO 2018-01-22 09:46:27,276 - Writing SVG...
+INFO 2018-01-22 09:46:27,417 - ....success!
+INFO 2018-01-22 09:46:27,417 - Sending message to ftp server...
+ERROR 2018-01-22 09:46:27,913 - Permanent error (response codes in the range 500–599): 530 Login failed. Please verify the username and password supplied, and that FTP has been unlocked. Check your control panel or contact support for more information.
+INFO 2018-01-22 09:46:27,913 - 2 Threads processed on this pass
+INFO 2018-01-22 09:46:30,928 - Received frame: 'MESSAGE', headers={'message-id': 'ID:ec2netrailwmq1-52876-1516469557861-11:1:3:27:2098', 'transformation': 'jms-xml', 'destination': '/topic/TD_LNW_C_SIG_AREA', 'timestamp': '1516614320047', 'expires': '1516614620047', 'subscription': 'joth.moss@googlemail.com', 'persistent': 'true', 'priority': '4'}, len(body)=3237
+INFO 2018-01-22 09:46:34,714 - Received frame: 'MESSAGE', headers={'message-id': 'ID:ec2netrailwmq1-52876-1516469557861-11:1:1:30:9420', 'transformation': 'jms-xml', 'destination': '/topic/TD_LNW_C_SIG_AREA', 'timestamp': '1516614323826', 'expires': '1516614623826', 'subscription': 'joth.moss@googlemail.com', 'persistent': 'true', 'priority': '4'}, len(body)=3103
+INFO 2018-01-22 09:46:38,868 - Received frame: 'MESSAGE', headers={'message-id': 'ID:ec2netrailwmq1-52876-1516469557861-11:1:1:30:9421', 'transformation': 'jms-xml', 'destination': '/topic/TD_LNW_C_SIG_AREA', 'timestamp': '1516614327946', 'expires': '1516614627946', 'subscription': 'joth.moss@googlemail.com', 'persistent': 'true', 'priority': '4'}, len(body)=3149
+INFO 2018-01-22 09:46:41,770 - Received frame: 'MESSAGE', headers={'message-id': 'ID:ec2netrailwmq1-52876-1516469557861-11:1:1:30:9422', 'transformation': 'jms-xml', 'destination': '/topic/TD_LNW_C_SIG_AREA', 'timestamp': '1516614330860', 'expires': '1516614630860', 'subscription': 'joth.moss@googlemail.com', 'persistent': 'true', 'priority': '4'}, len(body)=3143
+INFO 2018-01-22 09:46:45,434 - Received frame: 'MESSAGE', headers={'message-id': 'ID:ec2netrailwmq1-52876-1516469557861-11:1:2:27:9315', 'transformation': 'jms-xml', 'destination': '/topic/TD_LNW_C_SIG_AREA', 'timestamp': '1516614334548', 'expires': '1516614634548', 'subscription': 'joth.moss@googlemail.com', 'persistent': 'true', 'priority': '4'}, len(body)=3107
+INFO 2018-01-22 09:46:51,513 - Received frame: 'MESSAGE', headers={'message-id': 'ID:ec2netrailwmq1-52876-1516469557861-11:1:2:27:9316', 'transformation': 'jms-xml', 'destination': '/topic/TD_LNW_C_SIG_AREA', 'timestamp': '1516614340596', 'expires': '1516614640596', 'subscription': 'joth.moss@googlemail.com', 'persistent': 'true', 'priority': '4'}, len(body)=3145
+INFO 2018-01-22 09:46:57,933 - Received frame: 'MESSAGE', headers={'message-id': 'ID:ec2netrailwmq1-52876-1516469557861-11:1:2:27:9317', 'transformation': 'jms-xml', 'destination': '/topic/TD_LNW_C_SIG_AREA', 'timestamp': '1516614346924', 'expires': '1516614646924', 'subscription': 'joth.moss@googlemail.com', 'persistent': 'true', 'priority': '4'}, len(body)=2753
+INFO 2018-01-22 09:46:57,948 - TD Heartbeat received at 0945
+INFO 2018-01-22 09:46:57,948 - Berth step: 1L70 from: 0144, to: S157
+INFO 2018-01-22 09:46:57,964 - Writing SVG...
+INFO 2018-01-22 09:46:57,964 - Berth step: 1L70 from: S157, to: A128
+INFO 2018-01-22 09:46:58,089 - ....success!
+INFO 2018-01-22 09:46:58,089 - Sending message to ftp server...
+ERROR 2018-01-22 09:46:58,276 - Permanent error (response codes in the range 500–599): 530 Login failed. Please verify the username and password supplied, and that FTP has been unlocked. Check your control panel or contact support for more information.
+INFO 2018-01-22 09:46:58,276 - 2 Threads processed on this pass
+INFO 2018-01-22 09:46:58,365 - Writing SVG...
+INFO 2018-01-22 09:46:58,493 - ....success!
+INFO 2018-01-22 09:46:58,494 - Sending message to ftp server...
+ERROR 2018-01-22 09:46:58,673 - Permanent error (response codes in the range 500–599): 530 Login failed. Please verify the username and password supplied, and that FTP has been unlocked. Check your control panel or contact support for more information.
+INFO 2018-01-22 09:46:58,673 - 2 Threads processed on this pass
+INFO 2018-01-22 09:47:02,110 - Received frame: 'MESSAGE', headers={'message-id': 'ID:ec2netrailwmq1-52876-1516469557861-11:1:2:27:9318', 'transformation': 'jms-xml', 'destination': '/topic/TD_LNW_C_SIG_AREA', 'timestamp': '1516614351197', 'expires': '1516614651197', 'subscription': 'joth.moss@googlemail.com', 'persistent': 'true', 'priority': '4'}, len(body)=3135
+INFO 2018-01-22 09:47:02,125 - Signal OFF: CE142
+INFO 2018-01-22 09:47:02,125 - Signal OFF: CE147
+INFO 2018-01-22 09:47:02,125 - Writing SVG...
+INFO 2018-01-22 09:47:02,157 - ....success!
+INFO 2018-01-22 09:47:02,157 - Sending message to ftp server...
+ERROR 2018-01-22 09:47:02,453 - Permanent error (response codes in the range 500–599): 530 Login failed. Please verify the username and password supplied, and that FTP has been unlocked. Check your control panel or contact support for more information.
+INFO 2018-01-22 09:47:02,453 - 1 Threads processed on this pass
+INFO 2018-01-22 09:47:05,902 - Received frame: 'MESSAGE', headers={'message-id': 'ID:ec2netrailwmq1-52876-1516469557861-11:1:3:27:2099', 'transformation': 'jms-xml', 'destination': '/topic/TD_LNW_C_SIG_AREA', 'timestamp': '1516614355001', 'expires': '1516614655001', 'subscription': 'joth.moss@googlemail.com', 'persistent': 'true', 'priority': '4'}, len(body)=3213
+INFO 2018-01-22 09:47:09,929 - Received frame: 'MESSAGE', headers={'message-id': 'ID:ec2netrailwmq1-52876-1516469557861-11:1:3:27:2100', 'transformation': 'jms-xml', 'destination': '/topic/TD_LNW_C_SIG_AREA', 'timestamp': '1516614359021', 'expires': '1516614659021', 'subscription': 'joth.moss@googlemail.com', 'persistent': 'true', 'priority': '4'}, len(body)=3215
+INFO 2018-01-22 09:47:15,397 - Received frame: 'MESSAGE', headers={'message-id': 'ID:ec2netrailwmq1-52876-1516469557861-11:1:1:30:9423', 'transformation': 'jms-xml', 'destination': '/topic/TD_LNW_C_SIG_AREA', 'timestamp': '1516614364498', 'expires': '1516614664498', 'subscription': 'joth.moss@googlemail.com', 'persistent': 'true', 'priority': '4'}, len(body)=3247
+INFO 2018-01-22 09:47:15,402 - Writing SVG...
+INFO 2018-01-22 09:47:15,450 - ....success!
+INFO 2018-01-22 09:47:15,451 - Sending message to ftp server...
+ERROR 2018-01-22 09:47:15,688 - Permanent error (response codes in the range 500–599): 530 Login failed. Please verify the username and password supplied, and that FTP has been unlocked. Check your control panel or contact support for more information.
+INFO 2018-01-22 09:47:15,688 - 1 Threads processed on this pass
+INFO 2018-01-22 09:47:18,445 - Received frame: 'MESSAGE', headers={'message-id': 'ID:ec2netrailwmq1-52876-1516469557861-11:1:2:27:9319', 'transformation': 'jms-xml', 'destination': '/topic/TD_LNW_C_SIG_AREA', 'timestamp': '1516614367551', 'expires': '1516614667551', 'subscription': 'joth.moss@googlemail.com', 'persistent': 'true', 'priority': '4'}, len(body)=3179
+INFO 2018-01-22 09:47:18,460 - Route Set: CE 128 (Platform 5) to Up Fast (CE 104)
+INFO 2018-01-22 09:47:18,460 - Writing SVG...
+INFO 2018-01-22 09:47:18,554 - ....success!
+INFO 2018-01-22 09:47:18,554 - Sending message to ftp server...
+ERROR 2018-01-22 09:47:18,804 - Permanent error (response codes in the range 500–599): 530 Login failed. Please verify the username and password supplied, and that FTP has been unlocked. Check your control panel or contact support for more information.
+INFO 2018-01-22 09:47:18,804 - 1 Threads processed on this pass
