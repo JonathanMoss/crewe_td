@@ -8,11 +8,11 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   height="1819.1271"
+   height="2040.6744"
    id="svg8"
    version="1.1"
-   viewBox="0 0 1740.2176 348.56353"
-   width="9082.0664"
+   viewBox="0 0 1745.1394 391.01429"
+   width="9107.7529"
    sodipodi:docname="crewe_td.svg"
    inkscape:export-filename="C:\Users\jmoss2\Desktop\crewe_td.svg.png"
    inkscape:export-xdpi="96"
@@ -43,8 +43,8 @@
      showguides="true"
      units="px"
      inkscape:current-layer="base_layer"
-     inkscape:cx="4952.3754"
-     inkscape:cy="1401.8575"
+     inkscape:cx="8100.1073"
+     inkscape:cy="321.92084"
      inkscape:document-units="mm"
      inkscape:guide-bbox="true"
      inkscape:measure-end="1373.33,908.743"
@@ -63,99 +63,19 @@
      inkscape:window-y="-8"
      inkscape:zoom="0.62289149">
     <sodipodi:guide
-       id="guide6981"
-       orientation="1,0"
-       position="941.43652,276.09227"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       id="guide6987"
-       orientation="1,0"
-       position="1173.2328,63.244565"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       id="guide4718"
-       orientation="1,0"
-       position="601.34096,237.50451"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       id="guide5861"
-       orientation="1,0"
-       position="1039.1589,216.29765"
-       inkscape:locked="false" />
-    <sodipodi:guide
        id="guide5863"
        orientation="0.93104875,0.36489481"
-       position="640.29047,178.88987"
+       position="1382.7517,92.166122"
        inkscape:locked="false" />
     <sodipodi:guide
        id="guide5876"
        orientation="-0.93145734,0.36385054"
-       position="922.2388,252.96641"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       id="guide5897"
-       orientation="1,0"
-       position="1236.1854,185.32208"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       id="guide5526"
-       orientation="1,0"
-       position="1276.9714,135.63396"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       id="guide5590"
-       orientation="1,0"
-       position="1708.8478,133.61671"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       id="guide4860"
-       orientation="1,0"
-       position="1170.4872,64.576752"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       id="guide5956"
-       orientation="1,0"
-       position="456.4996,209.79294"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       id="guide6460"
-       orientation="0,1"
-       position="1370.2731,287.1037"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       id="guide6520"
-       orientation="0.51658099,0.85623833"
-       position="733.03832,209.46162"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       id="guide6530"
-       orientation="-0.48080714,-0.87682638"
-       position="801.16264,226.327"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       id="guide6727"
-       orientation="1,0"
-       position="894.86142,259.06173"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       id="guide6751"
-       orientation="1,0"
-       position="644.44946,174.63313"
+       position="1112.9901,339.71619"
        inkscape:locked="false" />
     <sodipodi:guide
        id="guide6772"
        orientation="0,1"
-       position="1133.4449,269.78148"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="703.40427,167.45201"
-       orientation="1,0"
-       id="guide6752"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="1271.0962,303.14375"
-       orientation="0,1"
-       id="guide6775"
+       position="1131.3366,272.09288"
        inkscape:locked="false" />
   </sodipodi:namedview>
   <metadata
@@ -166,21 +86,21 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
      id="base_layer"
      style="display:inline"
-     transform="translate(804.16468,3.9158542)"
+     transform="translate(802.05634,44.055208)"
      inkscape:groupmode="layer"
      inkscape:label="Base Layer">
     <path
-       d="M -854.09243,-1.6044342 H 886.12524 V 346.95907 H -854.09243 Z"
+       d="M -802.05634,-44.055208 H 943.08312 V 346.95907 H -802.05634 Z"
        id="track_1"
        label="Routing Track 1"
-       style="display:inline;opacity:1;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.26864162;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.80592494, 0.80592494;stroke-dashoffset:0;stroke-opacity:1"
+       style="display:inline;opacity:1;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.28493246;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.85479749, 0.85479749;stroke-dashoffset:0;stroke-opacity:1"
        sodipodi:nodetypes="ccccc"
        inkscape:connector-curvature="0"
        inkscape:export-filename="C:\Users\jmoss2\Desktop\track_1.png"
@@ -246,7 +166,8 @@
     <g
        id="crewe_basic_track_layout"
        style="display:inline"
-       inkscape:label="Crewe Station - Basic Track Layout">
+       inkscape:label="Crewe Station - Basic Track Layout"
+       transform="translate(3.4820236e-5,7.0952995e-6)">
       <path
          d="m 324.44989,172.21912 h 61.42756 v 1.28234 h -61.42756 z"
          id="track_2"
@@ -759,14 +680,14 @@
          inkscape:connector-curvature="0"
          inkscape:label="Routing Track 66" />
       <path
-         d="m 713.16815,270.55627 h 66.46372 v 1.28235 h -66.46372 z"
+         d="m 727.03938,303.3555 h 66.46372 v 1.28235 h -66.46372 z"
          id="track_67"
          label="Routing Track 67"
          style="opacity:1;fill:#00aad4;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.40290892;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          inkscape:connector-curvature="0"
          inkscape:label="Routing Track 67" />
       <path
-         d="m 746.71789,286.00928 h 113.1417 v 1.28234 h -113.1417 z"
+         d="m 760.58912,318.80851 h 113.1417 v 1.28234 h -113.1417 z"
          id="track_68"
          label="Routing Track 68"
          style="opacity:1;fill:#008000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.41476479;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -781,7 +702,7 @@
          inkscape:connector-curvature="0"
          inkscape:label="Routing Track 69" />
       <path
-         d="m 621.36646,303.3555 h 109.12993 v 1.28235 H 621.36646 Z"
+         d="m 635.23769,336.15473 h 109.12993 v 1.28235 H 635.23769 Z"
          id="track_70"
          label="Routing Track 70"
          style="opacity:1;fill:#008000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.27718696;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -1275,13 +1196,13 @@
          inkscape:connector-curvature="0"
          inkscape:label="Routing Track 133" />
       <path
-         d="m -472.71231,57.543964 h 5.78075 v 1.282347 h -5.78075 z"
+         d="m 472.71231,57.543964 h -168.3549 l -0.50092,1.282347 h 168.85582 z"
          id="track_134"
          label="Routing Track 134"
-         style="opacity:1;fill:#00aad4;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.1230441;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         transform="scale(-1,1)"
+         style="opacity:1;fill:#00aad4;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.66402066;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          inkscape:connector-curvature="0"
-         inkscape:label="Routing Track 134" />
+         inkscape:label="Routing Track 134"
+         sodipodi:nodetypes="ccccc" />
       <path
          d="m 583.51217,52.454773 h -1.64795 l 2.49748,6.371521 h 1.64795 z"
          id="track_136"
@@ -1305,13 +1226,6 @@
          sodipodi:nodetypes="ccccc"
          inkscape:connector-curvature="0"
          inkscape:label="Routing Track 138" />
-      <path
-         d="M 466.93156,41.503925 H 499.849 v 1.282347 h -32.91744 z"
-         id="track_139"
-         label="Routing Track 139"
-         style="opacity:1;fill:#008000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.30965114;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         inkscape:connector-curvature="0"
-         inkscape:label="Routing Track 139" />
       <path
          d="m 512.76221,57.543964 h 38.44137 v 1.282347 h -38.44137 z"
          id="track_140"
@@ -1995,7 +1909,7 @@
          inkscape:connector-curvature="0"
          inkscape:label="Routing Track 225" />
       <path
-         d="m 589.22859,223.18678 -1.64795,-0.011 19.0676,48.66284 h 1.64795 z"
+         d="m 589.22859,223.18678 -1.64795,-0.011 31.92506,81.46207 h 1.64513 z"
          id="track_226"
          label="Routing Track 226"
          style="opacity:1;fill:#008000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.45919642;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -2427,7 +2341,7 @@
          inkscape:connector-curvature="0"
          inkscape:label="Routing Track 280" />
       <path
-         d="m 586.84626,270.48665 6.58625,16.80497 -1.64795,10e-6 -6.58625,-16.80498 z"
+         d="m 586.84626,270.48665 18.93788,48.32186 h -1.6479 l -18.93793,-48.32186 z"
          id="track_281"
          label="Routing Track 281"
          style="opacity:1;fill:#a05a2c;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.10717268;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -2435,7 +2349,7 @@
          inkscape:connector-curvature="0"
          inkscape:label="Routing Track 281" />
       <path
-         d="m 591.78456,286.00928 h 13.19964 l 0.50258,1.28235 h -13.70222 z"
+         d="m 604.13624,318.80851 h 14.71919 l 0.50258,1.28235 h -14.71919 z"
          id="track_282"
          label="Routing Track 282"
          style="opacity:1;fill:#a05a2c;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.87172103;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -2443,15 +2357,14 @@
          inkscape:connector-curvature="0"
          inkscape:label="Routing Track 282" />
       <path
-         d="m 2983.7832,1213.6016 29.2363,74.5937 h 7.086 39.0527 v -5.5137 h -41.2129 l -27.0762,-69.08 z"
+         d="m 617.70965,320.09065 6.79872,17.34632 h 1.64781 9.08147 v -1.28218 h -9.58381 l -6.29641,-16.06414 z"
          id="track_283"
          label="Routing Track 283"
-         style="opacity:1;fill:#a05a2c;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.10717268;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         transform="matrix(0.23254397,0,0,0.23254397,-90.022372,5.0756872)"
+         style="opacity:1;fill:#a05a2c;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.02492236;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          inkscape:connector-curvature="0"
          inkscape:label="Routing Track 283" />
       <path
-         d="m 604.9842,286.00928 h 16.27099 v 1.28235 h -15.76841 z"
+         d="m 618.85543,318.80851 h 16.27099 v 1.28235 h -15.76841 z"
          id="track_284"
          label="Routing Track 284"
          style="opacity:1;fill:#00aad4;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.49478316;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -2459,14 +2372,14 @@
          inkscape:connector-curvature="0"
          inkscape:label="Routing Track 284" />
       <path
-         d="m 606.77699,270.55627 h 14.14403 v 1.28235 h -14.14403 z"
+         d="m 620.64822,303.3555 h 14.14403 v 1.28235 h -14.14403 z"
          id="track_285"
          label="Routing Track 285"
          style="opacity:1;fill:#008000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.49478316;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          inkscape:connector-curvature="0"
          inkscape:label="Routing Track 285" />
       <path
-         d="m 730.49639,304.63785 6.77574,-17.34622 h -1.64795 l -6.77574,17.34618 z"
+         d="m 744.36762,337.43708 6.77574,-17.34622 h -1.64795 l -6.77574,17.34618 z"
          id="track_286"
          label="Routing Track 286"
          style="opacity:1;fill:#00aad4;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.10717268;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -2474,7 +2387,7 @@
          inkscape:connector-curvature="0"
          inkscape:label="Routing Track 286" />
       <path
-         d="m 736.1251,286.00928 h 10.59279 v 1.28235 h -11.09371 z"
+         d="m 749.99633,318.80851 h 10.59279 v 1.28235 h -11.09371 z"
          id="track_287"
          label="Routing Track 287"
          style="opacity:1;fill:#a05a2c;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.12355682;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -2482,7 +2395,7 @@
          inkscape:connector-curvature="0"
          inkscape:label="Routing Track 287" />
       <path
-         d="m 696.40957,286.00928 h 39.71553 l -0.50092,1.28235 h -38.71204 z"
+         d="m 710.2808,318.80851 h 39.71553 l -0.50092,1.28235 h -38.71204 z"
          id="track_288"
          label="Routing Track 288"
          style="opacity:1;fill:#00aad4;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.63191581;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -2490,7 +2403,7 @@
          inkscape:connector-curvature="0"
          inkscape:label="Routing Track 288" />
       <path
-         d="m 669.15991,286.00928 h 27.24966 l 0.50257,1.28235 h -28.25315 z"
+         d="m 683.03114,318.80851 h 27.24966 l 0.50257,1.28235 h -28.25315 z"
          id="track_289"
          label="Routing Track 289"
          style="opacity:1;fill:#ffe680;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.87172103;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -2498,7 +2411,7 @@
          inkscape:connector-curvature="0"
          inkscape:label="Routing Track 289" />
       <path
-         d="m 621.25519,286.00928 h 47.90472 l -0.50092,1.28235 h -47.4038 z"
+         d="m 635.12642,318.80851 h 47.90472 l -0.50092,1.28235 h -47.4038 z"
          id="track_290"
          label="Routing Track 290"
          style="opacity:1;fill:#a05a2c;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.12355682;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -2506,7 +2419,7 @@
          inkscape:connector-curvature="0"
          inkscape:label="Routing Track 290" />
       <path
-         d="m 620.92102,270.55627 h 52.62752 l -0.50092,1.28235 h -52.1266 z"
+         d="m 634.79225,303.3555 h 52.62752 l -0.50092,1.28235 h -52.1266 z"
          id="track_291"
          label="Routing Track 291"
          style="opacity:1;fill:#00aad4;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.63191581;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -2514,7 +2427,7 @@
          inkscape:connector-curvature="0"
          inkscape:label="Routing Track 291" />
       <path
-         d="m 673.54854,270.55627 h 18.45278 l 0.50258,1.28235 h -19.45628 z"
+         d="m 687.41977,303.3555 h 18.45278 l 0.50258,1.28235 h -19.45628 z"
          id="track_292"
          label="Routing Track 292"
          style="opacity:1;fill:#a05a2c;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.12355682;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -2522,7 +2435,7 @@
          inkscape:connector-curvature="0"
          inkscape:label="Routing Track 292" />
       <path
-         d="m 692.00132,270.55627 h 21.16683 v 1.28235 H 692.5039 Z"
+         d="m 705.87255,303.3555 h 21.16683 v 1.28235 h -20.66425 z"
          id="track_293"
          label="Routing Track 293"
          style="opacity:1;fill:#008000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.12355682;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -2530,7 +2443,7 @@
          inkscape:connector-curvature="0"
          inkscape:label="Routing Track 293" />
       <path
-         d="m 669.15991,286.00928 5.53566,-14.17066 h -1.64795 l -5.53566,14.17066 z"
+         d="m 683.03114,318.80851 5.53566,-14.17066 h -1.64795 l -5.53566,14.17066 z"
          id="track_294"
          label="Routing Track 294"
          style="opacity:1;fill:#008000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.10717268;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -2538,7 +2451,7 @@
          inkscape:connector-curvature="0"
          inkscape:label="Routing Track 294" />
       <path
-         d="m 692.5039,271.83862 5.55362,14.17066 h -1.64795 l -5.55362,-14.17066 z"
+         d="m 706.37513,304.63785 5.55362,14.17066 h -1.64795 l -5.55362,-14.17066 z"
          id="track_295"
          label="Routing Track 295"
          style="opacity:1;fill:#ffe680;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.10717268;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -2560,7 +2473,7 @@
          inkscape:connector-curvature="0"
          inkscape:label="Routing Track 702" />
       <path
-         d="m 779.63187,270.55627 h 79.94882 v 1.28235 h -79.94882 z"
+         d="m 793.5031,303.3555 h 79.94882 v 1.28235 H 793.5031 Z"
          id="track_703"
          label="Routing Track 703"
          style="opacity:1;fill:#a05a2c;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.40290892;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -2984,7 +2897,7 @@
          inkscape:connector-curvature="0"
          inkscape:label="Routing Track 716" />
       <path
-         d="M 90.180002,57.543966 57.85121,140.41966 h 1.7578 L 91.620578,57.543966 Z"
+         d="M 109.82887,7.2428692 57.85121,140.41966 h 1.7578 L 111.5577,7.2428692 Z"
          id="track_717"
          label="Routing Track 717"
          style="opacity:1;fill:#a05b2d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.10678335;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -3008,7 +2921,7 @@
          inkscape:connector-curvature="0"
          inkscape:label="Routing Track 719" />
       <path
-         d="m 91.620578,57.543966 h 6.94257 v 1.28235 h -7.64379 z"
+         d="m 110.32979,5.9605192 h 6.94257 v 1.28235 h -7.44349 z"
          id="track_720"
          label="Routing Track 720"
          style="opacity:1;fill:#a05b2d;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.10723336;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -3016,7 +2929,7 @@
          inkscape:connector-curvature="0"
          inkscape:label="Routing Track 720" />
       <path
-         d="m 83.489051,41.503916 h 53.782789 v 1.28235 H 83.058127 Z"
+         d="m 104.30272,-11.643791 h 53.78279 v 1.28235 H 103.8018 Z"
          id="track_721"
          label="Routing Track 721"
          style="opacity:1;fill:#008000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.29831287;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -3493,10 +3406,10 @@
       <path
          inkscape:label="Routing Track 901"
          inkscape:connector-curvature="0"
-         style="opacity:1;fill:#ffe680;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.12887929;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         style="opacity:1;fill:#ffe680;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.15360461;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          label="Routing Track 98"
          id="track_901"
-         d="m 175.67165,74.866188 h 27.49046 v 1.28234 h -27.49046 z" />
+         d="m 175.67165,74.866188 h 39.05028 v 1.28234 h -39.05028 z" />
       <path
          inkscape:label="Routing Track 909"
          inkscape:connector-curvature="0"
@@ -3509,10 +3422,10 @@
          inkscape:label="Routing Track 910"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="ccccc"
-         style="opacity:1;fill:#008000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.4728851;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         style="opacity:1;fill:#008000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.30574331;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          label="Routing Track 721"
          id="track_910"
-         d="M 98.563148,57.543966 H 234.79432 v 1.28235 H 98.563148 Z" />
+         d="m 117.27236,5.9605199 h 56.94808 v 1.28235 h -56.94808 z" />
       <path
          inkscape:label="Routing Track 911"
          inkscape:connector-curvature="0"
@@ -3522,15 +3435,7 @@
          id="track_911"
          d="m -152.398,107.60714 h 38.41315 v 1.28234 l -38.41315,10e-6 z" />
       <path
-         inkscape:label="Routing Track 700"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="ccccc"
-         style="opacity:1;fill:#ffe680;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.4191497;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         label="Routing Track 700"
-         id="path6779"
-         d="m 135.46166,42.758376 -5.62014,14.78559 h 1.58512 l 5.8452,-14.7577 z" />
-      <path
-         d="m 129.11554,58.798426 -6.27619,16.06776 h 1.8208 l 6.26557,-16.03987 z"
+         d="m 295.14938,7.2149769 -6.27619,16.0677601 2.00119,-0.383228 6.08518,-15.6566421 z"
          id="path6781"
          label="Routing Track 700"
          style="opacity:1;fill:#ffe680;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.4191497;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -3541,10 +3446,10 @@
          inkscape:label="Routing Track 709"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="ccccc"
-         style="opacity:1;fill:#00aad4;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.31664085;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         style="opacity:1;fill:#00aad4;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.50662768;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          label="Routing Track 709"
          id="path6783"
-         d="m 90.69674,74.866186 h 33.96341 l -0.50071,1.28235 h -33.4627 z" />
+         d="m 203.57969,22.899516 87.29469,-7e-6 -0.96518,1.282357 h -86.32951 z" />
       <path
          inkscape:label="Routing Track 700"
          inkscape:connector-curvature="0"
@@ -3552,31 +3457,167 @@
          style="opacity:1;fill:#ffe680;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.4191497;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          label="Routing Track 700"
          id="path6787"
-         d="m 122.34905,76.120646 -5.92288,15.56061 h 1.64795 l 6.08511,-15.53272 z" />
+         d="m 288.52169,24.181866 -6.26557,16.039873 h 1.85177 l 6.26557,-16.039873 z" />
       <path
-         d="m 90.69674,91.68114 h 27.37743 l -0.50071,1.28235 H 90.69674 Z"
+         d="m 203.57969,40.221739 h 80.52824 l -1.04677,1.28235 h -79.48147 z"
          id="path6789"
          label="Routing Track 709"
-         style="opacity:1;fill:#00aad4;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.31664085;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         style="opacity:1;fill:#00aad4;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.54305613;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          sodipodi:nodetypes="ccccc"
          inkscape:connector-curvature="0"
          inkscape:label="Routing Track 709" />
+      <path
+         inkscape:label="Routing Track 106"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:#00aad4;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.18261236;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         label="Routing Track 106"
+         id="path6796"
+         d="m 245.56902,74.866186 h 52.02191 L 297.09,76.148532 h -51.52098 z"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         inkscape:label="Routing Track 38"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc"
+         style="opacity:1;fill:#a05a2c;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.10678335;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         label="Routing Track 38"
+         id="path6798"
+         d="m 297.59093,74.866186 6.76648,-17.32222 h -1.75781 l -6.76647,17.32222 z" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         d="m 245.56902,57.543966 h 45.71582 l -0.48774,1.248572 -45.22808,0.03377 z"
+         id="path6820"
+         label="Routing Track 106"
+         style="opacity:1;fill:#00aad4;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.1711868;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:connector-curvature="0"
+         inkscape:label="Routing Track 106" />
+      <path
+         d="m 291.28484,57.543966 6.76648,-17.32222 h -1.75781 l -6.76647,17.32222 z"
+         id="path6822"
+         label="Routing Track 38"
+         style="opacity:1;fill:#a05a2c;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.10678335;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         inkscape:label="Routing Track 38" />
+      <path
+         inkscape:label="Routing Track 38"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc"
+         style="opacity:1;fill:#a05a2c;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.10678335;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         label="Routing Track 38"
+         id="path6846"
+         d="m 298.05132,40.221746 6.76648,-17.32222 h -1.75781 l -6.76647,17.32222 z" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:label="Routing Track 134"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:#00aad4;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.58121967;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         label="Routing Track 134"
+         id="path6848"
+         d="M 447.82539,40.221739 H 318.83922 l -0.38379,1.282347 h 129.36996 z" />
+      <path
+         d="M 447.82539,5.9605199 H 174.16707 l -0.81423,1.282347 h 274.47255 z"
+         id="path6852"
+         label="Routing Track 134"
+         style="opacity:1;fill:#00aad4;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.84658974;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:connector-curvature="0"
+         inkscape:label="Routing Track 134"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         inkscape:label="Routing Track 719"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc"
+         style="opacity:1;fill:#008000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.10678335;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         label="Routing Track 719"
+         id="path6854"
+         d="M 102.53848,-11.643791 81.7841,41.503916 h 1.7578 l 20.76082,-53.147707 z" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:label="Routing Track 134"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:#00aad4;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.87111795;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         label="Routing Track 134"
+         id="path6856"
+         d="M 447.82539,-11.643791 H 158.08 l -0.86209,1.282347 h 290.60748 z" />
+      <path
+         d="m 304.8178,22.899526 6.11589,-15.6566591 h -1.7578 L 303.06,22.899526 Z"
+         id="path6858"
+         label="Routing Track 38"
+         style="opacity:1;fill:#a05a2c;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.10678335;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         inkscape:label="Routing Track 38" />
       <path
          inkscape:label="Routing Track 700"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="ccccc"
          style="opacity:1;fill:#ffe680;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.4191497;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          label="Routing Track 700"
-         id="path6835"
-         d="m 152.74531,58.798426 -6.27619,16.06776 h 1.8208 l 6.26557,-16.03987 z" />
+         id="path6860"
+         d="m 302.01518,-10.361444 -6.37577,16.3219639 1.9677,-7e-7 6.37574,-16.3219632 z" />
       <path
-         d="m 146.46912,74.866186 -6.27619,16.06776 h 1.8208 l 6.26557,-16.03987 z"
-         id="path6837"
+         d="m 313.94768,57.543959 6.76648,-17.32222 h -1.75781 l -6.76647,17.32222 z"
+         id="path6857"
+         label="Routing Track 38"
+         style="opacity:1;fill:#a05a2c;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.10678335;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         inkscape:label="Routing Track 38" />
+      <path
+         d="m 356.10405,40.221739 -6.76648,-17.32222 h 1.75781 l 6.76647,17.32222 z"
+         id="path6861"
+         label="Routing Track 38"
+         style="opacity:1;fill:#a05a2c;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.10678335;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         inkscape:label="Routing Track 38" />
+      <path
+         inkscape:label="Routing Track 38"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc"
+         style="opacity:1;fill:#a05a2c;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.10678335;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         label="Routing Track 38"
+         id="path6863"
+         d="M 349.33757,22.899519 343.22168,7.2428601 h 1.7578 l 6.11589,15.6566589 z" />
+      <path
+         inkscape:label="Routing Track 700"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc"
+         style="opacity:1;fill:#ffe680;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.4191497;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         label="Routing Track 700"
+         id="path6885"
+         d="M 359.40508,7.2149769 365.68127,23.282737 363.68008,22.899509 357.5949,7.2428669 Z" />
+      <path
+         d="m 352.53928,-10.361444 6.37577,16.3219639 -1.9677,-7e-7 -6.37574,-16.3219632 z"
+         id="path6887"
          label="Routing Track 700"
          style="opacity:1;fill:#ffe680;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.4191497;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          sodipodi:nodetypes="ccccc"
          inkscape:connector-curvature="0"
          inkscape:label="Routing Track 700" />
+      <path
+         d="m 447.82539,22.899509 h -84.23158 l 0.51592,1.282347 h 83.71566 z"
+         id="path6889"
+         label="Routing Track 134"
+         style="opacity:1;fill:#00aad4;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.46968445;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:connector-curvature="0"
+         inkscape:label="Routing Track 134"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         d="m 670.31217,288.78015 h 202.94382 v 1.28234 H 670.31217 Z"
+         id="path7140"
+         label="Routing Track 134"
+         style="opacity:1;fill:#00aad4;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.58121967;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:connector-curvature="0"
+         inkscape:label="Routing Track 134"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:label="Routing Track 134"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:#00aad4;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.46968445;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         label="Routing Track 134"
+         id="path7142"
+         d="m 670.31217,271.45792 h 202.94382 v 1.28234 H 670.31217 Z" />
     </g>
     <g
        id="crewe_station"
@@ -4888,79 +4929,79 @@
       <text
          id="text5617"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:3.3972497px;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="619.06635"
-         y="313.03146"
+         x="632.93756"
+         y="345.83069"
          xml:space="preserve"><tspan
            id="tspan5615"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
-           x="619.06635"
-           y="313.03146"
+           x="632.93756"
+           y="345.83069"
            sodipodi:role="line">CE 152</tspan></text>
       <text
          id="text5621"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:3.3972497px;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="619.06635"
-         y="295.5687"
+         x="632.93756"
+         y="328.36792"
          xml:space="preserve"><tspan
            id="tspan5619"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
-           x="619.06635"
-           y="295.5687"
+           x="632.93756"
+           y="328.36792"
            sodipodi:role="line">CE 150</tspan></text>
       <text
          id="text5625"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:3.3972497px;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="619.06635"
-         y="279.69345"
+         x="632.93756"
+         y="312.49268"
          xml:space="preserve"><tspan
            id="tspan5623"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
-           x="619.06635"
-           y="279.69345"
+           x="632.93756"
+           y="312.49268"
            sodipodi:role="line">CE 148</tspan></text>
       <text
          id="text5629"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:3.3972497px;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="700.79681"
-         y="264.91345"
+         x="715.64685"
+         y="297.60391"
          xml:space="preserve"><tspan
            id="tspan5627"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
-           x="700.79681"
-           y="264.91345"
+           x="715.64685"
+           y="297.60391"
            sodipodi:role="line">CE 580</tspan></text>
       <text
          id="text5633"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:3.3972497px;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="770.11871"
-         y="264.91345"
+         x="783.98993"
+         y="297.71268"
          xml:space="preserve"><tspan
            id="tspan5631"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
-           x="770.11871"
-           y="264.91345"
+           x="783.98993"
+           y="297.71268"
            sodipodi:role="line">MS 4029</tspan></text>
       <text
          id="text5637"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:3.3972497px;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="744.18915"
-         y="295.60559"
+         x="758.06036"
+         y="328.40482"
          xml:space="preserve"><tspan
            id="tspan5635"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
-           x="744.18915"
-           y="295.60559"
+           x="758.06036"
+           y="328.40482"
            sodipodi:role="line">CE 154</tspan></text>
       <text
          id="text5641"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:3.3972497px;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="808.74847"
-         y="295.60559"
+         x="822.61969"
+         y="328.40482"
          xml:space="preserve"><tspan
            id="tspan5639"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
-           x="808.74847"
-           y="295.60559"
+           x="822.61969"
+           y="328.40482"
            sodipodi:role="line">MS 4030</tspan></text>
       <text
          id="text5645"
@@ -4976,35 +5017,35 @@
       <text
          id="text5649"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:3.3972497px;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="655.29913"
-         y="308.82114"
+         x="669.17035"
+         y="341.62036"
          xml:space="preserve"><tspan
            id="tspan5647"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
-           x="655.29913"
-           y="308.82114"
+           x="669.17035"
+           y="341.62036"
            sodipodi:role="line">Up Manchester Loop</tspan></text>
       <text
          id="text5653"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:3.3972497px;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="860.88049"
-         y="272.57321"
+         x="874.75171"
+         y="305.37244"
          xml:space="preserve"><tspan
            id="tspan5651"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
-           x="860.88049"
-           y="272.57321"
+           x="874.75171"
+           y="305.37244"
            sodipodi:role="line">Down Manchester / Wilmslow</tspan></text>
       <text
          id="text5657"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:3.3972497px;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="860.88049"
-         y="287.91925"
+         x="874.75171"
+         y="320.71848"
          xml:space="preserve"><tspan
            id="tspan5655"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
-           x="860.88049"
-           y="287.91925"
+           x="874.75171"
+           y="320.71848"
            sodipodi:role="line">Up Wilmslow / Manchester</tspan></text>
       <text
          id="text5661"
@@ -5207,24 +5248,24 @@
       <text
          id="text6133"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:3.3972497px;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="434.33148"
-         y="42.943829"
+         x="499.33038"
+         y="48.603779"
          xml:space="preserve"><tspan
            id="tspan6131"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
-           x="434.33148"
-           y="42.943829"
+           x="499.33038"
+           y="48.603779"
            sodipodi:role="line">Down Chester Ind.</tspan></text>
       <text
          id="text6137"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:3.3972497px;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="438.30032"
-         y="59.160923"
+         x="499.77637"
+         y="62.695892"
          xml:space="preserve"><tspan
            id="tspan6135"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
-           x="438.30032"
-           y="59.160923"
+           x="499.77637"
+           y="62.695892"
            sodipodi:role="line">Up Chester Ind.</tspan></text>
       <text
          id="text6323"
@@ -5325,17 +5366,6 @@
            x="590.50665"
            y="67.022881"
            sodipodi:role="line">CE 574</tspan></text>
-      <text
-         id="text5660"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:3.3972497px;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="469.71945"
-         y="67.192543"
-         xml:space="preserve"><tspan
-           id="tspan5658"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
-           x="469.71945"
-           y="67.192543"
-           sodipodi:role="line">SG 61</tspan></text>
       <text
          id="text5674"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:3.3972497px;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -5649,25 +5679,14 @@
            y="284.48508"
            sodipodi:role="line" /></text>
       <text
-         id="text4693"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:3.3972497px;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="668.62494"
-         y="177.56729"
-         xml:space="preserve"><tspan
-           id="tspan4695"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;fill:#808080;fill-opacity:1;stroke-width:0.26458332"
-           x="668.62494"
-           y="177.56729"
-           sodipodi:role="line">Dn Liverpool Ind.</tspan></text>
-      <text
          id="text4697"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:3.3972497px;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="752.56659"
+         x="741.45264"
          y="166.47705"
          xml:space="preserve"><tspan
            id="tspan4699"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
-           x="752.56659"
+           x="741.45264"
            y="166.47705"
            sodipodi:role="line">CY 55</tspan></text>
       <text
@@ -5772,13 +5791,13 @@
       <text
          id="text7161"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:3.3972497px;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="717.84668"
-         y="298.04456"
+         x="731.3327"
+         y="330.23694"
          xml:space="preserve"><tspan
            id="tspan7163"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
-           x="717.84668"
-           y="298.04456"
+           x="731.3327"
+           y="330.23694"
            sodipodi:role="line">LOS</tspan></text>
       <text
          id="text5683"
@@ -6077,13 +6096,13 @@
       <text
          id="text5161"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:3.3972497px;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="727.10309"
-         y="166.47705"
+         x="421.31189"
+         y="-17.934217"
          xml:space="preserve"><tspan
            id="tspan5163"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
-           x="727.10309"
-           y="166.47705"
+           x="421.31189"
+           y="-17.934217"
            sodipodi:role="line">SG 13</tspan></text>
       <text
          id="text5181"
@@ -6264,29 +6283,29 @@
       <text
          id="text6519"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:3.3972497px;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="94.877327"
-         y="67.742729"
+         x="164.18221"
+         y="16.401987"
          xml:space="preserve"><tspan
            id="tspan6517"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
-           x="94.877327"
-           y="67.742729"
+           x="164.18221"
+           y="16.401987"
            sodipodi:role="line">GL 9034</tspan></text>
       <text
          id="text6583"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:3.3972497px;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="110.56733"
-         y="34.774117"
+         x="271.29581"
+         y="-18.075367"
          xml:space="preserve"><tspan
            id="tspan6579"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
-           x="110.56733"
-           y="34.774117"
+           x="271.29581"
+           y="-18.075367"
            sodipodi:role="line">SG 12</tspan><tspan
            id="tspan6581"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
-           x="110.56733"
-           y="38.293232"
+           x="271.29581"
+           y="-14.556252"
            sodipodi:role="line" /></text>
       <text
          id="text6609"
@@ -6335,24 +6354,24 @@
       <text
          id="text5401"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:3.3972497px;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="74.270996"
-         y="39.95652"
+         x="96.073387"
+         y="-12.760133"
          xml:space="preserve"><tspan
            id="tspan5403"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
-           x="74.270996"
-           y="39.95652"
+           x="96.073387"
+           y="-12.760133"
            sodipodi:role="line">Down Salop</tspan></text>
       <text
          id="text5405"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:3.3972497px;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="90.195282"
-         y="55.946686"
+         x="113.26635"
+         y="11.035001"
          xml:space="preserve"><tspan
            id="tspan5407"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
-           x="90.195282"
-           y="55.946686"
+           x="113.26635"
+           y="11.035001"
            sodipodi:role="line">Up Salop</tspan></text>
       <text
          id="text5417"
@@ -6661,13 +6680,13 @@
            sodipodi:role="line">No. 2 Siding</tspan></text>
       <text
          xml:space="preserve"
-         y="76.478996"
-         x="203.59013"
+         y="80.170364"
+         x="192.36221"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:3.3972497px;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
          id="text6746"><tspan
            sodipodi:role="line"
-           y="76.478996"
-           x="203.59013"
+           y="80.170364"
+           x="192.36221"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
            id="tspan6744">Diesel Depot</tspan></text>
       <g
@@ -6739,36 +6758,299 @@
            id="tspan6767" /></text>
       <text
          xml:space="preserve"
-         y="68.880707"
-         x="111.71698"
+         y="16.914038"
+         x="272.00214"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:3.3972497px;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
          id="text6795"><tspan
            sodipodi:role="line"
-           y="68.880707"
-           x="111.71698"
+           y="16.914038"
+           x="272.00214"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
            id="tspan6791">SG 9</tspan><tspan
            sodipodi:role="line"
-           y="72.399818"
-           x="111.71698"
+           y="20.433153"
+           x="272.00214"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
            id="tspan6793" /></text>
       <text
          id="text6817"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:3.3972497px;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="107.88483"
-         y="85.742249"
+         x="272.00223"
+         y="34.158798"
          xml:space="preserve"><tspan
            id="tspan6813"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
-           x="107.88483"
-           y="85.742249"
+           x="272.00223"
+           y="34.158798"
            sodipodi:role="line">SG 5</tspan><tspan
            id="tspan6815"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
-           x="107.88483"
-           y="89.26136"
+           x="272.00223"
+           y="37.677914"
            sodipodi:role="line" /></text>
+      <text
+         xml:space="preserve"
+         y="85.174934"
+         x="255.38"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:3.3972497px;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         id="text6802"><tspan
+           sodipodi:role="line"
+           y="85.174934"
+           x="255.38"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
+           id="tspan6800">SG 49</tspan></text>
+      <text
+         id="text6828"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:3.3972497px;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="255.38"
+         y="67.546959"
+         xml:space="preserve"><tspan
+           id="tspan6826"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
+           x="255.38"
+           y="67.546959"
+           sodipodi:role="line">SG 36</tspan></text>
+      <text
+         xml:space="preserve"
+         y="-10.241702"
+         x="451.31375"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:3.3972497px;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         id="text6829"><tspan
+           sodipodi:role="line"
+           y="-10.241702"
+           x="451.31375"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
+           id="tspan6827">Down Liverpool Ind.</tspan></text>
+      <text
+         id="text6833"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:3.3972497px;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="451.31375"
+         y="7.3864479"
+         xml:space="preserve"><tspan
+           id="tspan6831"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
+           x="451.31375"
+           y="7.3864479"
+           sodipodi:role="line">Up Liverpool Ind.</tspan></text>
+      <text
+         xml:space="preserve"
+         y="16.063364"
+         x="371.52707"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:3.3972497px;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         id="text6839"><tspan
+           sodipodi:role="line"
+           y="16.063364"
+           x="371.52707"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
+           id="tspan6837">SG 33</tspan></text>
+      <text
+         xml:space="preserve"
+         y="49.918842"
+         x="371.87573"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:3.3972497px;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         id="text6867"><tspan
+           sodipodi:role="line"
+           y="49.918842"
+           x="371.87573"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
+           id="tspan6865">SG 62</tspan></text>
+      <text
+         xml:space="preserve"
+         y="16.555641"
+         x="421.31189"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:3.3972497px;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         id="text6893"><tspan
+           sodipodi:role="line"
+           y="16.555641"
+           x="421.31189"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
+           id="tspan6891">SG 15</tspan></text>
+      <text
+         xml:space="preserve"
+         y="24.631378"
+         x="451.31375"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:3.3972497px;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         id="text6915"><tspan
+           sodipodi:role="line"
+           y="24.631378"
+           x="451.31375"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
+           id="tspan6913">Down Manchester Ind.</tspan></text>
+      <text
+         id="text6919"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:3.3972497px;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="451.31375"
+         y="42.259529"
+         xml:space="preserve"><tspan
+           id="tspan6917"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
+           x="451.31375"
+           y="42.259529"
+           sodipodi:role="line">Up Manchester Ind.</tspan></text>
+      <text
+         id="text6923"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:3.3972497px;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="317.3812"
+         y="67.624207"
+         xml:space="preserve"><tspan
+           id="tspan6921"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
+           x="317.3812"
+           y="67.624207"
+           sodipodi:role="line">SG 61</tspan></text>
+      <text
+         id="text6947"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:3.3972497px;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="176.67389"
+         y="24.64599"
+         xml:space="preserve"><tspan
+           id="tspan6945"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
+           x="176.67389"
+           y="24.64599"
+           sodipodi:role="line">Down Fast Ind.</tspan></text>
+      <text
+         xml:space="preserve"
+         y="42.274139"
+         x="176.67389"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:3.3972497px;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         id="text6951"><tspan
+           sodipodi:role="line"
+           y="42.274139"
+           x="176.67389"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
+           id="tspan6949">Down Slow Ind.</tspan></text>
+      <text
+         id="text6957"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:3.3972497px;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="222.18358"
+         y="16.914038"
+         xml:space="preserve"><tspan
+           id="tspan6953"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
+           x="222.18358"
+           y="16.914038"
+           sodipodi:role="line">NH 5/6</tspan><tspan
+           id="tspan6955"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
+           x="222.18358"
+           y="20.433153"
+           sodipodi:role="line" /></text>
+      <text
+         xml:space="preserve"
+         y="34.158966"
+         x="222.18358"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:3.3972497px;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         id="text6979"><tspan
+           sodipodi:role="line"
+           y="34.158966"
+           x="222.18358"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
+           id="tspan6975">NH 3/4</tspan><tspan
+           sodipodi:role="line"
+           y="37.678082"
+           x="222.18358"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
+           id="tspan6977" /></text>
+      <text
+         xml:space="preserve"
+         y="76.403397"
+         x="221.10858"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:3.3972497px;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         id="text6999"><tspan
+           sodipodi:role="line"
+           y="76.403397"
+           x="221.10858"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
+           id="tspan6997">Up Fast Ind.</tspan></text>
+      <text
+         id="text7003"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:3.3972497px;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="221.10858"
+         y="59.158588"
+         xml:space="preserve"><tspan
+           id="tspan7001"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
+           x="221.10858"
+           y="59.158588"
+           sodipodi:role="line">Up Slow Ind.</tspan></text>
+      <text
+         id="text7007"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:3.3972497px;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="153.8824"
+         y="32.316814"
+         xml:space="preserve"><tspan
+           id="tspan7005"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
+           x="153.8824"
+           y="32.316814"
+           sodipodi:role="line">From S.S. North (NH)</tspan></text>
+      <text
+         xml:space="preserve"
+         y="67.554428"
+         x="202.17099"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:3.3972497px;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         id="text7011"><tspan
+           sodipodi:role="line"
+           y="67.554428"
+           x="202.17099"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
+           id="tspan7009">To S.S. North (NH)</tspan></text>
+      <text
+         id="text7148"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:3.3972497px;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="874.75555"
+         y="273.38672"
+         xml:space="preserve"><tspan
+           id="tspan7146"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
+           x="874.75555"
+           y="273.38672"
+           sodipodi:role="line">Down Manchester Ind.</tspan></text>
+      <text
+         xml:space="preserve"
+         y="291.01486"
+         x="874.75555"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:3.3972497px;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         id="text7152"><tspan
+           sodipodi:role="line"
+           y="291.01486"
+           x="874.75555"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
+           id="tspan7150">Up Manchester Ind.</tspan></text>
+      <text
+         xml:space="preserve"
+         y="299.10825"
+         x="685.60645"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:3.3972497px;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         id="text7156"><tspan
+           sodipodi:role="line"
+           y="299.10825"
+           x="685.60645"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
+           id="tspan7154">SG 63</tspan></text>
+      <text
+         xml:space="preserve"
+         y="299.18552"
+         x="747.6076"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:3.3972497px;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         id="text7160"><tspan
+           sodipodi:role="line"
+           y="299.18552"
+           x="747.6076"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
+           id="tspan7158">SG 64</tspan></text>
+      <text
+         xml:space="preserve"
+         y="298.51447"
+         x="822.61969"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:3.3972497px;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         id="text7196"><tspan
+           sodipodi:role="line"
+           y="298.51447"
+           x="822.61969"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
+           id="tspan7194">MS 3708</tspan></text>
     </g>
     <g
        id="BH11"
@@ -8917,7 +9199,7 @@
     </g>
     <g
        id="CE152"
-       transform="matrix(-0.09664062,0,0,-0.09664062,629.00431,320.90158)"
+       transform="matrix(-0.09664062,0,0,-0.09664062,642.87554,353.70081)"
        inkscape:label="Signal CE 152">
       <rect
          height="7.2162771"
@@ -8947,7 +9229,7 @@
     </g>
     <g
        id="CE150"
-       transform="matrix(-0.09664062,0,0,-0.09664062,629.00431,303.50233)"
+       transform="matrix(-0.09664062,0,0,-0.09664062,642.87554,336.30156)"
        inkscape:label="Signal CE 150">
       <rect
          height="7.2162771"
@@ -8977,7 +9259,7 @@
     </g>
     <g
        id="CE148"
-       transform="matrix(-0.09664062,0,0,-0.09664062,629.00431,287.97397)"
+       transform="matrix(-0.09664062,0,0,-0.09664062,642.87554,320.7732)"
        inkscape:label="Signal CE 148">
       <rect
          height="7.2162771"
@@ -9007,7 +9289,7 @@
     </g>
     <g
        id="CE154"
-       transform="matrix(-0.09664062,0,0,-0.09664062,754.54081,303.68942)"
+       transform="matrix(-0.09664062,0,0,-0.09664062,768.41204,336.48865)"
        inkscape:label="Signal CE 154">
       <rect
          height="7.2162771"
@@ -9037,7 +9319,7 @@
     </g>
     <g
        id="CE580"
-       transform="matrix(-1,0,0,1,818.10998,118.62566)"
+       transform="matrix(-1,0,0,1,831.98121,151.42489)"
        inkscape:label="Ground Position Light CE 580">
       <rect
          height="7.2162771"
@@ -9086,7 +9368,7 @@
     <g
        id="MS4029"
        style="fill:#000000"
-       transform="matrix(0.09664062,0,0,0.09664062,772.08921,254.28503)"
+       transform="matrix(0.09664062,0,0,0.09664062,785.96044,287.08426)"
        inkscape:label="Signal MS 4029">
       <rect
          height="7.2162771"
@@ -9117,7 +9399,7 @@
     <g
        id="MS4030"
        style="fill:#000000"
-       transform="matrix(-0.09664062,0,0,-0.09664062,818.40307,303.70027)"
+       transform="matrix(-0.09664062,0,0,-0.09664062,832.2743,336.4995)"
        inkscape:label="Signal MS 4030">
       <rect
          height="7.2162771"
@@ -9147,7 +9429,7 @@
     </g>
     <g
        id="0152"
-       transform="translate(548.80154,130.8047)"
+       transform="translate(562.67277,163.60393)"
        inkscape:label="Berth 0152">
       <rect
          height="5.970933"
@@ -9172,7 +9454,7 @@
     </g>
     <g
        id="0150"
-       transform="translate(548.80154,113.87126)"
+       transform="translate(562.67277,146.67049)"
        inkscape:label="Berth 0150">
       <rect
          height="5.970933"
@@ -9197,7 +9479,7 @@
     </g>
     <g
        id="0148"
-       transform="translate(548.80154,97.996172)"
+       transform="translate(562.67277,130.7954)"
        inkscape:label="Berth 0148">
       <rect
          height="5.970933"
@@ -9222,7 +9504,7 @@
     </g>
     <g
        id="A154"
-       transform="translate(673.51917,113.87126)"
+       transform="translate(687.3904,146.67049)"
        inkscape:label="Berth A154">
       <rect
          height="5.970933"
@@ -9247,7 +9529,7 @@
     </g>
     <g
        id="B154"
-       transform="translate(692.04012,113.87126)"
+       transform="translate(705.91135,146.67049)"
        inkscape:label="Berth B154">
       <rect
          height="5.970933"
@@ -9272,7 +9554,7 @@
     </g>
     <g
        id="MSDW"
-       transform="translate(673.65158,97.863968)"
+       transform="translate(687.52281,130.6632)"
        inkscape:label="Berth MSDW">
       <rect
          height="5.970933"
@@ -10688,62 +10970,6 @@
            sodipodi:role="line">A131</tspan></text>
     </g>
     <g
-       id="SG61"
-       style="fill:#000000"
-       transform="matrix(-0.09664062,0,0,-0.09664062,480.5239,75.332989)"
-       inkscape:label="Signal SG 61">
-      <rect
-         height="7.2162771"
-         id="rect5650"
-         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         width="56.126598"
-         x="6.9490075"
-         y="133.96558"
-         inkscape:label="Rectangle 002" />
-      <rect
-         height="7.2162771"
-         id="rect5652"
-         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         transform="rotate(-90)"
-         width="25.925142"
-         x="-159.89072"
-         y="6.9490075"
-         inkscape:label="Rectangle 001" />
-      <ellipse
-         cx="78.092056"
-         cy="137.57372"
-         id="ellipse5654"
-         rx="22.499998"
-         ry="22.5"
-         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         inkscape:label="Aspect" />
-    </g>
-    <g
-       id="SGUC"
-       transform="translate(399.8714,-114.71225)"
-       inkscape:label="Berth SGUC">
-      <rect
-         height="5.970933"
-         id="rect5662"
-         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#241c1c;stroke-width:0.28812453;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         width="15.176927"
-         x="81.877373"
-         y="169.99109"
-         inkscape:label="Berth Rect" />
-      <text
-         id="text5668"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:3.3972497px;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="83.3377"
-         y="174.77765"
-         inkscape:label="Berth Text"
-         xml:space="preserve"><tspan
-           id="tspan5664"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
-           x="83.3377"
-           y="174.77765"
-           sodipodi:role="line">SGUC</tspan></text>
-    </g>
-    <g
        id="CE562"
        transform="rotate(180,358.77667,146.53936)"
        inkscape:label="Ground Position Light CE 562">
@@ -11575,17 +11801,17 @@
     <text
        id="text5778"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.63034868px;line-height:6.27250719px;font-family:Georgia;-inkscape-font-specification:Georgia;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.24804688"
-       x="405.89987"
-       y="56.819916"
+       x="393.90292"
+       y="312.755"
        xml:space="preserve"><tspan
          id="tspan5776"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;text-align:center;text-anchor:middle;stroke-width:0.24804688"
-         x="405.89987"
-         y="56.819916"
+         x="393.90292"
+         y="312.755"
          sodipodi:role="line">CREWE</tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;text-align:center;text-anchor:middle;stroke-width:0.24804688"
-         x="405.89987"
-         y="63.35601"
+         x="393.90292"
+         y="319.29111"
          sodipodi:role="line"
          id="tspan6756">STATION</tspan></text>
     <g
@@ -11802,7 +12028,7 @@
     <g
        id="CY_55"
        style="fill:#000000"
-       transform="matrix(0.09664062,0,0,0.09664062,753.46944,156.2361)"
+       transform="matrix(0.09664062,0,0,0.09664062,742.35606,156.2361)"
        inkscape:label="Signal CY 55">
       <rect
          height="7.2162771"
@@ -12501,7 +12727,7 @@
     </g>
     <g
        id="g7165"
-       transform="translate(613.91537,151.23834)"
+       transform="translate(627.7866,184.03757)"
        inkscape:label="Ground Position Light CE 573">
       <rect
          height="0.69738549"
@@ -13641,7 +13867,7 @@
     </g>
     <g
        id="CY55"
-       transform="translate(655.55117,0.60975778)"
+       transform="translate(644.43779,0.60975778)"
        inkscape:label="Berth CY55">
       <rect
          height="5.970933"
@@ -13667,7 +13893,7 @@
     <g
        id="SG_13"
        style="fill:#000000"
-       transform="matrix(0.09664062,0,0,0.09664062,726.26178,156.2361)"
+       transform="matrix(0.09664062,0,0,0.09664062,420.46978,-28.175173)"
        inkscape:label="Signal SG 13">
       <rect
          height="7.2162771"
@@ -13697,7 +13923,7 @@
     </g>
     <g
        id="SG13"
-       transform="translate(628.34351,0.60975778)"
+       transform="translate(322.55151,-183.80151)"
        inkscape:label="Berth SG13">
       <rect
          height="5.970933"
@@ -14663,7 +14889,7 @@
     <g
        id="GL9034"
        style="fill:#000000"
-       transform="matrix(-0.09664062,0,0,-0.09664062,106.11774,75.436846)"
+       transform="matrix(-0.09664062,0,0,-0.09664062,175.42262,24.096105)"
        inkscape:label="Signal GL 9034">
       <rect
          height="7.2162771"
@@ -14693,7 +14919,7 @@
     </g>
     <g
        id="9034"
-       transform="translate(25.847492,-115.011)"
+       transform="translate(95.152375,-166.35174)"
        inkscape:label="Berth 9034">
       <rect
          height="5.970933"
@@ -14718,7 +14944,7 @@
     </g>
     <g
        id="SG_12"
-       transform="matrix(0.09664062,0,0,0.09664062,110.67622,24.98732)"
+       transform="matrix(0.09664062,0,0,0.09664062,271.40468,-27.862164)"
        inkscape:label="Signal SG 12">
       <rect
          height="7.2162771"
@@ -14748,7 +14974,7 @@
     </g>
     <g
        id="SG12"
-       transform="translate(13.108837,-131.04881)"
+       transform="translate(173.8373,-183.89829)"
        inkscape:label="Berth SG12">
       <rect
          height="5.970933"
@@ -15748,7 +15974,7 @@
        sodipodi:nodetypes="ccccccccccccccc" />
     <g
        inkscape:label="Signal SG 09"
-       transform="matrix(0.09664062,0,0,0.09664062,110.67622,58.710768)"
+       transform="matrix(0.09664062,0,0,0.09664062,270.57854,6.7440983)"
        id="SG_09">
       <rect
          inkscape:label="Rectangle 002"
@@ -15778,7 +16004,7 @@
     </g>
     <g
        inkscape:label="Berth SG09"
-       transform="translate(13.108837,-97.325443)"
+       transform="translate(172.46689,-148.90889)"
        id="SG09">
       <rect
          inkscape:label="Berth Rect"
@@ -15803,7 +16029,7 @@
     </g>
     <g
        id="SG_05"
-       transform="matrix(0.09664062,0,0,0.09664062,106.4608,75.572492)"
+       transform="matrix(0.09664062,0,0,0.09664062,270.57854,23.989043)"
        inkscape:label="Signal SG 05">
       <rect
          height="7.2162771"
@@ -15833,7 +16059,7 @@
     </g>
     <g
        id="SG05"
-       transform="translate(8.8934072,-80.463719)"
+       transform="translate(172.46689,-132.04717)"
        inkscape:label="Berth SG05">
       <rect
          height="5.970933"
@@ -15855,6 +16081,642 @@
            x="83.414871"
            y="174.77765"
            sodipodi:role="line">SG05</tspan></text>
+    </g>
+    <g
+       inkscape:label="Signal SG 49"
+       transform="matrix(-0.09664062,0,0,-0.09664062,265.85392,93.252299)"
+       style="fill:#000000"
+       id="SG_49">
+      <rect
+         inkscape:label="Rectangle 002"
+         y="136.56932"
+         x="5.2230873"
+         width="56.126598"
+         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect6804"
+         height="7.2162771" />
+      <rect
+         inkscape:label="Rectangle 001"
+         y="5.2230873"
+         x="-162.49446"
+         width="25.925142"
+         transform="rotate(-90)"
+         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect6806"
+         height="7.2162771" />
+      <ellipse
+         inkscape:label="Aspect"
+         style="opacity:1;fill:#808080;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         ry="22.5"
+         rx="22.499998"
+         id="ellipse6808"
+         cy="140.17746"
+         cx="76.366135" />
+    </g>
+    <g
+       inkscape:label="Berth SG49"
+       transform="translate(185.58369,-97.195547)"
+       id="SG49">
+      <rect
+         inkscape:label="Berth Rect"
+         y="169.99109"
+         x="81.877373"
+         width="15.176927"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#241c1c;stroke-width:0.28812453;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect6812"
+         height="5.970933" />
+      <text
+         xml:space="preserve"
+         inkscape:label="Berth Text"
+         y="174.77765"
+         x="83.210922"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:3.3972497px;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         id="text6816"><tspan
+           sodipodi:role="line"
+           y="174.77765"
+           x="83.210922"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
+           id="tspan6814">SG49</tspan></text>
+    </g>
+    <g
+       id="SG_36"
+       style="fill:#000000"
+       transform="matrix(-0.09664062,0,0,-0.09664062,265.85392,75.624133)"
+       inkscape:label="Signal SG 36">
+      <rect
+         height="7.2162771"
+         id="rect6830"
+         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         width="56.126598"
+         x="5.2230873"
+         y="136.56932"
+         inkscape:label="Rectangle 002" />
+      <rect
+         height="7.2162771"
+         id="rect6832"
+         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         transform="rotate(-90)"
+         width="25.925142"
+         x="-162.49446"
+         y="5.2230873"
+         inkscape:label="Rectangle 001" />
+      <ellipse
+         cx="76.366135"
+         cy="140.17746"
+         id="ellipse6834"
+         rx="22.499998"
+         ry="22.5"
+         style="opacity:1;fill:#808080;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:label="Aspect" />
+    </g>
+    <g
+       id="SG36"
+       transform="translate(185.58369,-114.82367)"
+       inkscape:label="Berth SG36">
+      <rect
+         height="5.970933"
+         id="rect6838"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#241c1c;stroke-width:0.28812453;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         width="15.176927"
+         x="81.877373"
+         y="169.99109"
+         inkscape:label="Berth Rect" />
+      <text
+         id="text6842"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:3.3972497px;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="83.210922"
+         y="174.77765"
+         inkscape:label="Berth Text"
+         xml:space="preserve"><tspan
+           id="tspan6840"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
+           x="83.210922"
+           y="174.77765"
+           sodipodi:role="line">SG36</tspan></text>
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:0.67318732;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path6825"
+       d="m 445.64501,-4.264794 2.49148,-3.2294 v -3.507799 m -2.49148,-6.73721 2.49148,3.2294 v 3.50781" />
+    <path
+       d="m 445.64501,13.363357 2.49148,-3.229403 V 6.6261556 m -2.49148,-6.73720292 2.49148,3.22939652 v 3.5078064"
+       id="path6835"
+       style="fill:none;stroke:#000000;stroke-width:0.67318732;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:connector-curvature="0" />
+    <g
+       inkscape:label="Signal SG 33"
+       transform="matrix(-0.09664062,0,0,-0.09664062,381.99947,24.140543)"
+       style="fill:#000000"
+       id="SG_33">
+      <rect
+         inkscape:label="Rectangle 002"
+         y="136.56932"
+         x="5.2230873"
+         width="56.126598"
+         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect6841"
+         height="7.2162771" />
+      <rect
+         inkscape:label="Rectangle 001"
+         y="5.2230873"
+         x="-162.49446"
+         width="25.925142"
+         transform="rotate(-90)"
+         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect6843"
+         height="7.2162771" />
+      <ellipse
+         inkscape:label="Aspect"
+         style="opacity:1;fill:#808080;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         ry="22.5"
+         rx="22.499998"
+         id="ellipse6845"
+         cy="140.17746"
+         cx="76.366135" />
+    </g>
+    <g
+       inkscape:label="Berth SG33"
+       transform="translate(301.72924,-166.30727)"
+       id="SG33">
+      <rect
+         inkscape:label="Berth Rect"
+         y="169.99109"
+         x="81.877373"
+         width="15.176927"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#241c1c;stroke-width:0.28812453;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect6849"
+         height="5.970933" />
+      <text
+         xml:space="preserve"
+         inkscape:label="Berth Text"
+         y="174.77765"
+         x="83.210922"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:3.3972497px;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         id="text6853"><tspan
+           sodipodi:role="line"
+           y="174.77765"
+           x="83.210922"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
+           id="tspan6851">SG33</tspan></text>
+    </g>
+    <g
+       inkscape:label="Signal SG 62"
+       transform="matrix(-0.09664062,0,0,-0.09664062,382.3528,57.995968)"
+       style="fill:#000000"
+       id="SG_62">
+      <rect
+         inkscape:label="Rectangle 002"
+         y="136.56932"
+         x="5.2230873"
+         width="56.126598"
+         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect6869"
+         height="7.2162771" />
+      <rect
+         inkscape:label="Rectangle 001"
+         y="5.2230873"
+         x="-162.49446"
+         width="25.925142"
+         transform="rotate(-90)"
+         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect6871"
+         height="7.2162771" />
+      <ellipse
+         inkscape:label="Aspect"
+         style="opacity:1;fill:#808080;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         ry="22.5"
+         rx="22.499998"
+         id="ellipse6873"
+         cy="140.17746"
+         cx="76.366135" />
+    </g>
+    <g
+       inkscape:label="Berth SG62"
+       transform="translate(302.08257,-132.45179)"
+       id="SG62">
+      <rect
+         inkscape:label="Berth Rect"
+         y="169.99109"
+         x="81.877373"
+         width="15.176927"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#241c1c;stroke-width:0.28812453;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect6877"
+         height="5.970933" />
+      <text
+         xml:space="preserve"
+         inkscape:label="Berth Text"
+         y="174.77765"
+         x="83.210922"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:3.3972497px;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         id="text6881"><tspan
+           sodipodi:role="line"
+           y="174.77765"
+           x="83.210922"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
+           id="tspan6879">SG62</tspan></text>
+    </g>
+    <g
+       inkscape:label="Signal SG 15"
+       transform="matrix(0.09664062,0,0,0.09664062,420.46978,6.3146981)"
+       style="fill:#000000"
+       id="SG_15">
+      <rect
+         inkscape:label="Rectangle 002"
+         y="133.96558"
+         x="6.9490075"
+         width="56.126598"
+         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect6895"
+         height="7.2162771" />
+      <rect
+         inkscape:label="Rectangle 001"
+         y="6.9490075"
+         x="-159.89072"
+         width="25.925142"
+         transform="rotate(-90)"
+         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect6897"
+         height="7.2162771" />
+      <ellipse
+         inkscape:label="Aspect"
+         style="opacity:1;fill:#808080;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         ry="22.5"
+         rx="22.499998"
+         id="ellipse6899"
+         cy="137.57372"
+         cx="78.092056" />
+    </g>
+    <g
+       inkscape:label="Berth SG15"
+       transform="translate(322.55151,-149.31171)"
+       id="SG15">
+      <rect
+         inkscape:label="Berth Rect"
+         y="169.99109"
+         x="81.877373"
+         width="15.176927"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#241c1c;stroke-width:0.28812453;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect6903"
+         height="5.970933" />
+      <text
+         xml:space="preserve"
+         inkscape:label="Berth Text"
+         y="174.77765"
+         x="83.3377"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:3.3972497px;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         id="text6907"><tspan
+           sodipodi:role="line"
+           y="174.77765"
+           x="83.3377"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
+           id="tspan6905">SG15</tspan></text>
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:0.67318732;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path6911"
+       d="m 445.64501,46.759349 2.49148,-3.229403 v -20.04207 m -2.49148,-6.73721 2.49148,3.2294 v 3.50781"
+       sodipodi:nodetypes="cccccc" />
+    <g
+       id="SG_61"
+       style="fill:#000000"
+       transform="matrix(-0.09664062,0,0,-0.09664062,327.85802,75.701309)"
+       inkscape:label="Signal SG 61">
+      <rect
+         height="7.2162771"
+         id="rect6925"
+         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         width="56.126598"
+         x="5.2230873"
+         y="136.56932"
+         inkscape:label="Rectangle 002" />
+      <rect
+         height="7.2162771"
+         id="rect6927"
+         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         transform="rotate(-90)"
+         width="25.925142"
+         x="-162.49446"
+         y="5.2230873"
+         inkscape:label="Rectangle 001" />
+      <ellipse
+         cx="76.366135"
+         cy="140.17746"
+         id="ellipse6929"
+         rx="22.499998"
+         ry="22.5"
+         style="opacity:1;fill:#808080;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:label="Aspect" />
+    </g>
+    <g
+       id="g6939"
+       transform="translate(247.58779,-114.74644)"
+       inkscape:label="Berth SG61">
+      <rect
+         height="5.970933"
+         id="rect6933"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#241c1c;stroke-width:0.28812453;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         width="15.176927"
+         x="81.877373"
+         y="169.99109"
+         inkscape:label="Berth Rect" />
+      <text
+         id="text6937"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:3.3972497px;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="83.210922"
+         y="174.77765"
+         inkscape:label="Berth Text"
+         xml:space="preserve"><tspan
+           id="tspan6935"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
+           x="83.210922"
+           y="174.77765"
+           sodipodi:role="line">SG61</tspan></text>
+    </g>
+    <g
+       id="NH_56"
+       transform="matrix(0.09664062,0,0,0.09664062,222.29282,6.7440983)"
+       inkscape:label="Signal NH 56">
+      <rect
+         height="7.2162771"
+         id="rect6959"
+         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         width="56.126598"
+         x="6.9490075"
+         y="133.96558"
+         inkscape:label="Rectangle 002" />
+      <rect
+         height="7.2162771"
+         id="rect6961"
+         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         transform="rotate(-90)"
+         width="25.925142"
+         x="-159.89072"
+         y="6.9490075"
+         inkscape:label="Rectangle 001" />
+      <ellipse
+         cx="78.092056"
+         cy="137.57372"
+         id="ellipse6963"
+         rx="22.499998"
+         ry="22.5"
+         style="opacity:1;fill:#808080;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:label="Aspect" />
+    </g>
+    <g
+       id="NH56"
+       transform="translate(124.18117,-148.90889)"
+       inkscape:label="Berth NH56">
+      <rect
+         height="5.970933"
+         id="rect6967"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#241c1c;stroke-width:0.28812453;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         width="15.176927"
+         x="81.877373"
+         y="169.99109"
+         inkscape:label="Berth Rect" />
+      <text
+         id="text6971"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:3.3972497px;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="83.414871"
+         y="174.77765"
+         inkscape:label="Berth Text"
+         xml:space="preserve"><tspan
+           id="tspan6969"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
+           x="83.414871"
+           y="174.77765"
+           sodipodi:role="line">NH56</tspan></text>
+    </g>
+    <g
+       inkscape:label="Signal NH 34"
+       transform="matrix(0.09664062,0,0,0.09664062,222.29282,23.989039)"
+       id="NH_34">
+      <rect
+         inkscape:label="Rectangle 002"
+         y="133.96558"
+         x="6.9490075"
+         width="56.126598"
+         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect6981"
+         height="7.2162771" />
+      <rect
+         inkscape:label="Rectangle 001"
+         y="6.9490075"
+         x="-159.89072"
+         width="25.925142"
+         transform="rotate(-90)"
+         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect6983"
+         height="7.2162771" />
+      <ellipse
+         inkscape:label="Aspect"
+         style="opacity:1;fill:#808080;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         ry="22.5"
+         rx="22.499998"
+         id="ellipse6985"
+         cy="137.57372"
+         cx="78.092056" />
+    </g>
+    <g
+       inkscape:label="Berth NH34"
+       transform="translate(124.18117,-131.66399)"
+       id="NH34">
+      <rect
+         inkscape:label="Berth Rect"
+         y="169.99109"
+         x="81.877373"
+         width="15.176927"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#241c1c;stroke-width:0.28812453;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect6989"
+         height="5.970933" />
+      <text
+         xml:space="preserve"
+         inkscape:label="Berth Text"
+         y="174.77765"
+         x="83.414871"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:3.3972497px;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         id="text6993"><tspan
+           sodipodi:role="line"
+           y="174.77765"
+           x="83.414871"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
+           id="tspan6991">NH34</tspan></text>
+    </g>
+    <path
+       sodipodi:nodetypes="cccccc"
+       d="m 672.49262,295.31776 -2.49148,-3.22941 v -20.04207 m 2.49148,-6.73721 -2.49148,3.2294 v 3.50781"
+       id="path7144"
+       style="fill:none;stroke:#000000;stroke-width:0.67318732;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:connector-curvature="0" />
+    <g
+       inkscape:label="Signal SG 63"
+       transform="matrix(-0.09664062,0,0,-0.09664062,696.08175,307.18547)"
+       style="fill:#000000"
+       id="SG_63">
+      <rect
+         inkscape:label="Rectangle 002"
+         y="136.56932"
+         x="5.2230873"
+         width="56.126598"
+         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect7162"
+         height="7.2162771" />
+      <rect
+         inkscape:label="Rectangle 001"
+         y="5.2230873"
+         x="-162.49446"
+         width="25.925142"
+         transform="rotate(-90)"
+         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect7164"
+         height="7.2162771" />
+      <ellipse
+         inkscape:label="Aspect"
+         style="opacity:1;fill:#808080;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         ry="22.5"
+         rx="22.499998"
+         id="ellipse7166"
+         cy="140.17746"
+         cx="76.366135" />
+    </g>
+    <g
+       inkscape:label="Berth SG63"
+       transform="translate(615.81152,116.73767)"
+       id="SG63">
+      <rect
+         inkscape:label="Berth Rect"
+         y="169.99109"
+         x="81.877373"
+         width="15.176927"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#241c1c;stroke-width:0.28812453;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect7170"
+         height="5.970933" />
+      <text
+         xml:space="preserve"
+         inkscape:label="Berth Text"
+         y="174.77765"
+         x="83.210922"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:3.3972497px;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         id="text7174"><tspan
+           sodipodi:role="line"
+           y="174.77765"
+           x="83.210922"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
+           id="tspan7172">SG63</tspan></text>
+    </g>
+    <g
+       inkscape:label="Signal SG 64"
+       transform="matrix(-0.09664062,0,0,-0.09664062,758.08585,307.26264)"
+       style="fill:#000000"
+       id="SG_64">
+      <rect
+         inkscape:label="Rectangle 002"
+         y="136.56932"
+         x="5.2230873"
+         width="56.126598"
+         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect7178"
+         height="7.2162771" />
+      <rect
+         inkscape:label="Rectangle 001"
+         y="5.2230873"
+         x="-162.49446"
+         width="25.925142"
+         transform="rotate(-90)"
+         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect7180"
+         height="7.2162771" />
+      <ellipse
+         inkscape:label="Aspect"
+         style="opacity:1;fill:#808080;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         ry="22.5"
+         rx="22.499998"
+         id="ellipse7182"
+         cy="140.17746"
+         cx="76.366135" />
+    </g>
+    <g
+       inkscape:label="Berth SG64"
+       transform="translate(677.81562,116.8149)"
+       id="SG64">
+      <rect
+         inkscape:label="Berth Rect"
+         y="169.99109"
+         x="81.877373"
+         width="15.176927"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#241c1c;stroke-width:0.28812453;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect7186"
+         height="5.970933" />
+      <text
+         xml:space="preserve"
+         inkscape:label="Berth Text"
+         y="174.77765"
+         x="83.210922"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:3.3972497px;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         id="text7190"><tspan
+           sodipodi:role="line"
+           y="174.77765"
+           x="83.210922"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
+           id="tspan7188">SG64</tspan></text>
+    </g>
+    <g
+       inkscape:label="Signal MS 3708"
+       transform="matrix(-0.09664062,0,0,-0.09664062,832.2743,306.60834)"
+       style="fill:#000000"
+       id="MS_3708">
+      <rect
+         inkscape:label="Rectangle 002"
+         y="133.96558"
+         x="6.9490075"
+         width="56.126598"
+         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect7198"
+         height="7.2162771" />
+      <rect
+         inkscape:label="Rectangle 001"
+         y="6.9490075"
+         x="-159.89072"
+         width="25.925142"
+         transform="rotate(-90)"
+         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect7200"
+         height="7.2162771" />
+      <ellipse
+         inkscape:label="Aspect"
+         style="opacity:1;fill:#808080;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         ry="22.5"
+         rx="22.499998"
+         id="ellipse7202"
+         cy="137.57372"
+         cx="78.092056" />
+    </g>
+    <g
+       id="3708"
+       transform="translate(752.40791,116.8149)"
+       inkscape:label="Berth 3708">
+      <rect
+         height="5.970933"
+         id="rect7206"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#241c1c;stroke-width:0.28812453;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         width="15.176927"
+         x="81.877373"
+         y="169.99109"
+         inkscape:label="Berth Rect" />
+      <text
+         id="text7210"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:3.3972497px;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="83.210922"
+         y="174.77765"
+         inkscape:label="Berth Text"
+         xml:space="preserve"><tspan
+           id="tspan7208"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
+           x="83.210922"
+           y="174.77765"
+           sodipodi:role="line">3708</tspan></text>
     </g>
   </g>
 </svg>
