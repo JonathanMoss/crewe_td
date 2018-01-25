@@ -38,6 +38,7 @@ MB_PORT = None
 FTP_SERVER = None
 FTP_USER = None
 FTP_PASS = None
+TD_AREAS = ('CE', 'WD', 'Z1', 'Z4', 'C3', 'MS')
 
 LOG_FORMAT = '%(levelname)s %(asctime)s - %(message)s'
 
@@ -167,14 +168,19 @@ class IncomingMessageHandler:
         json_msg = json.loads(msg)
         for msg in json_msg:
             for k, v in msg.items():
-                if v['area_id'] == 'CE':
+                if v['area_id'] in TD_AREAS:
                     with thread_queue_lock:
                         if k == 'CA_MSG':  # Berth Step Message
+
                             description = v['descr']
                             if not re.match(r'^[0-9][A-Z][0-9][0-9]$', description):
                                 description = IncomingMessageHandler.make_valid_headcode(description)
-                            berth_from = v['from']
-                            berth_to = v['to']
+                            if v['area_id'] != TD_AREAS[0]:
+                                berth_from = '{}_{}'.format(v['area_id'], v['from'])
+                                berth_to = '{}_{}'.format(v['area_id'], v['to'])
+                            else:
+                                berth_from = v['from']
+                                berth_to = v['to']
 
                             if berth_from in berth_list or berth_to in berth_list:
 
@@ -194,7 +200,10 @@ class IncomingMessageHandler:
                             if not re.match(r'^[0-9][A-Z][0-9][0-9]$', description):
                                 description = IncomingMessageHandler.make_valid_headcode(description)
 
-                            berth = v['to']
+                            if v['area_id'] != TD_AREAS[0]:
+                                berth = '{}_{}'.format(v['area_id'], v['to'])
+                            else:
+                                berth = v['to']
 
                             if berth in berth_list:
 
@@ -205,8 +214,10 @@ class IncomingMessageHandler:
                                 logger.info('Description interpose: {} into berth {}'.format(description, berth))
 
                         elif k == 'CB_MSG':  # Cancel Message
-
-                            berth = v['from']
+                            if v['area_id'] != TD_AREAS[0]:
+                                berth = '{}_{}'.format(v['area_id'], v['from'])
+                            else:
+                                berth = v['from']
 
                             if berth in berth_list:
 
@@ -219,13 +230,13 @@ class IncomingMessageHandler:
                         elif k == 'CT_MSG':  # TD Heartbeat
                             logger.info('TD Heartbeat received at {}'.format(v['report_time']))
 
-                        elif k == 'SF_MSG':  # S Class Message
+                        elif k == 'SF_MSG' and v['area_id'] == TD_AREAS[0]:  # S Class Message
 
                             x = threading.Thread(target=IncomingMessageHandler.signalling_update, args=(v, ))
                             x.daemon = True
                             thread_queue.put(x)
 
-                        elif k == 'SG_MSG' or k == 'SH_MSG':
+                        elif (k == 'SG_MSG' or k == 'SH_MSG') and v['area_id'] == TD_AREAS[0]:
                             start_address = v['address']
                             data = re.findall('..', v['data'])
 
@@ -369,7 +380,13 @@ class SVGHandler:
         with update_lock:
             search_string = ".//{{http://www.w3.org/2000/svg}}g[@id='{}']".format(signal)
 
+            position_light = False
+
             for elem in self.root.iterfind(search_string):
+
+                if 'Ground Position Light' in elem.attrib['{http://www.inkscape.org/namespaces/inkscape}label']:
+
+                    position_light = True
 
                 for sub_elem in elem.iterfind('.//{http://www.w3.org/2000/svg}ellipse'):
 
@@ -390,7 +407,7 @@ class SVGHandler:
                     if signal_on:
                         style_attrib = re.sub(r'fill:#[a-z0-9]*', 'fill:#ff0000', style_attrib)
                     else:
-                        if str(signal)[2] == '5':
+                        if position_light:
                             style_attrib = re.sub(r'fill:#[a-z0-9]*', 'fill:#ffffff', style_attrib)
                         else:
                             style_attrib = re.sub(r'fill:#[a-z0-9]*', 'fill:#59f442', style_attrib)
