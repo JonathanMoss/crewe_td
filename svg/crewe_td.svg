@@ -17,7 +17,7 @@
    inkscape:export-filename="C:\Users\jmoss2\Desktop\crewe_td.svg.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
-   inkscape:version="0.92.0 r15299">
+   inkscape:version="0.91 r13725">
   <defs
      id="defs2">
     <linearGradient
@@ -43,8 +43,8 @@
      showguides="true"
      units="px"
      inkscape:current-layer="base_layer"
-     inkscape:cx="8100.1073"
-     inkscape:cy="321.92084"
+     inkscape:cx="7541.0918"
+     inkscape:cy="687.20068"
      inkscape:document-units="mm"
      inkscape:guide-bbox="true"
      inkscape:measure-end="1373.33,908.743"
@@ -61,7 +61,7 @@
      inkscape:window-width="1600"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
-     inkscape:zoom="0.62289149">
+     inkscape:zoom="0.4404508">
     <sodipodi:guide
        id="guide5863"
        orientation="0.93104875,0.36489481"
@@ -86,7 +86,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -6114,7 +6114,7 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
            x="686.80371"
            y="263.18262"
-           sodipodi:role="line">CY 20</tspan></text>
+           sodipodi:role="line">SG 40</tspan></text>
       <text
          id="text5210"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:3.3972497px;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -13947,10 +13947,10 @@
            sodipodi:role="line">SG13</tspan></text>
     </g>
     <g
-       id="CY_20"
+       id="SG_40"
        style="fill:#000000"
        transform="matrix(-0.09664062,0,0,-0.09664062,697.32872,271.08898)"
-       inkscape:label="Signal CY 20">
+       inkscape:label="Signal SG_40">
       <rect
          height="7.2162771"
          id="rect5189"
@@ -13979,7 +13979,7 @@
     </g>
     <g
        id="CY20"
-       transform="translate(615.95059,81.276953)"
+       transform="translate(633.96193,81.276953)"
        inkscape:label="Berth CY20">
       <rect
          height="5.970933"
@@ -16717,6 +16717,31 @@
            x="83.210922"
            y="174.77765"
            sodipodi:role="line">3708</tspan></text>
+    </g>
+    <g
+       inkscape:label="Berth SG40"
+       transform="translate(616.71703,81.276953)"
+       id="SG40">
+      <rect
+         inkscape:label="Berth Rect"
+         y="169.99109"
+         x="81.877373"
+         width="15.176927"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#241c1c;stroke-width:0.28812453;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect5776"
+         height="5.970933" />
+      <text
+         xml:space="preserve"
+         inkscape:label="Berth Text"
+         y="174.77765"
+         x="83.3377"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:3.3972497px;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         id="text5779"><tspan
+           sodipodi:role="line"
+           y="174.77765"
+           x="83.3377"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
+           id="tspan5781">SG40</tspan></text>
     </g>
   </g>
 </svg>
