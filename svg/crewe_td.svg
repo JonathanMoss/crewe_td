@@ -43,8 +43,8 @@
      showguides="true"
      units="px"
      inkscape:current-layer="base_layer"
-     inkscape:cx="5656.4044"
-     inkscape:cy="975.13586"
+     inkscape:cx="1660.0806"
+     inkscape:cy="965.37482"
      inkscape:document-units="mm"
      inkscape:guide-bbox="true"
      inkscape:measure-end="1373.33,908.743"
@@ -102,7 +102,7 @@
        orientation="0,1"
        id="guide5989" />
     <sodipodi:guide
-       position="179.66833,135.73008"
+       position="124.20172,221.86647"
        orientation="1,0"
        id="guide6128" />
   </sodipodi:namedview>
@@ -135,6 +135,34 @@
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
        inkscape:label="Routing Track 1" />
+    <rect
+       style="opacity:1;fill:#ffe355;fill-opacity:1;stroke:none;stroke-width:2.06220484;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect6387"
+       width="4.7853556"
+       height="45.460873"
+       x="-645.4422"
+       y="109.4935" />
+    <rect
+       y="109.4935"
+       x="-362.27936"
+       height="45.460873"
+       width="4.7853556"
+       id="rect6329"
+       style="opacity:1;fill:#ffe355;fill-opacity:1;stroke:none;stroke-width:2.06220484;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       y="109.4935"
+       x="-527.54846"
+       height="45.460873"
+       width="4.7853556"
+       id="rect6326"
+       style="opacity:1;fill:#ffe355;fill-opacity:1;stroke:none;stroke-width:2.06220484;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       style="opacity:1;fill:#ffe355;fill-opacity:1;stroke:none;stroke-width:2.06220484;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect6324"
+       width="4.7853556"
+       height="45.460873"
+       x="-493.44159"
+       y="109.4935" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.20438434px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m -254.18097,262.7948 0,34.79206"
@@ -3262,7 +3290,7 @@
          inkscape:connector-curvature="0"
          inkscape:label="Routing Track 760" />
       <path
-         d="m -622.28346,123.61786 308.34183,0 0,1.28235 -308.34183,0 z"
+         d="m -677.75007,123.61786 363.80844,0 0,1.28235 -363.80844,0 z"
          id="track_761"
          label="Routing Track 761"
          style="opacity:1;fill:#00aad4;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.16733126;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -3325,7 +3353,7 @@
          inkscape:connector-curvature="0"
          inkscape:label="Routing Track 768" />
       <path
-         d="m -622.28339,140.40752 336.60439,0 0.0288,1.26179 -336.63326,0.0206 z"
+         d="m -677.75,140.40752 392.071,0 0.0288,1.26179 -392.09987,0.0206 z"
          id="track_769"
          label="Routing Track 769"
          style="opacity:1;fill:#a05a2c;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.51572955;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -3789,7 +3817,7 @@
     </g>
     <g
        id="crewe_station"
-       style="display:inline"
+       style="display:inline;fill:#ffe355;fill-opacity:1"
        inkscape:label="Crewe Station">
       <rect
          height="12.943164"
@@ -3854,6 +3882,20 @@
          style="opacity:1;fill:#ffe355;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.49519497;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect7233"
          height="5.3792267" />
+      <rect
+         height="5.3792267"
+         id="rect6334"
+         style="opacity:1;fill:#ffe355;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.49519497;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         width="46.957344"
+         x="-636.00684"
+         y="117.13779" />
+      <rect
+         height="5.3792267"
+         id="rect6336"
+         style="opacity:1;fill:#ffe355;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.49519497;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         width="46.957344"
+         x="-636.00684"
+         y="142.35466" />
     </g>
     <g
        id="CE105"
@@ -4881,32 +4923,32 @@
       <text
          id="text5240"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:3.3972497px;font-family:Georgia;-inkscape-font-specification:Georgia;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="-624.4715"
+         x="-680.59064"
          y="141.106"
          xml:space="preserve"><tspan
            id="tspan5238"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;text-align:end;text-anchor:end;stroke-width:0.26458332"
-           x="-624.4715"
+           x="-680.59064"
            y="141.106"
            sodipodi:role="line">Up Main [Salop]/</tspan><tspan
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;text-align:end;text-anchor:end;stroke-width:0.26458332"
-           x="-624.4715"
+           x="-680.59064"
            y="144.50325"
            sodipodi:role="line"
            id="tspan6752">Up Nantwich</tspan></text>
       <text
          id="text5244"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:3.3972497px;font-family:Georgia;-inkscape-font-specification:Georgia;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="-624.4715"
+         x="-680.59064"
          y="123.86758"
          xml:space="preserve"><tspan
            id="tspan5242"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;text-align:end;text-anchor:end;stroke-width:0.26458332"
-           x="-624.4715"
+           x="-680.59064"
            y="123.86758"
            sodipodi:role="line">Down Main [Salop]/</tspan><tspan
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;text-align:end;text-anchor:end;stroke-width:0.26458332"
-           x="-624.4715"
+           x="-680.59064"
            y="127.26482"
            sodipodi:role="line"
            id="tspan6750">Down Nantwich</tspan></text>
@@ -7753,12 +7795,12 @@
       <text
          xml:space="preserve"
          y="150.2861"
-         x="-406.36481"
+         x="-352.42081"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:3.3972497px;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
          id="text6391"><tspan
            sodipodi:role="line"
            y="150.2861"
-           x="-406.36481"
+           x="-352.42081"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
            id="tspan6393">SC 8482</tspan></text>
       <text
@@ -7808,79 +7850,79 @@
       <text
          xml:space="preserve"
          y="149.95468"
-         x="-510.91077"
+         x="-510.14432"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:3.3972497px;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
          id="text7347"><tspan
            sodipodi:role="line"
            y="149.95468"
-           x="-510.91077"
+           x="-510.14432"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
            id="tspan7349">SC 8453</tspan></text>
       <text
          id="text7367"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:3.3972497px;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="-510.91077"
+         x="-510.14432"
          y="117.76408"
          xml:space="preserve"><tspan
            id="tspan7369"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
-           x="-510.91077"
+           x="-510.14432"
            y="117.76408"
            sodipodi:role="line">SC 8461</tspan></text>
       <text
          id="text7387"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:3.3972497px;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="-550.76721"
+         x="-542.71924"
          y="149.95468"
          xml:space="preserve"><tspan
            id="tspan7389"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
-           x="-550.76721"
+           x="-542.71924"
            y="149.95468"
            sodipodi:role="line">SC 8459</tspan></text>
       <text
          xml:space="preserve"
-         y="117.86071"
-         x="-550.54547"
+         y="117.38086"
+         x="-542.4975"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:3.3972497px;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
          id="text7391"><tspan
            sodipodi:role="line"
-           y="117.86071"
-           x="-550.54547"
+           y="117.38086"
+           x="-542.4975"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
            id="tspan7393">SC 8457</tspan></text>
       <text
          id="text7427"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:3.3972497px;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="-604.87347"
+         x="-558.11829"
          y="117.38086"
          xml:space="preserve"><tspan
            id="tspan7429"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
-           x="-604.87347"
+           x="-558.11829"
            y="117.38086"
            sodipodi:role="line">SC 8454</tspan></text>
       <text
          id="text7431"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:3.3972497px;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="-604.49023"
+         x="-557.73505"
          y="149.95468"
          xml:space="preserve"><tspan
            id="tspan7433"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
-           x="-604.49023"
+           x="-557.73505"
            y="149.95468"
            sodipodi:role="line">SC 8456</tspan></text>
       <text
          xml:space="preserve"
          y="133.27542"
-         x="-624.22864"
+         x="-680.34778"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:3.3972497px;font-family:Georgia;-inkscape-font-specification:Georgia;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
          id="text7467"><tspan
            id="tspan7471"
            sodipodi:role="line"
            y="133.27542"
-           x="-624.22864"
+           x="-680.34778"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;text-align:end;text-anchor:end;stroke-width:0.26458332">To/From Shrewsbury (Wales ROC [SC])</tspan></text>
       <text
          id="text7475"
@@ -7959,6 +8001,114 @@
            x="-637.04016"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
            id="tspan7501">Up Fast</tspan></text>
+      <text
+         xml:space="preserve"
+         y="117.38086"
+         x="-587.62805"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:3.3972497px;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         id="text6278"><tspan
+           sodipodi:role="line"
+           y="117.38086"
+           x="-587.62805"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
+           id="tspan6280">SC 8450</tspan></text>
+      <text
+         xml:space="preserve"
+         y="149.95468"
+         x="-587.24481"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:3.3972497px;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         id="text6283"><tspan
+           sodipodi:role="line"
+           y="149.95468"
+           x="-587.24481"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
+           id="tspan6285">SC 8452</tspan></text>
+      <text
+         id="text6344"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:3.3972497px;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="-662.18805"
+         y="149.95468"
+         xml:space="preserve"><tspan
+           id="tspan6346"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
+           x="-662.18805"
+           y="149.95468"
+           sodipodi:role="line">SC 8449</tspan></text>
+      <text
+         xml:space="preserve"
+         y="117.76408"
+         x="-662.18805"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:3.3972497px;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         id="text6348"><tspan
+           sodipodi:role="line"
+           y="117.76408"
+           x="-662.18805"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
+           id="tspan6350">SC 8447</tspan></text>
+      <text
+         id="text6389"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:3.3972497px;font-family:Georgia;-inkscape-font-specification:Georgia;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="-643.15668"
+         y="104.96194"
+         xml:space="preserve"><tspan
+           id="tspan6391"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;text-align:center;text-anchor:middle;stroke-width:0.26458332"
+           x="-643.15668"
+           y="104.96194"
+           sodipodi:role="line">Wrenbury</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;text-align:center;text-anchor:middle;stroke-width:0.26458332"
+           x="-643.15668"
+           y="108.35918"
+           sodipodi:role="line"
+           id="tspan6394">(MCB-OD)</tspan></text>
+      <text
+         xml:space="preserve"
+         y="104.96194"
+         x="-525.25256"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:3.3972497px;font-family:Georgia;-inkscape-font-specification:Georgia;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         id="text6396"><tspan
+           id="tspan6400"
+           sodipodi:role="line"
+           y="104.96194"
+           x="-525.25256"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;text-align:center;text-anchor:middle;stroke-width:0.26458332">Shrewbridge Road</tspan><tspan
+           sodipodi:role="line"
+           y="108.35918"
+           x="-525.25256"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;text-align:center;text-anchor:middle;stroke-width:0.26458332"
+           id="tspan6405">(AHBC-X)</tspan></text>
+      <text
+         xml:space="preserve"
+         y="104.96194"
+         x="-491.15436"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:3.3972497px;font-family:Georgia;-inkscape-font-specification:Georgia;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         id="text6407"><tspan
+           sodipodi:role="line"
+           y="104.96194"
+           x="-491.15436"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;text-align:center;text-anchor:middle;stroke-width:0.26458332"
+           id="tspan6411">Nantwich</tspan><tspan
+           id="tspan6413"
+           sodipodi:role="line"
+           y="108.35918"
+           x="-491.15436"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;text-align:center;text-anchor:middle;stroke-width:0.26458332">(MCB-OD)</tspan></text>
+      <text
+         id="text6415"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:3.3972497px;font-family:Georgia;-inkscape-font-specification:Georgia;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="-360.0957"
+         y="104.96194"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;text-align:center;text-anchor:middle;stroke-width:0.26458332"
+           x="-360.0957"
+           y="104.96194"
+           sodipodi:role="line"
+           id="tspan6417">Newcastle Road</tspan><tspan
+           id="tspan6419"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;text-align:center;text-anchor:middle;stroke-width:0.26458332"
+           x="-360.0957"
+           y="108.35918"
+           sodipodi:role="line">(AHBC-X)</tspan></text>
     </g>
     <g
        id="BH11"
@@ -19444,7 +19594,7 @@
     </g>
     <g
        inkscape:label="Signal SC 8482"
-       transform="matrix(-0.09664062,0,0,-0.09664062,-394.7451,158.03505)"
+       transform="matrix(-0.09664062,0,0,-0.09664062,-340.8011,158.03505)"
        style="fill:#000000"
        id="SC8482">
       <rect
@@ -19472,31 +19622,6 @@
          id="ellipse6401"
          cy="137.57372"
          cx="78.092056" />
-    </g>
-    <g
-       inkscape:label="Berth C3_8482"
-       transform="translate(-474.18278,-31.876279)"
-       id="C3_8482">
-      <rect
-         inkscape:label="Berth Rect"
-         y="169.99109"
-         x="81.877373"
-         width="15.176927"
-         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#241c1c;stroke-width:0.28812453;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="rect6405"
-         height="5.970933" />
-      <text
-         xml:space="preserve"
-         inkscape:label="Berth Text"
-         y="174.77765"
-         x="83.210922"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:3.3972497px;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         id="text6407"><tspan
-           sodipodi:role="line"
-           y="174.77765"
-           x="83.210922"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
-           id="tspan6411">8482</tspan></text>
     </g>
     <g
        inkscape:label="Ground Position Light SC 8478"
@@ -19729,7 +19854,7 @@
     <g
        id="SC_8453"
        style="fill:#000000"
-       transform="matrix(0.09664062,0,0,-0.09664062,-508.68336,158.03505)"
+       transform="matrix(0.09664062,0,0,-0.09664062,-507.91692,158.03505)"
        inkscape:label="Signal SC 8453">
       <rect
          height="7.2162771"
@@ -19759,7 +19884,7 @@
     </g>
     <g
        inkscape:label="Berth RC_8453"
-       transform="translate(-606.01046,-31.876279)"
+       transform="translate(-605.24402,-31.876279)"
        id="RC_8453">
       <rect
          inkscape:label="Berth Rect"
@@ -19784,7 +19909,7 @@
     </g>
     <g
        inkscape:label="Signal SC 8461"
-       transform="matrix(0.09664062,0,0,0.09664062,-508.68336,107.30177)"
+       transform="matrix(0.09664062,0,0,0.09664062,-507.91692,107.30177)"
        style="fill:#000000"
        id="SC_8461">
       <rect
@@ -19815,7 +19940,7 @@
     </g>
     <g
        id="RC_8461"
-       transform="translate(-606.01046,-48.738003)"
+       transform="translate(-605.24402,-48.738003)"
        inkscape:label="Berth C3_8461">
       <rect
          height="5.970933"
@@ -19840,7 +19965,7 @@
     </g>
     <g
        inkscape:label="Signal SC 8459"
-       transform="matrix(0.09664062,0,0,-0.09664062,-548.53824,158.03505)"
+       transform="matrix(0.09664062,0,0,-0.09664062,-540.49062,158.03505)"
        style="fill:#000000"
        id="SC_8459">
       <rect
@@ -19870,34 +19995,9 @@
          cx="78.092056" />
     </g>
     <g
-       id="RC_8459"
-       transform="translate(-645.86534,-31.876279)"
-       inkscape:label="Berth C3_8459">
-      <rect
-         height="5.970933"
-         id="rect7405"
-         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#241c1c;stroke-width:0.28812453;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         width="15.176927"
-         x="81.877373"
-         y="169.99109"
-         inkscape:label="Berth Rect" />
-      <text
-         id="text7407"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:3.3972497px;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="83.210922"
-         y="174.77765"
-         inkscape:label="Berth Text"
-         xml:space="preserve"><tspan
-           id="tspan7409"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
-           x="83.210922"
-           y="174.77765"
-           sodipodi:role="line">8459</tspan></text>
-    </g>
-    <g
        id="SC_8457"
        style="fill:#000000"
-       transform="matrix(0.09664062,0,0,0.09664062,-548.53824,107.30177)"
+       transform="matrix(0.09664062,0,0,0.09664062,-540.49062,107.30177)"
        inkscape:label="Signal SC 8475">
       <rect
          height="7.2162771"
@@ -19926,34 +20026,9 @@
          inkscape:label="Aspect" />
     </g>
     <g
-       inkscape:label="Berth C3_8457"
-       transform="translate(-645.86534,-48.738003)"
-       id="RC_8457">
-      <rect
-         inkscape:label="Berth Rect"
-         y="169.99109"
-         x="81.877373"
-         width="15.176927"
-         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#241c1c;stroke-width:0.28812453;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="rect7421"
-         height="5.970933" />
-      <text
-         xml:space="preserve"
-         inkscape:label="Berth Text"
-         y="174.77765"
-         x="83.210922"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:3.3972497px;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         id="text7423"><tspan
-           sodipodi:role="line"
-           y="174.77765"
-           x="83.210922"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
-           id="tspan7425">8457</tspan></text>
-    </g>
-    <g
        id="SC_8454"
        style="fill:#000000"
-       transform="matrix(-0.09664062,0,0,0.09664062,-592.86984,107.30177)"
+       transform="matrix(-0.09664062,0,0,0.09664062,-546.117,107.30177)"
        inkscape:label="Signal SC 8454">
       <rect
          height="7.2162771"
@@ -19982,34 +20057,9 @@
          inkscape:label="Aspect" />
     </g>
     <g
-       id="RC_8454"
-       transform="translate(-672.30752,-48.738003)"
-       inkscape:label="Berth C3_8454">
-      <rect
-         height="5.970933"
-         id="rect7445"
-         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#241c1c;stroke-width:0.28812453;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         width="15.176927"
-         x="81.877373"
-         y="169.99109"
-         inkscape:label="Berth Rect" />
-      <text
-         id="text7447"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:3.3972497px;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="83.210922"
-         y="174.77765"
-         inkscape:label="Berth Text"
-         xml:space="preserve"><tspan
-           id="tspan7449"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
-           x="83.210922"
-           y="174.77765"
-           sodipodi:role="line">8454</tspan></text>
-    </g>
-    <g
        id="SC_8456"
        style="fill:#000000"
-       transform="matrix(-0.09664062,0,0,-0.09664062,-592.86984,158.03505)"
+       transform="matrix(-0.09664062,0,0,-0.09664062,-546.117,158.03505)"
        inkscape:label="Signal SC_8456">
       <rect
          height="7.2162771"
@@ -20038,29 +20088,239 @@
          inkscape:label="Aspect" />
     </g>
     <g
-       id="RC_8456"
-       transform="translate(-672.30752,-31.876279)"
-       inkscape:label="Berth C3_8456">
+       inkscape:label="Signal SC 8450"
+       transform="matrix(-0.09664062,0,0,0.09664062,-575.62494,107.30177)"
+       style="fill:#000000"
+       id="SC8450">
+      <rect
+         inkscape:label="Rectangle 002"
+         y="133.96558"
+         x="6.9490075"
+         width="56.126598"
+         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect6289"
+         height="7.2162771" />
+      <rect
+         inkscape:label="Rectangle 001"
+         y="6.9490075"
+         x="-159.89072"
+         width="25.925142"
+         transform="matrix(0,-1,1,0,0,0)"
+         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect6293"
+         height="7.2162771" />
+      <ellipse
+         inkscape:label="Aspect"
+         style="opacity:1;fill:#808080;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         ry="22.5"
+         rx="22.499998"
+         id="ellipse6295"
+         cy="137.57372"
+         cx="78.092056" />
+    </g>
+    <g
+       inkscape:label="Berth C3_8450"
+       transform="translate(-655.06262,-48.738003)"
+       id="C3_8450">
+      <rect
+         inkscape:label="Berth Rect"
+         y="169.99109"
+         x="81.877373"
+         width="15.176927"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#241c1c;stroke-width:0.28812453;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect6299"
+         height="5.970933" />
+      <text
+         xml:space="preserve"
+         inkscape:label="Berth Text"
+         y="174.77765"
+         x="83.210922"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:3.3972497px;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         id="text6301"><tspan
+           sodipodi:role="line"
+           y="174.77765"
+           x="83.210922"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
+           id="tspan6304">8450</tspan></text>
+    </g>
+    <g
+       inkscape:label="Signal SC 8452"
+       transform="matrix(-0.09664062,0,0,-0.09664062,-575.62494,158.03505)"
+       style="fill:#000000"
+       id="SC8452">
+      <rect
+         inkscape:label="Rectangle 002"
+         y="133.96558"
+         x="6.9490075"
+         width="56.126598"
+         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect6309"
+         height="7.2162771" />
+      <rect
+         inkscape:label="Rectangle 001"
+         y="6.9490075"
+         x="-159.89072"
+         width="25.925142"
+         transform="matrix(0,-1,1,0,0,0)"
+         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect6312"
+         height="7.2162771" />
+      <ellipse
+         inkscape:label="Aspect"
+         style="opacity:1;fill:#808080;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         ry="22.5"
+         rx="22.499998"
+         id="ellipse6314"
+         cy="137.57372"
+         cx="78.092056" />
+    </g>
+    <g
+       inkscape:label="Berth C3_8452"
+       transform="translate(-655.06262,-31.876279)"
+       id="C3_8452">
+      <rect
+         inkscape:label="Berth Rect"
+         y="169.99109"
+         x="81.877373"
+         width="15.176927"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#241c1c;stroke-width:0.28812453;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect6318"
+         height="5.970933" />
+      <text
+         xml:space="preserve"
+         inkscape:label="Berth Text"
+         y="174.77765"
+         x="83.210922"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:3.3972497px;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         id="text6320"><tspan
+           sodipodi:role="line"
+           y="174.77765"
+           x="83.210922"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
+           id="tspan6322">8452</tspan></text>
+    </g>
+    <text
+       id="text6338"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.90625px;line-height:3.1849215px;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.24804688"
+       x="-630.38422"
+       y="154.12527"
+       xml:space="preserve"><tspan
+         id="tspan6340"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.13903904px;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.24804688"
+         x="-630.38422"
+         y="154.12527"
+         sodipodi:role="line">WRENBURY</tspan></text>
+    <g
+       inkscape:label="Signal SC_8449"
+       transform="matrix(0.09664062,0,0,-0.09664062,-659.96023,158.03505)"
+       style="fill:#000000"
+       id="SC_8449">
+      <rect
+         inkscape:label="Rectangle 002"
+         y="133.96558"
+         x="6.9490075"
+         width="56.126598"
+         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect6354"
+         height="7.2162771" />
+      <rect
+         inkscape:label="Rectangle 001"
+         y="6.9490075"
+         x="-159.89072"
+         width="25.925142"
+         transform="matrix(0,-1,1,0,0,0)"
+         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect6356"
+         height="7.2162771" />
+      <ellipse
+         inkscape:label="Aspect"
+         style="opacity:1;fill:#808080;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         ry="22.5"
+         rx="22.499998"
+         id="ellipse6358"
+         cy="137.57372"
+         cx="78.092056" />
+    </g>
+    <g
+       id="C3_8449"
+       transform="translate(-757.28733,-31.876279)"
+       inkscape:label="Berth C3_8449">
       <rect
          height="5.970933"
-         id="rect7461"
+         id="rect6362"
          style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#241c1c;stroke-width:0.28812453;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          width="15.176927"
          x="81.877373"
          y="169.99109"
          inkscape:label="Berth Rect" />
       <text
-         id="text7463"
+         id="text6364"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:3.3972497px;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
          x="83.210922"
          y="174.77765"
          inkscape:label="Berth Text"
          xml:space="preserve"><tspan
-           id="tspan7465"
+           id="tspan6366"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
            x="83.210922"
            y="174.77765"
-           sodipodi:role="line">8456</tspan></text>
+           sodipodi:role="line">8449</tspan></text>
+    </g>
+    <g
+       id="SC_8447"
+       style="fill:#000000"
+       transform="matrix(0.09664062,0,0,0.09664062,-659.96023,107.30177)"
+       inkscape:label="Signal SC 8447">
+      <rect
+         height="7.2162771"
+         id="rect6370"
+         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         width="56.126598"
+         x="6.9490075"
+         y="133.96558"
+         inkscape:label="Rectangle 002" />
+      <rect
+         height="7.2162771"
+         id="rect6372"
+         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         transform="matrix(0,-1,1,0,0,0)"
+         width="25.925142"
+         x="-159.89072"
+         y="6.9490075"
+         inkscape:label="Rectangle 001" />
+      <ellipse
+         cx="78.092056"
+         cy="137.57372"
+         id="ellipse6374"
+         rx="22.499998"
+         ry="22.5"
+         style="opacity:1;fill:#808080;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:label="Aspect" />
+    </g>
+    <g
+       inkscape:label="Berth C3_8447"
+       transform="translate(-757.28733,-48.738003)"
+       id="C3_8447">
+      <rect
+         inkscape:label="Berth Rect"
+         y="169.99109"
+         x="81.877373"
+         width="15.176927"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#241c1c;stroke-width:0.28812453;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect6378"
+         height="5.970933" />
+      <text
+         xml:space="preserve"
+         inkscape:label="Berth Text"
+         y="174.77765"
+         x="83.210922"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:3.3972497px;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         id="text6381"><tspan
+           sodipodi:role="line"
+           y="174.77765"
+           x="83.210922"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
+           id="tspan6383">8447</tspan></text>
     </g>
   </g>
 </svg>
