@@ -3,7 +3,7 @@ import time
 
 _USER_N = 'joth.moss@googlemail.com'
 _PASS_W = 'Chester42!'
-_TOPIC = '/topic/TD_LNW_C_SIG_AREA'
+_TOPIC = '/topic/TD_ALL_SIG_AREA'
 _VHOST = 'datafeeds.networkrail.co.uk'
 _PORT = 61618
 

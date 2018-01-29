@@ -38,7 +38,7 @@ MB_PORT = None
 FTP_SERVER = None
 FTP_USER = None
 FTP_PASS = None
-TD_AREAS = ('CE', 'WD', 'Z1', 'Z4', 'C3', 'MS')
+TD_AREAS = ('CE', 'WD', 'Z1', 'Z4', 'C3', 'MS', 'R3')
 
 LOG_FORMAT = '%(levelname)s %(asctime)s - %(message)s'
 
@@ -169,9 +169,10 @@ class IncomingMessageHandler:
         for msg in json_msg:
             for k, v in msg.items():
                 if v['area_id'] in TD_AREAS:
+
                     with thread_queue_lock:
                         if k == 'CA_MSG':  # Berth Step Message
-
+                            print(msg)
                             description = v['descr']
                             if not re.match(r'^[0-9][A-Z][0-9][0-9]$', description):
                                 description = IncomingMessageHandler.make_valid_headcode(description)
@@ -194,7 +195,7 @@ class IncomingMessageHandler:
                                 logger.info('Berth step: {} from: {}, to: {}'.format(description, berth_from, berth_to))
 
                         elif k == 'CC_MSG':  # Interpose Message
-
+                            print(msg)
                             description = v['descr']
 
                             if not re.match(r'^[0-9][A-Z][0-9][0-9]$', description):
@@ -214,6 +215,7 @@ class IncomingMessageHandler:
                                 logger.info('Description interpose: {} into berth {}'.format(description, berth))
 
                         elif k == 'CB_MSG':  # Cancel Message
+                            print(msg)
                             if v['area_id'] != TD_AREAS[0]:
                                 berth = '{}_{}'.format(v['area_id'], v['from'])
                             else:
