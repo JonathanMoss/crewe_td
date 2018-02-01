@@ -967,18 +967,6 @@
       "detail": "R132(7M)",
       "context": "CE 132 (Platform 3) to Up Slow (CE 102)",
       "value": 0
-    },
-    {
-      "bit": "6",
-      "detail": "R133(2M)",
-      "context": "CE 133 (DED Access / Departure Line) to Down Chester (CE 161)",
-      "value": 0
-    },
-    {
-      "bit": "7",
-      "detail": "R133(3S)",
-      "context": "CE 133 (DED Access / Departure Line) to Up Chester LOS",
-      "value": 0
     }
   ],
   "14": [
@@ -2139,21 +2127,9 @@
       "value": 0
     },
     {
-      "bit": "5",
-      "detail": "R562(6S)",
-      "context": "CE 562 (Down Chester) to DED Access / Departure Line",
-      "value": 0
-    },
-    {
       "bit": "6",
       "detail": "R562(7S)",
       "context": "CE 562 (Down Chester) to Up Chester Ind.",
-      "value": 0
-    },
-    {
-      "bit": "7",
-      "detail": "R562(8S)",
-      "context": "CE 562 (Down Chester) to Down Chester Ind. LOS",
       "value": 0
     }
   ],
@@ -2799,56 +2775,6 @@
       "value": 0
     }
   ],
-  "45": [
-    {
-      "bit": "0",
-      "detail": "RGL1133",
-      "context": "",
-      "value": 0
-    },
-    {
-      "bit": "1",
-      "detail": "RGL6001",
-      "context": "",
-      "value": 0
-    },
-    {
-      "bit": "2",
-      "detail": "RGL6002",
-      "context": "",
-      "value": 0
-    },
-    {
-      "bit": "3",
-      "detail": "RGL6201",
-      "context": "",
-      "value": 0
-    },
-    {
-      "bit": "4",
-      "detail": "RGL6401",
-      "context": "",
-      "value": 0
-    },
-    {
-      "bit": "5",
-      "detail": "RGL9052",
-      "context": "",
-      "value": 0
-    },
-    {
-      "bit": "6",
-      "detail": "RGL9062",
-      "context": "",
-      "value": 0
-    },
-    {
-      "bit": "7",
-      "detail": "RGL9064",
-      "context": "",
-      "value": 0
-    }
-  ],
   "3D": [
     {
       "bit": "0",
@@ -2933,7 +2859,7 @@
     {
       "bit": "2",
       "detail": "RGL9026A(M)",
-      "context": "GL 9026 (Down Sorting)",
+      "context": "GL 9026 (Down Sorting) to Up Nantwich (GL 9012)",
       "value": 0
     },
     {
@@ -3077,7 +3003,7 @@
     {
       "bit": "4",
       "detail": "RGL9020A(S)",
-      "context": "",
+      "context": "GL 9020 (Crewe LDC) to Gresty Bridge Neck",
       "value": 0
     },
     {
@@ -3121,13 +3047,13 @@
     {
       "bit": "3",
       "detail": "RGL9022A(S)",
-      "context": "",
+      "context": "GL 9022 (Western Sidings) to Gresty Bridge Neck",
       "value": 0
     },
     {
       "bit": "4",
       "detail": "RGL9022B(S)",
-      "context": "",
+      "context": "GL 9022 (Western Sidings) to Up Nantwich (GL 9004)",
       "value": 0
     },
     {
@@ -3159,13 +3085,13 @@
     {
       "bit": "1",
       "detail": "RGL9023E(S)",
-      "context": "GL 9023 (Up Nantwich) to Up Sorting",
+      "context": "GL 9023 (Up Nantwich) to Up Sorting (NH 17)",
       "value": 0
     },
     {
       "bit": "2",
       "detail": "RGL9023F(S)",
-      "context": "GL 9023 (Up Nantwich) to Down Sorting",
+      "context": "GL 9023 (Up Nantwich) to Down Sorting (NH 18)",
       "value": 0
     },
     {
@@ -3177,25 +3103,25 @@
     {
       "bit": "4",
       "detail": "RGL9025A(S)(NP)",
-      "context": "",
+      "context": "GL 9025 (Gresty Bridge) to Western Sidings",
       "value": 0
     },
     {
       "bit": "5",
       "detail": "RGL9025A(S)(P)",
-      "context": "",
+      "context": "GL 9025 (Gresty Bridge) to Western Sidings",
       "value": 0
     },
     {
       "bit": "6",
       "detail": "RGL9025B(S)(NP)",
-      "context": "",
+      "context": "GL 9025 (Gresty Bridge) to Crewe LDC",
       "value": 0
     },
     {
       "bit": "7",
       "detail": "RGL9025B(S)(P)",
-      "context": "",
+      "context": "GL 9025 (Gresty Bridge) to Crewe LDC",
       "value": 0
     }
   ],
@@ -3203,13 +3129,13 @@
     {
       "bit": "0",
       "detail": "RGL9026B(S)",
-      "context": "",
+      "context": "GL 9026 (Down Sorting) to Down Through Sidings (GL 9014)",
       "value": 0
     },
     {
       "bit": "1",
       "detail": "RGL9030B(S)",
-      "context": "",
+      "context": "GL 9030 (Up Nantwich) to Down Through Siding (GL 9014)",
       "value": 0
     },
     {
@@ -3421,24 +3347,6 @@
     {
       "bit": "3",
       "detail": "GL9042",
-      "context": "Signal State",
-      "value": 0
-    },
-    {
-      "bit": "4",
-      "detail": "GL9052",
-      "context": "Signal State",
-      "value": 0
-    },
-    {
-      "bit": "5",
-      "detail": "GL9062",
-      "context": "Signal State",
-      "value": 0
-    },
-    {
-      "bit": "6",
-      "detail": "GL9064",
       "context": "Signal State",
       "value": 0
     }
