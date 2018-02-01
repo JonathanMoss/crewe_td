@@ -3,11 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="5603a0c5-1c06-41c7-a093-ae725128e1d4" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/crewe_td.log" afterPath="$PROJECT_DIR$/crewe_td.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/csv/crewe_td.csv" afterPath="$PROJECT_DIR$/csv/crewe_td.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/json/crewe_td.json" afterPath="$PROJECT_DIR$/json/crewe_td.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/svg/crewe_td.svg" afterPath="$PROJECT_DIR$/svg/crewe_td.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/svg/crewe_td_wrk.svg" afterPath="$PROJECT_DIR$/svg/crewe_td_wrk.svg" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -21,7 +16,7 @@
       <file leaf-file-name="crewe_td.log" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/crewe_td.log">
           <provider selected="true" editor-type-id="LogFileEditorProvider">
-            <state relative-caret-position="-408">
+            <state relative-caret-position="-360">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
             </state>
           </provider>
@@ -286,7 +281,14 @@
       <option name="project" value="LOCAL" />
       <updated>1517241241083</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="error fix">
+      <created>1517474147946</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1517474147946</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -589,7 +591,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/crewe_td.log">
       <provider selected="true" editor-type-id="LogFileEditorProvider">
-        <state relative-caret-position="-408">
+        <state relative-caret-position="-360">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
