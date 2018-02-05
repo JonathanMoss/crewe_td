@@ -1,18 +1,102 @@
-INFO 2018-02-01 08:34:56,026 - Application Start
-INFO 2018-02-01 08:34:56,027 - Undertaking some file system house keeping...
-INFO 2018-02-01 08:34:56,027 - ....deleted old version of svg/crewe_td_wrk.svg
-INFO 2018-02-01 08:34:56,048 - ....created new svg/crewe_td_wrk.svg, based on svg/crewe_td.svg
-INFO 2018-02-01 08:34:56,048 - Attempting to populate td_matrix...
-INFO 2018-02-01 08:34:56,048 - ....Found csv/crewe_td.csv
-INFO 2018-02-01 08:34:56,048 - ....Reading csv/crewe_td.csv
-INFO 2018-02-01 08:34:56,055 - Summary of csv/crewe_td.csv...
-INFO 2018-02-01 08:34:56,055 - ....107 signals found
-INFO 2018-02-01 08:34:56,055 - ....410 routes found
-INFO 2018-02-01 08:34:56,056 - ....18 TRTS found
-INFO 2018-02-01 08:34:56,056 - Outputting td_matrix to json...
-INFO 2018-02-01 08:34:56,056 - ....working with json/crewe_td.json
-INFO 2018-02-01 08:34:56,071 - ....json/crewe_td.json created.
-INFO 2018-02-01 08:34:56,100 - All berths cleared
-INFO 2018-02-01 08:34:56,102 - All TRTS Cleared
-INFO 2018-02-01 08:34:56,103 - All routes cleared
-INFO 2018-02-01 08:34:56,125 - Attempting connection to host datafeeds.networkrail.co.uk, port 61618
+INFO 2018-02-05 06:30:58,328 - Application Start
+INFO 2018-02-05 06:30:58,328 - Undertaking some file system house keeping...
+INFO 2018-02-05 06:30:58,329 - ....deleted old version of svg/crewe_td_wrk.svg
+INFO 2018-02-05 06:30:58,347 - ....created new svg/crewe_td_wrk.svg, based on svg/crewe_td.svg
+INFO 2018-02-05 06:30:58,347 - Attempting to populate td_matrix...
+INFO 2018-02-05 06:30:58,347 - ....Found csv/crewe_td.csv
+INFO 2018-02-05 06:30:58,347 - ....Reading csv/crewe_td.csv
+INFO 2018-02-05 06:30:58,365 - Summary of csv/crewe_td.csv...
+INFO 2018-02-05 06:30:58,365 - ....107 signals found
+INFO 2018-02-05 06:30:58,365 - ....410 routes found
+INFO 2018-02-05 06:30:58,365 - ....18 TRTS found
+INFO 2018-02-05 06:30:58,365 - Outputting td_matrix to json...
+INFO 2018-02-05 06:30:58,365 - ....working with json/crewe_td.json
+INFO 2018-02-05 06:30:58,377 - ....json/crewe_td.json created.
+INFO 2018-02-05 06:30:58,403 - All berths cleared
+INFO 2018-02-05 06:30:58,406 - All TRTS Cleared
+INFO 2018-02-05 06:30:58,406 - All routes cleared
+INFO 2018-02-05 06:30:58,427 - Attempting connection to host datafeeds.networkrail.co.uk, port 61618
+INFO 2018-02-05 06:30:58,478 - Established connection to host datafeeds.networkrail.co.uk, port 61618
+INFO 2018-02-05 06:30:58,491 - Starting receiver loop
+INFO 2018-02-05 06:30:58,491 - Sending frame: 'STOMP', headers={'accept-version': '1.1', 'host': 'datafeeds.networkrail.co.uk', 'login': 'joth.moss@googlemail.com', 'passcode': 'Chester42!'}
+INFO 2018-02-05 06:30:58,583 - Received frame: 'CONNECTED', headers={'heart-beat': '0,0', 'session': 'ID:opendata-prod.rockshore.net-40424-1517170691785-2:602002', 'server': 'ActiveMQ/5.8.0.3', 'version': '1.1'}, len(body)=0
+INFO 2018-02-05 06:30:58,596 - Sending frame: 'SUBSCRIBE', headers={'destination': '/topic/TD_LNW_C_SIG_AREA', 'id': '/topic/TD_LNW_C_SIG_AREA', 'ack': 'auto'}
+INFO 2018-02-05 06:30:58,596 - Sending frame: 'SUBSCRIBE', headers={'destination': '/topic/TD_LNW_WMC_SIG_AREA', 'id': '/topic/TD_LNW_WMC_SIG_AREA', 'ack': 'auto'}
+INFO 2018-02-05 06:30:58,608 - Sending frame: 'SUBSCRIBE', headers={'destination': '/topic/TD_WWM_SIG_AREA', 'id': '/topic/TD_WWM_SIG_AREA', 'ack': 'auto'}
+INFO 2018-02-05 06:30:58,614 - Sending frame: 'SUBSCRIBE', headers={'destination': '/topic/TD_WCS_SIG_AREA', 'id': '/topic/TD_WCS_SIG_AREA', 'ack': 'auto'}
+INFO 2018-02-05 06:30:58,626 - Sending frame: 'SUBSCRIBE', headers={'destination': '/topic/TD_LNW_LC_SIG_AREA', 'id': '/topic/TD_LNW_LC_SIG_AREA', 'ack': 'auto'}
+INFO 2018-02-05 06:31:02,817 - Received frame: 'MESSAGE', headers={'message-id': 'ID:ec2netrailwmq1-50035-1517562533059-11:1:2:7:20131', 'transformation': 'jms-xml', 'destination': '/topic/TD_LNW_C_SIG_AREA', 'timestamp': '1517812146203', 'expires': '1517812446203', 'subscription': '/topic/TD_LNW_C_SIG_AREA', 'persistent': 'true', 'priority': '4'}, len(body)=3193
+INFO 2018-02-05 06:31:02,824 - TD Heartbeat received at 0631
+INFO 2018-02-05 06:31:02,830 - Writing SVG...
+INFO 2018-02-05 06:31:02,846 - Received frame: 'MESSAGE', headers={'message-id': 'ID:ec2netrailwmq1-50035-1517562533059-11:1:1:34:17152', 'destination': '/topic/TD_LNW_WMC_SIG_AREA', 'timestamp': '1517812146236', 'expires': '1517812446236', 'subscription': '/topic/TD_LNW_WMC_SIG_AREA', 'persistent': 'true', 'priority': '4'}, len(body)=3159
+INFO 2018-02-05 06:31:02,905 - ....success!
+INFO 2018-02-05 06:31:02,906 - Sending message to ftp server...
+INFO 2018-02-05 06:31:03,116 - ....230 Login successful. Username & password correct; FTP unlocked.
+INFO 2018-02-05 06:31:03,607 - Received frame: 'MESSAGE', headers={'message-id': 'ID:ec2netrailwmq1-50035-1517562533059-11:1:2:38:14773', 'transformation': 'jms-xml', 'destination': '/topic/TD_WWM_SIG_AREA', 'timestamp': '1517812147011', 'expires': '1517812447011', 'subscription': '/topic/TD_WWM_SIG_AREA', 'persistent': 'true', 'priority': '4'}, len(body)=1071
+INFO 2018-02-05 06:31:03,609 - Received frame: 'MESSAGE', headers={'message-id': 'ID:ec2netrailwmq1-50035-1517562533059-11:1:2:13:18411', 'destination': '/topic/TD_WCS_SIG_AREA', 'timestamp': '1517812147013', 'expires': '1517812447013', 'subscription': '/topic/TD_WCS_SIG_AREA', 'persistent': 'true', 'priority': '4'}, len(body)=2639
+INFO 2018-02-05 06:31:03,639 - Received frame: 'MESSAGE', headers={'message-id': 'ID:ec2netrailwmq1-50035-1517562533059-11:1:1:47:12156', 'destination': '/topic/TD_LNW_LC_SIG_AREA', 'timestamp': '1517812147013', 'expires': '1517812447013', 'subscription': '/topic/TD_LNW_LC_SIG_AREA', 'persistent': 'true', 'priority': '4'}, len(body)=325
+INFO 2018-02-05 06:31:04,074 - ....226 Transfer complete
+INFO 2018-02-05 06:31:04,094 - ....success!
+INFO 2018-02-05 06:31:04,094 - 1 Threads processed on this pass
+INFO 2018-02-05 06:31:08,620 - Received frame: 'MESSAGE', headers={'message-id': 'ID:ec2netrailwmq1-50035-1517562533059-11:1:2:25:16915', 'destination': '/topic/TD_LNW_WMC_SIG_AREA', 'timestamp': '1517812152009', 'expires': '1517812452009', 'subscription': '/topic/TD_LNW_WMC_SIG_AREA', 'persistent': 'true', 'priority': '4'}, len(body)=2477
+INFO 2018-02-05 06:31:08,638 - Received frame: 'MESSAGE', headers={'message-id': 'ID:ec2netrailwmq1-50035-1517562533059-11:1:1:45:19912', 'transformation': 'jms-xml', 'destination': '/topic/TD_LNW_C_SIG_AREA', 'timestamp': '1517812152010', 'expires': '1517812452010', 'subscription': '/topic/TD_LNW_C_SIG_AREA', 'persistent': 'true', 'priority': '4'}, len(body)=2381
+INFO 2018-02-05 06:31:08,638 - Berth step: 1W05 from: MS_4037, to: MS_4039
+INFO 2018-02-05 06:31:08,640 - Writing SVG...
+INFO 2018-02-05 06:31:08,709 - ....success!
+INFO 2018-02-05 06:31:08,709 - Sending message to ftp server...
+INFO 2018-02-05 06:31:09,183 - ....230 Login successful. Username & password correct; FTP unlocked.
+INFO 2018-02-05 06:31:10,287 - Received frame: 'MESSAGE', headers={'message-id': 'ID:ec2netrailwmq1-50035-1517562533059-11:1:1:4:18136', 'destination': '/topic/TD_WCS_SIG_AREA', 'timestamp': '1517812153691', 'expires': '1517812453691', 'subscription': '/topic/TD_WCS_SIG_AREA', 'persistent': 'true', 'priority': '4'}, len(body)=3123
+INFO 2018-02-05 06:31:10,419 - ....226 Transfer complete
+INFO 2018-02-05 06:31:10,439 - ....success!
+INFO 2018-02-05 06:31:10,439 - 2 Threads processed on this pass
+INFO 2018-02-05 06:31:13,285 - Received frame: 'MESSAGE', headers={'message-id': 'ID:ec2netrailwmq1-50035-1517562533059-11:1:1:36:14865', 'transformation': 'jms-xml', 'destination': '/topic/TD_WWM_SIG_AREA', 'timestamp': '1517812156663', 'expires': '1517812456663', 'subscription': '/topic/TD_WWM_SIG_AREA', 'persistent': 'true', 'priority': '4'}, len(body)=3099
+INFO 2018-02-05 06:31:13,292 - TD Heartbeat received at 0630
+INFO 2018-02-05 06:31:13,619 - Received frame: 'MESSAGE', headers={'message-id': 'ID:ec2netrailwmq1-50035-1517562533059-11:1:2:25:16916', 'destination': '/topic/TD_LNW_WMC_SIG_AREA', 'timestamp': '1517812157010', 'expires': '1517812457010', 'subscription': '/topic/TD_LNW_WMC_SIG_AREA', 'persistent': 'true', 'priority': '4'}, len(body)=1669
+INFO 2018-02-05 06:31:13,638 - Received frame: 'MESSAGE', headers={'message-id': 'ID:ec2netrailwmq1-50035-1517562533059-11:1:2:7:20132', 'transformation': 'jms-xml', 'destination': '/topic/TD_LNW_C_SIG_AREA', 'timestamp': '1517812157012', 'expires': '1517812457012', 'subscription': '/topic/TD_LNW_C_SIG_AREA', 'persistent': 'true', 'priority': '4'}, len(body)=2959
+INFO 2018-02-05 06:31:13,650 - Received frame: 'MESSAGE', headers={'message-id': 'ID:ec2netrailwmq1-50035-1517562533059-11:1:2:28:11896', 'destination': '/topic/TD_LNW_LC_SIG_AREA', 'timestamp': '1517812157012', 'expires': '1517812457012', 'subscription': '/topic/TD_LNW_LC_SIG_AREA', 'persistent': 'true', 'priority': '4'}, len(body)=109
+INFO 2018-02-05 06:31:13,650 - TRTS Operated: P12DTRSE
+INFO 2018-02-05 06:31:13,650 - Showing TRTS: P12DTRSE
+INFO 2018-02-05 06:31:13,651 - Writing SVG...
+INFO 2018-02-05 06:31:13,718 - ....success!
+INFO 2018-02-05 06:31:13,718 - Sending message to ftp server...
+INFO 2018-02-05 06:31:13,932 - ....230 Login successful. Username & password correct; FTP unlocked.
+INFO 2018-02-05 06:31:14,862 - ....226 Transfer complete
+INFO 2018-02-05 06:31:14,881 - ....success!
+INFO 2018-02-05 06:31:14,882 - 1 Threads processed on this pass
+INFO 2018-02-05 06:31:18,619 - Received frame: 'MESSAGE', headers={'message-id': 'ID:ec2netrailwmq1-50035-1517562533059-11:1:2:38:14774', 'transformation': 'jms-xml', 'destination': '/topic/TD_WWM_SIG_AREA', 'timestamp': '1517812162009', 'expires': '1517812462009', 'subscription': '/topic/TD_WWM_SIG_AREA', 'persistent': 'true', 'priority': '4'}, len(body)=841
+INFO 2018-02-05 06:31:18,636 - Received frame: 'MESSAGE', headers={'message-id': 'ID:ec2netrailwmq1-50035-1517562533059-11:1:1:4:18137', 'destination': '/topic/TD_WCS_SIG_AREA', 'timestamp': '1517812162010', 'expires': '1517812462010', 'subscription': '/topic/TD_WCS_SIG_AREA', 'persistent': 'true', 'priority': '4'}, len(body)=1375
+INFO 2018-02-05 06:31:19,694 - Received frame: 'MESSAGE', headers={'message-id': 'ID:ec2netrailwmq1-50035-1517562533059-11:1:2:7:20133', 'transformation': 'jms-xml', 'destination': '/topic/TD_LNW_C_SIG_AREA', 'timestamp': '1517812163086', 'expires': '1517812463086', 'subscription': '/topic/TD_LNW_C_SIG_AREA', 'persistent': 'true', 'priority': '4'}, len(body)=3109
+INFO 2018-02-05 06:31:19,694 - TRTS Operated: P1DTRSE
+INFO 2018-02-05 06:31:19,694 - Showing TRTS: P1DTRSE
+INFO 2018-02-05 06:31:19,695 - Writing SVG...
+INFO 2018-02-05 06:31:19,759 - ....success!
+INFO 2018-02-05 06:31:19,759 - Sending message to ftp server...
+INFO 2018-02-05 06:31:19,940 - ....230 Login successful. Username & password correct; FTP unlocked.
+INFO 2018-02-05 06:31:21,156 - ....226 Transfer complete
+INFO 2018-02-05 06:31:21,176 - ....success!
+INFO 2018-02-05 06:31:21,176 - 1 Threads processed on this pass
+INFO 2018-02-05 06:31:21,424 - Received frame: 'MESSAGE', headers={'message-id': 'ID:ec2netrailwmq1-50035-1517562533059-11:1:1:34:17153', 'destination': '/topic/TD_LNW_WMC_SIG_AREA', 'timestamp': '1517812164799', 'expires': '1517812464799', 'subscription': '/topic/TD_LNW_WMC_SIG_AREA', 'persistent': 'true', 'priority': '4'}, len(body)=3121
+INFO 2018-02-05 06:31:23,617 - Received frame: 'MESSAGE', headers={'message-id': 'ID:ec2netrailwmq1-50035-1517562533059-11:1:2:38:14775', 'transformation': 'jms-xml', 'destination': '/topic/TD_WWM_SIG_AREA', 'timestamp': '1517812167010', 'expires': '1517812467010', 'subscription': '/topic/TD_WWM_SIG_AREA', 'persistent': 'true', 'priority': '4'}, len(body)=983
+INFO 2018-02-05 06:31:23,618 - Received frame: 'MESSAGE', headers={'message-id': 'ID:ec2netrailwmq1-50035-1517562533059-11:1:1:4:18138', 'destination': '/topic/TD_WCS_SIG_AREA', 'timestamp': '1517812167012', 'expires': '1517812467012', 'subscription': '/topic/TD_WCS_SIG_AREA', 'persistent': 'true', 'priority': '4'}, len(body)=2189
+INFO 2018-02-05 06:31:23,641 - Received frame: 'MESSAGE', headers={'message-id': 'ID:ec2netrailwmq1-50035-1517562533059-11:1:2:28:11897', 'destination': '/topic/TD_LNW_LC_SIG_AREA', 'timestamp': '1517812167013', 'expires': '1517812467013', 'subscription': '/topic/TD_LNW_LC_SIG_AREA', 'persistent': 'true', 'priority': '4'}, len(body)=433
+INFO 2018-02-05 06:31:25,211 - Received frame: 'MESSAGE', headers={'message-id': 'ID:ec2netrailwmq1-50035-1517562533059-11:1:1:45:19913', 'transformation': 'jms-xml', 'destination': '/topic/TD_LNW_C_SIG_AREA', 'timestamp': '1517812168600', 'expires': '1517812468600', 'subscription': '/topic/TD_LNW_C_SIG_AREA', 'persistent': 'true', 'priority': '4'}, len(body)=3221
+INFO 2018-02-05 06:31:28,618 - Received frame: 'MESSAGE', headers={'message-id': 'ID:ec2netrailwmq1-50035-1517562533059-11:1:1:34:17154', 'destination': '/topic/TD_LNW_WMC_SIG_AREA', 'timestamp': '1517812172009', 'expires': '1517812472009', 'subscription': '/topic/TD_LNW_WMC_SIG_AREA', 'persistent': 'true', 'priority': '4'}, len(body)=2573
+INFO 2018-02-05 06:31:32,913 - Received frame: 'MESSAGE', headers={'message-id': 'ID:ec2netrailwmq1-50035-1517562533059-11:1:1:45:19914', 'transformation': 'jms-xml', 'destination': '/topic/TD_LNW_C_SIG_AREA', 'timestamp': '1517812176296', 'expires': '1517812476296', 'subscription': '/topic/TD_LNW_C_SIG_AREA', 'persistent': 'true', 'priority': '4'}, len(body)=3103
+INFO 2018-02-05 06:31:32,920 - TD Heartbeat received at 0631
+INFO 2018-02-05 06:31:32,926 - Trying to create valid headcode from 401Q
+INFO 2018-02-05 06:31:32,932 - ....done! 401Q => 4Q01
+INFO 2018-02-05 06:31:33,628 - Received frame: 'MESSAGE', headers={'message-id': 'ID:ec2netrailwmq1-50035-1517562533059-11:1:1:34:17155', 'destination': '/topic/TD_LNW_WMC_SIG_AREA', 'timestamp': '1517812177010', 'expires': '1517812477010', 'subscription': '/topic/TD_LNW_WMC_SIG_AREA', 'persistent': 'true', 'priority': '4'}, len(body)=1467
+INFO 2018-02-05 06:31:33,641 - Received frame: 'MESSAGE', headers={'message-id': 'ID:ec2netrailwmq1-50035-1517562533059-11:1:2:38:14776', 'transformation': 'jms-xml', 'destination': '/topic/TD_WWM_SIG_AREA', 'timestamp': '1517812177010', 'expires': '1517812477010', 'subscription': '/topic/TD_WWM_SIG_AREA', 'persistent': 'true', 'priority': '4'}, len(body)=1043
+INFO 2018-02-05 06:31:33,665 - Received frame: 'MESSAGE', headers={'message-id': 'ID:ec2netrailwmq1-50035-1517562533059-11:1:2:13:18412', 'destination': '/topic/TD_WCS_SIG_AREA', 'timestamp': '1517812177012', 'expires': '1517812477012', 'subscription': '/topic/TD_WCS_SIG_AREA', 'persistent': 'true', 'priority': '4'}, len(body)=2989
+INFO 2018-02-05 06:31:33,672 - Received frame: 'MESSAGE', headers={'message-id': 'ID:ec2netrailwmq1-50035-1517562533059-11:1:1:47:12157', 'destination': '/topic/TD_LNW_LC_SIG_AREA', 'timestamp': '1517812177013', 'expires': '1517812477013', 'subscription': '/topic/TD_LNW_LC_SIG_AREA', 'persistent': 'true', 'priority': '4'}, len(body)=311
+INFO 2018-02-05 06:31:38,631 - Received frame: 'MESSAGE', headers={'message-id': 'ID:ec2netrailwmq1-50035-1517562533059-11:1:1:34:17156', 'destination': '/topic/TD_LNW_WMC_SIG_AREA', 'timestamp': '1517812182012', 'expires': '1517812482012', 'subscription': '/topic/TD_LNW_WMC_SIG_AREA', 'persistent': 'true', 'priority': '4'}, len(body)=1885
+INFO 2018-02-05 06:31:38,632 - Received frame: 'MESSAGE', headers={'message-id': 'ID:ec2netrailwmq1-50035-1517562533059-11:1:1:36:14866', 'transformation': 'jms-xml', 'destination': '/topic/TD_WWM_SIG_AREA', 'timestamp': '1517812182012', 'expires': '1517812482012', 'subscription': '/topic/TD_WWM_SIG_AREA', 'persistent': 'true', 'priority': '4'}, len(body)=889
+INFO 2018-02-05 06:31:38,649 - Received frame: 'MESSAGE', headers={'message-id': 'ID:ec2netrailwmq1-50035-1517562533059-11:1:2:7:20134', 'transformation': 'jms-xml', 'destination': '/topic/TD_LNW_C_SIG_AREA', 'timestamp': '1517812182013', 'expires': '1517812482013', 'subscription': '/topic/TD_LNW_C_SIG_AREA', 'persistent': 'true', 'priority': '4'}, len(body)=2401
+INFO 2018-02-05 06:31:38,655 - Berth step: 1W05 from: MS_4039, to: MS_4041
+INFO 2018-02-05 06:31:38,655 - Trying to create valid headcode from 403Q
+INFO 2018-02-05 06:31:38,655 - ....done! 403Q => 4Q03
+INFO 2018-02-05 06:31:38,655 - Received frame: 'MESSAGE', headers={'message-id': 'ID:ec2netrailwmq1-50035-1517562533059-11:1:2:13:18413', 'destination': '/topic/TD_WCS_SIG_AREA', 'timestamp': '1517812182014', 'expires': '1517812482014', 'subscription': '/topic/TD_WCS_SIG_AREA', 'persistent': 'true', 'priority': '4'}, len(body)=1165
+INFO 2018-02-05 06:31:38,656 - Received frame: 'MESSAGE', headers={'message-id': 'ID:ec2netrailwmq1-50035-1517562533059-11:1:1:47:12158', 'destination': '/topic/TD_LNW_LC_SIG_AREA', 'timestamp': '1517812182014', 'expires': '1517812482014', 'subscription': '/topic/TD_LNW_LC_SIG_AREA', 'persistent': 'true', 'priority': '4'}, len(body)=109
+INFO 2018-02-05 06:31:38,658 - Writing SVG...
+INFO 2018-02-05 06:31:38,807 - ....success!
+INFO 2018-02-05 06:31:38,807 - Sending message to ftp server...

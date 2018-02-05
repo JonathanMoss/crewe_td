@@ -3,7 +3,7 @@ import time
 
 _USER_N = 'joth.moss@googlemail.com'
 _PASS_W = 'Chester42!'
-_TOPIC = '/topic/TD_ALL_SIG_AREA'
+_TOPIC = '/topic/TD_LNW_C_SIG_AREA'
 _VHOST = 'datafeeds.networkrail.co.uk'
 _PORT = 61618
 
@@ -31,9 +31,21 @@ class Mq:
     @staticmethod
     def connect_and_subscribe():
 
+        global _TOPIC
         Mq._conn.start()
-        Mq._conn.connect(_USER_N, _PASS_W, wait=True, headers={'client-id': _USER_N})
-        Mq._conn.subscribe(_TOPIC, id=_USER_N, ack='auto', headers={'activemq.subscriptionName': _USER_N, })
+        # Mq._conn.connect(_USER_N, _PASS_W, wait=True, headers={'client-id': _USER_N})
+        Mq._conn.connect(_USER_N, _PASS_W, wait=True)
+        # Mq._conn.subscribe(_TOPIC, id=_USER_N, ack='auto', headers={'activemq.subscriptionName': _USER_N, })
+        Mq._conn.subscribe(_TOPIC, ack='auto', id=_TOPIC)
+        _TOPIC = '/topic/TD_LNW_WMC_SIG_AREA'
+        Mq._conn.subscribe(_TOPIC, ack='auto', id=_TOPIC)
+        _TOPIC = '/topic/TD_WWM_SIG_AREA'
+        Mq._conn.subscribe(_TOPIC, ack='auto', id=_TOPIC)
+        _TOPIC = '/topic/TD_WCS_SIG_AREA'
+        Mq._conn.subscribe(_TOPIC, ack='auto', id=_TOPIC)
+        _TOPIC = '/topic/TD_LNW_LC_SIG_AREA'
+        Mq._conn.subscribe(_TOPIC, ack='auto', id=_TOPIC)
+
 
     @staticmethod
     def _get_connection(msg_handler):

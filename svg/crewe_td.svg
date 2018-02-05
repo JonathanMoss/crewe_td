@@ -43,8 +43,8 @@
      showguides="true"
      units="px"
      inkscape:current-layer="base_layer"
-     inkscape:cx="2051.9867"
-     inkscape:cy="1252.6149"
+     inkscape:cx="5983.1196"
+     inkscape:cy="1751.9113"
      inkscape:document-units="mm"
      inkscape:guide-bbox="true"
      inkscape:measure-end="1373.33,908.743"
@@ -61,7 +61,7 @@
      inkscape:window-width="1600"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
-     inkscape:zoom="0.62289149">
+     inkscape:zoom="0.88090159">
     <sodipodi:guide
        id="guide5863"
        orientation="0.93104875,0.36489481"
@@ -90,7 +90,7 @@
        orientation="1,0"
        id="guide5925" />
     <sodipodi:guide
-       position="722.37109,373.04018"
+       position="1102.0737,401.2003"
        orientation="1,0"
        id="guide5966" />
     <sodipodi:guide
@@ -141,7 +141,7 @@
      inkscape:groupmode="layer"
      inkscape:label="Base Layer">
     <path
-       d="m -824.57344,-107.09103 1934.48804,0 0,451.91877 -1934.48804,0 z"
+       d="m -823.70338,-107.30855 1934.48808,0 0,451.91877 -1934.48808,0 z"
        id="track_1"
        label="Routing Track 1"
        style="display:inline;opacity:1;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.28493246;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.85479749, 0.85479749;stroke-dashoffset:0;stroke-opacity:1"
@@ -3037,7 +3037,7 @@
          inkscape:connector-curvature="0"
          inkscape:label="Routing Track 720" />
       <path
-         d="m 104.30272,-11.643791 53.78279,0 0,1.28235 -54.28371,0 z"
+         d="m 104.30272,-11.643791 173.19756,0 0,1.28235 -173.69848,0 z"
          id="track_721"
          label="Routing Track 721"
          style="opacity:1;fill:#008000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.29831287;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -3624,12 +3624,12 @@
          inkscape:label="Routing Track 134"
          sodipodi:nodetypes="ccccc" />
       <path
-         inkscape:label="Routing Track 719"
+         inkscape:label="Routing Track 950"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="ccccc"
          style="opacity:1;fill:#008000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.10678335;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          label="Routing Track 719"
-         id="path6854"
+         id="track_950"
          d="m 102.53848,-11.643791 -20.75438,53.147707 1.7578,0 20.76082,-53.147707 z" />
       <path
          sodipodi:nodetypes="ccccc"
@@ -3638,7 +3638,7 @@
          style="opacity:1;fill:#00aad4;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.87111795;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          label="Routing Track 134"
          id="path6856"
-         d="m 447.82539,-11.643791 -289.74539,0 -0.86209,1.282347 290.60748,0 z" />
+         d="m 447.82539,-11.643791 -170.32511,0 0,1.282347 170.32511,0 z" />
       <path
          d="m 304.8178,22.899526 6.11589,-15.6566591 -1.7578,0 L 303.06,22.899526 Z"
          id="path6858"
@@ -6727,17 +6727,17 @@
       <text
          id="text6583"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:3.3972497px;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="271.29581"
+         x="270.14618"
          y="-18.075367"
          xml:space="preserve"><tspan
            id="tspan6579"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
-           x="271.29581"
+           x="270.14618"
            y="-18.075367"
            sodipodi:role="line">SG 12</tspan><tspan
            id="tspan6581"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.26458332"
-           x="271.29581"
+           x="270.14618"
            y="-14.678118"
            sodipodi:role="line" /></text>
       <text
@@ -16336,7 +16336,7 @@
     </g>
     <g
        id="SG_12"
-       transform="matrix(0.09664062,0,0,0.09664062,271.40468,-27.862164)"
+       transform="matrix(0.09664062,0,0,0.09664062,270.25502,-27.862164)"
        inkscape:label="Signal SG 12">
       <rect
          height="7.2162771"
@@ -16366,7 +16366,7 @@
     </g>
     <g
        id="SG12"
-       transform="translate(173.8373,-183.89829)"
+       transform="translate(172.68764,-183.89829)"
        inkscape:label="Berth SG12">
       <rect
          height="5.970933"
